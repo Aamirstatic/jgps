@@ -11,11 +11,23 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ['/admin', '/api'],
       },
       {
-        userAgent: ['GPTBot', 'OAI-SearchBot', 'ChatGPT-User'],
+        userAgent: 'GPTBot',
         allow: '/',
       },
       {
-        userAgent: ['ClaudeBot', 'anthropic-ai'],
+        userAgent: 'OAI-SearchBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'ChatGPT-User',
+        allow: '/',
+      },
+      {
+        userAgent: 'ClaudeBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'anthropic-ai',
         allow: '/',
       },
       {
@@ -24,6 +36,10 @@ export default function robots(): MetadataRoute.Robots {
       },
       {
         userAgent: 'CCBot',
+        disallow: '/',
+      },
+      {
+        userAgent: 'Bytespider',
         disallow: '/',
       },
     ],
