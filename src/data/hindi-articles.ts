@@ -5295,7 +5295,7 @@ export const hindiArticles: HindiArticle[] = [
     title: "JNVST 2027: नवोदय कक्षा 6 का Form आ गया! नियम में बड़ा बदलाव, ऐसेभरें",
     description: "JNVST 2027 कक्षा 6 का एडमिशन फॉर्म जारी हो गया है। 31 जुलाई 2026 आखिरी तारीख। नए नियम, बदला हुआ एग्जाम पैटर्न, और फॉर्म भरने का पूरा तरीका जानें।",
     keywords: "JNVST 2027 form, नवोदय एडमिशन 2027, navodaya class 6 form, JNVST 2027 last date, नवोदय फॉर्म कैसे भरें, JNVST exam date 2027, navodaya admission 2027-28",
-    date: "23 जुलाई 2026, दोपहर 3 बजकर 45 मिनट",
+    date: "23 जुलाई 2026, शाम 7 बजकर 37 मिनट",
     modifiedDate: "July 23, 2026",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",

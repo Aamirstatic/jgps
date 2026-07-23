@@ -6356,7 +6356,7 @@ export const articles: Article[] = [
     slug: 'jnvst-2027-application-form-last-date-31-july',
     title: "JNVST 2027 Application Form Out — Last Date 31 July 2026, Apply Now",
     description: "JNVST 2027 application form is live since 7 July 2026. Last date 31 July 2026. Exam on 28 November 2026. Step-by-step apply process, eligibility, documents needed.",
-    date: "23 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    date: "23 जुलाई 2026, शाम 7 बजकर 30 मिनट",
     modifiedDate: "July 23, 2026",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
