@@ -5417,6 +5417,362 @@ export const hindiArticles: HindiArticle[] = [
       { question: "JNVST 2027 के लिए उम्र सीमा क्या है?", answer: "बच्चे का जन्म 1 मई 2015 से 31 जुलाई 2017 के बीच होना चाहिए। ये सभी श्रेणियों के लिए एक जैसी है — SC, ST, OBC को कोई छूट नहीं।" },
       { question: "नवोदय में कितनी बार एग्जाम दे सकते हैं?", answer: "सिर्फ एक बार। जीवन में एक ही बार JNVST दे सकते हैं। दोबारा देते पकड़े गए तो कैंडिडेचर रद्द हो जाएगा।" }
     ]
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE 1: Neha Singh — Active Recall & Spaced Repetition
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: "active-recall-spaced-repetition-padhai-topper-trick",
+    title: "Active Recall और Spaced Repetition — वो पढ़ाई की ट्रिक जो टॉपर्स कभी नहीं बताते",
+    description: "Active Recall और Spaced Repetition से पढ़ाई करें तो याददाश्त 3 गुना बढ़ जाती है। जानें ये साइंस-बेस्ड तरीका कैसे अपनाएं — JNVST, Sainik School, AMU हर एग्जाम के लिए।",
+    keywords: "active recall kya hai, spaced repetition technique, padhai kaise kare, yaad kaise kare, topper study tips, best study method Hindi, memory badhane ke tarike, JNVST preparation tips",
+    date: "23 जुलाई 2026, शाम 7 बजकर 45 मिनट",
+    modifiedDate: "July 23, 2026",
+    author: "Neha Singh",
+    authorName: "Neha Singh",
+    authorSlug: "neha-singh",
+    authorRole: "Study Habits Expert",
+    authorBio: "Neha Singh स्टडी हैबिट्स और लर्निंग टेक्निक्स की एक्सपर्ट हैं। पिछले 10 साल से वे बच्चों को सही तरीके से पढ़ना सिखा रही हैं। उनका मानना है कि मेहनत से ज्यादा जरूरी है सही तरीका।",
+    readTime: "4 मिनट",
+    category: "पढ़ाई के टिप्स",
+    image: "/images/blog/active-recall-spaced-repetition-padhai-topper-trick.webp",
+    imageAlt: "Active Recall और Spaced Repetition — टॉपर्स की पढ़ाई की ट्रिक",
+    content: `<p>क्या आपका बच्चा घंटों पढ़ता है लेकिन एग्जाम में सब भूल जाता है? क्या वो रटता है, रटता है, और फिर भी नंबर कम आते हैं? तो समस्या मेहनत में नहीं, <strong>तरीके में है।</strong></p>
+
+<p>दुनिया के टॉप यूनिवर्सिटीज — MIT, Stanford, Oxford — में जो स्टूडेंट्स सबसे अच्छा परफॉर्म करते हैं, वो दो चीजें अपनाते हैं: <strong>Active Recall</strong> और <strong>Spaced Repetition</strong>। ये कोई नई बात नहीं है — साइंस ने साबित किया है कि ये तरीके रटने से <strong>3 गुना ज्यादा</strong> असरदार हैं।</p>
+
+<p>और सबसे अच्छी बात? ये तरीके <strong>किसी भी एग्जाम</strong> में काम आते हैं — चाहे JNVST हो, Sainik School हो, AMU हो, या स्कूल की बोर्ड परीक्षा।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Active Recall क्या है?</h2>
+<p>सीधे शब्दों में कहें तो — <strong>किताब बंद करो और खुद से पूछो।</strong></p>
+
+<p>ज्यादातर बच्चे ऐसे पढ़ते हैं: किताब खोली, नोट्स पढ़े, फिर बंद कर दी। इसे कहते हैं <strong>Passive Reading</strong> — और ये सबसे कमजोर तरीका है।</p>
+
+<p>Active Recall में ऐसा नहीं होता। यहां आप किताब बंद करते हैं और खुद से पूछते हैं: <em>"अभी मैंने क्या पढ़ा? मुझे क्या याद है?"</em> जो याद नहीं आया, वो दोबारा पढ़ते हैं।</p>
+
+<div class="bg-yellow-50 border border-yellow-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-yellow-800 mb-2">उदाहरण से समझें</h3>
+<p class="text-yellow-700">बच्चे ने विज्ञान का चैप्टर पढ़ा। अब किताब बंद करे और एक कागज पर लिखे कि उसे क्या-क्या याद है। फिर किताब खोलकर चेक करे — क्या छूट गया। जो छूटा, वो दोबारा पढ़े। यही Active Recall है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Spaced Repetition क्या है?</h2>
+<p>एक बार पढ़कर भूल जाना स्वाभाविक है। साइंस कहता है कि हम <strong>1 दिन में 70%</strong> भूल जाते हैं। लेकिन अगर सही समय पर दोबारा पढ़ें, तो याददाश्त मजबूत होती जाती है।</p>
+
+<p>Spaced Repetition का मतलब है — <strong>बढ़ते गैप</strong> में रिवीजन करना।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">रिवीजन</th><th class="py-3 px-4 border-b font-bold text-white text-left">कब करें</th><th class="py-3 px-4 border-b font-bold text-white text-left">कितना याद रहेगा</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">पहली बार</td><td class="py-3 px-4 border-b">पढ़ने के तुरंत बाद</td><td class="py-3 px-4 border-b">100%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरी बार</td><td class="py-3 px-4 border-b">अगले दिन</td><td class="py-3 px-4 border-b">90%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">तीसरी बार</td><td class="py-3 px-4 border-b">3 दिन बाद</td><td class="py-3 px-4 border-b">95%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">चौथी बार</td><td class="py-3 px-4 border-b">7 दिन बाद</td><td class="py-3 px-4 border-b">98%</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">पांचवीं बार</td><td class="py-3 px-4">30 दिन बाद</td><td class="py-3 px-4 font-bold text-green-700">लगभग परमानेंट</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">दोनों को मिलाकर कैसे पढ़ें? — पूरा प्लान</h2>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 1: पढ़ो, फिर किताब बंद करो</h3>
+<p>कोई भी टॉपिक पढ़ो। 15-20 मिनट बाद किताब बंद करो। एक कागज निकालो और जो पढ़ा वो लिख दो — बिना देखे।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 2: चेक करो, गलतियां नोट करो</h3>
+<p>किताब खोलो। देखो क्या छूट गया, क्या गलत याद था। सिर्फ उसी हिस्से को दोबारा पढ़ो।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 3: अगले दिन दोबारा</h3>
+<p>अगले दिन फिर से बिना देखे लिखो। जो भूल गए, वो फिर पढ़ो।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 4: 3 दिन, 7 दिन, 30 दिन बाद</h3>
+<p>हर बार गैप बढ़ाओ। 3 दिन बाद, फिर 7 दिन बाद, फिर 30 दिन बाद। इस तरह चीजें <strong>परमानेंट</strong> याद हो जाती हैं।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">ये तरीका क्यों काम करता है?</h2>
+<p>जब आप दिमाग से कुछ याद करने की कोशिश करते हैं — बिना देखे — तो दिमाग में वो <strong>न्यूरल कनेक्शन</strong> मजबूत होता है। हर बार याद करने पर वो कनेक्शन और मजबूत होता जाता है। यही साइंस है।</p>
+
+<p>रटने में ऐसा नहीं होता। रटना दिमाग में <strong>शॉर्ट-टर्म मेमोरी</strong> बनाता है जो 1-2 दिन में उड़ जाती है।</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में हम यही सिखाते हैं</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में बच्चों को सिर्फ पढ़ना नहीं, <strong>सही तरीके से पढ़ना</strong> सिखाते हैं। Active Recall और Spaced Repetition हमारी टीचिंग का हिस्सा है। कॉल करें: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "Active Recall क्या है?", answer: "Active Recall में आप किताब बंद करके खुद से पूछते हैं कि क्या याद है। जो नहीं याद, वो दोबारा पढ़ते हैं। ये रटने से 3 गुना ज्यादा असरदार है।" },
+      { question: "Spaced Repetition कैसे करें?", answer: "पहले दिन पढ़ो, अगले दिन रिवीजन, फिर 3 दिन बाद, फिर 7 दिन बाद, फिर 30 दिन बाद। हर बार गैप बढ़ाओ।" },
+      { question: "क्या ये तरीका छोटे बच्चों के लिए भी है?", answer: "हाँ, कक्षा 4-5 के बच्चे भी इसे अपना सकते हैं। बस तरीका थोड़ा आसान रखें — मौखिक तौर पर पूछें, लिखवाने की जरूरत नहीं।" },
+      { question: "कितने घंटे पढ़ना चाहिए?", answer: "घंटे मायने नहीं रखते। 2 घंटे Active Recall से पढ़ो तो 5 घंटे रटने से बेहतर है। क्वालिटी मायने रखती है, क्वांटिटी नहीं।" }
+    ]
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE 2: Ravi Prakash — Current Affairs July 2026
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: "current-affairs-july-2026-weekly-gk-school-students",
+    title: "जुलाई 2026 करेंट अफेयर्स — 10 बड़ी खबरें जो हर स्टूडेंट को पता होनी चाहिए",
+    description: "जुलाई 2026 की 10 सबसे जरूरी करेंट अफेयर्स — JNVST, Sainik School, AMU और हर एग्जाम के लिए। Weekly GK update हिंदी में।",
+    keywords: "current affairs July 2026 Hindi, करेंट अफेयर्स जुलाई 2026, weekly GK update, JNVST GK questions, Sainik School current affairs, school students GK Hindi, competitive exam current affairs 2026",
+    date: "23 जुलाई 2026, शाम 7 बजकर 50 मिनट",
+    modifiedDate: "July 23, 2026",
+    author: "Ravi Prakash",
+    authorName: "Ravi Prakash",
+    authorSlug: "ravi-prakash",
+    authorRole: "Current Affairs & GK Faculty",
+    authorBio: "Ravi Prakash करेंट अफेयर्स और जनरल नॉलेज के एक्सपर्ट हैं। पिछले 8 साल से वे प्रतियोगी परीक्षाओं की तैयारी करा रहे हैं। उनकी GK क्लासेज बच्चों में बहुत लोकप्रिय हैं।",
+    readTime: "4 मिनट",
+    category: "करेंट अफेयर्स",
+    image: "/images/blog/current-affairs-july-2026-weekly-gk-school-students.webp",
+    imageAlt: "जुलाई 2026 करेंट अफेयर्स — स्कूल स्टूडेंट्स के लिए वीकली GK",
+    content: `<p>अगर आपका बच्चा JNVST, Sainik School, AMU या किसी भी एंट्रेंस एग्जाम की तैयारी कर रहा है, तो <strong>करेंट अफेयर्स</strong> सबसे स्कोरिंग सेक्शन है। बस 5 मिनट रोज पढ़ो, और 10-15 नंबर पक्के।</p>
+
+<p>ये हैं <strong>जुलाई 2026 की 10 सबसे जरूरी खबरें</strong> जो हर स्टूडेंट को याद होनी चाहिए।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. JNVST 2027 का फॉर्म जारी — 31 जुलाई आखिरी तारीख</h2>
+<p>नवोदय विद्यालय समिति (NVS) ने कक्षा 6 (सत्र 2027-28) के लिए JNVST 2027 का नोटिफिकेशन जारी कर दिया है। <strong>7 जुलाई 2026</strong> से ऑनलाइन रजिस्ट्रेशन शुरू है। <strong>31 जुलाई 2026</strong> आखिरी तारीख। परीक्षा <strong>28 नवंबर 2026</strong> को होगी।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. NEET 2027 अब कंप्यूटर-बेस्ड होगा</h2>
+<p>केंद्रीय शिक्षा मंत्री <strong>धर्मेंद्र प्रधान</strong> ने घोषणा की है कि 2027 से NEET UG परीक्षा <strong>कंप्यूटर-बेस्ड टेस्ट (CBT)</strong> मोड में होगी। ये फैसला 2026 में हुई पेपर लीक की घटना के बाद लिया गया।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">3. NEET-JEE में बोर्ड एग्जाम के 50% नंबर जुड़ सकते हैं</h2>
+<p>सरकार एक बड़े बदलाव पर विचार कर रही है — NEET और JEE में <strong>बोर्ड परीक्षा के 50% नंबर</strong> का वेटेज दिया जा सकता है। अभी ये प्रस्ताव है, लेकिन अगर लागू हुआ तो बोर्ड एग्जाम और भी जरूरी हो जाएंगे।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4. CBSE ने 2026-27 के लिए नया करिकुलम जारी किया</h2>
+<p>CBSE ने सत्र 2026-27 के लिए <strong>नया करिकुलम</strong> जारी किया है। कक्षा 9 से 12 तक <strong>थ्री-लैंग्वेज फॉर्मूला</strong> लागू होगा। साथ ही <strong>कंपीटेंसी-बेस्ड असेसमेंट</strong> पर जोर दिया गया है — यानी रटने की जगह समझने पर सवाल आएंगे।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5. JEE और NEET को मिलाकर एक एग्जाम हो सकता है</h2>
+<p>शिक्षा मंत्रालय की एक कमेटी <strong>JEE और NEET को मिलाकर एक कॉमन एग्जाम</strong> बनाने का प्रस्ताव विचार रही है। अगर ये लागू हुआ तो इंजीनियरिंग और मेडिकल दोनों के लिए एक ही एग्जाम देना होगा।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">6. IOQM 2026 — मैथ ओलंपियाड की तारीख घोषित</h2>
+<p><strong>Indian Olympiad Qualifier in Mathematics (IOQM) 2026</strong> की परीक्षा की तारीख की घोषणा हो गई है। ये मैथ ओलंपियाड का पहला राउंड है। जो बच्चे गणित में अच्छे हैं, उनके लिए ये बड़ा मौका है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">7. NCERT ने कक्षा 9 की नई किताबें जारी कीं</h2>
+<p>NCERT ने <strong>कक्षा 9 की नई किताबें</strong> जारी की हैं जो 2026-27 से लागू होंगी। इनमें <strong>AI, डेटा साइंस</strong> और <strong>एनवायरनमेंटल स्टडीज</strong> को ज्यादा जगह दी गई है। पुरानी किताबों से अलग हैं, इसलिए बच्चों को नई किताबों से पढ़ना चाहिए।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">8. भारत-नेपाल UPI क्रॉस-बॉर्डर रेमिटेंस शुरू</h2>
+<p>भारत और नेपाल ने <strong>UPI-NPI क्रॉस-बॉर्डर रेमिटेंस</strong> सर्विस शुरू की है। अब भारत से नेपाल पैसे भेजना <strong>तुरंत और फ्री</strong> हो गया है। ये डिजिटल इंडिया की एक और बड़ी उपलब्धि है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">9. भारत में शब्दलोक म्यूजियम बनेगा</h2>
+<p>भारत सरकार <strong>शब्दलोक म्यूजियम</strong> बना रही है जो भारतीय भाषाओं और लिपियों को समर्पित होगा। ये <strong>दिल्ली</strong> में बनेगा और भारत की <strong>भाषाई विविधता</strong> को दिखाएगा।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">10. हरित ऊर्जा में भारत की बड़ी उपलब्धि</h2>
+<p>भारत ने <strong>हरित ऊर्जा (Green Energy)</strong> क्षेत्र में एक बड़ा लक्ष्य हासिल किया है। सौर ऊर्जा उत्पादन में भारत अब <strong>दुनिया के टॉप 5 देशों</strong> में शामिल है।</p>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">याद रखें</h3>
+<p>ये सारी खबरें <strong>JNVST, Sainik School, AMU, JMI</strong> और अन्य एंट्रेंस एग्जाम में GK सेक्शन में पूछी जा सकती हैं। रोज 5 मिनट करेंट अफेयर्स पढ़ें — ये सबसे आसान तरीका है नंबर बढ़ाने का।</p>
+</div>
+`,
+    faqs: [
+      { question: "करेंट अफेयर्स कैसे याद रखें?", answer: "रोज 5 मिनट पढ़ें, हफ्ते में एक बार रिवीजन करें, और महीने में एक बार सारी खबरों की लिस्ट बनाएं। ये Active Recall + Spaced Repetition का तरीका है।" },
+      { question: "JNVST में करेंट अफेयर्स से कितने सवाल आते हैं?", answer: "JNVST में सीधे करेंट अफेयर्स के सवाल नहीं आते, लेकिन Mental Ability और Language सेक्शन में जनरल अवेयरनेस के कॉन्सेप्ट आते हैं। Sainik School और AMU में सीधे GK पूछा जाता है।" },
+      { question: "NEET 2027 कब होगा?", answer: "NEET 2027 की तारीख अभी घोषित नहीं हुई है, लेकिन ये कंप्यूटर-बेस्ड टेस्ट (CBT) मोड में होगा। 2026 में हुई पेपर लीक की घटना के बाद ये फैसला लिया गया।" },
+      { question: "CBSE का नया करिकुलम क्या है?", answer: "CBSE ने 2026-27 के लिए नया करिकुलम जारी किया है जिसमें थ्री-लैंग्वेज फॉर्मूला और कंपीटेंसी-बेस्ड असेसमेंट शामिल है। यानी रटने की जगह समझने पर जोर।" }
+    ]
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE 3: Aamir — English in Entrance Exams
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: "english-kamzor-bacche-entrance-exam-kaise-nikale",
+    title: "इंग्लिश में कमजोर बच्चे एंट्रेंस एग्जाम कैसे निकालें — 5 तरीके जो काम करते हैं",
+    description: "अगर बच्चा हिंदी मीडियम है और इंग्लिश कमजोर है, तो भी JNVST, Sainik School, AMU निकाल सकता है। जानें 5 आसान तरीके।",
+    keywords: "English kamzor bacche entrance exam, Hindi medium student English tips, JNVST English preparation, entrance exam English kaise padhe, English weak students tips Hindi, AMU English preparation",
+    date: "23 जुलाई 2026, शाम 7 बजकर 55 मिनट",
+    modifiedDate: "July 23, 2026",
+    author: "Aamir",
+    authorName: "Aamir",
+    authorSlug: "aamir",
+    authorRole: "English & Urdu Language Expert, JGPS",
+    authorBio: "Aamir अंग्रेजी और उर्दू भाषा के एक्सपर्ट हैं। जय गोविंद पब्लिक स्कूल में वे बच्चों को इंग्लिश इतना आसान तरीके से सिखाते हैं कि हिंदी मीडियम के बच्चे भी एंट्रेंस एग्जाम में इंग्लिश सेक्शन में अच्छा स्कोर करते हैं।",
+    readTime: "4 मिनट",
+    category: "पढ़ाई के टिप्स",
+    image: "/images/blog/english-kamzor-bacche-entrance-exam-kaise-nikale.webp",
+    imageAlt: "इंग्लिश में कमजोर बच्चे एंट्रेंस एग्जाम कैसे निकालें",
+    content: `<p>"सर, मेरा बच्चा हिंदी मीडियम है। इंग्लिश बहुत कमजोर है। क्या वो नवोदय या सैनिक स्कूल निकाल पाएगा?"</p>
+
+<p>ये सवाल मुझसे हर हफ्ते कोई न कोई अभिभावक पूछता है। और मेरा जवाब हमेशा एक ही होता है — <strong>"बिल्कुल निकाल पाएगा।"</strong></p>
+
+<p>सच ये है कि JNVST, Sainik School, AMU, JMI — इन सबमें इंग्लिश का सेक्शन इतना मुश्किल नहीं होता जितना लगता है। बस सही तरीका चाहिए।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. ग्रामर रटो मत — पैटर्न समझो</h2>
+<p>ज्यादातर हिंदी मीडियम के बच्चे ग्रामर के नाम से डरते हैं। Tense, Voice, Narration — ये सब सुनते ही घबरा जाते हैं।</p>
+
+<p>लेकिन एंट्रेंस एग्जाम में ग्रामर इतना मुश्किल नहीं आता। <strong>5-6 बेसिक पैटर्न</strong> हैं जो बार-बार आते हैं। बस उन्हें समझो, रटो मत।</p>
+
+<div class="bg-yellow-50 border border-yellow-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-yellow-800 mb-2">उदाहरण</h3>
+<p class="text-yellow-700">"He _____ to school yesterday." — यहां "went" आएगा क्योंकि "yesterday" है, यानी Past Tense। ये पैटर्न है — एक बार समझ लो तो 10 सवाल ऐसे ही बन जाएंगे।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. रोज 10 नए शब्द सीखो — लेकिन वाक्य में</h2>
+<p>शब्द रटने से कुछ नहीं होता। "Obstacle = बाधा" रट लोगे तो 2 दिन में भूल जाओगे। लेकिन अगर वाक्य में सीखो — <em>"The tree was an obstacle in the road"</em> — तो याद रहेगा।</p>
+
+<p>रोज <strong>10 नए शब्द</strong> वाक्य में लिखो। 1 महीने में 300 शब्द हो जाएंगे — और एंट्रेंस एग्जाम में इतने काफी हैं।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">3. कॉम्प्रिहेंसन — पहले सवाल पढ़ो, फिर पैसेज</h2>
+<p>कॉम्प्रिहेंसन ( passage) में ज्यादातर बच्चे पहले पूरा passage पढ़ते हैं, फिर सवाल पढ़ते हैं, फिर passage दोबारा पढ़ते हैं। ये <strong>टाइम बर्बाद</strong> है।</p>
+
+<p><strong>स्मार्ट तरीका:</strong> पहले सवाल पढ़ो। फिर passage पढ़ते हुए जवाब ढूंढो। इससे <strong>आधा टाइम</strong> बचेगा।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4. हिंदी से इंग्लिश ट्रांसलेट मत करो</h2>
+<p>ये सबसे बड़ी गलती है जो हिंदी मीडियम के बच्चे करते हैं। वो सवाल हिंदी में समझते हैं, फिर हिंदी से इंग्लिश में ट्रांसलेट करते हैं। इसमें <strong>गलतियां होती हैं</strong> और <strong>टाइम लगता है।</strong></p>
+
+<p><strong>सही तरीका:</strong> इंग्लिश को इंग्लिश में ही समझो। रोज 10 मिनट इंग्लिश में सोचने की कोशिश करो। शुरू में मुश्किल लगेगा, लेकिन 2-3 हफ्ते में आदत पड़ जाएगी।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5. पिछले साल के पेपर सॉल्व करो</h2>
+<p>एंट्रेंस एग्जाम में इंग्लिश के सवाल <strong>रिपीट</strong> होते हैं। पिछले 5 साल के पेपर सॉल्व करो — तुम्हें पैटर्न समझ आ जाएगा।</p>
+
+<p>JNVST, Sainik School, AMU — सबके पुराने पेपर हमारे <a href="/resources/" class="text-[#035c00] underline font-medium">रिसोर्सेज पेज</a> पर उपलब्ध हैं।</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में इंग्लिश की खास क्लास</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में हिंदी मीडियम के बच्चों के लिए अलग से इंग्लिश क्लास चलती है। बेसिक से शुरू करके एंट्रेंस लेवल तक ले जाते हैं। कॉल करें: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "हिंदी मीडियम का बच्चा नवोदय निकाल सकता है?", answer: "बिल्कुल। JNVST में इंग्लिश का सेक्शन बेसिक लेवल का होता है। सही तरीके से तैयारी करें तो हिंदी मीडियम के बच्चे भी आसानी से निकाल लेते हैं।" },
+      { question: "इंग्लिश कितने दिन में अच्छी हो जाएगी?", answer: "रोज 30 मिनट प्रैक्टिस करें तो 2-3 महीने में बेसिक इंग्लिश अच्छी हो जाएगी। 6 महीने में एंट्रेंस लेवल तक पहुंच सकते हैं।" },
+      { question: "क्या इंग्लिश के बिना एग्जाम निकल सकता है?", answer: "JNVST में इंग्लिश सिर्फ 25 नंबर का है। बाकी 75 नंबर Mental Ability और Math के हैं। अगर बाकी सेक्शन मजबूत हैं तो इंग्लिश में औसत स्कोर भी काफी है।" },
+      { question: "इंग्लिश सीखने का सबसे आसान तरीका क्या है?", answer: "रोज 10 नए शब्द वाक्य में लिखो, 10 मिनट इंग्लिश में सोचने की कोशिश करो, और पिछले साल के पेपर सॉल्व करो। ये तीन चीजें रोज करो — 3 महीने में फर्क दिखेगा।" }
+    ]
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE 4: Nisha — Primary Education
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: "pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti",
+    title: "पहली कक्षा से पहले बच्चे को क्या सिखाएं — ज्यादातर पेरेंट्स की सबसे बड़ी गलती",
+    description: "स्कूल जाने से पहले बच्चे को क्या आना चाहिए? ज्यादातर पेरेंट्स A, B, C, D रटवाते हैं — लेकिन असली जरूरत कुछ और है। जानें सही उम्र में क्या सिखाएं।",
+    keywords: "पहली कक्षा से पहले क्या सिखाएं, school ready child, bacche ko taiyar karein, nursery admission preparation, primary education tips Hindi, preschool learning Hindi, bachche ko kya sikhayein",
+    date: "23 जुलाई 2026, शाम 8 बजकर 00 मिनट",
+    modifiedDate: "July 23, 2026",
+    author: "Nisha",
+    authorName: "Nisha",
+    authorSlug: "nisha",
+    authorRole: "Primary Education Expert, JGPS",
+    authorBio: "Nisha प्राइमरी एजुकेशन की एक्सपर्ट हैं। जय गोविंद पब्लिक स्कूल में वे नर्सरी से कक्षा 5 तक के बच्चों को पढ़ाती हैं। उनका मानना है कि छोटी उम्र में सही नींव डालना सबसे जरूरी है।",
+    readTime: "4 मिनट",
+    category: "प्राइमरी शिक्षा",
+    image: "/images/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti.webp",
+    imageAlt: "पहली कक्षा से पहले बच्चे को क्या सिखाएं — पेरेंट्स की गलती",
+    content: `<p>"मेरा बच्चा 4 साल का है। A से Z तक बोल लेता है। 1 से 100 तक गिन लेता है। स्कूल के लिए तैयार है न?"</p>
+
+<p>ज्यादातर पेरेंट्स यही सोचते हैं कि अगर बच्चा A, B, C, D बोल ले और नंबर गिन ले, तो स्कूल के लिए तैयार है। लेकिन <strong>सच कुछ और है।</strong></p>
+
+<p>स्कूल में बच्चे को सिर्फ अक्षर और नंबर की जरूरत नहीं होती। उसे <strong>सुनना, बोलना, बैठना, और सोचना</strong> आना चाहिए। और ये चीजें A, B, C रटने से नहीं आतीं।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">पेरेंट्स की सबसे बड़ी गलती — सिर्फ रटवाना</h2>
+<p>ज्यादातर पेरेंट्स बच्चे से A से Z रटवाते हैं, 1 से 100 गिनवाते हैं, और सोचते हैं कि बच्चा तैयार है। लेकिन असली समस्या तब आती है जब स्कूल में टीचर पूछती है: <em>"बताओ, इसमें कितने सेब हैं?"</em> — और बच्चा जवाब नहीं दे पाता।</p>
+
+<p>क्यों? क्योंकि उसने <strong>नंबर रटे</strong> हैं, <strong>गिनना नहीं सीखा</strong> है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">स्कूल जाने से पहले बच्चे को क्या आना चाहिए</h2>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. बोलना — अपनी बात कहना</h3>
+<p>बच्चा अपना नाम बता सके, मम्मी-पापा का नाम बता सके, और अगर उसे कुछ चाहिए तो <strong>बोलकर मांग सके।</strong> ये सबसे जरूरी स्किल है।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. सुनना — ध्यान से सुनना</h3>
+<p>टीचर कुछ बोले तो बच्चा <strong>ध्यान से सुन सके</strong> और समझ सके। अगर बच्चा 2 मिनट भी ध्यान से नहीं सुन पाता, तो स्कूल में दिक्कत होगी।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. बैठना — एक जगह बैठे रहना</h3>
+<p>स्कूल में बच्चे को <strong>30-40 मिनट</strong> एक जगह बैठना पड़ता है। अगर बच्चा ये नहीं कर पाता, तो उसे स्कूल में दिक्कत होगी।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">4. पेंसिल पकड़ना — सही तरीके से</h3>
+<p>बच्चा पेंसिल <strong>सही तरीके से पकड़ सके</strong> और लाइन खींच सके। अक्षर लिखना जरूरी नहीं, लेकिन पेंसिल पकड़ना आना चाहिए।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">5. सवाल पूछना — "क्यों?" पूछना</h3>
+<p>अगर बच्चा <strong>"क्यों?"</strong> पूछता है — "आसमान नीला क्यों है?", "पानी गीला क्यों है?" — तो ये अच्छा संकेत है। इसका मतलब है कि बच्चा <strong>सोच रहा है।</strong></p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">क्या न करें</h2>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li><strong>A, B, C जबरदस्ती रटवाएं</strong> — बच्चा बोर हो जाएगा और स्कूल से नफरत करने लगेगा</li>
+<li><strong>दूसरे बच्चों से तुलना करें</strong> — "शर्मा जी का बेटा तो 100 तक गिन लेता है"</li>
+<li><strong>मोबाइल पर वीडियो दिखाएं</strong> — स्क्रीन टाइम बच्चे की ध्यान क्षमता कम करता है</li>
+<li><strong>जल्दीबाजी करें</strong> — हर बच्चे की गति अलग होती है</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">घर पर कैसे तैयार करें</h2>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li><strong>कहानी सुनाएं</strong> — और बच्चे से पूछें "फिर क्या हुआ?"</li>
+<li><strong>खेल-खेल में सिखाएं</strong> — गिनती के लिए दाल के दाने गिनवाएं</li>
+<li><strong>रंग पहचानना सिखाएं</strong> — "ये लाल है, ये नीला है"</li>
+<li><strong>बच्चे से बात करें</strong> — दिन में कम से कम 30 मिनट बच्चे से बात करें</li>
+<li><strong>बाहर खेलने दें</strong> — खेलने से बच्चा सबसे ज्यादा सीखता है</li>
+</ul>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में प्राइमरी एजुकेशन</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में नर्सरी से कक्षा 5 तक के बच्चों को खेल-खेल में सिखाया जाता है। हमारा मानना है कि छोटी उम्र में रटना नहीं, <strong>समझना</strong> जरूरी है। कॉल करें: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "बच्चे को स्कूल कब भेजें?", answer: "3-4 साल की उम्र में नर्सरी में भेज सकते हैं। लेकिन बच्चा मानसिक रूप से तैयार हो — ये ज्यादा जरूरी है।" },
+      { question: "A, B, C कब सिखाएं?", answer: "4-5 साल की उम्र में शुरू कर सकते हैं, लेकिन जबरदस्ती नहीं। खेल-खेल में सिखाएं। अगर बच्चा रुचि नहीं दिखा रहा तो 6 महीने रुकें।" },
+      { question: "क्या मोबाइल पर एजुकेशनल वीडियो दिखाएं?", answer: "15-20 मिनट से ज्यादा नहीं। स्क्रीन टाइम बच्चे की ध्यान क्षमता कम करता है। असली दुनिया का अनुभव ज्यादा जरूरी है।" },
+      { question: "बच्चा स्कूल में रोता है तो क्या करें?", answer: "ये सामान्य है। पहले 2-3 हफ्ते रो सकता है। धीरे-धीरे आदत पड़ जाएगी। बच्चे को डराएं नहीं — 'स्कूल में डांटेंगे' कभी न कहें।" }
+    ]
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE 5: Priya Verma — Exam Anxiety
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: "bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein",
+    title: "बच्चा एग्जाम से डरता है? ये 5 तरीके अपनाएं — एग्जाम एंजायटी कम करें",
+    description: "बच्चा एग्जाम से पहले घबराता है, रोता है, पेट में दर्द होता है? ये एग्जाम एंजायटी है। जानें 5 आसान तरीके जिनसे बच्चे का डर कम होगा और परफॉर्मेंस बेहतर होगा।",
+    keywords: "एग्जाम एंजायटी बच्चों में, exam se dar lagta hai, bachche ka exam stress, exam anxiety Hindi, bacche ko confident kaise banaye, exam fear tips parents, school exam stress Hindi",
+    date: "23 जुलाई 2026, शाम 8 बजकर 05 मिनट",
+    modifiedDate: "July 23, 2026",
+    author: "Priya Verma",
+    authorName: "Priya Verma",
+    authorSlug: "priya-verma",
+    authorRole: "Student Counselor",
+    authorBio: "Priya Verma एक स्टूडेंट काउंसलर हैं जो बच्चों के मानसिक स्वास्थ्य और एग्जाम स्ट्रेस पर काम करती हैं। पिछले 8 साल में उन्होंने हजारों बच्चों और पेरेंट्स की काउंसलिंग की है।",
+    readTime: "4 मिनट",
+    category: "स्टूडेंट वेलनेस",
+    image: "/images/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein.webp",
+    imageAlt: "बच्चा एग्जाम से डरता है — एग्जाम एंजायटी कम करने के 5 तरीके",
+    content: `<p>"मम्मी, मेरा पेट दुख रहा है।"</p>
+<p>"पापा, मुझे एग्जाम नहीं देना।"</p>
+<p>"मैं फेल हो जाऊंगा।"</p>
+
+<p>अगर आपका बच्चा एग्जाम से पहले ऐसा कहता है, तो ये <strong>आलस नहीं है।</strong> ये <strong>एग्जाम एंजायटी</strong> है — और ये बहुत आम है।</p>
+
+<p>रिसर्च बताती है कि <strong>हर 3 में से 1 बच्चा</strong> एग्जाम के दौरान एंजायटी महसूस करता है। और अगर इसका इलाज न किया जाए, तो ये बच्चे की <strong>पढ़ाई और सेहत</strong> दोनों को नुकसान पहुंचाती है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एग्जाम एंजायटी के लक्षण</h2>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li>एग्जाम से पहले <strong>पेट में दर्द</strong> या सिरदर्द</li>
+<li><strong>नींद न आना</strong> — रात को करवटें बदलते रहना</li>
+<li><strong>भूख न लगना</strong> — खाना छोड़ देना</li>
+<li><strong>रोना</strong> — बिना बात के रोना</li>
+<li>"<strong>मैं पास नहीं होऊंगा</strong>" — बार-बार ये कहना</li>
+<li><strong>पढ़ाई से भागना</strong> — किताब खोलते ही बोर हो जाना</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 तरीके जो काम करते हैं</h2>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. "तुम्हें टॉप करना है" कहना बंद करें</h3>
+<p>ज्यादातर पेरेंट्स कहते हैं: <em>"शर्मा जी का बेटा 95% लाया, तुम क्यों नहीं ला सकते?"</em></p>
+
+<p>ये सुनकर बच्चे में <strong>डर बैठ जाता है।</strong> वो सोचता है कि अगर मैं अच्छे नंबर नहीं लाया तो मम्मी-पापा निराश हो जाएंगे। ये डर एग्जाम में <strong>ब्लैंक</strong> करा देता है।</p>
+
+<p><strong>क्या करें:</strong> बच्चे से कहें — <em>"बस अपना बेस्ट दो। नंबरों से ज्यादा जरूरी है कि तुमने कुछ सीखा।"</em></p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. एग्जाम से पहले का रूटीन बनाएं</h3>
+<p>एग्जाम से पहले की रात <strong>नई चीजें मत पढ़वाएं।</strong> बस रिवीजन कराएं। बच्चे को <strong>समय पर सुलाएं</strong> — 8 घंटे की नींद जरूरी है।</p>
+
+<p>एग्जाम वाले दिन सुबह <strong>अच्छा नाश्ता</strong> कराएं। हल्का-फुल्का खाना दें — पराठा, दूध, फल। भारी खाना न दें।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. "क्या होगा अगर फेल हो गए?" — ये सवाल बदलें</h3>
+<p>बच्चे के दिमाग में ये सवाल चलता रहता है: <em>"क्या होगा अगर मैं फेल हो गया?"</em></p>
+
+<p>इसे बदलें: <em>"क्या होगा अगर मैंने अपना बेस्ट दिया?"</em></p>
+
+<p>बच्चे को समझाएं कि <strong>एक एग्जाम जिंदगी नहीं है।</strong> अगर इस बार नहीं हुआ, तो अगली बार हो जाएगा। APJ Abdul Kalam, Amitabh Bachchan — सबने शुरू में असफलता देखी।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">4. ब्रीदिंग एक्सरसाइज सिखाएं</h3>
+<p>एग्जाम से पहले बच्चे को <strong>5 बार गहरी सांस</strong> लेने को कहें। नाक से सांस लें (4 सेकंड), रोकें (4 सेकंड), मुंह से छोड़ें (4 सेकंड)।</p>
+
+<p>ये <strong>साइंटिफिकली प्रूवन</strong> तरीका है एंजायटी कम करने का। 2 मिनट में असर दिखता है।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">5. एग्जाम को नॉर्मल बनाएं</h3>
+<p>बहुत से पेरेंट्स एग्जाम को <strong>बहुत बड़ी चीज</strong> बना देते हैं। <em>"ये एग्जाम तुम्हारी जिंदगी का सबसे बड़ा एग्जाम है।"</em></p>
+
+<p>ऐसा मत कहें। एग्जाम को <strong>नॉर्मल</strong> बनाएं। बच्चे से कहें — <em>"ये बस एक टेस्ट है। तुमने पढ़ा है, बस वही लिखना है।"</em></p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में काउंसलिंग सपोर्ट</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में बच्चों के लिए रेगुलर काउंसलिंग सेशन होते हैं। अगर आपका बच्चा एग्जाम स्ट्रेस से जूझ रहा है, तो हमसे बात करें। कॉल करें: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "एग्जाम एंजायटी क्या है?", answer: "एग्जाम एंजायटी में बच्चा एग्जाम से पहले घबरा जाता है, पेट में दर्द होता है, नींद नहीं आती, और 'मैं फेल हो जाऊंगा' सोचता रहता है। ये हर 3 में से 1 बच्चे में होता है।" },
+      { question: "क्या एग्जाम एंजायटी नॉर्मल है?", answer: "हाँ, थोड़ी बहुत एंजायटी नॉर्मल है। लेकिन अगर बच्चा रोज रो रहा है, खाना नहीं खा रहा, या स्कूल नहीं जाना चाहता, तो काउंसलर से बात करें।" },
+      { question: "बच्चे को एग्जाम से पहले क्या खिलाएं?", answer: "हल्का और पौष्टिक खाना दें — पराठा, दूध, केला, ड्राई फ्रूट्स। भारी खाना और जंक फूड न दें।" },
+      { question: "बच्चा एग्जाम में ब्लैंक हो जाता है तो क्या करें?", answer: "ये एंजायटी की वजह से होता है। बच्चे को ब्रीदिंग एक्सरसाइज सिखाएं। एग्जाम में पहले आसान सवाल करें, फिर मुश्किल वाले।" }
+    ]
   }
 ];
 
