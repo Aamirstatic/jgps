@@ -6347,6 +6347,112 @@ export const articles: Article[] = [
         "answer": "Candidates must be born between 1 May 2015 and 31 July 2017 (both dates inclusive). This age limit is the same for all categories. There is no age relaxation for SC, ST, or OBC candidates in JNVST."
       }
     ],
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE: JNVST 2027 Application Form — Last Date 31 July 2026
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: 'jnvst-2027-application-form-last-date-31-july',
+    title: "JNVST 2027 Application Form Out — Last Date 31 July 2026, Apply Now",
+    description: "JNVST 2027 application form is live since 7 July 2026. Last date 31 July 2026. Exam on 28 November 2026. Step-by-step apply process, eligibility, documents needed.",
+    date: "23 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    modifiedDate: "July 23, 2026",
+    author: "Rifaul Hasan",
+    authorName: "Rifaul Hasan",
+    authorSlug: "rifaul-hasan",
+    authorRole: "Principal & Academic Expert, JGPS",
+    authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
+    readTime: '4 mins',
+    category: "Admissions & Test Prep",
+    image: "/images/blog/jnvst-2027-application-form-last-date-31-july.webp",
+    imageAlt: "JNVST 2027 application form last date 31 July 2026 — Navodaya Vidyalaya Class 6 admission",
+    content: `<p>The wait is over. <strong>JNVST 2027 application form</strong> is now available online since <strong>7 July 2026</strong>. If your child is in Class 5 and dreams of studying in a Jawahar Navodaya Vidyalaya, this is the moment to act. The last date to apply is <strong>31 July 2026</strong> — just days away.</p>
+
+<p>Every year, lakhs of students compete for limited seats in Navodaya Vidyalayas across India. Missing the application deadline means waiting another full year. This guide covers everything — eligibility, documents, step-by-step form filling, and the new exam pattern.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Important Dates</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Start</td><td class="py-3 px-4 border-b font-bold text-green-700">7 July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold text-red-600">31 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b font-bold">August 2026 (expected)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Download</td><td class="py-3 px-4 border-b font-bold">October 2026 (expected)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold text-green-700">28 November 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b font-bold">January 2027 (expected)</td></tr></tbody></table></div>
+
+<div class="bg-red-50 border border-red-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-red-800 mb-2">Deadline Alert</h3>
+<p class="text-red-700"><strong>31 July 2026</strong> is the last date. No extensions have been announced. Do not wait until the last day — server crashes are common on the final day. Apply today.</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Who Can Apply — Eligibility Criteria</h2>
+<p>Before filling the form, check if your child meets these requirements:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Criteria</th><th class="py-3 px-4 border-b font-bold text-white text-left">Requirement</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Class</td><td class="py-3 px-4 border-b">Currently studying in Class 5</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Age</td><td class="py-3 px-4 border-b">Born between 1 May 2015 and 31 July 2017</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School</td><td class="py-3 px-4 border-b">Studying in a government or recognized school in the same district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Attempt</td><td class="py-3 px-4 border-b">First time appearing for JNVST</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Rural Quota</td><td class="py-3 px-4">75% seats reserved for rural area students</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Documents Required for JNVST 2027</h2>
+<p>Keep these documents ready before starting the online application:</p>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li><strong>Aadhaar Card</strong> of the student (mandatory)</li>
+<li><strong>Birth Certificate</strong> or Aadhaar for date of birth proof</li>
+<li><strong>Class 5 marksheet</strong> or bonafide certificate from school</li>
+<li><strong>Passport-size photograph</strong> (recent, white background)</li>
+<li><strong>Parent's Aadhaar Card</strong></li>
+<li><strong>Caste certificate</strong> (if applicable — SC/ST/OBC)</li>
+<li><strong>Disability certificate</strong> (if applicable — PwD candidates)</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How to Apply — Step-by-Step Process</h2>
+<p>Follow these steps to fill the JNVST 2027 application form:</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Step 1: Visit the Official Website</h3>
+<p>Go to <strong>cbseit.in</strong> or <strong>navodaya.gov.in</strong>. Look for "JNVST 2027 Class 6 Admission" link on the homepage.</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Step 2: Register as New User</h3>
+<p>Click "New Registration" and enter parent's mobile number and email. You will receive an OTP for verification. Save the registration number carefully.</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Step 3: Fill the Application Form</h3>
+<p>Enter student details — name (as on Aadhaar), date of birth, gender, category, school name, and district. Double-check every field before moving forward.</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Step 4: Upload Documents</h3>
+<p>Upload the student's photograph, parent's signature, and Aadhaar card scan. File size should be under 100 KB in JPEG format.</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">Step 5: Submit & Download</h3>
+<p>Review all details, submit the form, and download the confirmation page. Take 2-3 printouts for your records. No fee is required — JNVST application is completely free.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 New Exam Pattern</h2>
+<p>NVS has introduced changes in the exam pattern for 2027. Here is what your child should prepare for:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b" rowspan="3">2 hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">25</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">20</td><td class="py-3 px-4">25</td></tr></tbody></table></div>
+
+<p>Total: <strong>80 questions, 100 marks, 2 hours</strong>. All questions are objective type (MCQ). There is no negative marking.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Exam Date Changed — Now 28 November 2026</h2>
+<p>Unlike previous years where JNVST was held in January-February, the 2027 exam has been preponed to <strong>28 November 2026</strong>. This means students have less time to prepare. Start today — every week counts.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Common Mistakes to Avoid</h2>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li><strong>Wrong name spelling</strong> — Name must match Aadhaar exactly. Even one wrong letter can cause rejection.</li>
+<li><strong>Incorrect date of birth</strong> — Use the date on the birth certificate, not the school register.</li>
+<li><strong>Blurry photo upload</strong> — Use a clear, recent passport photo with white background.</li>
+<li><strong>Wrong district selection</strong> — The child must appear for the exam from the district where they study.</li>
+<li><strong>Missing the deadline</strong> — 31 July 2026 is firm. No late applications accepted.</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What After Applying?</h2>
+<p>Once the form is submitted:</p>
+<ol class="list-decimal pl-6 my-4 space-y-2 text-gray-700">
+<li>Download and save the confirmation page</li>
+<li>Start preparation immediately — only 4 months left</li>
+<li>Download previous year papers from our <a href="/resources/navodaya-class-6-papers/" class="text-[#035c00] underline font-medium">resources page</a></li>
+<li>Admit card will be available in October 2026</li>
+<li>Exam on 28 November 2026</li>
+</ol>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help with JNVST Preparation?</h3><p><strong>JGPS School</strong> offers specialized JNVST coaching with experienced faculty. Our students have a proven track record of Navodaya selections. Call: <strong>+91 9412137554</strong> for a free counseling session.</p></div>
+`,
+    faqs: [
+      { question: "What is the last date to apply for JNVST 2027?", answer: "The last date to submit the JNVST 2027 online application form is 31 July 2026. No extensions have been announced. Apply as early as possible to avoid last-day server issues." },
+      { question: "Is there any fee for JNVST 2027 application?", answer: "No. The JNVST application is completely free. There is no registration fee, examination fee, or processing fee for any category (General, SC, ST, OBC)." },
+      { question: "When is the JNVST 2027 exam?", answer: "The JNVST 2027 exam for Class 6 admission will be held on 28 November 2026. This is earlier than previous years when exams were held in January-February." },
+      { question: "Can a student apply for both JNVST and Sainik School?", answer: "Yes. There is no restriction on applying for both JNVST (Navodaya) and AISSEE (Sainik School) simultaneously. Many parents apply for both to maximize their child's chances." },
+      { question: "What is the age limit for JNVST 2027 Class 6?", answer: "The student must be born between 1 May 2015 and 31 July 2017 (both dates inclusive). This applies to all categories without any relaxation." },
+      { question: "How many times can a student appear for JNVST?", answer: "Only once. A student can appear for JNVST only one time in their lifetime. If caught appearing again, their candidature will be cancelled permanently." }
+    ]
   }
 ];
 
