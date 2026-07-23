@@ -5,8 +5,8 @@ import { authors } from '@/data/authors';
 
 export const dynamic = 'force-static';
 
-function safeDate(dateStr: string): string {
-  // Try parsing as-is first
+function safeDate(dateStr: string, modifiedDate?: string): string {
+  // Try parsing Hindi date first (has unique timestamps per article)
   let d = new Date(dateStr);
   if (!isNaN(d.getTime())) return d.toISOString();
 
@@ -24,7 +24,26 @@ function safeDate(dateStr: string): string {
     const monthHi = match[2];
     const year = match[3];
     const monthEn = hindiMonths[monthHi] || monthHi;
-    d = new Date(`${monthEn} ${day}, ${year}`);
+
+    // Parse time: "सुबह 8 बजकर 00 मिनट" or "दोपहर 2 बजकर 38 मिनट"
+    const timeMatch = dateStr.match(/(\d+)\s+बजकर\s+(\d+)\s+मिनट/);
+    let hours = 0, minutes = 0;
+    if (timeMatch) {
+      hours = parseInt(timeMatch[1]);
+      minutes = parseInt(timeMatch[2]);
+      // "दोपहर" (afternoon) means PM — add 12 for 1-11 range, 12 stays 12
+      if (dateStr.includes('दोपहर') && hours < 12) hours += 12;
+      // "सुबह" (morning) AM — 12 AM becomes 0
+      if (dateStr.includes('सुबह') && hours === 12) hours = 0;
+    }
+
+    d = new Date(`${monthEn} ${day}, ${year} ${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:00 UTC`);
+    if (!isNaN(d.getTime())) return d.toISOString();
+  }
+
+  // Fallback to modifiedDate
+  if (modifiedDate) {
+    d = new Date(modifiedDate);
     if (!isNaN(d.getTime())) return d.toISOString();
   }
 
@@ -94,7 +113,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // English blog articles - each with its OWN lastmod
   const blogRoutes = articles.map((article) => ({
     url: `${baseUrl}/blog/${article.slug}/`,
-    lastModified: safeDate(article.date),
+    lastModified: safeDate(article.date, article.modifiedDate),
     changeFrequency: getChangeFreq(article.date),
     priority: 0.7,
   }));
@@ -108,7 +127,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Hindi blog articles - each with its OWN lastmod
   const hindiBlogRoutes = hindiArticles.map((article) => ({
     url: `${baseUrl}/hi/blog/${article.slug}/`,
-    lastModified: safeDate(article.date),
+    lastModified: safeDate(article.date, article.modifiedDate),
     changeFrequency: getChangeFreq(article.date),
     priority: 0.7,
   }));
