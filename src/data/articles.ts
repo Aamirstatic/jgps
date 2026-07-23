@@ -4703,7 +4703,7 @@ export const articles: Article[] = [
     authorBio: "Principal at Jai Govind Public School with over 15 years of experience in education.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/cbse-three-language-policy-2026-27.avif",
+    image: "/images/blog/cbse-three-language-policy-2026-27.webp",
     imageAlt: "CBSE Three-Language Policy 2026-27 complete guide for parents",
     content: `<p>CBSE has introduced the three-language policy for 2026-27. Students must study three languages (R1, R2, R3) until Class 10.</p><p>The third language options include Sanskrit, French, German, and regional languages. Parents should help children choose wisely based on future career plans.</p>`,
     faqs: [
@@ -4724,7 +4724,7 @@ export const articles: Article[] = [
     authorBio: "Principal at Jai Govind Public School with over 15 years of experience in education.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/cuet-2026-27-university-admission.avif",
+    image: "/images/blog/cuet-2026-27-university-admission.webp",
     imageAlt: "CUET 2026-27 university admission complete guide",
     content: `<p>CUET 2026-27 university admission guide — exam pattern, syllabus, registration process, and top universities accepting CUET scores.</p><p>Delhi University, BHU, JNU, and AMU are now accepting CUET applications. The counselling process begins in August 2026.</p>`,
     faqs: [
@@ -4746,7 +4746,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '6 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/navodaya-admission-2027-last-date.avif",
+    image: "/images/blog/navodaya-admission-2027-last-date.webp",
     imageAlt: "Parent and child checking Navodaya admission 2027 last date on laptop at home",
     content: `<p>You sit at the kitchen table after dinner. Your child is studying in Class 5. A neighbor just told you about Navodaya Vidyalaya. Free education. Boarding. English medium. No fees at all. You want to apply. But the clock is ticking.</p>
 
@@ -4871,7 +4871,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '5 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/jnvst-2027-exam-pattern-syllabus.avif",
+    image: "/images/blog/jnvst-2027-exam-pattern-syllabus.webp",
     imageAlt: "Parent and child reviewing JNVST 2027 exam pattern changes on a tablet",
     content: `<p>Your child is preparing for JNVST 2027. You bought the books. You made a timetable. But now you hear the exam pattern has changed. New syllabus. New question types. You feel confused. What changed? Is your child still on the right track?</p>
 
@@ -4988,7 +4988,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '6 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/how-to-crack-jnvst-2027-preparation-plan.avif",
+    image: "/images/blog/how-to-crack-jnvst-2027-preparation-plan.webp",
     imageAlt: "Student studying for JNVST 2027 exam with books and notebook at desk",
     content: `<p>You watch your child sitting at the desk. Books are open. But the eyes are tired. You wonder — is my child preparing the right way? The JNVST exam is in January 2027. That is about 3 months away. Is there still enough time?</p>
 
@@ -5104,7 +5104,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '6 mins',
     category: "Academic Planning",
-    image: "/images/blog/cbse-two-board-exams-class-10-2026.avif",
+    image: "/images/blog/cbse-two-board-exams-class-10-2026.webp",
     imageAlt: "Student preparing for CBSE Class 10 board exam with books and notebook",
     content: `<p>You just heard the news. CBSE Class 10 board exam will now happen twice a year. Your child is in Class 9 or 10 right now. You feel confused. Does this mean more pressure? Or is it actually a good thing?</p>
 

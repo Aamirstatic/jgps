@@ -3093,7 +3093,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "जय गोविंद पब्लिक स्कूल के प्रधानाचार्य, 15 साल से अधिक का शिक्षा अनुभव।",
     readTime: "15 मिनट",
     category: "शैक्षिक योजना",
-    image: "/images/blog/cbse-three-language-policy-2026-27.avif",
+    image: "/images/blog/cbse-three-language-policy-2026-27.webp",
     imageAlt: "CBSE थ्री-लैंग्वेज पॉलिसी 2026-27 माता-पिता के लिए पूरी गाइड",
     content: `<p>CBSE ने 2026-27 सत्र से एक नई <strong>थ्री-लैंग्वेज पॉलिसी</strong> लागू की है। अब हर छात्र को तीन भाषाएं पढ़नी होंगी। यह बदलाव NEP 2020 के तहत किया गया है।</p>
 
@@ -3134,7 +3134,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "जय गोविंद पब्लिक स्कूल के प्रधानाचार्य, 15 साल से अधिक का शिक्षा अनुभव।",
     readTime: "16 मिनट",
     category: "शैक्षिक योजना",
-    image: "/images/blog/neet-ug-2027-pattern-changes.avif",
+    image: "/images/blog/neet-ug-2027-pattern-changes.webp",
     imageAlt: "NEET-UG 2027 पैटर्न बदलाव पूरी गाइड",
     content: `<p>NEET-UG 2027 का परीक्षा पैटर्न बदल सकता है। <strong>स्वास्थ्य मंत्रालय</strong> ने एक नया प्रस्ताव दिया है जिसमें 12वीं बोर्ड मार्क्स का भी वेटेज होगा।</p>
 
@@ -3173,7 +3173,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "जय गोविंद पब्लिक स्कूल के प्रधानाचार्य, 15 साल से अधिक का शिक्षा अनुभव।",
     readTime: "17 मिनट",
     category: "शैक्षिक योजना",
-    image: "/images/blog/cbse-new-curriculum-2026-27.avif",
+    image: "/images/blog/cbse-new-curriculum-2026-27.webp",
     imageAlt: "CBSE नया पाठ्यक्रम 2026-27 JEE NEET तैयारी स्कूल में",
     content: `<p>CBSE ने 2026-27 सत्र से एक <strong>नया पाठ्यक्रम</strong> लागू किया है। इसका सबसे बड़ा बदलाव यह है कि अब <strong>JEE और NEET की तैयारी स्कूलों में ही</strong> होगी।</p>
 
@@ -3212,7 +3212,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "जय गोविंद पब्लिक स्कूल के प्रधानाचार्य, 15 साल से अधिक का शिक्षा अनुभव।",
     readTime: "18 मिनट",
     category: "शैक्षिक योजना",
-    image: "/images/blog/ncert-new-textbooks-2026-27.avif",
+    image: "/images/blog/ncert-new-textbooks-2026-27.webp",
     imageAlt: "NCERT नई किताबें 2026-27 कक्षा 6 और 9 में बदलाव",
     content: `<p>NCERT ने 2026-27 सत्र के लिए <strong>नई किताबें</strong> जारी की हैं। कक्षा 6 और 9 में सबसे ज़्यादा बदलाव हुए हैं।</p>
 
@@ -3251,7 +3251,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "जय गोविंद पब्लिक स्कूल के प्रधानाचार्य, 15 साल से अधिक का शिक्षा अनुभव।",
     readTime: "19 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/cuet-2026-27-university-admission.avif",
+    image: "/images/blog/cuet-2026-27-university-admission.webp",
     imageAlt: "CUET 2026-27 यूनिवर्सिटी एडमिशन पूरी गाइड",
     content: `<p>CUET (Common University Entrance Test) अब <strong>यूनिवर्सिटी एडमिशन</strong> का मुख्य एग्जाम बन गया है। 2026-27 में भी CUET के ज़रिए ही देश की सभी केंद्रीय यूनिवर्सिटीज़ में एडमिशन होगा।</p>
 
@@ -3290,7 +3290,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Jai Govind Public School ki expert education content team, school admissions aur exam preparation guides mein visheshagya.",
     readTime: "20 मिनट",
     category: "Academic Planning",
-    image: "/images/blog/cbse-class-10-do-board-exam-2026.avif",
+    image: "/images/blog/cbse-class-10-do-board-exam-2026.webp",
     imageAlt: "CBSE Class 10 board exam ki tayyari karte student",
     content: `<p>Aapne suna hoga. CBSE Class 10 board exam ab saal mein do baar hoga. Aapka bachcha abhi Class 9 ya 10 mein hai. Aap confused hain. Kya iska matlab hai zyada pressure? Ya ye actually achhi baat hai?</p>
 
@@ -3372,7 +3372,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "21 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/jnvst-2027-navodaya-admission-form.avif",
+    image: "/images/blog/jnvst-2027-navodaya-admission-form.webp",
     imageAlt: "JNVST 2027 नवोदय एडमिशन फॉर्म — रजिस्ट्रेशन और आवेदन प्रक्रिया",
     content: `
 <p>नमस्कार अभिभावकों! अगर आपका बच्चा कक्षा 5 में पढ़ रहा है और आप उसे सरकारी बोर्डिंग स्कूल में पढ़ाना चाहते हैं, तो यह खबर आपके लिए बहुत ज़रूरी है। <strong>नवोदय विद्यालय समिति (NVS)</strong> ने JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए रजिस्ट्रेशन प्रक्रिया शुरू कर दी है।</p>
@@ -3530,7 +3530,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "22 मिनट",
     category: "बोर्ड परीक्षा",
-    image: "/images/blog/cbse-supplementary-exam-2026-july.avif",
+    image: "/images/blog/cbse-supplementary-exam-2026-july.webp",
     imageAlt: "CBSE सप्लीमेंट्री एग्जाम 2026 — जुलाई परीक्षा शेड्यूल",
     content: `
 <p>CBSE बोर्ड परीक्षा 2026 का रिज़ल्ट आ चुका है। कुछ बच्चों के अच्छे नंबर आए, कुछ खुश नहीं हैं, और कुछ कम्पार्टमेंट आई है। अगर आपके बच्चे की कम्पार्टमेंट आई है या वो अपने नंबर सुधारना चाहता है, तो <strong>CBSE सप्लीमेंट्री परीक्षा 2026</strong> उसके लिए मौका है।</p>
@@ -3648,7 +3648,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "23 मिनट",
     category: "शिक्षक भर्ती",
-    image: "/images/blog/ctet-september-2026-notification.avif",
+    image: "/images/blog/ctet-september-2026-notification.webp",
     imageAlt: "CTET सितंबर 2026 — नोटिफिकेशन और आवेदन प्रक्रिया",
     content: `
 <p>अगर आप शिक्षक बनना चाहते हैं, तो <strong>CTET (Central Teacher Eligibility Test)</strong> पास करना पहला कदम है। CBSE ने CTET सितंबर 2026 का नोटिफिकेशन जारी कर दिया है। ऑनलाइन आवेदन प्रक्रिया शुरू हो चुकी है।</p>
@@ -3811,7 +3811,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "24 मिनट",
     category: "इंजीनियरिंग प्रवेश",
-    image: "/images/blog/josaa-counselling-2026-round-5.avif",
+    image: "/images/blog/josaa-counselling-2026-round-5.webp",
     imageAlt: "JoSAA काउंसलिंग 2026 — Round 5 सीट अलॉटमेंट गाइड",
     content: `
 <p>JEE Main और JEE Advanced 2026 का रिज़ल्ट आ चुका है। अब बारी है <strong>JoSAA काउंसलिंग</strong> की। अगर आपके बच्चे ने JEE पास किया है और IIT, NIT, IIIT या GFTI में एडमिशन लेना चाहता है, तो ये जानकारी आपके लिए बहुत ज़रूरी है।</p>
@@ -3924,7 +3924,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "25 मिनट",
     category: "पढ़ाई के टिप्स",
-    image: "/images/blog/monsoon-half-yearly-exam-prep-july-2026.avif",
+    image: "/images/blog/monsoon-half-yearly-exam-prep-july-2026.webp",
     imageAlt: "जुलाई हाफ-ईयरली एग्जाम तैयारी — मानसून में पढ़ाई के टिप्स",
     content: `
 <p>जुलाई आते ही तीन चीज़ें शुरू हो जाती हैं — बारिश, छुट्टियां और <strong>हाफ-ईयरली एग्जाम की टेंशन</strong>। मानसून के मौसम में बच्चों का ध्यान पढ़ाई से भटकना आम बात है। लेकिन सही प्लानिंग से आपका बच्चा इस समय को भी फायदे में बदल सकता है।</p>
@@ -4046,7 +4046,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "26 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/navodaya-form-me-galti-sudharen-2027.avif",
+    image: "/images/blog/navodaya-form-me-galti-sudharen-2027.webp",
     imageAlt: "नवोदय फॉर्म 2027 में गलती — JNVST फॉर्म करेक्शन कैसे करें",
     content: `
 <p>हर साल हज़ारों माता-पिता नवोदय विद्यालय का फॉर्म भरते समय गलती कर देते हैं — नाम में स्पेलिंग गलत, जन्मतिथि गलत, फोटो सही नहीं लगी, या कैटेगरी गलत भर दी। अगर आपके साथ भी ऐसा हुआ है तो घबराने की ज़रूरत नहीं। मैं पिछले 12 साल से बच्चों को नवोदय की तैयारी करा रहा हूँ और इस आर्टिकल में बताऊंगा कि कौन सी गलतियाँ सुधारी जा सकती हैं और कैसे।</p>
@@ -4186,7 +4186,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "27 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/jnvst-2027-exam-pattern-hindi.avif",
+    image: "/images/blog/jnvst-2027-exam-pattern-hindi.webp",
     imageAlt: "JNVST 2027 एग्जाम पैटर्न — प्रश्न, अंक, समय पूरी जानकारी",
     content: `
 <p>JNVST (Jawahar Navodaya Vidyalaya Selection Test) में सफल होने के लिए सबसे पहले एग्जाम पैटर्न समझना ज़रूरी है। मैं पिछले 12 साल से बच्चों को नवोदय की तैयारी करा रहा हूँ और इस आर्टिकल में JNVST 2027 का पूरा एग्जाम पैटर्न हिंदी में समझाऊंगा।</p>
@@ -4319,7 +4319,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "28 मिनट",
     category: "सैनिक स्कूल",
-    image: "/images/blog/sainik-school-admission-kaise-le-2027.avif",
+    image: "/images/blog/sainik-school-admission-kaise-le-2027.webp",
     imageAlt: "सैनिक स्कूल में एडमिशन कैसे लें 2027 — स्टेप बाय स्टेप गाइड",
     content: `
 <p>सैनिक स्कूल भारत के सबसे प्रतिष्ठित बोर्डिंग स्कूलों में से एक हैं। यहां से पढ़े बच्चे आर्मी, नेवी और एयरफोर्स में अधिकारी बनते हैं। अगर आप अपने बच्चे को सैनिक स्कूल में एडमिशन दिलाना चाहते हैं तो ये गाइड आपके लिए है। मैं पिछले 12 साल से बच्चों को तैयारी करा रहा हूँ और हर साल 50+ बच्चों का सैनिक स्कूल में सिलेक्शन होता है।</p>
@@ -4472,7 +4472,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "29 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/navodaya-vidyalaya-fees-kitni-hai.avif",
+    image: "/images/blog/navodaya-vidyalaya-fees-kitni-hai.webp",
     imageAlt: "नवोदय विद्यालय की फीस कितनी है — पूरी सच्चाई",
     content: `
 <p>"नवोदय में पढ़ाई बिल्कुल फ्री है" — ये बात आपने बहुत सुनी होगी। लेकिन क्या सच में ऐसा है? मैं पिछले 12 साल से बच्चों को नवोदय की तैयारी करा रहा हूँ और कई बच्चे नवोदय में पढ़ रहे हैं। आज आपको पूरी सच्चाई बताऊंगा।</p>
@@ -4600,7 +4600,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "14 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/amu-class-6-syllabus-2027-hindi.avif",
+    image: "/images/blog/amu-class-6-syllabus-2027-hindi.webp",
     imageAlt: "AMU क्लास 6 सिलेबस 2027 हिंदी में — विषयवार पूरा सिलेबस",
     content: `
 <p>अलीगढ़ मुस्लिम यूनिवर्सिटी (AMU) के स्कूल में कक्षा 6 में एडमिशन लेना कई बच्चों का सपना होता है। लेकिन सही सिलेबस न पता होने की वजह से बच्चे गलत दिशा में तैयारी करते हैं। मैं पिछले 12 साल से बच्चों को AMU की तैयारी करा रहा हूँ और इस आर्टिकल में पूरा सिलेबस हिंदी में बताऊंगा।</p>
@@ -4755,7 +4755,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "15 मिनट",
     category: "सैनिक स्कूल",
-    image: "/images/blog/sainik-school-taiyari-ghar-se-2027.avif",
+    image: "/images/blog/sainik-school-taiyari-ghar-se-2027.webp",
     imageAlt: "सैनिक स्कूल की तैयारी घर से 2027 — बिना कोचिंग के सिलेक्शन टिप्स",
     content: `
 <p>बहुत से माता-पिता सोचते हैं कि सैनिक स्कूल में एडमिशन के लिए महंगी कोचिंग ज़रूरी है। लेकिन सच यह है कि <strong>सही रणनीति और अनुशासन</strong> से बच्चा घर से भी AISSEE 2027 की तैयारी करके सिलेक्ट हो सकता है। मैंने अपने 12 साल के अनुभव में कई ऐसे बच्चे देखे हैं जिन्होंने बिना कोचिंग के सैनिक स्कूल में जगह बनाई।</p>
@@ -4868,7 +4868,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "16 मिनट",
     category: "तुलना",
-    image: "/images/blog/navodaya-vs-sainik-school-kaunsa-better.avif",
+    image: "/images/blog/navodaya-vs-sainik-school-kaunsa-better.webp",
     imageAlt: "नवोदय vs सैनिक स्कूल 2027 — कौन सा बेहतर है पूरी तुलना",
     content: `
 <p>हर साल हज़ारों माता-पिता एक ही सवाल पूछते हैं — <strong>"नवोदय भेजें या सैनिक स्कूल?"</strong> दोनों सरकारी स्कूल हैं, दोनों में अच्छी पढ़ाई होती है, लेकिन दोनों का मकसद और माहौल बिल्कुल अलग है। आज मैं दोनों स्कूलों की पूरी तुलना करता हूँ ताकि आप अपने बच्चे के लिए सही फैसला ले सकें।</p>
@@ -4984,7 +4984,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "17 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/jnvst-2027-model-paper-free-pdf.avif",
+    image: "/images/blog/jnvst-2027-model-paper-free-pdf.webp",
     imageAlt: "JNVST 2027 मॉडल पेपर फ्री PDF डाउनलोड हल सहित",
     content: `
 <p>JNVST 2027 की तैयारी कर रहे बच्चों के लिए मॉडल पेपर सबसे ज़रूरी हैं। <strong>मॉडल पेपर हल करने से</strong> बच्चे को पेपर पैटर्न समझ आता है, टाइम मैनेजमेंट सीखने को मिलता है, और कमज़ोर टॉपिक्स पता चलते हैं। आज मैं आपको JNVST 2027 के मॉडल पेपर और प्रैक्टिस सेट के बारे में पूरी जानकारी देता हूँ।</p>
@@ -5087,7 +5087,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "18 मिनट",
     category: "छात्र जीवन",
-    image: "/images/blog/boarding-school-bhejne-ke-fayde-nuksan.avif",
+    image: "/images/blog/boarding-school-bhejne-ke-fayde-nuksan.webp",
     imageAlt: "बोर्डिंग स्कूल भेजने के फायदे और नुकसान माता-पिता गाइड",
     content: `
 <p>"बच्चे को बोर्डिंग स्कूल भेजें या नहीं?" — यह सवाल हर माता-पिता के मन में आता है। बोर्डिंग स्कूल बच्चे को स्वतंत्र, अनुशासित और ज़िम्मेदार बनाता है, लेकिन साथ ही घर से दूरी का दर्द भी देता है। आज मैं <strong>बोर्डिंग स्कूल के फायदे और नुकसान</strong> दोनों पर बात करता हूँ ताकि आप सही फैसला ले सकें।</p>
@@ -5187,7 +5187,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 12 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "19 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/vidyagyan-school-admission-2027-last-date.avif",
+    image: "/images/blog/vidyagyan-school-admission-2027-last-date.webp",
     imageAlt: "विद्याज्ञान स्कूल एडमिशन 2027 अंतिम तिथि पात्रता आवेदन प्रक्रिया",
     content: `
 <p>अगर आप <strong>उत्तर प्रदेश के ग्रामीण क्षेत्र</strong> में रहते हैं और आपकी वार्षिक आय ₹1 लाख से कम है, तो <strong>विद्याज्ञान स्कूल</strong> आपके बच्चे के लिए एक बेहतरीन मौका है। यहां बच्चे को <strong>फ्री शिक्षा, हॉस्टल, खाना और किताबें</strong> मिलती हैं। आज मैं विद्याज्ञान स्कूल में एडमिशन की पूरी प्रक्रिया बताता हूँ।</p>
