@@ -5285,6 +5285,138 @@ export const hindiArticles: HindiArticle[] = [
       { question: "विद्याज्ञान स्कूल का एडमिशन फॉर्म कब भरें?", answer: "आमतौर पर अक्टूबर-दिसंबर के बीच फॉर्म भरे जाते हैं। सटीक तारीख के लिए विद्याज्ञान की वेबसाइट चेक करते रहें।" },
       { question: "क्या विद्याज्ञान स्कूल सिर्फ UP के बच्चों के लिए है?", answer: "हाँ, अभी विद्याज्ञान स्कूल सिर्फ उत्तर प्रदेश के ग्रामीण क्षेत्रों के बच्चों के लिए है। भविष्य में अन्य राज्यों में भी खुल सकता है।" }
     ]
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE: JNVST 2027 — Form आ गया, नियम में बड़ा बदलाव
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: "jnvst-2027-form-agaya-niyam-mein-badlaav",
+    title: "JNVST 2027: नवोदय कक्षा 6 का Form आ गया! नियम में बड़ा बदलाव, ऐसेभरें",
+    description: "JNVST 2027 कक्षा 6 का एडमिशन फॉर्म जारी हो गया है। 31 जुलाई 2026 आखिरी तारीख। नए नियम, बदला हुआ एग्जाम पैटर्न, और फॉर्म भरने का पूरा तरीका जानें।",
+    keywords: "JNVST 2027 form, नवोदय एडमिशन 2027, navodaya class 6 form, JNVST 2027 last date, नवोदय फॉर्म कैसे भरें, JNVST exam date 2027, navodaya admission 2027-28",
+    date: "23 जुलाई 2026, दोपहर 3 बजकर 45 मिनट",
+    modifiedDate: "July 23, 2026",
+    author: "Rifaul Hasan",
+    authorName: "Rifaul Hasan",
+    authorSlug: "rifaul-hasan",
+    authorRole: "प्रधानाचार्य और शिक्षा विशेषज्ञ",
+    authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 15 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
+    readTime: "5 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "/images/blog/jnvst-2027-form-agaya-niyam-mein-badlaav.webp",
+    imageAlt: "JNVST 2027 नवोदय कक्षा 6 एडमिशन फॉर्म — नया नियम और बदलाव",
+    content: `<p>अगर आपका बच्चा कक्षा 5 में पढ़ रहा है और आप चाहते हैं कि वो देश के सबसे अच्छे सरकारी स्कूलों में से एक — <strong>जवाहर नवोदय विद्यालय</strong> — में पढ़े, तो ये खबर आपके लिए बहुत जरूरी है।</p>
+
+<p><strong>नवोदय विद्यालय समिति (NVS)</strong> ने सत्र 2027-28 के लिए कक्षा 6 में दाखिले का फॉर्म जारी कर दिया है। <strong>7 जुलाई 2026</strong> से ऑनलाइन आवेदन शुरू हो गए हैं और <strong>31 जुलाई 2026</strong> आखिरी तारीख है। यानी अब सिर्फ कुछ दिन बचे हैं — देर मत कीजिए।</p>
+
+<p>इस बार कुछ <strong>अहम बदलाव</strong> किए गए हैं जो हर अभिभावक को पता होने चाहिए। एग्जाम की तारीख बदल गई है, पैटर्न नया है, और कुछ नियम भी अपडेट हुए हैं। चलिए विस्तार से समझते हैं।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">महत्वपूर्ण तारीखें — ये तारीखें याद रखें</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">ऑनलाइन आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">7 जुलाई 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की आखिरी तारीख</td><td class="py-3 px-4 border-b font-bold text-red-600">31 जुलाई 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार विंडो</td><td class="py-3 px-4 border-b font-bold">अगस्त 2026 (अपेक्षित)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b font-bold">अक्टूबर 2026 (अपेक्षित)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा की तारीख</td><td class="py-3 px-4 border-b font-bold text-green-700">28 नवंबर 2026 (शनिवार)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4 font-bold">जनवरी 2027 (अपेक्षित)</td></tr></tbody></table></div>
+
+<div class="bg-red-50 border border-red-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-red-800 mb-2">⚠️ जरूरी सूचना</h3>
+<p class="text-red-700"><strong>31 जुलाई 2026</strong> के बाद पोर्टल बंद कर दिया जाएगा। कोई भी लेट एप्लिकेशन स्वीकार नहीं होगा। आखिरी दिन सरवर क्रैश होने का खतरा रहता है — आज ही फॉर्म भर दें।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">इस बार क्या बदला है? — नए नियम</h2>
+<p>NVS ने इस बार कुछ अहम बदलाव किए हैं:</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">1. एग्जाम की तारीख बदली</h3>
+<p>पिछले सालों में JNVST का एग्जाम जनवरी-फरवरी में होता था। इस बार एग्जाम <strong>28 नवंबर 2026</strong> को रखा गया है। यानी तैयारी का समय कम हो गया है।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">2. नया एग्जाम पैटर्न</h3>
+<p>NVS ने 2027 के लिए <strong>नया एग्जाम पैटर्न</strong> जारी किया है। प्रश्नों की संख्या और मार्क्स में बदलाव किया गया है।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">3. जिला-आधारित दाखिला</h3>
+<p>अब बच्चा सिर्फ उसी जिले के नवोदय विद्यालय में दाखिले के लिए आवेदन कर सकता है, जहां वो कक्षा 5 में पढ़ रहा है। पहले ये नियम इतना सख्त नहीं था।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">4. एप्लिकेशन में सुधार का मौका</h3>
+<p>फॉर्म भरने के बाद गलती हो जाए तो <strong>अगस्त 2026</strong> में सुधार विंडो खुलेगी। लेकिन हर चीज सुधारी नहीं जा सकती — इसलिए पहली बार में ही ध्यान से भरें।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एग्जाम पैटर्न — कैसा होगा पेपर</h2>
+<p>JNVST 2027 का एग्जाम <strong>2 घंटे</strong> का होगा। कुल <strong>80 सवाल</strong> पूछे जाएंगे जो <strong>100 नंबर</strong> के होंगे। सारे सवाल ऑब्जेक्टिव टाइप (MCQ) होंगे। <strong>नेगेटिव मार्किंग नहीं है।</strong></p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th><th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">मानसिक योग्यता (Mental Ability)</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b font-bold">50</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अंकगणित (Arithmetic)</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b font-bold">25</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">भाषा (Language)</td><td class="py-3 px-4">20</td><td class="py-3 px-4 font-bold">25</td></tr></tbody></table></div>
+
+<p>परीक्षा <strong>हिंदी, अंग्रेजी</strong> समेत <strong>20 क्षेत्रीय भाषाओं</strong> में होगी।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">कौन आवेदन कर सकता है? — योग्यता</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">शर्त</th><th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कक्षा</td><td class="py-3 px-4 border-b">अभी कक्षा 5 में पढ़ रहा हो</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">उम्र</td><td class="py-3 px-4 border-b">1 मई 2015 से 31 जुलाई 2017 के बीच जन्म</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">स्कूल</td><td class="py-3 px-4 border-b">सरकारी या मान्यता प्राप्त स्कूल में पढ़ रहा हो</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">प्रयास</td><td class="py-3 px-4 border-b">पहली बार JNVST दे रहा हो</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">ग्रामीण कोटा</td><td class="py-3 px-4">75% सीटें ग्रामीण क्षेत्र के बच्चों के लिए</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">जरूरी दस्तावेज — पहले से तैयार रखें</h2>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li><strong>आधार कार्ड</strong> — बच्चे का (जरूरी)</li>
+<li><strong>जन्म प्रमाण पत्र</strong> या आधार पर तारीख</li>
+<li><strong>कक्षा 5 की मार्कशीट</strong> या स्कूल से बोनाफाइड सर्टिफिकेट</li>
+<li><strong>पासपोर्ट साइज फोटो</strong> — हाल की, सफेद बैकग्राउंड वाली</li>
+<li><strong>अभिभावक का आधार कार्ड</strong></li>
+<li><strong>जाति प्रमाण पत्र</strong> — अगर SC/ST/OBC है</li>
+<li><strong>दिव्यांगता प्रमाण पत्र</strong> — अगर लागू हो</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">फॉर्म कैसे भरें — स्टेप बाय स्टेप</h2>
+<p>ये पूरी प्रक्रिया ऑनलाइन है और <strong>बिल्कुल फ्री</strong> है। कोई फीस नहीं लगती।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 1: वेबसाइट खोलें</h3>
+<p><strong>cbseitms.rcil.gov.in/nvs/</strong> पर जाएं। या फिर <strong>navodaya.gov.in</strong> पर जाकर लिंक ढूंढें।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 2: नया रजिस्ट्रेशन करें</h3>
+<p>"New Registration" पर क्लिक करें। अभिभावक का मोबाइल नंबर और ईमेल डालें। OTP आएगा — वेरिफाई करें। रजिस्ट्रेशन नंबर संभाल कर रखें।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 3: फॉर्म भरें</h3>
+<p>बच्चे की डिटेल्स भरें — नाम (आधार जैसा), जन्म तारीख, लिंग, श्रेणी, स्कूल का नाम, जिला। हर फील्ड दो बार चेक करें।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 4: दस्तावेज अपलोड करें</h3>
+<p>बच्चे की फोटो, अभिभावक के साइन, और आधार कार्ड की स्कैन कॉपी अपलोड करें। फाइल साइज <strong>100 KB से कम</strong> होनी चाहिए, JPEG फॉर्मेट में।</p>
+
+<h3 class="text-lg font-bold text-gray-800 mt-6 mb-3">स्टेप 5: सबमिट करें और प्रिंट लें</h3>
+<p>सब डिटेल्स चेक करें, सबमिट करें, और कन्फर्मेशन पेज डाउनलोड करें। <strong>2-3 प्रिंटआउट</strong> निकाल लें।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">ये गलतियां बिल्कुल न करें</h2>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li><strong>नाम की स्पेलिंग गलत</strong> — नाम बिल्कुल आधार जैसा होना चाहिए। एक अक्षर भी गलत हुआ तो फॉर्म रिजेक्ट हो सकता है।</li>
+<li><strong>जन्म तारीख गलत</strong> — जन्म प्रमाण पत्र वाली तारीख डालें, स्कूल रजिस्टर वाली नहीं।</li>
+<li><strong>धुंधली फोटो</strong> — साफ, हाल की पासपोर्ट फोटो लगाएं। सफेद बैकग्राउंड जरूरी है।</li>
+<li><strong>गलत जिला</strong> — बच्चा जिस जिले में पढ़ रहा है, वहीं का फॉर्म भरें।</li>
+<li><strong>आखिरी दिन का इंतजार</strong> — 31 जुलाई को सरवर क्रैश हो सकता है। आज ही भरें।</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">आरक्षण का प्रावधान</h2>
+<p>नवोदय विद्यालयों में आरक्षण का पूरा ध्यान रखा गया है:</p>
+<ul class="list-disc pl-6 my-4 space-y-2 text-gray-700">
+<li><strong>ग्रामीण क्षेत्र:</strong> 75% सीटें ग्रामीण बच्चों के लिए आरक्षित</li>
+<li><strong>अनुसूचित जाति (SC):</strong> 15% आरक्षण</li>
+<li><strong>अनुसूचित जनजाति (ST):</strong> 7.5% आरक्षण</li>
+<li><strong>दिव्यांग:</strong> 3% क्षैतिज आरक्षण</li>
+<li><strong>छात्राएं:</strong> एक-तिहाई सीटें लड़कियों के लिए आरक्षित</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">फॉर्म भरने के बाद क्या करें?</h2>
+<ol class="list-decimal pl-6 my-4 space-y-2 text-gray-700">
+<li>कन्फर्मेशन पेज डाउनलोड करके रख लें</li>
+<li>अभी से तैयारी शुरू करें — सिर्फ 4 महीने बचे हैं</li>
+<li>पिछले साल के पेपर हमारे <a href="/resources/navodaya-class-6-papers/" class="text-[#035c00] underline font-medium">रिसोर्सेज पेज</a> से डाउनलोड करें</li>
+<li>अक्टूबर में एडमिट कार्ड आएगा</li>
+<li>28 नवंबर 2026 को एग्जाम</li>
+</ol>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में नवोदय की तैयारी</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में हम बच्चों को JNVST की खास तैयारी कराते हैं। हमारे बच्चों का नवोदय में सिलेक्शन का रिकॉर्ड बहुत अच्छा रहा है। फ्री काउंसलिंग के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>cbseitms.rcil.gov.in/nvs/</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और Live Hindustan (8 जुलाई 2026)।</p>
+</div>
+`,
+    faqs: [
+      { question: "JNVST 2027 का फॉर्म कब से भर सकते हैं?", answer: "7 जुलाई 2026 से ऑनलाइन आवेदन शुरू हो गए हैं। आखिरी तारीख 31 जुलाई 2026 है।" },
+      { question: "नवोदय का फॉर्म भरने में कितनी फीस लगती है?", answer: "बिल्कुल फ्री है। कोई रजिस्ट्रेशन फीस, एग्जाम फीस या प्रोसेसिंग फीस नहीं है। किसी भी श्रेणी के लिए।" },
+      { question: "JNVST 2027 का एग्जाम कब है?", answer: "28 नवंबर 2026 (शनिवार) को। पिछले सालों से अलग — पहले जनवरी-फरवरी में होता था।" },
+      { question: "क्या नवोदय और सैनिक स्कूल दोनों के फॉर्म भर सकते हैं?", answer: "हाँ, कोई पाबंदी नहीं है। दोनों के फॉर्म एक साथ भर सकते हैं। बहुत से अभिभावक दोनों भरते हैं ताकि बच्चे के सिलेक्शन के चांस बढ़ें।" },
+      { question: "JNVST 2027 के लिए उम्र सीमा क्या है?", answer: "बच्चे का जन्म 1 मई 2015 से 31 जुलाई 2017 के बीच होना चाहिए। ये सभी श्रेणियों के लिए एक जैसी है — SC, ST, OBC को कोई छूट नहीं।" },
+      { question: "नवोदय में कितनी बार एग्जाम दे सकते हैं?", answer: "सिर्फ एक बार। जीवन में एक ही बार JNVST दे सकते हैं। दोबारा देते पकड़े गए तो कैंडिडेचर रद्द हो जाएगा।" }
+    ]
   }
 ];
 
