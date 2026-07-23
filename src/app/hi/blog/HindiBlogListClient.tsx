@@ -25,7 +25,16 @@ function parseHindiDate(dateStr: string): number {
     const day = parseInt(match[1]);
     const month = hindiMonths[match[2]] ?? 0;
     const year = parseInt(match[3]);
-    return new Date(year, month, day).getTime();
+    const timeMatch = dateStr.match(/(\d+)\s+बजकर\s+(\d+)\s+मिनट/);
+    let hours = 0, minutes = 0;
+    if (timeMatch) {
+      hours = parseInt(timeMatch[1]);
+      minutes = parseInt(timeMatch[2]);
+      if (dateStr.includes('दोपहर') && hours < 12) hours += 12;
+      if (dateStr.includes('सुबह') && hours === 12) hours = 0;
+      if (dateStr.includes('शाम') && hours < 12) hours += 12;
+    }
+    return new Date(year, month, day, hours, minutes).getTime();
   }
   return 0;
 }

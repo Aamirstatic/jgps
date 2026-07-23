@@ -7,6 +7,33 @@ import { getArticlesByAuthor } from '@/data/articles';
 import { getHindiArticlesByAuthor } from '@/data/hindi-articles';
 import { FaCalendarAlt, FaClock, FaArrowRight, FaCheckCircle, FaPenNib, FaBookReader } from 'react-icons/fa';
 
+const hindiMonths: Record<string, number> = {
+  'जनवरी': 0, 'फरवरी': 1, 'मार्च': 2, 'अप्रैल': 3, 'मई': 4, 'जून': 5,
+  'जुलाई': 6, 'अगस्त': 7, 'सितंबर': 8, 'अक्टूबर': 9, 'नवंबर': 10, 'दिसंबर': 11,
+};
+
+function parseHindiDate(dateStr: string): number {
+  const d = new Date(dateStr);
+  if (!isNaN(d.getTime())) return d.getTime();
+  const match = dateStr.match(/(\d+)\s+(\S+)\s+(\d{4})/);
+  if (match) {
+    const day = parseInt(match[1]);
+    const month = hindiMonths[match[2]] ?? 0;
+    const year = parseInt(match[3]);
+    const timeMatch = dateStr.match(/(\d+)\s+बजकर\s+(\d+)\s+मिनट/);
+    let hours = 0, minutes = 0;
+    if (timeMatch) {
+      hours = parseInt(timeMatch[1]);
+      minutes = parseInt(timeMatch[2]);
+      if (dateStr.includes('दोपहर') && hours < 12) hours += 12;
+      if (dateStr.includes('सुबह') && hours === 12) hours = 0;
+      if (dateStr.includes('शाम') && hours < 12) hours += 12;
+    }
+    return new Date(year, month, day, hours, minutes).getTime();
+  }
+  return 0;
+}
+
 interface AuthorPageProps {
   params: Promise<{
     slug: string;
@@ -57,7 +84,9 @@ export default async function AuthorPage({ params }: AuthorPageProps) {
     isHindi: true,
   }));
 
-  const authorArticles = [...englishArticles, ...normalizedHindi];
+  const authorArticles = [...englishArticles, ...normalizedHindi].sort(
+    (a, b) => parseHindiDate(b.date) - parseHindiDate(a.date)
+  );
   
   // Calculate total reading time (roughly estimating 5 mins per article if not available)
   const totalReadTime = authorArticles.reduce((acc, curr) => {

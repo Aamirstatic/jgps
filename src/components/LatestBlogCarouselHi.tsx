@@ -37,8 +37,35 @@ export default function LatestBlogCarouselHi() {
   const [isPaused, setIsPaused] = useState(false);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
+  const hindiMonthsMap: Record<string, number> = {
+    'जनवरी': 0, 'फरवरी': 1, 'मार्च': 2, 'अप्रैल': 3, 'मई': 4, 'जून': 5,
+    'जुलाई': 6, 'अगस्त': 7, 'सितंबर': 8, 'अक्टूबर': 9, 'नवंबर': 10, 'दिसंबर': 11,
+  };
+
+  const parseHindiDate = (d: string): number => {
+    const parsed = new Date(d);
+    if (!isNaN(parsed.getTime())) return parsed.getTime();
+    const match = d.match(/(\d+)\s+(\S+)\s+(\d{4})/);
+    if (match) {
+      const day = parseInt(match[1]);
+      const month = hindiMonthsMap[match[2]] ?? 0;
+      const year = parseInt(match[3]);
+      const timeMatch = d.match(/(\d+)\s+बजकर\s+(\d+)\s+मिनट/);
+      let hours = 0, minutes = 0;
+      if (timeMatch) {
+        hours = parseInt(timeMatch[1]);
+        minutes = parseInt(timeMatch[2]);
+        if (d.includes('दोपहर') && hours < 12) hours += 12;
+        if (d.includes('सुबह') && hours === 12) hours = 0;
+        if (d.includes('शाम') && hours < 12) hours += 12;
+      }
+      return new Date(year, month, day, hours, minutes).getTime();
+    }
+    return 0;
+  };
+
   const sortedArticles = [...hindiArticles].sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+    (a, b) => parseHindiDate(b.date) - parseHindiDate(a.date)
   );
 
   const filtered =
