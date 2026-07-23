@@ -1,0 +1,68 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model BlogPost {
+  id            String   @id @default(uuid())
+  title         String
+  slug          String   @unique
+  excerpt       String   @db.Text
+  content       String   @db.LongText
+  coverImage    String
+  publishedDate DateTime
+  lastUpdated   DateTime?
+  author        String
+  featured      Boolean  @default(false)
+  readingTime   Int?
+  status        String
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Relations
+  tags       Tag[]       @relation("BlogPostToTag")
+  categories Category[]  @relation("BlogPostToCategory")
+  seo        SEO?
+}
+
+model Tag {
+  id        String     @id @default(uuid())
+  name      String     @unique
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  posts     BlogPost[] @relation("BlogPostToTag")
+}
+
+model Category {
+  id        String     @id @default(uuid())
+  name      String     @unique
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  posts     BlogPost[] @relation("BlogPostToCategory")
+}
+
+model SEO {
+  id             String   @id @default(uuid())
+  metaTitle      String?
+  metaDescription String?  @db.Text
+  canonical      String?
+  structuredData Json?
+  blogPostId     String   @unique
+  blogPost       BlogPost @relation(fields: [blogPostId], references: [id], onDelete: Cascade)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  
+  // Store focus keywords as JSON array
+  focusKeywords  Json?
+}
