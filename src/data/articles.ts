@@ -37,7 +37,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/sainik-school-fees-2027-structure.webp"
+    image: "https://img.jgps.in/blog/sainik-school-fees-2027-structure.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Sainik School Fees 2027. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Sainik School Fees 2027 in 2027.</p>
 
@@ -102,7 +102,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/cbse-class-12-supplementary-exam-2026.webp"
+    image: "https://img.jgps.in/blog/cbse-class-12-supplementary-exam-2026.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about CBSE Class 12 Supplementary Exam 2026. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about CBSE Class 12 Supplementary Exam 2026 in 2027.</p>
 
@@ -167,7 +167,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "School News",
-    image: "/images/blog/cbse-class-10-second-board-result-2026.webp"
+    image: "https://img.jgps.in/blog/cbse-class-10-second-board-result-2026.webp"
     ,
     content: `<p>CBSE Class 10 Second Board Result 2026 is an important update for students and parents across India. Here is what you need to know and how it affects your child's education plan.</p>
 
@@ -229,7 +229,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/up-tgt-result-2026-download.webp"
+    image: "https://img.jgps.in/blog/up-tgt-result-2026-download.webp"
     ,
     content: `<p>UP TGT Result 2026 is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -291,7 +291,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/assam-hslc-re-admission-2026-failed-students.webp"
+    image: "https://img.jgps.in/blog/assam-hslc-re-admission-2026-failed-students.webp"
     ,
     content: `<p>Assam HSLC 2026 is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -353,7 +353,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/ib-school-program-demand-beyond-big-cities-india-2026.webp"
+    image: "https://img.jgps.in/blog/ib-school-program-demand-beyond-big-cities-india-2026.webp"
     ,
     content: `<p>Elite IB School Program Finds Demand Beyond India Big Cities in 2026 is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -415,7 +415,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/tamil-nadu-student-elections-july-2026.webp"
+    image: "https://img.jgps.in/blog/tamil-nadu-student-elections-july-2026.webp"
     ,
     content: `<p>Tamil Nadu Government Schools Hold First-Ever Student Elections is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -477,7 +477,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/maharashtra-marathi-mandatory-classes-1-10-2026.webp"
+    image: "https://img.jgps.in/blog/maharashtra-marathi-mandatory-classes-1-10-2026.webp"
     ,
     content: `<p>Maharashtra Makes Marathi Mandatory in Classes 1-10 is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -539,7 +539,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/sbi-apprentice-admit-card-2026-download.webp"
+    image: "https://img.jgps.in/blog/sbi-apprentice-admit-card-2026-download.webp"
     ,
     content: `<p>SBI Apprentice Admit Card 2026 is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -601,7 +601,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/iits-faculty-shortage-38-percent-vacant-2026.webp"
+    image: "https://img.jgps.in/blog/iits-faculty-shortage-38-percent-vacant-2026.webp"
     ,
     content: `<p>IITs Face Acute Faculty Shortage is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -663,7 +663,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/navodaya-vs-sainik-school-2025.webp"
+    image: "https://img.jgps.in/blog/navodaya-vs-sainik-school-2025.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Navodaya vs Sainik School 2025. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Navodaya vs Sainik School 2025 in 2027.</p>
 
@@ -728,7 +728,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/neet-ug-2026-re-exam-review-nta-reforms.webp"
+    image: "https://img.jgps.in/blog/neet-ug-2026-re-exam-review-nta-reforms.webp"
     ,
     content: `<p>NEET UG 2026 Re-Exam Review is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -790,7 +790,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "School News",
-    image: "/images/blog/cbse-class-12-compartment-exam-2026.webp"
+    image: "https://img.jgps.in/blog/cbse-class-12-compartment-exam-2026.webp"
     ,
     content: `<p>CBSE Class 12 Compartment Exam 2026 is an important update for students and parents across India. Here is what you need to know and how it affects your child's education plan.</p>
 
@@ -852,7 +852,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/josaa-counselling-2026-round-2-school-students.webp"
+    image: "https://img.jgps.in/blog/josaa-counselling-2026-round-2-school-students.webp"
     ,
     content: `<p>JoSAA Counselling 2026 Round 2 is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -918,7 +918,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/manipal-university-tops-sdg-5-globally.webp"
+    image: "https://img.jgps.in/blog/manipal-university-tops-sdg-5-globally.webp"
     ,
     content: `<p>Why This Indian University Just Ranked #1 Globally for Gender Equality is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -980,7 +980,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/tcs-inquizitive-2026-announced-registration.webp"
+    image: "https://img.jgps.in/blog/tcs-inquizitive-2026-announced-registration.webp"
     ,
     content: `<p>TCS InQuizitive 2026 is Here is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -1042,7 +1042,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/international-olympiad-prep-indian-students-2026.webp"
+    image: "https://img.jgps.in/blog/international-olympiad-prep-indian-students-2026.webp"
     ,
     content: `<p>Why Indian Students Are Dominating the 2026 Science Olympiads (And How to Register) is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -1104,7 +1104,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Current Affairs",
-    image: "/images/blog/indian-schools-world-best-school-prizes-2026.webp"
+    image: "https://img.jgps.in/blog/indian-schools-world-best-school-prizes-2026.webp"
     ,
     content: `<p>Why These 7 Indian Schools Just Got Nominated for the World's Best School Prizes is a important development in the education sector. This update is relevant for students preparing for competitive exams like NEET, JEE, NDA, and various entrance tests.</p>
 
@@ -1166,7 +1166,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/neet-2026-paper-analysis-study-strategies.webp"
+    image: "https://img.jgps.in/blog/neet-2026-paper-analysis-study-strategies.webp"
     ,
     content: `<p>The Brutal Truth About the NEET 2026 Paper (And How It Changes Your 2027 Strategy) is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1232,7 +1232,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/gemini-ai-personalized-study-notebooks.webp"
+    image: "https://img.jgps.in/blog/gemini-ai-personalized-study-notebooks.webp"
     ,
     content: `<p>How to Turn Your Messy Notes into an AI Study Guide Using Gemini Notebooks is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1298,7 +1298,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/30-day-july-sprint-study-timetable.webp"
+    image: "https://img.jgps.in/blog/30-day-july-sprint-study-timetable.webp"
     ,
     content: `<p>The Ultimate 30-Day July Sprint is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1364,7 +1364,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/post-vacation-lethargy-regaining-focus.webp"
+    image: "https://img.jgps.in/blog/post-vacation-lethargy-regaining-focus.webp"
     ,
     content: `<p>The 3-Day Protocol to Destroy Post-Vacation Lethargy Before It Ruins Your Grades is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1430,7 +1430,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: "Student Life",
-    image: "/images/blog/chhatron-ki-goonj-student-protests-parents-guide.webp"
+    image: "https://img.jgps.in/blog/chhatron-ki-goonj-student-protests-parents-guide.webp"
     ,
     content: `<p>Is Your Child Joining the 'Chhatron Ki Goonj' Protests? Read This Before They Do is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1496,7 +1496,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: "Student Life",
-    image: "/images/blog/monsoon-blues-mid-term-studies-focus.webp"
+    image: "https://img.jgps.in/blog/monsoon-blues-mid-term-studies-focus.webp"
     ,
     content: `<p>Why the Monsoon is Destroying Your Child's Focus (And How to Fix It Before Mid-Terms) is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1562,7 +1562,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/half-yearly-exam-prep-july-2026.webp"
+    image: "https://img.jgps.in/blog/half-yearly-exam-prep-july-2026.webp"
     ,
     content: `<p>Why Starting Half-Yearly Prep in July 2026 is the Only Way to Avoid Academic Disaster is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1628,7 +1628,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: "Student Life",
-    image: "/images/blog/cuet-ug-post-result-anxiety-2026.webp"
+    image: "https://img.jgps.in/blog/cuet-ug-post-result-anxiety-2026.webp"
     ,
     content: `<p>CUET UG 2026 Results is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -1694,7 +1694,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/why-june-2026-exam-season-toughest.webp"
+    image: "https://img.jgps.in/blog/why-june-2026-exam-season-toughest.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Why the June 2026 Exam Season Was the Bloodiest in a Decade. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Why the June 2026 Exam Season Was the Bloodiest in a Decade in 2027.</p>
 
@@ -1759,7 +1759,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/missed-june-2026-admissions-coaching-strategies.webp"
+    image: "https://img.jgps.in/blog/missed-june-2026-admissions-coaching-strategies.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Missed the June 2026 Admissions? The Brutal Truth About Dropping a Year. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Missed the June 2026 Admissions? The Brutal Truth About Dropping a Year in 2027.</p>
 
@@ -1824,7 +1824,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/nta-ai-security-measures-jnvst-2027.webp"
+    image: "https://img.jgps.in/blog/nta-ai-security-measures-jnvst-2027.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about JNVST 2027. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about JNVST 2027 in 2027.</p>
 
@@ -1889,7 +1889,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/neet-2026-re-exam-aftermath-cutoff-truth.webp"
+    image: "https://img.jgps.in/blog/neet-2026-re-exam-aftermath-cutoff-truth.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about NEET 2026 Re-Exam Truth. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about NEET 2026 Re-Exam Truth in 2027.</p>
 
@@ -1954,7 +1954,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Educator Resources",
-    image: "/images/blog/national-teachers-awards-2026-nominations-guide.webp"
+    image: "https://img.jgps.in/blog/national-teachers-awards-2026-nominations-guide.webp"
     ,
     content: `<p>National Teachers Awards 2026 is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -2020,7 +2020,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: "Student Life",
-    image: "/images/blog/emotional-toll-neet-2026-re-exam-parents.webp"
+    image: "https://img.jgps.in/blog/emotional-toll-neet-2026-re-exam-parents.webp"
     ,
     content: `<p>The Emotional Toll of the NEET 2026 Re-Exam is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -2086,7 +2086,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "Study Tips",
-    image: "/images/blog/weekly-current-affairs-june-20-26-2026-aissee-gk.webp"
+    image: "https://img.jgps.in/blog/weekly-current-affairs-june-20-26-2026-aissee-gk.webp"
     ,
     content: `<p>Weekly Current Affairs (June 20-26, 2026) is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -2152,7 +2152,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/cuet-math-normalization-2026-percentiles.webp"
+    image: "https://img.jgps.in/blog/cuet-math-normalization-2026-percentiles.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about CUET Math Normalization 2026. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about CUET Math Normalization 2026 in 2027.</p>
 
@@ -2217,7 +2217,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: "Study Tips",
-    image: "/images/blog/maximizing-new-google-ai-tools-for-students-iste-2026.webp"
+    image: "https://img.jgps.in/blog/maximizing-new-google-ai-tools-for-students-iste-2026.webp"
     ,
     content: `<p>Maximizing the New Google AI Tools for Students (ISTE 2026 Updates) is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -2283,7 +2283,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/cuet-ug-2026-results-declared-how-to-use-scores.webp"
+    image: "https://img.jgps.in/blog/cuet-ug-2026-results-declared-how-to-use-scores.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about CUET UG 2026 Results Declared. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about CUET UG 2026 Results Declared in 2027.</p>
 
@@ -2348,7 +2348,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: "Student Life",
-    image: "/images/blog/transitioning-back-to-school-reopening-stress-june-2026.webp"
+    image: "https://img.jgps.in/blog/transitioning-back-to-school-reopening-stress-june-2026.webp"
     ,
     content: `<p>Transitioning Back to School is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
@@ -2414,7 +2414,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/neet-ug-2026-answer-key-released-challenge-guide.webp"
+    image: "https://img.jgps.in/blog/neet-ug-2026-answer-key-released-challenge-guide.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about NEET UG 2026 Answer Key Released. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about NEET UG 2026 Answer Key Released in 2027.</p>
 
@@ -2479,7 +2479,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "School News",
-    image: "/images/blog/up-schools-reopen-june-25-2026-guidelines.webp"
+    image: "https://img.jgps.in/blog/up-schools-reopen-june-25-2026-guidelines.webp"
     ,
     content: `<p>UP Schools Reopen Post-Heatwave (June 2026) is an important update for students and parents across India. Here is what you need to know and how it affects your child's education plan.</p>
 
@@ -2541,7 +2541,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "School News",
-    image: "/images/blog/new-education-policy-2026-changes-parents-must-know.webp"
+    image: "https://img.jgps.in/blog/new-education-policy-2026-changes-parents-must-know.webp"
     ,
     content: `<p>New Education Policy (NEP) 2026 is an important update for students and parents across India. Here is what you need to know and how it affects your child's education plan.</p>
 
@@ -2603,7 +2603,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/sainik-school-admission-2027-28-aissee-guide.webp"
+    image: "https://img.jgps.in/blog/sainik-school-admission-2027-28-aissee-guide.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Sainik School Admission 2027-28 (AISSEE). Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Sainik School Admission 2027-28 (AISSEE) in 2027.</p>
 
@@ -2668,7 +2668,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/jnvst-class-6-admission-form-2027-apply-online.webp"
+    image: "https://img.jgps.in/blog/jnvst-class-6-admission-form-2027-apply-online.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Navodaya Admission 2027 Class 6. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Navodaya Admission 2027 Class 6 in 2027.</p>
 
@@ -2733,7 +2733,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/rashtriya-military-school-admission-2027-class-6-guide.webp"
+    image: "https://img.jgps.in/blog/rashtriya-military-school-admission-2027-class-6-guide.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Military School Admission 2027. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Military School Admission 2027 in 2027.</p>
 
@@ -2798,7 +2798,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/top-5-free-government-boarding-schools-india-class-6-admission-2027.webp"
+    image: "https://img.jgps.in/blog/top-5-free-government-boarding-schools-india-class-6-admission-2027.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Top 5 Free Government Boarding Schools in India for Class 6 Admission. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Top 5 Free Government Boarding Schools in India for Class 6 Admission in 2027.</p>
 
@@ -2863,7 +2863,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "School News",
-    image: "/images/blog/cbse-vs-up-board-comparison-competitive-exams-2027.webp"
+    image: "https://img.jgps.in/blog/cbse-vs-up-board-comparison-competitive-exams-2027.webp"
     ,
     content: `<p>CBSE vs UP Board 2027 is an important update for students and parents across India. Here is what you need to know and how it affects your child's education plan.</p>
 
@@ -2925,7 +2925,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/sainik-school-admission-form-2027-eligibility-fees-apply.webp"
+    image: "https://img.jgps.in/blog/sainik-school-admission-form-2027-eligibility-fees-apply.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Sainik School Admission Form 2027. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Sainik School Admission Form 2027 in 2027.</p>
 
@@ -2990,7 +2990,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/navodaya-preparation-class-6-strategy-guide.webp"
+    image: "https://img.jgps.in/blog/navodaya-preparation-class-6-strategy-guide.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Navodaya Admission 2027 Class 6. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Navodaya Admission 2027 Class 6 in 2027.</p>
 
@@ -3055,7 +3055,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: "School News",
-    image: "/images/blog/top-5-study-habits-for-school-students.webp"
+    image: "https://img.jgps.in/blog/top-5-study-habits-for-school-students.webp"
     ,
     content: `<p>5 High-Score Study Habits for Sainik, JNVST & AMU Entrances is an important update for students and parents across India. Here is what you need to know and how it affects your child's education plan.</p>
 
@@ -3117,7 +3117,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/jnvst-class-6-admission-notification-2027-28.webp"
+    image: "https://img.jgps.in/blog/jnvst-class-6-admission-notification-2027-28.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about JNVST Class 6 Admission 2027-28. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about JNVST Class 6 Admission 2027-28 in 2027.</p>
 
@@ -3182,7 +3182,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/sainik-school-admission-aissee-2027-28-guide.webp"
+    image: "https://img.jgps.in/blog/sainik-school-admission-aissee-2027-28-guide.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Sainik School Admission 2027-28 (AISSEE). Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Sainik School Admission 2027-28 (AISSEE) in 2027.</p>
 
@@ -3247,7 +3247,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/how-to-prepare-amu-class-6-entrance-exam.webp"
+    image: "https://img.jgps.in/blog/how-to-prepare-amu-class-6-entrance-exam.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about How to Prepare for AMU Class 6 Entrance Exam. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about How to Prepare for AMU Class 6 Entrance Exam in 2027.</p>
 
@@ -3312,7 +3312,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/sainik-school-class-6-preparation-tips.webp"
+    image: "https://img.jgps.in/blog/sainik-school-class-6-preparation-tips.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Sainik School Class 6 Admission. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Sainik School Class 6 Admission in 2027.</p>
 
@@ -3377,7 +3377,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/vidyagyan-school-admission-eligibility-syllabus.webp"
+    image: "https://img.jgps.in/blog/vidyagyan-school-admission-eligibility-syllabus.webp"
     ,
     content: `<p>Every year, thousands of parents search for information about Vidyagyan School Admission & Scholarship. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about Vidyagyan School Admission & Scholarship in 2027.</p>
 
@@ -3442,7 +3442,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: "School News",
-    image: "/images/blog/summer-holidays-up-schools-2025.webp"
+    image: "https://img.jgps.in/blog/summer-holidays-up-schools-2025.webp"
     ,
     content: `<p>UP Summer Vacation 2025 is an important update for students and parents across India. Here is what you need to know and how it affects your child's education plan.</p>
 
@@ -3504,7 +3504,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/sainik-school-vs-jnvst-2027.webp',
+    image: 'https://img.jgps.in/blog/sainik-school-vs-jnvst-2027.webp',
     content: `<p>Every parent wants the best school for their child. Two of the most popular government boarding schools in India are Sainik School and Navodaya Vidyalaya. Both offer excellent education at very low cost. But they are very different in their purpose, fees, and career outcomes.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Comparison</h2>
@@ -3541,7 +3541,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: 'School News',
-    image: '/images/blog/cbse-open-book-exams-2027.webp',
+    image: 'https://img.jgps.in/blog/cbse-open-book-exams-2027.webp',
     content: `<p>CBSE is planning to introduce open book exams for Class 9 and 11 from 2027. This is a major change. Instead of memorizing, students will refer to textbooks during exams. Questions will test understanding, not recall.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Changes</h2>
@@ -3581,7 +3581,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: 'Student Life',
-    image: '/images/blog/digital-fasting-parent-guide-2026.webp',
+    image: 'https://img.jgps.in/blog/digital-fasting-parent-guide-2026.webp',
     content: `<p>Screen time is eating into your child's study hours. Digital fasting is a structured approach to reducing screen time and improving focus. This guide shows parents how to use it.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Recommended Screen Time</h2>
@@ -3621,7 +3621,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: 'Academic Planning',
-    image: '/images/blog/feynman-technique-amu-class-6-math.webp',
+    image: 'https://img.jgps.in/blog/feynman-technique-amu-class-6-math.webp',
     content: `<p>The Feynman Technique is one of the most effective study methods. It helps students learn by teaching. It is especially useful for AMU Class 6 Math preparation.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The 4 Steps</h2>
@@ -3660,7 +3660,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/sainik-school-admission-2027-complete-guide.webp',
+    image: 'https://img.jgps.in/blog/sainik-school-admission-2027-complete-guide.webp',
     content: `<p>Every year, over 3 lakh students apply for Sainik School Admission 2027. Only about 3,000 seats are available. That means only 1 in 100 gets in. You need to start preparing now.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important Dates 2027</h2>
@@ -3702,7 +3702,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/jmi-class-6-entrance-2027-complete-guide.webp',
+    image: 'https://img.jgps.in/blog/jmi-class-6-entrance-2027-complete-guide.webp',
     content: `<p>Jamia Millia Islamia (JMI) is one of India's top central universities. Getting admission in JMI Class 6 is competitive. About 50,000 students apply for 100-150 seats. This guide covers everything you need to know.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important Dates</h2>
@@ -3738,7 +3738,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/aissee-omr-sheet-mistakes-cost-selection.webp',
+    image: 'https://img.jgps.in/blog/aissee-omr-sheet-mistakes-cost-selection.webp',
     content: `<p>Every year, hundreds of students lose 20-30 marks because of wrong bubbling on the OMR sheet. That is the difference between getting a seat and going home. This guide shows the most common mistakes.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Common OMR Mistakes</h2>
@@ -3778,7 +3778,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: 'Student Life',
-    image: '/images/blog/re-neet-2026-parents-guide-managing-stress.webp',
+    image: 'https://img.jgps.in/blog/re-neet-2026-parents-guide-managing-stress.webp',
     content: `<p>Your child already spent months preparing for NEET. Now they must do it all over again. Re-NEET adds more pressure. This guide helps parents support their children through this stressful time.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Signs Your Child Is Stressed</h2>
@@ -3818,7 +3818,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '3 mins',
     category: 'Student Life',
-    image: '/images/blog/cbse-re-result-anxiety-help-child.webp',
+    image: 'https://img.jgps.in/blog/cbse-re-result-anxiety-help-child.webp',
     content: `<p>Waiting for CBSE re-evaluation results is stressful. Your child's future plans depend on these marks. This guide helps parents manage anxiety during the waiting period.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Is CBSE Re-Evaluation?</h2>
@@ -3858,7 +3858,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: 'School News',
-    image: '/images/blog/ncert-new-class-9-textbook-2026-changes.webp',
+    image: 'https://img.jgps.in/blog/ncert-new-class-9-textbook-2026-changes.webp',
     content: `<p>NCERT has released new textbooks for Class 9 in 2026. These books follow the National Education Policy (NEP) 2020. The content, structure, and approach have changed significantly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Changes</h2>
@@ -3896,7 +3896,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '3 mins',
     category: 'School News',
-    image: '/images/blog/cisce-fitness-assessment-2026-parents-guide.webp',
+    image: 'https://img.jgps.in/blog/cisce-fitness-assessment-2026-parents-guide.webp',
     content: `<p>CISCE (Council for the Indian School Certificate Examinations) has introduced fitness assessments for students. This is part of the NEP 2020 focus on all-round development. Here is what parents need to know.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Is the Fitness Assessment?</h2>
@@ -3937,7 +3937,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: 'Study Tips',
-    image: '/images/blog/ai-chatbots-indian-classrooms-parents-guide.webp',
+    image: 'https://img.jgps.in/blog/ai-chatbots-indian-classrooms-parents-guide.webp',
     content: `<p>AI chatbots like ChatGPT are entering Indian classrooms. Some schools are using them for teaching. Parents are worried about cheating and dependency. This guide helps parents understand the impact.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How AI Chatbots Are Used</h2>
@@ -3980,7 +3980,7 @@ export const articles: Article[] = [
     authorBio: "Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.",
     readTime: '3 mins',
     category: 'Academic Planning',
-    image: '/images/blog/old-vs-new-ncert-class-9-study-guide.webp',
+    image: 'https://img.jgps.in/blog/old-vs-new-ncert-class-9-study-guide.webp',
     content: `<p>NCERT has released new Class 9 textbooks following NEP 2020. Many students and parents are confused about what changed. This guide compares old and new books side by side.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Differences</h2>
@@ -4019,7 +4019,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: 'Study Tips',
-    image: '/images/blog/weekly-current-affairs-june-27-july-3-2026-aissee-gk.webp',
+    image: 'https://img.jgps.in/blog/weekly-current-affairs-june-27-july-3-2026-aissee-gk.webp',
     content: `<p>Staying updated with current affairs is important for AISSEE GK section. This weekly digest covers important events from June 27 to July 3, 2026.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Events This Week</h2>
@@ -4058,7 +4058,7 @@ export const articles: Article[] = [
     authorBio: "Ravi Prakash is an expert in keeping young minds updated with global events and static GK. His materials are highly effective for the AISSEE General Knowledge section.",
     readTime: '3 mins',
     category: 'Current Affairs',
-    image: '/images/blog/passport-fees-increase-july-2026-students-guide.webp',
+    image: 'https://img.jgps.in/blog/passport-fees-increase-july-2026-students-guide.webp',
     content: `<p>Passport fees have increased from July 2026. This affects students planning to study abroad or apply for international programs. Here is what you need to know.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">New Fee Structure</h2>
@@ -4096,7 +4096,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/navodaya-preparation-class-6-strategy-guide.webp',
+    image: 'https://img.jgps.in/blog/navodaya-preparation-class-6-strategy-guide.webp',
     content: `<p>You have 6 months before the JNVST 2027 exam. That is enough time with a structured plan. This guide gives you a month-by-month strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">6-Month Plan</h2>
@@ -4129,7 +4129,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/navodaya-admission-rural-students.webp',
+    image: 'https://img.jgps.in/blog/navodaya-admission-rural-students.webp',
     content: `<p>Navodaya Vidyalaya reserves 75% of seats for rural students. This is a huge opportunity for children studying in village schools. This guide explains the rural quota in detail.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Rural Quota Details</h2>
@@ -4174,7 +4174,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '5 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/sainik-school-medical-test-complete-guide-2027.webp',
+    image: 'https://img.jgps.in/blog/sainik-school-medical-test-complete-guide-2027.webp',
     content: `<p>Your child cleared the AISSEE written exam. Good news. But the journey is not over yet. The Sainik School medical test is the next big hurdle. Every year, hundreds of students who scored well in the written exam get rejected in the medical test. The test is strict. It checks height, weight, eyesight, hearing, dental health, and overall fitness.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Is the Sainik School Medical Test?</h2>
@@ -4237,7 +4237,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '5 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/sainik-school-interview-questions-answers-2027.webp',
+    image: 'https://img.jgps.in/blog/sainik-school-interview-questions-answers-2027.webp',
     content: `<p>Your child cleared the AISSEE written exam. The medical test went well. Now comes the final hurdle. The Sainik School interview is where many students fail. The interview tests confidence, communication, general awareness, and whether your child genuinely wants to join a military school.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Happens in the Sainik School Interview?</h2>
@@ -4292,7 +4292,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '4 mins',
     category: 'Comparison',
-    image: '/images/blog/amu-vs-jmi-2027-complete-comparison.webp',
+    image: 'https://img.jgps.in/blog/amu-vs-jmi-2027-complete-comparison.webp',
     content: `<p>Your child is about to enter Class 6. You want the best education at an affordable cost. Two top options come to mind: AMU (Aligarh Muslim University) and JMI (Jamia Millia Islamia). Both are central universities with schools attached. Both offer quality education. Both are affordable. But which one is better for your child?</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Comparison Table</h2>
@@ -4346,7 +4346,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Admissions & Test Prep',
-    image: '/images/blog/sainik-school-scholarship-complete-guide-2027.webp',
+    image: 'https://img.jgps.in/blog/sainik-school-scholarship-complete-guide-2027.webp',
     content: `<p>Your child got selected in Sainik School. But now you are worried about the fees. Rupees 1 lakh per year sounds like a lot for many families. The good news is you may not have to pay anything. Sainik School offers scholarships that can reduce your fees by 25% to 100%.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Sainik School Fee Structure Overview</h2>
@@ -4393,7 +4393,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '3 mins',
     category: 'Comparison',
-    image: '/images/blog/fee-comparison-sainik-navodaya-amu-jmi-2027.webp',
+    image: 'https://img.jgps.in/blog/fee-comparison-sainik-navodaya-amu-jmi-2027.webp',
     content: `<p>You want the best education for your child. But budget matters. Government boarding schools like Sainik School, Navodaya Vidyalaya, AMU, and JMI offer quality education at low cost. But which one is cheapest? Which one is free? This guide compares every fee.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Quick Fee Comparison — All 4 Schools</h2>
@@ -4450,7 +4450,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '5 mins',
     category: "Comparison",
-    image: "/images/blog/sainik-school-vs-military-school-rms-2027.webp",
+    image: "https://img.jgps.in/blog/sainik-school-vs-military-school-rms-2027.webp",
     content: `<p>Should you send your child to Sainik School or Rashtriya Military School (RMS)? Most parents fill one form without checking the difference, and later wish they had known more. Both schools prepare children for a career in the Indian Armed Forces. But they differ in fees, who can apply, and how many students get into NDA.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Is the Difference?</h2>
@@ -4512,7 +4512,7 @@ export const articles: Article[] = [
     authorBio: "Najma has 7+ years of experience preparing students for Navodaya Vidyalaya entrance exams. She specializes in coaching rural students for JNVST with an 85% success rate.",
     readTime: '5 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/when-to-start-entrance-exam-preparation-class-6.webp",
+    image: "https://img.jgps.in/blog/when-to-start-entrance-exam-preparation-class-6.webp",
     content: `<p>Is your child in Class 3 or 4? Are you thinking about when to start preparing for Navodaya or Sainik School? A lot of parents say "he is too young, we will start later." That is the biggest mistake you can make.</p>
 <p>Every year, about 25 lakh children take the Navodaya exam. Most of the students who get selected started preparing from Class 4 or 5. Children who started just 2-3 months before the exam have a success rate of only about 8%. Starting at the right time matters a lot.</p>
 
@@ -4574,7 +4574,7 @@ export const articles: Article[] = [
     authorBio: "Sameer has 8+ years of experience in competitive exam preparation. He teaches Math and Reasoning shortcuts for AMU, Sainik School, and other entrance exams.",
     readTime: '4 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/navodaya-sainik-without-coaching.webp",
+    image: "https://img.jgps.in/blog/navodaya-sainik-without-coaching.webp",
     content: `<p>"Can my child get into Navodaya without coaching?" Almost every parent asks this. Some say without coaching nothing is possible. Others say coaching is a waste of money. The truth is somewhere in between.</p>
 <p>Every year, out of about 45,000 children selected for Navodaya, roughly 30% get in without any coaching. So yes, it is possible. But it takes the right approach and more effort from your side.</p>
 
@@ -4639,7 +4639,7 @@ export const articles: Article[] = [
     authorBio: "Priya specializes in child psychology and mental well-being. She helps students manage exam stress and build a healthy mindset during tough preparation phases.",
     readTime: '4 mins',
     category: "Student Life",
-    image: "/images/blog/child-failed-entrance-exam-what-to-do.webp",
+    image: "https://img.jgps.in/blog/child-failed-entrance-exam-what-to-do.webp",
     content: `<p>Your child took the Navodaya or Sainik School exam. Months of hard work. Then the result came and their name was not there. The child is crying. You feel terrible. This is a hard moment for any family.</p>
 <p>But this is not the end of the world. Every year, about 25 lakh children take the Navodaya exam. Only 45,000 get selected. The rest, about 24.5 lakh children, their future is not over. Not even close.</p>
 
@@ -4703,7 +4703,7 @@ export const articles: Article[] = [
     authorBio: "Principal at Jai Govind Public School with over 15 years of experience in education.",
     readTime: '3 mins',
     category: "Academic Planning",
-    image: "/images/blog/cbse-three-language-policy-2026-27.webp",
+    image: "https://img.jgps.in/blog/cbse-three-language-policy-2026-27.webp",
     imageAlt: "CBSE Three-Language Policy 2026-27 complete guide for parents",
     content: `<p>CBSE has introduced the three-language policy for 2026-27. Students must study three languages (R1, R2, R3) until Class 10.</p><p>The third language options include Sanskrit, French, German, and regional languages. Parents should help children choose wisely based on future career plans.</p>`,
     faqs: [
@@ -4724,7 +4724,7 @@ export const articles: Article[] = [
     authorBio: "Principal at Jai Govind Public School with over 15 years of experience in education.",
     readTime: '3 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/cuet-2026-27-university-admission.webp",
+    image: "https://img.jgps.in/blog/cuet-2026-27-university-admission.webp",
     imageAlt: "CUET 2026-27 university admission complete guide",
     content: `<p>CUET 2026-27 university admission guide — exam pattern, syllabus, registration process, and top universities accepting CUET scores.</p><p>Delhi University, BHU, JNU, and AMU are now accepting CUET applications. The counselling process begins in August 2026.</p>`,
     faqs: [
@@ -4746,7 +4746,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '6 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/navodaya-admission-2027-last-date.webp",
+    image: "https://img.jgps.in/blog/navodaya-admission-2027-last-date.webp",
     imageAlt: "Parent and child checking Navodaya admission 2027 last date on laptop at home",
     content: `<p>You sit at the kitchen table after dinner. Your child is studying in Class 5. A neighbor just told you about Navodaya Vidyalaya. Free education. Boarding. English medium. No fees at all. You want to apply. But the clock is ticking.</p>
 
@@ -4871,7 +4871,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '5 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/jnvst-2027-exam-pattern-syllabus.webp",
+    image: "https://img.jgps.in/blog/jnvst-2027-exam-pattern-syllabus.webp",
     imageAlt: "Parent and child reviewing JNVST 2027 exam pattern changes on a tablet",
     content: `<p>Your child is preparing for JNVST 2027. You bought the books. You made a timetable. But now you hear the exam pattern has changed. New syllabus. New question types. You feel confused. What changed? Is your child still on the right track?</p>
 
@@ -4988,7 +4988,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '6 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/how-to-crack-jnvst-2027-preparation-plan.webp",
+    image: "https://img.jgps.in/blog/how-to-crack-jnvst-2027-preparation-plan.webp",
     imageAlt: "Student studying for JNVST 2027 exam with books and notebook at desk",
     content: `<p>You watch your child sitting at the desk. Books are open. But the eyes are tired. You wonder — is my child preparing the right way? The JNVST exam is in January 2027. That is about 3 months away. Is there still enough time?</p>
 
@@ -5104,7 +5104,7 @@ export const articles: Article[] = [
     authorBio: "Expert education content team at Jai Govind Public School, specializing in school admissions and exam preparation guides.",
     readTime: '6 mins',
     category: "Academic Planning",
-    image: "/images/blog/cbse-two-board-exams-class-10-2026.webp",
+    image: "https://img.jgps.in/blog/cbse-two-board-exams-class-10-2026.webp",
     imageAlt: "Student preparing for CBSE Class 10 board exam with books and notebook",
     content: `<p>You just heard the news. CBSE Class 10 board exam will now happen twice a year. Your child is in Class 9 or 10 right now. You feel confused. Does this mean more pressure? Or is it actually a good thing?</p>
 
@@ -5205,7 +5205,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '12 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/RIMC_Dehradun_Admission_2027_2K_202607111124.webp",
+    image: "https://img.jgps.in/blog/RIMC_Dehradun_Admission_2027_2K_202607111124.webp",
     content: `<h1>RIMC Dehradun Admission 2027: Complete Guide for Parents from UP, Bihar & Uttarakhand</h1>
 
 <p>Your child is in Class VII right now. In a few months, they could be walking the corridors of one of India's most prestigious defence institutions — the Rashtriya Indian Military College, Dehradun. RIMC has been producing military leaders since 1922, and the January 2027 term entrance exam is coming up fast. If you're a parent from Uttar Pradesh, Bihar, or Uttarakhand, this guide covers everything you need to know — from eligibility and exam dates to preparation strategy and common mistakes that cost families this opportunity every year.</p>
@@ -5400,7 +5400,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '13 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/Sainik_School_Girls_Quota_2027_202607111126.webp",
+    image: "https://img.jgps.in/blog/Sainik_School_Girls_Quota_2027_202607111126.webp",
     content: `<h1>Sainik School Girls Quota 2027: Everything Parents Need to Know</h1>
 
 <p><em>Your daughter can now study in a Sainik School. Here's what's changed, how many seats are available, and how to prepare her for AISSEE 2027.</em></p>
@@ -5677,7 +5677,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '14 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/Navodaya_Class_9_Admission_2027_202607111133.webp",
+    image: "https://img.jgps.in/blog/Navodaya_Class_9_Admission_2027_202607111133.webp",
     content: `<h1>Navodaya Class 9 Admission 2027: Lateral Entry Form, Exam Date, Eligibility & Complete Guide</h1>
 
 <p>Your child didn't get into Navodaya in Class 6? That door isn't closed. The <strong>Navodaya Class 9 Admission 2027</strong> through Lateral Entry Selection Test (LEST) gives students a second shot at India's best free residential school network. Applications open in <strong>July 2026</strong>, the exam is in <strong>February 2027</strong>, and the entire process costs nothing. If your child is currently in Class 8, this is the moment to act. Parents across UP, Bihar, and Uttarakhand — read this guide carefully. One exam can change your child's entire academic future.</p>
@@ -5895,7 +5895,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '14 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/Boarding_School_vs_Day_School_202607111135.webp",
+    image: "https://img.jgps.in/blog/Boarding_School_vs_Day_School_202607111135.webp",
     content: `<h1>Boarding School vs Day School: The Honest Guide Every Parent Needs in 2026</h1>
 
 <p><em>Last Updated: July 2026 | Reading Time: 10 min | Author: JGPS Education Team</em></p>
@@ -6129,7 +6129,7 @@ export const articles: Article[] = [
     authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
     readTime: '11 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/JNVST_2027_Exam_Date_Out_2026.webp",
+    image: "https://img.jgps.in/blog/JNVST_2027_Exam_Date_Out_2026.webp",
     content: `<h1>JNVST 2027 Exam Date Released — Your Complete Guide to Navodaya Class 6 Admission</h1>
 
 <p>The wait is over. The Navodaya Vidyalaya Samiti (NVS) has officially released the notification for the Jawahar Navodaya Vidyalaya Selection Test (JNVST) 2027. If your child is in Class 5 right now and you've been dreaming about free, world-class residential education — this is the moment you've been waiting for. The exam date is set, the application window is open, and the clock is ticking. Let's break down everything you need to know, step by step, so you don't miss a single deadline.</p>
@@ -6365,7 +6365,7 @@ export const articles: Article[] = [
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
     readTime: '4 mins',
     category: "Admissions & Test Prep",
-    image: "/images/blog/jnvst-2027-application-form-last-date-31-july.webp",
+    image: "https://img.jgps.in/blog/jnvst-2027-application-form-last-date-31-july.webp",
     imageAlt: "JNVST 2027 application form last date 31 July 2026 — Navodaya Vidyalaya Class 6 admission",
     content: `<p>The wait is over. <strong>JNVST 2027 application form</strong> is now available online since <strong>7 July 2026</strong>. If your child is in Class 5 and dreams of studying in a Jawahar Navodaya Vidyalaya, this is the moment to act. The last date to apply is <strong>31 July 2026</strong> — just days away.</p>
 

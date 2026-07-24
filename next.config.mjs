@@ -10,6 +10,8 @@ const nextConfig = {
   images: {
     remotePatterns: [
       { protocol: 'https', hostname: 'jgps.in' },
+      { protocol: 'https', hostname: 'img.jgps.in' },
+      { protocol: 'https', hostname: 'jgps-images.pages.dev' },
       { protocol: 'https', hostname: 'erp.jgps.in' },
       { protocol: 'https', hostname: 'ui-avatars.com' },
     ],

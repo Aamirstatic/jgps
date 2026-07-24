@@ -42,7 +42,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी पिछले 10 साल से शिक्षा नीति और बोर्ड तुलना पर शोध कर रहे हैं। उन्होंने 5000 से ज़्यादा छात्रों को सही बोर्ड चुनने में मदद की है।",
     readTime: "14 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/cbse-vs-up-board-competitive-exams-2027.webp",
+    image: "https://img.jgps.in/blog/cbse-vs-up-board-competitive-exams-2027.webp",
     imageAlt: "CBSE बनाम UP बोर्ड 2027 — प्रतियोगी परीक्षाओं के लिए कौन सा बेहतर",
     content: `
       <p>क्या आपका बच्चा कक्षा 9 या 11 में नया बोर्ड चुनने वाला है? क्या आप सोच रहे हैं कि <strong>CBSE</strong> लें या <strong>UP बोर्ड</strong>? यह फैसला आपके बच्चे के भविष्य को सीधे प्रभावित करेगा। खासकर अगर बच्चा NEET, JEE, NDA या UPSC की तैयारी करना चाहता है।</p>
@@ -199,7 +199,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Amit Kumar जी पिछले 8 साल से राष्ट्रीय मिलिट्री स्कूल और सैनिक स्कूल की तैयारी करा रहे हैं। उनके 3000 से ज़्यादा छात्र मिलिट्री स्कूलों में चुने जा चुके हैं।",
     readTime: "15 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/rashtriya-military-school-admission-2027-guide.webp",
+    image: "https://img.jgps.in/blog/rashtriya-military-school-admission-2027-guide.webp",
     imageAlt: "RMS मिलिट्री स्कूल एडमिशन 2027 — पूरी जानकारी और तैयारी गाइड",
     content: `
       <p>क्या आपका बच्चा सेना में जाने का सपना देखता है? क्या आप चाहते हैं कि उसे अनुशासन और बेहतरीन शिक्षा मिले? <strong>राष्ट्रीय मिलिट्री स्कूल (RMS) एडमिशन 2027</strong> आपके बच्चे के लिए सुनहरा मौका है।</p>
@@ -414,7 +414,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Sameer जी पिछले 8 साल से AMU, JMI और अन्य प्रवेश परीक्षाओं की तैयारी करा रहे हैं। उनके 2000 से ज़्यादा छात्र देश के बड़े संस्थानों में चुने जा चुके हैं।",
     readTime: "16 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/amu-class-6-entrance-parents.webp",
+    image: "https://img.jgps.in/blog/amu-class-6-entrance-parents.webp",
     imageAlt: "AMU कक्षा 6 प्रवेश परीक्षा — पूरी गाइड और तैयारी",
     content: `
       <p>क्या आपका बच्चा कक्षा 5 में पढ़ रहा है? क्या आप चाहते हैं कि उसे देश के प्रतिष्ठित <strong>अलीगढ़ मुस्लिम यूनिवर्सिटी (AMU)</strong> में कक्षा 6 में एडमिशन मिले? यह मौका आपके बच्चे की ज़िंदगी बदल सकता है।</p>
@@ -650,7 +650,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Amit Kumar जी पिछले 8 साल से राष्ट्रीय मिलिट्री स्कूल और सैनिक स्कूल की तैयारी करा रहे हैं। उनके 3000 से ज़्यादा छात्र मिलिट्री स्कूलों में चुने जा चुके हैं।",
     readTime: "17 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/sainik-school-vs-military-school-2027.webp",
+    image: "https://img.jgps.in/blog/sainik-school-vs-military-school-2027.webp",
     imageAlt: "सैनिक स्कूल या मिलिट्री स्कूल 2027 — कौन सा चुनें",
     content: `
       <p>क्या आप सोच रहे हैं कि बच्चे को <strong>सैनिक स्कूल</strong> में भेजें या <strong>राष्ट्रीय मिलिट्री स्कूल (RMS)</strong> में? यह फैसला आसान नहीं है। <strong>90% माता-पिता</strong> यह गलती करते हैं कि बिना समझे किसी एक स्कूल का फॉर्म भर देते हैं। फिर बाद में पछताते हैं।</p>
@@ -860,7 +860,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Najma जी पिछले 6 साल से नवोदय स्कूलों की तैयारी करा रही हैं। उनके 1500 से ज़्यादा छात्र नवोदय स्कूलों में चुने जा चुके हैं।",
     readTime: "18 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/entrance-exam-taiyari-kab-shuru-karein.webp",
+    image: "https://img.jgps.in/blog/entrance-exam-taiyari-kab-shuru-karein.webp",
     imageAlt: "बच्चे की एंट्रेंस एग्जाम तैयारी कब शुरू करें — सही उम्र और प्लान",
     content: `
       <p>क्या आपका बच्चा अभी कक्षा 3 या 4 में है? क्या आप सोच रहे हैं कि <strong>नवोदय या सैनिक स्कूल</strong> की तैयारी कब से शुरू करें? यह सवाल हर माता-पिता के मन में आता है। बहुत से लोग कहते हैं कि "अभी बहुत छोटा है, बाद में करेंगे।" यही सबसे बड़ी गलती है।</p>
@@ -1035,7 +1035,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Sameer जी पिछले 8 साल से सैनिक स्कूल और नवोदय की तैयारी करा रहे हैं। उनके 2000 से ज़्यादा छात्र सरकारी स्कूलों में चुने जा चुके हैं।",
     readTime: "19 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/bina-coaching-navodaya-sainik-admission.webp",
+    image: "https://img.jgps.in/blog/bina-coaching-navodaya-sainik-admission.webp",
     imageAlt: "क्या बिना कोचिंग के नवोदय या सैनिक स्कूल में एडमिशन मिल सकता है",
     content: `
       <p>"कोचिंग के बिना नवोदय में एडमिशन हो सकता है क्या?" — यह सवाल हर दूसरे माता-पिता पूछते हैं। कुछ लोग कहते हैं कि <strong>बिना कोचिंग के कुछ नहीं होता</strong>। दूसरे कहते हैं कि <strong>कोचिंग पैसे की बर्बादी</strong> है। सच क्या है?</p>
@@ -1182,7 +1182,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Priya Verma जी बच्चों के मानसिक स्वास्थ्य और परीक्षा तनाव पर विशेषज्ञ हैं। उन्होंने 5000 से ज़्यादा बच्चों को परीक्षा के बाद के तनाव से उबरने में मदद की है।",
     readTime: "20 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/entrance-exam-fail-bachcha-kya-karein.webp",
+    image: "https://img.jgps.in/blog/entrance-exam-fail-bachcha-kya-karein.webp",
     imageAlt: "एंट्रेंस एग्जाम में बच्चा फेल हो गया — अब क्या करें",
     content: `
       <p>आपके बच्चे ने नवोदय या सैनिक स्कूल की परीक्षा दी। महीनों मेहनत की। लेकिन <strong>रिज़ल्ट आया तो नाम नहीं था।</strong> बच्चा रो रहा है। आपका दिल टूट रहा है। यह पल बहुत मुश्किल है।</p>
@@ -1318,7 +1318,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी पिछले 10 साल से शिक्षा नीति और बोर्ड तुलना पर शोध कर रहे हैं। उन्होंने 5000 से ज़्यादा छात्रों को सही स्कूल चुनने में मदद की है।",
     readTime: "21 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/muft-sarkari-school-2027-list.webp",
+    image: "https://img.jgps.in/blog/muft-sarkari-school-2027-list.webp",
     imageAlt: "5 सरकारी स्कूल जहाँ पढ़ाई बिल्कुल मुफ्त है — 2027 की लिस्ट",
     content: `
       <p>क्या आप जानते हैं कि भारत में ऐसे स्कूल हैं जहाँ <strong>पढ़ाई, हॉस्टल, खाना, किताबें — सब मुफ्त</strong> है? जी हाँ, बिल्कुल मुफ्त। न कोई फीस, न कोई छिपा हुआ चार्ज। ये स्कूल भारत सरकार और बड़ी फाउंडेशन चलाती हैं।</p>
