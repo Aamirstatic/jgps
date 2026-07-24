@@ -3,6 +3,29 @@ import { hindiArticles } from '@/data/hindi-articles';
 import { authors } from '@/data/authors';
 import HindiArticleTemplate from '@/components/HindiArticleTemplate';
 
+// Parse Hindi date strings like "24 जुलाई 2026, शाम 1 बजकर 12 मिनट"
+function parseHindiDate(str: string): Date | null {
+  if (!str) return null;
+  const months: Record<string, number> = {
+    'जनवरी': 0, 'फरवरी': 1, 'मार्च': 2, 'अप्रैल': 3, 'मई': 4, 'जून': 5,
+    'जुलाई': 6, 'अगस्त': 7, 'सितंबर': 8, 'अक्टूबर': 9, 'नवंबर': 10, 'दिसंबर': 11
+  };
+  // Pattern: "24 जुलाई 2026, शाम 1 बजकर 12 मिनट" or "24 जुलाई 2026"
+  const match = str.match(/(\d+)\s+(\S+)\s+(\d{4})(?:,\s*(सुबह|शाम)\s+(\d+)\s+बजकर\s+(\d+)\s+मिनट)?/);
+  if (!match) return null;
+  const day = parseInt(match[1]);
+  const month = months[match[2]];
+  const year = parseInt(match[3]);
+  if (month === undefined) return null;
+  let hours = 0, minutes = 0;
+  if (match[4]) {
+    hours = parseInt(match[5]);
+    minutes = parseInt(match[6]);
+    if (match[4] === 'शाम' && hours < 12) hours += 12;
+  }
+  return new Date(year, month, day, hours, minutes);
+}
+
 export async function generateStaticParams() {
   return hindiArticles.map((article) => ({
     slug: article.slug,
@@ -17,9 +40,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return { title: 'Article Not Found' };
   }
 
-  const articleDate = new Date(article.date);
+  const articleDate = parseHindiDate(article.date) || new Date(article.date);
   const isoDate = isNaN(articleDate.getTime()) ? new Date().toISOString() : articleDate.toISOString();
-  const modifiedDateVal = article.modifiedDate ? new Date(article.modifiedDate) : articleDate;
+  const modifiedDateVal = article.modifiedDate ? (parseHindiDate(article.modifiedDate) || new Date(article.modifiedDate)) : articleDate;
   let isoModifiedDate = isNaN(modifiedDateVal.getTime()) ? isoDate : modifiedDateVal.toISOString();
   // Ensure modifiedDate is never before publishedDate
   if (new Date(isoModifiedDate) < new Date(isoDate)) {
@@ -82,9 +105,9 @@ export default async function HindiBlogArticlePage({ params }: { params: Promise
     notFound();
   }
 
-  const articleDate = new Date(article.date);
+  const articleDate = parseHindiDate(article.date) || new Date(article.date);
   const isoDate = isNaN(articleDate.getTime()) ? new Date().toISOString() : articleDate.toISOString();
-  const modifiedDateVal = article.modifiedDate ? new Date(article.modifiedDate) : articleDate;
+  const modifiedDateVal = article.modifiedDate ? (parseHindiDate(article.modifiedDate) || new Date(article.modifiedDate)) : articleDate;
   let isoModifiedDate = isNaN(modifiedDateVal.getTime()) ? isoDate : modifiedDateVal.toISOString();
   // Ensure modifiedDate is never before publishedDate
   if (new Date(isoModifiedDate) < new Date(isoDate)) {
