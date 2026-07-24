@@ -76,7 +76,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       url: `https://jgps.in/hi/blog/${article.slug}/`,
       siteName: 'जय गोविंद पब्लिक स्कूल',
       images: [{
-        url: `https://jgps.in${article.image}`,
+        url: article.image.startsWith('http') ? article.image : `https://jgps.in${article.image}`,
         width: 1200,
         height: 675,
         alt: article.imageAlt || article.title,
@@ -92,7 +92,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       card: 'summary_large_image',
       title: article.title,
       description: article.description,
-      images: [`https://jgps.in${article.image}`],
+      images: [article.image.startsWith('http') ? article.image : `https://jgps.in${article.image}`],
     },
   };
 }
@@ -134,7 +134,7 @@ export default async function HindiBlogArticlePage({ params }: { params: Promise
     },
     "headline": article.title,
     "description": article.description,
-    "image": `https://jgps.in${article.image}`,
+    "image": article.image.startsWith('http') ? article.image : `https://jgps.in${article.image}`,
     "datePublished": isoDate,
     "dateModified": isoModifiedDate,
     "author": {
