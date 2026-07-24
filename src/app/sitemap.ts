@@ -47,13 +47,13 @@ function safeDate(dateStr: string, modifiedDate?: string): string {
     if (!isNaN(d.getTime())) return d.toISOString();
   }
 
-  return new Date('2026-07-23').toISOString();
+  return new Date('2026-07-24').toISOString();
 }
 
 // Determine changefreq based on article freshness
 function getChangeFreq(dateStr: string): 'daily' | 'weekly' | 'monthly' {
   const lastMod = new Date(safeDate(dateStr));
-  const now = new Date('2026-07-23');
+  const now = new Date('2026-07-24');
   const daysDiff = Math.floor((now.getTime() - lastMod.getTime()) / (1000 * 60 * 60 * 24));
   
   if (daysDiff <= 7) return 'daily';    // Fresh articles
@@ -66,17 +66,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Core site pages
   const routes = [
-    { url: `${baseUrl}/`, lastModified: new Date('2026-07-23').toISOString(), changeFrequency: 'daily' as const, priority: 1.0 },
-    { url: `${baseUrl}/blog/`, lastModified: new Date('2026-07-23').toISOString(), changeFrequency: 'daily' as const, priority: 0.9 },
-    { url: `${baseUrl}/authors/`, lastModified: new Date('2026-07-23').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
-    { url: `${baseUrl}/about/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'monthly' as const, priority: 0.7 },
-    { url: `${baseUrl}/admission/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
-    { url: `${baseUrl}/coaching/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
-    { url: `${baseUrl}/contact/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'monthly' as const, priority: 0.6 },
-    { url: `${baseUrl}/faq/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'monthly' as const, priority: 0.6 },
-    { url: `${baseUrl}/gallery/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'monthly' as const, priority: 0.5 },
-    { url: `${baseUrl}/resources/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'weekly' as const, priority: 0.7 },
-    { url: `${baseUrl}/facilities/`, lastModified: new Date('2026-07-04').toISOString(), changeFrequency: 'monthly' as const, priority: 0.5 },
+    { url: `${baseUrl}/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'daily' as const, priority: 1.0 },
+    { url: `${baseUrl}/blog/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'daily' as const, priority: 0.9 },
+    { url: `${baseUrl}/authors/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
+    { url: `${baseUrl}/about/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'monthly' as const, priority: 0.7 },
+    { url: `${baseUrl}/admission/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
+    { url: `${baseUrl}/coaching/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
+    { url: `${baseUrl}/contact/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'monthly' as const, priority: 0.6 },
+    { url: `${baseUrl}/faq/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'monthly' as const, priority: 0.6 },
+    { url: `${baseUrl}/gallery/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'monthly' as const, priority: 0.5 },
+    { url: `${baseUrl}/resources/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'weekly' as const, priority: 0.7 },
+    { url: `${baseUrl}/facilities/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'monthly' as const, priority: 0.5 },
   ];
 
   // Static sub-pages
@@ -105,37 +105,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/sitemap/', '/feed.xml',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
-    lastModified: new Date('2026-07-04').toISOString(),
+    lastModified: new Date('2026-07-24').toISOString(),
     changeFrequency: 'monthly' as const,
     priority: 0.5,
   }));
 
-  // English blog articles - each with its OWN lastmod
+  // English blog articles - each with its OWN lastmod (prefer modifiedDate)
   const blogRoutes = articles.map((article) => ({
     url: `${baseUrl}/blog/${article.slug}/`,
-    lastModified: safeDate(article.date, article.modifiedDate),
-    changeFrequency: getChangeFreq(article.date),
+    lastModified: safeDate(article.modifiedDate || article.date, article.modifiedDate),
+    changeFrequency: getChangeFreq(article.modifiedDate || article.date),
     priority: 0.7,
   }));
 
   // Hindi pages
   const hindiBase = [
-    { url: `${baseUrl}/hi/`, lastModified: new Date('2026-07-23').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
-    { url: `${baseUrl}/hi/blog/`, lastModified: new Date('2026-07-23').toISOString(), changeFrequency: 'daily' as const, priority: 0.8 },
+    { url: `${baseUrl}/hi/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'weekly' as const, priority: 0.8 },
+    { url: `${baseUrl}/hi/blog/`, lastModified: new Date('2026-07-24').toISOString(), changeFrequency: 'daily' as const, priority: 0.8 },
   ];
 
-  // Hindi blog articles - each with its OWN lastmod
+  // Hindi blog articles - each with its OWN lastmod (prefer modifiedDate)
   const hindiBlogRoutes = hindiArticles.map((article) => ({
     url: `${baseUrl}/hi/blog/${article.slug}/`,
-    lastModified: safeDate(article.date, article.modifiedDate),
-    changeFrequency: getChangeFreq(article.date),
+    lastModified: safeDate(article.modifiedDate || article.date, article.modifiedDate),
+    changeFrequency: getChangeFreq(article.modifiedDate || article.date),
     priority: 0.7,
   }));
 
   // Author pages
   const authorRoutes = authors.map((author) => ({
     url: `${baseUrl}/author/${author.slug}/`,
-    lastModified: new Date('2026-07-23').toISOString(),
+    lastModified: new Date('2026-07-24').toISOString(),
     changeFrequency: 'monthly' as const,
     priority: 0.6,
   }));
