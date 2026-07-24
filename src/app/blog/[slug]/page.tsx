@@ -22,7 +22,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const articleDate = new Date(article.date);
   const isoDate = isNaN(articleDate.getTime()) ? new Date().toISOString() : articleDate.toISOString();
   const modifiedDateVal = article.modifiedDate ? new Date(article.modifiedDate) : articleDate;
-  const isoModifiedDate = isNaN(modifiedDateVal.getTime()) ? isoDate : modifiedDateVal.toISOString();
+  let isoModifiedDate = isNaN(modifiedDateVal.getTime()) ? isoDate : modifiedDateVal.toISOString();
+  // Ensure modifiedDate is never before publishedDate
+  if (new Date(isoModifiedDate) < new Date(isoDate)) {
+    isoModifiedDate = isoDate;
+  }
 
   return {
     title: article.title,
@@ -77,7 +81,11 @@ export default async function BlogArticlePage({ params }: { params: Promise<{ sl
   const articleDate = new Date(article.date);
   const isoDate = isNaN(articleDate.getTime()) ? new Date().toISOString() : articleDate.toISOString();
   const modifiedDateVal = article.modifiedDate ? new Date(article.modifiedDate) : articleDate;
-  const isoModifiedDate = isNaN(modifiedDateVal.getTime()) ? isoDate : modifiedDateVal.toISOString();
+  let isoModifiedDate = isNaN(modifiedDateVal.getTime()) ? isoDate : modifiedDateVal.toISOString();
+  // Ensure modifiedDate is never before publishedDate
+  if (new Date(isoModifiedDate) < new Date(isoDate)) {
+    isoModifiedDate = isoDate;
+  }
   const authorData = authors.find(a => a.name === article.author);
 
   const faqSchema = {

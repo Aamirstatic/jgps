@@ -71,7 +71,7 @@ function StickyShareBar({ title }: { title: string }) {
   );
 }
 
-// FAQ Accordion
+// FAQ Accordion — all answers in DOM for Google SEO
 function FaqAccordion({ faqs }: { faqs: HindiArticle['faqs'] }) {
   const [open, setOpen] = useState<number | null>(0);
   if (!faqs || !faqs.length) return null;
@@ -85,15 +85,16 @@ function FaqAccordion({ faqs }: { faqs: HindiArticle['faqs'] }) {
         {faqs.map((faq, i) => (
           <div key={i} className="border border-gray-200 rounded-xl overflow-hidden">
             <button onClick={() => setOpen(open === i ? null : i)}
-              className="w-full flex items-start justify-between gap-3 px-5 py-4 text-left bg-white hover:bg-gray-50 transition-colors">
+              className="w-full flex items-start justify-between gap-3 px-5 py-4 text-left bg-white hover:bg-gray-50 transition-colors"
+              aria-expanded={open === i}>
               <span className="font-bold text-gray-900 text-sm leading-snug">{faq.question}</span>
               {open === i ? <FaChevronUp className="text-[#035c00] flex-shrink-0 mt-0.5 text-sm" /> : <FaChevronDown className="text-gray-400 flex-shrink-0 mt-0.5 text-sm" />}
             </button>
-            {open === i && (
-              <div className="px-5 pb-4 bg-green-50 border-t border-gray-100">
-                <p className="text-sm text-gray-700 leading-relaxed m-0 pt-3">{faq.answer}</p>
-              </div>
-            )}
+            <div className="px-5 bg-green-50 border-t border-gray-100 overflow-hidden transition-all duration-300 ease-in-out"
+              style={{ maxHeight: open === i ? '300px' : '0px', paddingBottom: open === i ? '16px' : '0px' }}
+              aria-hidden={open !== i}>
+              <p className="text-sm text-gray-700 leading-relaxed m-0 pt-3">{faq.answer}</p>
+            </div>
           </div>
         ))}
       </div>
