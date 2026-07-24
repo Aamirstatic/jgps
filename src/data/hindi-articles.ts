@@ -5304,7 +5304,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 15 साल से वे बच्चों को नवोदय, सैनिक स्कूल और AMU प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     readTime: "5 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
-    image: "/images/blog/jnvst-2027-form-agaya-niyam-mein-badlaav.webp",
+    image: "/images/blog/jnvst-2027-form-agaya-niyam-mein-badlaav-20260724.webp",
     imageAlt: "JNVST 2027 नवोदय कक्षा 6 एडमिशन फॉर्म — नया नियम और बदलाव",
     content: `<p>अगर आपका बच्चा कक्षा 5 में पढ़ रहा है और आप चाहते हैं कि वो देश के सबसे अच्छे सरकारी स्कूलों में से एक — <strong>जवाहर नवोदय विद्यालय</strong> — में पढ़े, तो ये खबर आपके लिए बहुत जरूरी है।</p>
 
@@ -5436,7 +5436,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Neha Singh स्टडी हैबिट्स और लर्निंग टेक्निक्स की एक्सपर्ट हैं। पिछले 10 साल से वे बच्चों को सही तरीके से पढ़ना सिखा रही हैं। उनका मानना है कि मेहनत से ज्यादा जरूरी है सही तरीका।",
     readTime: "4 मिनट",
     category: "पढ़ाई के टिप्स",
-    image: "/images/blog/active-recall-spaced-repetition-padhai-topper-trick.webp",
+    image: "/images/blog/active-recall-spaced-repetition-padhai-topper-trick-20260724.webp",
     imageAlt: "Active Recall और Spaced Repetition — टॉपर्स की पढ़ाई की ट्रिक",
     content: `<p>क्या आपका बच्चा घंटों पढ़ता है लेकिन एग्जाम में सब भूल जाता है? क्या वो रटता है, रटता है, और फिर भी नंबर कम आते हैं? तो समस्या मेहनत में नहीं, <strong>तरीके में है।</strong></p>
 
@@ -5509,7 +5509,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Ravi Prakash करेंट अफेयर्स और जनरल नॉलेज के एक्सपर्ट हैं। पिछले 8 साल से वे प्रतियोगी परीक्षाओं की तैयारी करा रहे हैं। उनकी GK क्लासेज बच्चों में बहुत लोकप्रिय हैं।",
     readTime: "4 मिनट",
     category: "करेंट अफेयर्स",
-    image: "/images/blog/current-affairs-july-2026-weekly-gk-school-students.webp",
+    image: "/images/blog/current-affairs-july-2026-weekly-gk-school-students-20260724.webp",
     imageAlt: "जुलाई 2026 करेंट अफेयर्स — स्कूल स्टूडेंट्स के लिए वीकली GK",
     content: `<p>अगर आपका बच्चा JNVST, Sainik School, AMU या किसी भी एंट्रेंस एग्जाम की तैयारी कर रहा है, तो <strong>करेंट अफेयर्स</strong> सबसे स्कोरिंग सेक्शन है। बस 5 मिनट रोज पढ़ो, और 10-15 नंबर पक्के।</p>
 
@@ -5575,7 +5575,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Aamir अंग्रेजी और उर्दू भाषा के एक्सपर्ट हैं। जय गोविंद पब्लिक स्कूल में वे बच्चों को इंग्लिश इतना आसान तरीके से सिखाते हैं कि हिंदी मीडियम के बच्चे भी एंट्रेंस एग्जाम में इंग्लिश सेक्शन में अच्छा स्कोर करते हैं।",
     readTime: "4 मिनट",
     category: "पढ़ाई के टिप्स",
-    image: "/images/blog/english-kamzor-bacche-entrance-exam-kaise-nikale.webp",
+    image: "/images/blog/english-kamzor-bacche-entrance-exam-kaise-nikale-20260724.webp",
     imageAlt: "इंग्लिश में कमजोर बच्चे एंट्रेंस एग्जाम कैसे निकालें",
     content: `<p>"सर, मेरा बच्चा हिंदी मीडियम है। इंग्लिश बहुत कमजोर है। क्या वो नवोदय या सैनिक स्कूल निकाल पाएगा?"</p>
 
@@ -5640,7 +5640,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Nisha प्राइमरी एजुकेशन की एक्सपर्ट हैं। जय गोविंद पब्लिक स्कूल में वे नर्सरी से कक्षा 5 तक के बच्चों को पढ़ाती हैं। उनका मानना है कि छोटी उम्र में सही नींव डालना सबसे जरूरी है।",
     readTime: "4 मिनट",
     category: "प्राइमरी शिक्षा",
-    image: "/images/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti.webp",
+    image: "/images/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti-20260724.webp",
     imageAlt: "पहली कक्षा से पहले बच्चे को क्या सिखाएं — पेरेंट्स की गलती",
     content: `<p>"मेरा बच्चा 4 साल का है। A से Z तक बोल लेता है। 1 से 100 तक गिन लेता है। स्कूल के लिए तैयार है न?"</p>
 
@@ -5714,7 +5714,7 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Priya Verma एक स्टूडेंट काउंसलर हैं जो बच्चों के मानसिक स्वास्थ्य और एग्जाम स्ट्रेस पर काम करती हैं। पिछले 8 साल में उन्होंने हजारों बच्चों और पेरेंट्स की काउंसलिंग की है।",
     readTime: "4 मिनट",
     category: "स्टूडेंट वेलनेस",
-    image: "/images/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein.webp",
+    image: "/images/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein-20260724.webp",
     imageAlt: "बच्चा एग्जाम से डरता है — एग्जाम एंजायटी कम करने के 5 तरीके",
     content: `<p>"मम्मी, मेरा पेट दुख रहा है।"</p>
 <p>"पापा, मुझे एग्जाम नहीं देना।"</p>
