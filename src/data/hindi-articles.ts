@@ -7597,6 +7597,316 @@ export const hindiArticles: HindiArticle[] = [
       { question: "बच्चा खाना नहीं खा रहा, क्या करूं?", answer: "पहले हफ्ते में ये normal है। Warden से बात करें। बच्चे को comfort food भेजें। 2-3 हफ्ते में बच्चा adjust कर लेगा।" },
       { question: "मुझे guilt feel हो रहा है, क्या ये normal है?", answer: "हां, ये 100% normal है। हर parent यही feel करता है। याद रखें: आपने बच्चे के भविष्य के लिए ये decision लिया है। बच्चा independent और strong बनेगा।" }
     ]
+  },
+  {
+    slug: "amu-class-6-entrance-2027-important-questions",
+    title: "AMU Class 6 Entrance 2027: Important Questions और मॉडल पेपर",
+    description: "AMU Class 6 Entrance 2027 Important Questions — English, Hindi, Urdu, Mathematics, General Science सभी subjects cover। Previous year papers और model paper PDF download।",
+    keywords: "AMU Class 6 Entrance 2027 Important Questions, AMU Class 6 Entrance model paper PDF, AMU Class 6 previous year question papers, AMU Class 6 syllabus and exam pattern 2027",
+    date: "25 जुलाई 2026, शाम 7 बजे",
+    modifiedDate: "25 जुलाई 2026, शाम 7 बजे",
+    author: "Sameer",
+    authorName: "Sameer",
+    authorSlug: "sameer",
+    authorRole: "Entrance Exam Coach, JGPS",
+    authorBio: "Sameer JGPS में entrance exam coaching देते हैं। 8+ साल के experience के साथ AMU, Sainik School, और अन्य entrance exams की तैयारी कराते हैं।",
+    readTime: "10 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/amu-class-6-entrance-2027-important-questions.webp",
+    imageAlt: "AMU Class 6 Entrance 2027 Important Questions - model paper PDF previous year papers exam pattern",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Exam Snapshot:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Written Test:</strong> 85 marks (MCQ + Subjective)</li>
+<li><strong>Interview:</strong> 15 marks</li>
+<li><strong>Total:</strong> 100 marks</li>
+<li><strong>Duration:</strong> 2 hours</li>
+<li><strong>Passing Criteria:</strong> Minimum 40% in each section</li>
+<li><strong>Negative Marking:</strong> हां, 0.25 marks कटते हैं हर गलत answer पर</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Coach Sameer से संदेश:</p>
+<p>"मैं 8 साल से AMU entrance की coaching दे रहा हूं। सबसे बड़ी गलती students ये करते हैं कि सिर्फ Mathematics पर focus करते हैं और Language section ignore करते हैं। AMU में हर section important है। जो student हर section में 60%+ लाता है, उसका selection 90% confirm हो जाता है।"</p>
+</div>
+
+<p><strong>AMU Class 6 Entrance 2027 Important Questions</strong> — ये वो सवाल हैं जो पिछले 5 साल के AMU entrance papers से select किए गए हैं। Aligarh Muslim University (AMU) हर साल Class 6 में admission के लिए entrance exam आयोजित करता है। ये exam बहुत competitive है — हज़ारों students apply करते हैं, लेकिन सिर्फ कुछ सौ को admission मिलता है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Class 6 Entrance 2027 Exam Pattern & Subject Weightage</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Type</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900" rowspan="3">Section I</td><td class="py-3 px-4 border-b">English</td><td class="py-3 px-4 border-b">15</td><td class="py-3 px-4 border-b">MCQ + Subjective</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b">Hindi</td><td class="py-3 px-4 border-b">10</td><td class="py-3 px-4 border-b">MCQ + Subjective</td></tr><tr><td class="py-3 px-4 border-b">Urdu</td><td class="py-3 px-4 border-b">10</td><td class="py-3 px-4 border-b">MCQ + Subjective</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900" rowspan="2">Section II</td><td class="py-3 px-4 border-b">Mathematics</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">MCQ + Subjective</td></tr><tr><td class="py-3 px-4 border-b">General Science</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">MCQ + Subjective</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Interview</td><td class="py-3 px-4">—</td><td class="py-3 px-4">15</td><td class="py-3 px-4">Personal Interview</td></tr><tr><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4"></td><td class="py-3 px-4 font-bold">100</td><td class="py-3 px-4"></td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Subject-Wise Important Questions for Practice</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 1: English (15 Marks)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q1.</strong> Choose the correct synonym of "Happy":</p>
+<p>A) Sad | B) Joyful ✓ | C) Angry | D) Tired</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Joyful — "Joyful" means the same as "happy."</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q2.</strong> Fill in the blank: She _____ to school every day.</p>
+<p>A) go | B) goes ✓ | C) going | D) went</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) goes — "Every day" indicates present tense. Third person singular requires "goes."</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q3.</strong> Choose the correct article: _____ apple a day keeps the doctor away.</p>
+<p>A) A | B) An ✓ | C) The | D) No article</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) An — "Apple" starts with a vowel sound, so "an" is used.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q4.</strong> Identify the noun: "The children played in the garden."</p>
+<p>A) played | B) children ✓ | C) in | D) the</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) children — "Children" is a noun (person).</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q5.</strong> Choose the antonym of "Tall":</p>
+<p>A) High | B) Big | C) Short ✓ | D) Long</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Short — "Short" is the opposite of "tall."</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 1: Hindi (10 Marks)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q6.</strong> "विद्यालय" का पर्यावाची शब्द क्या है?</p>
+<p>A) पाठशाला ✓ | B) अस्पताल | C) बाज़ार | D) घर</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) पाठशाला — विद्यालय और पाठशाला एक ही अर्थ रखते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q7.</strong> "लड़का" का विलोम शब्द क्या है?</p>
+<p>A) बच्चा | B) लड़की ✓ | C) आदमी | D) औरत</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) लड़की — लड़का का विलोम लड़की है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q8.</strong> "राम स्कूल जाता है।" इस वाक्य में क्रिया कौन सी है?</p>
+<p>A) राम | B) स्कूल | C) जाता है ✓ | D) कोई नहीं</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) जाता है — "जाता है" क्रिया (verb) है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q9.</strong> "सूरज पूरब में उगता है।" यह किस प्रकार का वाक्य है?</p>
+<p>A) सरल वाक्य | B) संयुक्त वाक्य | C) मिश्र वाक्य ✓ | D) प्रश्नवाचक</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) मिश्र वाक्य — इसमें एक प्रधान उपवाक्य और एक आश्रित उपवाक्य है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q10.</strong> "वह बहुत तेज़ दौड़ता है।" में विशेषण कौन सा है?</p>
+<p>A) वह | B) बहुत | C) तेज़ ✓ | D) दौड़ता</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) तेज़ — "तेज़" विशेषण (adjective) है जो "दौड़ता" की विशेषता बताता है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 1: Urdu (10 Marks)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q11.</strong> "کتاب" کا جمع کیا ہے؟</p>
+<p>A) کتابیں ✓ | B) کتابوں | C) کتابہ | D) کتب</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) کتابیں — "کتاب" کا جمع "کتابیں" ہے۔</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q12.</strong> "لڑکا" کا متضاد کیا ہے؟</p>
+<p>A) بچہ | B) لڑکی ✓ | C) آدمی | D) عورت</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) لڑکی — "لڑکا" کا متضاد "لڑکی" ہے۔</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q13.</strong> "بچہ سکول جاتا ہے۔" میں فعل کون سا ہے؟</p>
+<p>A) بچہ | B) سکول | C) جاتا ہے ✓ | D) کوئی نہیں</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) جاتا ہے — "جاتا ہے" فعل (verb) ہے۔</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 2: Mathematics (25 Marks)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q14.</strong> What is the place value of 7 in 5,76,432?</p>
+<p>A) 7 | B) 70 | C) 7,000 | D) 70,000 ✓</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> D) 70,000 — 7 is in the ten-thousands place. Place value = 7 × 10,000 = 70,000.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q15.</strong> Simplify: 3/4 + 2/3</p>
+<p>A) 17/12 ✓ | B) 5/7 | C) 6/12 | D) 5/12</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) 17/12 — LCM of 4 and 3 = 12. 3/4 = 9/12, 2/3 = 8/12. 9/12 + 8/12 = 17/12.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q16.</strong> What is 25% of 200?</p>
+<p>A) 25 | B) 50 ✓ | C) 75 | D) 100</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 50 — 25% of 200 = (25/100) × 200 = 50.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q17.</strong> Find the HCF of 24 and 36.</p>
+<p>A) 6 | B) 12 ✓ | C) 18 | D) 24</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 12 — Factors of 24: 1,2,3,4,6,8,12,24. Factors of 36: 1,2,3,4,6,9,12,18,36. HCF = 12.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q18.</strong> Find the average of 10, 20, 30, 40, 50.</p>
+<p>A) 25 | B) 30 ✓ | C) 35 | D) 40</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 30 — Sum = 150. Average = 150/5 = 30.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q19.</strong> A shopkeeper buys a pen for ₹10 and sells it for ₹12. What is the profit percentage?</p>
+<p>A) 10% | B) 15% | C) 20% ✓ | D) 25%</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) 20% — Profit = 12 - 10 = ₹2. Profit% = (2/10) × 100 = 20%.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q20.</strong> A car travels at 60 km/h for 2 hours. What distance does it cover?</p>
+<p>A) 60 km | B) 100 km | C) 120 km ✓ | D) 180 km</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) 120 km — Distance = Speed × Time = 60 × 2 = 120 km.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q21.</strong> Find the area of a rectangle with length 12 cm and breadth 8 cm.</p>
+<p>A) 20 sq cm | B) 40 sq cm | C) 80 sq cm | D) 96 sq cm ✓</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> D) 96 sq cm — Area = Length × Breadth = 12 × 8 = 96 sq cm.</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 2: General Science (25 Marks)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q22.</strong> Which organ pumps blood in the human body?</p>
+<p>A) Brain | B) Lungs | C) Heart ✓ | D) Kidney</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Heart — The heart pumps blood throughout the body.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q23.</strong> What is the boiling point of water?</p>
+<p>A) 50°C | B) 75°C | C) 100°C ✓ | D) 150°C</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) 100°C — Water boils at 100°C at standard atmospheric pressure.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q24.</strong> Which planet is known as the "Red Planet"?</p>
+<p>A) Venus | B) Mars ✓ | C) Jupiter | D) Saturn</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Mars — Mars is called the Red Planet due to its reddish appearance.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q25.</strong> What gas do plants absorb from the air?</p>
+<p>A) Oxygen | B) Nitrogen | C) Carbon Dioxide ✓ | D) Hydrogen</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Carbon Dioxide — Plants absorb CO₂ during photosynthesis.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q26.</strong> Which is the largest organ of the human body?</p>
+<p>A) Heart | B) Liver | C) Brain | D) Skin ✓</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> D) Skin — Skin is the largest organ of the human body.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q27.</strong> What is the source of energy for the Earth?</p>
+<p>A) Moon | B) Stars | C) Sun ✓ | D) Wind</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Sun — The Sun is the primary source of energy for Earth.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q28.</strong> Which gas is essential for breathing?</p>
+<p>A) Carbon Dioxide | B) Nitrogen | C) Oxygen ✓ | D) Helium</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Oxygen — We breathe in oxygen for survival.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q29.</strong> What is the process by which plants make their own food?</p>
+<p>A) Respiration | B) Digestion | C) Photosynthesis ✓ | D) Fermentation</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Photosynthesis — Plants use sunlight, water, and CO₂ to make food.</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q30.</strong> Which of the following is a non-renewable source of energy?</p>
+<p>A) Solar | B) Wind | C) Coal ✓ | D) Hydro</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Coal — Coal is a fossil fuel and non-renewable. Solar, wind, and hydro are renewable.</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Class 6 OMR Sheet and Negative Marking Rules</h2>
+<p>AMU entrance exam में OMR sheet use होती है। ये rules जानना ज़रूरी है:</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-decimal pl-6 space-y-2">
+<li><strong>OMR sheet पर नीले या काले pen से भरें</strong> — pencil से नहीं</li>
+<li><strong>गोला पूरा भरें</strong> — आधा भरा हुआ scan नहीं होगा</li>
+<li><strong>गलत answer पर 0.25 marks कटते हैं</strong> — अनुमान से guess न करें</li>
+<li><strong>OMR sheet पर कुछ काटें नहीं</strong> — गलती हो जाए तो छोड़ दें</li>
+<li><strong>Roll number ध्यान से भरें</strong> — गलत roll number = result नहीं आएगा</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Coach Sameer's Pro-Tip:</p>
+<p>Negative marking है, इसलिए <strong>100% sure नहीं हो तो guess मत करो।</strong> 0.25 marks कम लगता है, लेकिन 10 गलत answers = 2.5 marks कट जाएंगे। ये selection और rejection का फर्क हो सकता है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Sameer की 3-Step Revision Strategy</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Step 1: Weak Areas Identify करें</h3>
+<ul class="list-disc pl-5 space-y-1">
+<li>पिछले mock tests को review करें</li>
+<li>कौन से topics में सबसे ज़्यादा गलतियां हुईं?</li>
+<li>उन topics को priority list में रखें</li>
+</ul>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Daily Practice Schedule</h3>
+<ul class="list-disc pl-5 space-y-1">
+<li>सुबह: Mathematics (1 घंटा)</li>
+<li>दोपहर: Languages (1 घंटा)</li>
+<li>शाम: General Science (1 घंटा)</li>
+<li>रात: Revision + Mock Test (1 घंटा)</li>
+</ul>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Mock Test Analysis</h3>
+<ul class="list-disc pl-5 space-y-1">
+<li>हफ्ते में 2 mock tests दें</li>
+<li>हर test के बाद analysis करें</li>
+<li>गलतियों को notebook में लिखें</li>
+<li>उन्हीं गलतियों को दोहराने से बचें</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/how-to-prepare-amu-class-6-entrance-exam/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Class 6 Entrance Preparation</h3>
+<p class="text-gray-600 text-xs">पूरी तैयारी गाइड</p>
+</a>
+<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack करें</h3>
+<p class="text-gray-600 text-xs">Aamir की English strategy</p>
+</a>
+<a href="/hi/blog/amu-class-6-syllabus-2027-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Class 6 Syllabus 2027</h3>
+<p class="text-gray-600 text-xs">पूरा syllabus Hindi में</p>
+</a>
+<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
+<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">AMU Class 6 Entrance की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> AMU entrance exam के लिए specialized coaching देता है। Coach Sameer से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Words of Encouragement</h3>
+<p>AMU Class 6 entrance exam tough है, लेकिन impossible नहीं। अगर बच्चा रोज़ practice करे, हर subject पर focus करे, और mock tests दे, तो selection पक्का है। <strong>याद रखें — hard work beats talent when talent doesn't work hard!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Sameer | JGPS Entrance Exam Coach | 8+ Years Experience</p>
+</div>
+`,
+    faqs: [
+      { question: "AMU Class 6 Entrance 2027 का exam कब होगा?", answer: "AMU Class 6 Entrance 2027 का exam फरवरी-मार्च 2027 में expected है। Official date AMU website पर जारी होगी।" },
+      { question: "AMU Class 6 Entrance में कितने marks चाहिए?", answer: "Minimum 40% हर section में चाहिए। Total 100 marks में से 50+ marks लाने पर selection की possibility strong है।" },
+      { question: "AMU Class 6 Entrance में negative marking है?", answer: "हां, हर गलत answer पर 0.25 marks कटते हैं। इसलिए sure नहीं हो तो guess मत करें।" },
+      { question: "AMU Class 6 Entrance की तैयारी कैसे करें?", answer: "NCERT books पढ़ें, previous year papers solve करें, और हर subject पर equal focus करें। Mock tests ज़रूर दें।" }
+    ]
   }
 ];
 
