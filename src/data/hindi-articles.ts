@@ -6312,6 +6312,122 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Answer Key पर objection कैसे करें?", answer: "Answer key जारी होने के 3-5 दिन बाद तक objection window खुली रहती है। navodaya.gov.in पर login करके objection दर्ज करें और proof अपलोड करें।" },
       { question: "OMR Response Sheet कैसे download करें?", answer: "navodaya.gov.in पर 'OMR Response Sheet' लिंक पर क्लिक करें। Registration Number और Date of Birth दर्ज करें। PDF download हो जाएगी।" }
     ]
+  },
+  {
+    slug: "sainik-school-aissee-2027-notification-date",
+    title: "सैनिक स्कूल एडमिशन 2027 नोटिफिकेशन तिथि: कब आएगा एप्लीकेशन फॉर्म?",
+    description: "Sainik School AISSEE 2027 नोटिफिकेशन सितंबर-अक्टूबर 2026 में expected है। जानें NTA AISSEE 2027 registration date, eligibility, exam pattern और आवेदन प्रक्रिया।",
+    keywords: "Sainik School AISSEE 2027 Notification Date, सैनिक स्कूल कक्षा 6 एडमिशन फॉर्म 2027, AISSEE 2027 कक्षा 9 रजिस्ट्रेशन अंतिम तिथि, NTA सैनिक स्कूल एडमिशन फॉर्म लिंक",
+    date: "25 जुलाई 2026, शाम 4 बजे",
+    modifiedDate: "25 जुलाई 2026, शाम 4 बजे",
+    author: "Rifaul Hasan",
+    authorName: "Rifaul Hasan",
+    authorSlug: "rifaul-hasan",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "Rifaul Hasan JGPS के लिए प्रवेश परीक्षा अपडेट और एडमिशन गाइड लिखते हैं।",
+    readTime: "8 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/sainik-school-aissee-2027-notification-date.webp",
+    imageAlt: "Sainik School AISSEE 2027 Notification Date - NTA application form kab aayega - eligibility exam pattern",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Highlights:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Notification Expected:</strong> सितंबर-अक्टूबर 2026</li>
+<li><strong>Form Start:</strong> सितंबर-अक्टूबर 2026</li>
+<li><strong>Exam Expected:</strong> जनवरी 2027</li>
+<li><strong>Conducting Body:</strong> NTA (National Testing Agency)</li>
+<li><strong>Official Website:</strong> <a href="https://exams.nta.ac.in/sainik-school-society/" class="text-green-700 underline" target="_blank">exams.nta.ac.in</a></li>
+</ul>
+</div>
+
+<p><strong>सैनिक स्कूल AISSEE 2027 नोटिफिकेशन तिथि</strong> सितंबर-अक्टूबर 2026 में जारी होने की संभावना है। NTA (National Testing Agency) हर साल All India Sainik Schools Entrance Examination (AISSEE) आयोजित करता है। यह परीक्षा कक्षा 6 और कक्षा 9 में प्रवेश के लिए होती है।</p>
+
+<p>अगर आप अपने बच्चे को सैनिक स्कूल में भर्ती कराना चाहते हैं, तो अभी से documents तैयार रखें। Notification आने के बाद form भरने का समय सिर्फ 30-45 दिन मिलता है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE 2027 महत्वपूर्ण तिथियां</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">संभावित तिथि</th><th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification जारी</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form भरना शुरू</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form की अंतिम तिथि</td><td class="py-3 px-4 border-b">नवंबर 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">दिसंबर 2026 - जनवरी 2027</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">जनवरी 2027</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4">फरवरी-मार्च 2027</td><td class="py-3 px-4 text-gray-500">⏳ आना बाकी</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">सैनिक स्कूल एडमिशन 2027 पात्रता — आयु सीमा और योग्यता</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कक्षा 6 के लिए</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">मापदंड</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आयु सीमा</td><td class="py-3 px-4 border-b">10 से 12 साल (31 मार्च 2027 को)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शैक्षिक योग्यता</td><td class="py-3 px-4 border-b">कक्षा 5 उत्तीर्ण</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">लिंग</td><td class="py-3 px-4 border-b">लड़के और लड़कियां दोनों (Girls Quota available)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">नागरिकता</td><td class="py-3 px-4">भारतीय नागरिक</td></tr></tbody></table></div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कक्षा 9 के लिए</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">मापदंड</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आयु सीमा</td><td class="py-3 px-4 border-b">13 से 15 साल (31 मार्च 2027 को)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शैक्षिक योग्यता</td><td class="py-3 px-4 border-b">कक्षा 8 उत्तीर्ण</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">लिंग</td><td class="py-3 px-4 border-b">लड़के और लड़कियां दोनों</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">नागरिकता</td><td class="py-3 px-4">भारतीय नागरिक</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE 2027 Exam Pattern</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कक्षा 6 का Exam Pattern</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">50</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">General Knowledge</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Intelligence</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr><tr><td class="py-3 px-4 font-bold text-gray-900">कुल</td><td class="py-3 px-4 font-bold">125</td><td class="py-3 px-4 font-bold">125</td></tr></tbody></table></div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कक्षा 9 का Exam Pattern</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">50</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">English</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">General Science</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Social Science</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr><tr><td class="py-3 px-4 font-bold text-gray-900">कुल</td><td class="py-3 px-4 font-bold">125</td><td class="py-3 px-4 font-bold">125</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE 2027 ऑनलाइन आवेदन कैसे करें?</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> <a href="https://exams.nta.ac.in/sainik-school-society/" class="text-green-700 underline" target="_blank">exams.nta.ac.in</a> पर जाएं</p>
+<p><strong>Step 2:</strong> "AISSEE 2027 Application Form" लिंक पर क्लिक करें</p>
+<p><strong>Step 3:</strong> "New Registration" पर क्लिक करें</p>
+<p><strong>Step 4:</strong> बच्चे का नाम, जन्म तिथि, मोबाइल नंबर, ईमेल दर्ज करें</p>
+<p><strong>Step 5:</strong> Registration Number और Password मिलेगा — सेव करें</p>
+<p><strong>Step 6:</strong> Login करें और form भरें</p>
+<p><strong>Step 7:</strong> Documents upload करें (फोटो, signature, certificates)</p>
+<p><strong>Step 8:</strong> Fee payment करें</p>
+<p><strong>Step 9:</strong> Form submit करें और confirmation page का प्रिंट निकालें</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">फॉर्म भरने के लिए जरूरी दस्तावेज</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Aadhaar Card</strong> — बच्चे का</li>
+<li><strong>मूल निवास प्रमाण पत्र (Domicile Certificate)</strong></li>
+<li><strong>जाति प्रमाण पत्र (Caste Certificate)</strong> — SC/ST/OBC के लिए</li>
+<li><strong>जन्म प्रमाण पत्र</strong></li>
+<li><strong>कक्षा 5/8 की मार्कशीट</strong></li>
+<li><strong>बच्चे की Passport Size Photo</strong> — JPG format</li>
+<li><strong>बच्चे का Signature</strong> — JPG format</li>
+<li><strong>अभिभावक का Aadhaar Card</strong></li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Sainik School Fee Structure 2027</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">शुल्क (अनुमानित)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Tuition Fee</td><td class="py-3 px-4 border-b">₹15,000 - ₹25,000 प्रति वर्ष</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel Fee</td><td class="py-3 px-4 border-b">₹10,000 - ₹15,000 प्रति वर्ष</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Uniform & Books</td><td class="py-3 px-4 border-b">₹5,000 - ₹8,000</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">कुल (अनुमानित)</td><td class="py-3 px-4 font-bold">₹30,000 - ₹50,000 प्रति वर्ष</td></tr></tbody></table></div>
+<p class="text-sm text-gray-500 mt-2">SC/ST छात्रों के लिए fee concession उपलब्ध है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/sainik-school-admission-kaise-le-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Admission 2027</h3>
+<p class="text-gray-600 text-xs">एडमिशन कैसे लें — पूरी गाइड</p>
+</a>
+<a href="/hi/blog/sainik-school-medical-test-complete-guide-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Medical Test</h3>
+<p class="text-gray-600 text-xs">मेडिकल टेस्ट की पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/sainik-school-interview-questions-answers-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Interview</h3>
+<p class="text-gray-600 text-xs">इंटरव्यू के सवाल और जवाब</p>
+</a>
+<a href="/hi/blog/sainik-school-scholarship-complete-guide-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Scholarship</h3>
+<p class="text-gray-600 text-xs">स्कॉलरशिप की पूरी जानकारी</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Sainik School की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> Sainik School entrance exam के लिए specialized coaching देता है। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Advisory</h3>
+<p><strong>Sainik School AISSEE 2027</strong> का notification सितंबर-अक्टूबर 2026 में आने की संभावना है। Notification आने से पहले ही documents तैयार रखें — Aadhaar, domicile, caste certificate, photo, signature। Form भरने का समय सिर्फ 30-45 दिन मिलता है।</p>
+<p class="mt-2 text-sm text-gray-500">Source: NTA Official Website — exams.nta.ac.in</p>
+</div>
+`,
+    faqs: [
+      { question: "Sainik School AISSEE 2027 का notification कब आएगा?", answer: "AISSEE 2027 का notification सितंबर-अक्टूबर 2026 में जारी होने की संभावना है। NTA official website exams.nta.ac.in पर जारी करेगा।" },
+      { question: "Sainik School Class 6 की आयु सीमा क्या है?", answer: "31 मार्च 2027 को बच्चे की आयु 10 से 12 साल होनी चाहिए। लड़के और लड़कियां दोनों apply कर सकते हैं।" },
+      { question: "AISSEE 2027 का form कहां भरें?", answer: "exams.nta.ac.in/sainik-school-society/ पर जाकर online form भरें।" },
+      { question: "Sainik School की fee कितनी है?", answer: "लगभग ₹30,000 - ₹50,000 प्रति वर्ष (tuition + hostel + uniform)। SC/ST छात्रों के लिए fee concession उपलब्ध है।" },
+      { question: "AISSEE 2027 की परीक्षा कब होगी?", answer: "जनवरी 2027 में expected है। Official date notification में जारी होगी।" },
+      { question: "Sainik School में लड़कियां admission ले सकती हैं?", answer: "हां, 2026 से Sainik Schools में Girls Quota शुरू हो गया है। लड़कियां कक्षा 6 में admission ले सकती हैं।" }
+    ]
   }
 ];
 
