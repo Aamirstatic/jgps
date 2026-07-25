@@ -7191,6 +7191,257 @@ export const hindiArticles: HindiArticle[] = [
       { question: "JNV में medical facility कैसी है?", answer: "हर JNV में resident doctor और nurse होता है। Regular health checkup होता है। Serious cases को nearest hospital ले जाया जाता है।" },
       { question: "Navodaya School की fee कितनी है?", answer: "JNV में सब कुछ मुफ्त है — पढ़ाई, हॉस्टल, खाना, किताबें, uniform, medical — सब। कोई fee नहीं लगती।" }
     ]
+  },
+  {
+    slug: "amu-jmi-entrance-2027-english-section-crack-kaise-karein",
+    title: "AMU/JMI Entrance 2027 — English Section Kaise Crack Karein? Complete Strategy",
+    description: "AMU JMI Entrance 2027 English section crack kaise karein — grammar, vocabulary, reading comprehension, idioms sab cover। Aamir ki expert strategy se full marks laayein।",
+    keywords: "AMU JMI Entrance 2027 English Section Kaise Crack Karein, AMU entrance exam English syllabus 2027, Jamia entrance English preparation strategy, AMU JMI English grammar important topics",
+    date: "25 जुलाई 2026, शाम 6 बजे",
+    modifiedDate: "25 जुलाई 2026, शाम 6 बजे",
+    author: "Aamir",
+    authorName: "Aamir",
+    authorSlug: "aamir",
+    authorRole: "English & Urdu Language Expert",
+    authorBio: "Aamir JGPS में English और Urdu language preparation कराते हैं। AMU, JMI, और अन्य entrance exams के language section में expert हैं।",
+    readTime: "10 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein.webp",
+    imageAlt: "AMU JMI Entrance 2027 English section kaise crack karein - grammar vocabulary reading comprehension strategy",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Preparation Strategy:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>English Weightage:</strong> AMU में 25-30 marks, JMI में 20-25 marks</li>
+<li><strong>Core Focus:</strong> Grammar (50%) + Vocabulary (30%) + Comprehension (20%)</li>
+<li><strong>Daily Time:</strong> 1 घंटा English practice जरूरी</li>
+<li><strong>Best Strategy:</strong> Grammar rules याद करो → Vocabulary build करो → Practice sets solve करो</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Aamir से संदेश:</p>
+<p>"मैं 8 साल से AMU और JMI की English preparation करा रहा हूं। सबसे बड़ी गलती students ये करते हैं कि English को ignore करते हैं। लेकिन English section rank decide करता है। जो students English में 20+ marks लाते हैं, उनका selection 90% confirm हो जाता है।"</p>
+</div>
+
+<p><strong>AMU/JMI Entrance 2027 — English Section Kaise Crack Karein?</strong> ये सवाल हर student के मन में है। AMU और JMI दोनों के entrance exams में English section बहुत important है। ये section rank decide करता है — अच्छे marks लाओ तो selection पक्का, बुरे marks लाओ तो selection गया।</p>
+
+<p>इस article में मैं आपको step-by-step बताऊंगा कि English section कैसे crack करें। Grammar, Vocabulary, Comprehension — सब cover करेंगे।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU & JMI English Exam Pattern & Marks Weightage</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Exam</th><th class="py-3 px-4 border-b font-bold text-white text-left">English Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Total Questions</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 6</td><td class="py-3 px-4 border-b">15-20</td><td class="py-3 px-4 border-b">15-20</td><td class="py-3 px-4 border-b">100</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 9</td><td class="py-3 px-4 border-b">20-25</td><td class="py-3 px-4 border-b">20-25</td><td class="py-3 px-4 border-b">100</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 11</td><td class="py-3 px-4 border-b">25-30</td><td class="py-3 px-4 border-b">25-30</td><td class="py-3 px-4 border-b">100</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Class 6</td><td class="py-3 px-4 border-b">15-20</td><td class="py-3 px-4 border-b">15-20</td><td class="py-3 px-4 border-b">100</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Class 9</td><td class="py-3 px-4 border-b">20-25</td><td class="py-3 px-4 border-b">20-25</td><td class="py-3 px-4 border-b">100</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JMI BA/Law</td><td class="py-3 px-4">25-30</td><td class="py-3 px-4">25-30</td><td class="py-3 px-4">100</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important Grammar Topics You Cannot Skip</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">1. Tenses (काल)</h3>
+<p>Tenses सबसे important topic है। हर exam में 3-5 questions आते हैं।</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Present Tense:</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Simple Present:</strong> I <strong>play</strong> cricket. (नियमित कार्य)</li>
+<li><strong>Present Continuous:</strong> I <strong>am playing</strong> cricket. (अभी हो रहा है)</li>
+<li><strong>Present Perfect:</strong> I <strong>have played</strong> cricket. (हो चुका है)</li>
+</ul>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Past Tense:</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Simple Past:</strong> I <strong>played</strong> cricket. (कल हुआ)</li>
+<li><strong>Past Continuous:</strong> I <strong>was playing</strong> cricket. (उस समय हो रहा था)</li>
+<li><strong>Past Perfect:</strong> I <strong>had played</strong> cricket. (पहले हो चुका था)</li>
+</ul>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Future Tense:</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Simple Future:</strong> I <strong>will play</strong> cricket. (कल होगा)</li>
+<li><strong>Future Continuous:</strong> I <strong>will be playing</strong> cricket. (उस समय हो रहा होगा)</li>
+<li><strong>Future Perfect:</strong> I <strong>will have played</strong> cricket. (तब तक हो चुका होगा)</li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">2. Active & Passive Voice (कर्तृवाच्य और कर्मवाच्य)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Rule:</strong> Active → Passive में object subject बन जाता है।</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Active:</strong> She <strong>writes</strong> a letter.</li>
+<li><strong>Passive:</strong> A letter <strong>is written</strong> by her.</li>
+</ul>
+<p class="mt-2"><strong>Formula:</strong> Object + is/am/are + V3 + by + Subject</p>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Aamir's Expert Shortcut:</p>
+<p>Passive voice में हमेशा <strong>"by"</strong> का use होता है। अगर options में "by" नहीं है, तो वो answer गलत है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">3. Direct & Indirect Speech (प्रत्यक्ष और अप्रत्यक्ष कथन)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Rule:</strong> Direct → Indirect में quotation marks हटते हैं और tense change होता है।</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Direct:</strong> He said, "I <strong>am</strong> happy."</li>
+<li><strong>Indirect:</strong> He said that he <strong>was</strong> happy.</li>
+</ul>
+<p class="mt-2"><strong>Tense Change Rules:</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li>Present → Past</li>
+<li>Past → Past Perfect</li>
+<li>Will → Would</li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">4. Prepositions (संबंधसूचक अव्यय)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Common Prepositions:</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>At:</strong> समय और छोटी जगह — at 5 PM, at school</li>
+<li><strong>In:</strong> महीना, साल, बड़ी जगह — in July, in India</li>
+<li><strong>On:</strong> दिन और तारीख — on Monday, on 15th August</li>
+<li><strong>By:</strong> किसके द्वारा — written by me</li>
+<li><strong>With:</strong> के साथ — with my friend</li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">5. Subject-Verb Agreement</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Rule:</strong> Singular subject → Singular verb, Plural subject → Plural verb</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>He plays</strong> cricket. (Singular)</li>
+<li><strong>They play</strong> cricket. (Plural)</li>
+<li><strong>Everyone is</strong> here. (Everyone = singular)</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Aamir's Common Pitfall:</p>
+<p>"Everyone" और "Each" singular हैं, plural नहीं। Students अक्सर "Everyone are" लिखते हैं — गलत है। सही: "Everyone <strong>is</strong>"।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Vocabulary & Idioms कैसे Master करें</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Synonyms (समानार्थी शब्द)</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Word</th><th class="py-3 px-4 border-b font-bold text-white text-left">Synonym</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Happy</td><td class="py-3 px-4 border-b">Joyful, Glad, Cheerful</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Sad</td><td class="py-3 px-4 border-b">Unhappy, Sorrowful, Gloomy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Beautiful</td><td class="py-3 px-4 border-b">Pretty, Attractive, Gorgeous</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Big</td><td class="py-3 px-4 border-b">Large, Huge, Enormous</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Fast</td><td class="py-3 px-4 border-b">Quick, Rapid, Swift</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Begin</td><td class="py-3 px-4">Start, Commence, Initiate</td></tr></tbody></table></div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Antonyms (विलोम शब्द)</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Word</th><th class="py-3 px-4 border-b font-bold text-white text-left">Antonym</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Happy</td><td class="py-3 px-4 border-b">Sad, Unhappy</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Tall</td><td class="py-3 px-4 border-b">Short, Small</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Fast</td><td class="py-3 px-4 border-b">Slow, Sluggish</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Dark</td><td class="py-3 px-4 border-b">Light, Bright</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Hot</td><td class="py-3 px-4 border-b">Cold, Cool</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Rich</td><td class="py-3 px-4">Poor, Poverty-stricken</td></tr></tbody></table></div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">One-Word Substitution</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Description</th><th class="py-3 px-4 border-b font-bold text-white text-left">One Word</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">One who loves books</td><td class="py-3 px-4 border-b">Bibliophile</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">One who walks in sleep</td><td class="py-3 px-4 border-b">Somnambulist</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">A group of fish</td><td class="py-3 px-4 border-b">School</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Fear of water</td><td class="py-3 px-4 border-b">Hydrophobia</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">One who eats too much</td><td class="py-3 px-4 border-b">Glutton</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">A place where books are kept</td><td class="py-3 px-4">Library</td></tr></tbody></table></div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Important Idioms & Phrases</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Idiom</th><th class="py-3 px-4 border-b font-bold text-white text-left">Meaning</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Break the ice</td><td class="py-3 px-4 border-b">बातचीत शुरू करना</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">A piece of cake</td><td class="py-3 px-4 border-b">बहुत आसान</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Hit the nail on the head</td><td class="py-3 px-4 border-b">बिल्कुल सही कहना</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Once in a blue moon</td><td class="py-3 px-4 border-b">बहुत कम</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Burning the midnight oil</td><td class="py-3 px-4 border-b">रात भर पढ़ना</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Spill the beans</td><td class="py-3 px-4">राज़ खोलना</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Reading Comprehension & Error Spotting Hacks</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reading Comprehension Tips</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-decimal pl-6 space-y-2">
+<li><strong>पहले questions पढ़ें</strong> — passage से पहले questions पढ़ें, तो पता चलेगा क्या ढूंढना है</li>
+<li><strong>Keywords underline करें</strong> — passage में important words underline करें</li>
+<li><strong>पहला और आखिरी paragraph ध्यान से पढ़ें</strong> — यहां main idea होता है</li>
+<li><strong>Synonyms से answer ढूंढें</strong> — question और passage में same meaning के words होते हैं</li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Error Spotting Hacks</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-decimal pl-6 space-y-2">
+<li><strong>Subject-Verb Agreement check करें</strong> — singular subject + singular verb</li>
+<li><strong>Tense consistency check करें</strong> — पूरे sentence में tense same होना चाहिए</li>
+<li><strong>Article check करें</strong> — a/an/the का सही use</li>
+<li><strong>Preposition check करें</strong> — at/in/on/by का सही use</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Aamir's Error Spotting Shortcut:</p>
+<p>अगर sentence में "has/have" और "did" दोनों हैं, तो गलती ज़रूर है। "Did" के साथ V1 आता है, V2 नहीं।</p>
+<p>❌ He <strong>did went</strong> to school.</p>
+<p>✅ He <strong>did go</strong> to school.</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Best Books & Practice Resources</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Author</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best For</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">English Grammar & Composition</td><td class="py-3 px-4 border-b">Wren & Martin</td><td class="py-3 px-4 border-b">Grammar basics</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Word Power Made Easy</td><td class="py-3 px-4 border-b">Norman Lewis</td><td class="py-3 px-4 border-b">Vocabulary building</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">AMU/JMI Entrance Guide</td><td class="py-3 px-4 border-b">Arihant</td><td class="py-3 px-4 border-b">Previous year papers</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Objective General English</td><td class="py-3 px-4">S.P. Bakshi</td><td class="py-3 px-4">Practice sets</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Aamir का 30-Day English Preparation Roadmap</h2>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Week 1 (Day 1-7): Grammar Basics</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li>Day 1-2: Tenses (Present, Past, Future)</li>
+<li>Day 3: Active & Passive Voice</li>
+<li>Day 4: Direct & Indirect Speech</li>
+<li>Day 5: Prepositions</li>
+<li>Day 6: Subject-Verb Agreement</li>
+<li>Day 7: Revision + Practice Test</li>
+</ul>
+
+<p class="mt-4"><strong>Week 2 (Day 8-14): Vocabulary Building</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li>Day 8-9: Synonyms (50 words)</li>
+<li>Day 10-11: Antonyms (50 words)</li>
+<li>Day 12: One-Word Substitution (30 words)</li>
+<li>Day 13: Idioms & Phrases (30 idioms)</li>
+<li>Day 14: Revision + Practice Test</li>
+</ul>
+
+<p class="mt-4"><strong>Week 3 (Day 15-21): Comprehension & Error Spotting</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li>Day 15-16: Reading Comprehension practice</li>
+<li>Day 17-18: Error Spotting practice</li>
+<li>Day 19-20: Sentence Correction</li>
+<li>Day 21: Revision + Practice Test</li>
+</ul>
+
+<p class="mt-4"><strong>Week 4 (Day 22-30): Mock Tests & Revision</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li>Day 22-25: Full Mock Tests (1 per day)</li>
+<li>Day 26-28: Weak areas revision</li>
+<li>Day 29: Final Mock Test</li>
+<li>Day 30: Light revision + Rest</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/how-to-prepare-amu-class-6-entrance-exam/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Class 6 Entrance Preparation</h3>
+<p class="text-gray-600 text-xs">पूरी तैयारी गाइड</p>
+</a>
+<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027 Comparison</h3>
+<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
+</a>
+<a href="/hi/blog/english-kamzor-bacche-entrance-exam-kaise-nikale/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English में कमजोर बच्चे</h3>
+<p class="text-gray-600 text-xs">5 तरीके जो काम करते हैं</p>
+</a>
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">AMU/JMI की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> AMU और JMI entrance exam के लिए specialized coaching देता है। Aamir से English सीखें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Words of Encouragement</h3>
+<p>English section कोई बड़ा monster नहीं है। अगर रोज़ 1 घंटा practice करो, grammar rules याद करो, और 30 दिन का roadmap follow करो, तो 20+ marks लाना आसान है। <strong>याद रखो — English rank decide करता है। इसे ignore मत करो!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Aamir | JGPS English & Urdu Language Expert | AMU/JMI Entrance Specialist</p>
+</div>
+`,
+    faqs: [
+      { question: "AMU/JMI entrance में English section कितने marks का होता है?", answer: "AMU में 15-30 marks और JMI में 15-25 marks। Class level के अनुसार weightage अलग-अलग होता है।" },
+      { question: "English section की तैयारी कैसे करें?", answer: "Grammar rules याद करें, vocabulary build करें, और रोज़ 1 घंटा practice करें। 30 दिन का roadmap follow करें।" },
+      { question: "कौन सी book सबसे अच्छी है AMU/JMI English के लिए?", answer: "Wren & Martin (Grammar), Norman Lewis (Vocabulary), और Arihant AMU/JMI Guide (Practice) सबसे अच्छी books हैं।" },
+      { question: "English section में कौन से topics सबसे important हैं?", answer: "Tenses, Active-Passive Voice, Direct-Indirect Speech, Synonyms-Antonyms, Idioms, और Reading Comprehension — ये 6 topics सबसे important हैं।" }
+    ]
   }
 ];
 
