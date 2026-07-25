@@ -7048,6 +7048,149 @@ export const hindiArticles: HindiArticle[] = [
       { question: "राष्ट्रीय खेल दिवस कब और क्यों मनाया जाता है?", answer: "29 अगस्त को मेजर ध्यानचंद की जयंती पर राष्ट्रीय खेल दिवस मनाया जाता है। इस दिन खेल रत्न, अर्जुन पुरस्कार दिए जाते हैं।" },
       { question: "NEP 2020 में क्या नया बदलाव आया?", answer: "NEP 2020 के तहत कोडिंग, AI, और व्यावसायिक शिक्षा को पाठ्यक्रम में शामिल किया गया है। नए NCERT पाठ्यक्रम लागू हो गए हैं।" }
     ]
+  },
+  {
+    slug: "navodaya-school-admission-ke-baad-kya-hota-hai",
+    title: "Navodaya School Mein Admission Ke Baad Kya Hota Hai? — Hostel Life, Routine aur Facilities",
+    description: "Navodaya School mein admission ke baad kya hota hai — hostel life, daily routine, free facilities, house system, parent meeting rules। जानें JNV में बच्चे की ज़िंदगी कैसी होती है।",
+    keywords: "Navodaya School Mein Admission Ke Baad Kya Hota Hai, Jawahar Navodaya Vidyalaya hostel life rules, JNV daily routine for students, Navodaya School mess food and facilities",
+    date: "25 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    modifiedDate: "25 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं। 7+ साल के experience के साथ 85% success rate है।",
+    readTime: "10 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-admission-ke-baad-kya-hota-hai.webp",
+    imageAlt: "Navodaya School admission ke baad kya hota hai - hostel life daily routine free facilities JNV",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Overview — JNV Life at a Glance:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>100% Free Education:</strong> पढ़ाई, हॉस्टल, खाना, किताबें, uniform — सब मुफ्त</li>
+<li><strong>24/7 Security:</strong> CCTV, warden, और medical facility हमेशा उपलब्ध</li>
+<li><strong>Daily Routine:</strong> सुबह 5 बजे PT से रात 10 बजे lights out तक का schedule</li>
+<li><strong>House System:</strong> 4 houses — Aravalli, Nilgiri, Shivalik, Udaygiri</li>
+<li><strong>Parent Meeting:</strong> हर महीने एक बार parents meet कर सकते हैं</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Coach Najma से संदेश:</p>
+<p>"मैं 7 साल से JNVST की coaching दे रही हूं। मेरे 85% students का selection होता है। लेकिन सबसे ज्यादा सवाल parents यही पूछते हैं — 'मेरा बच्छा इतनी दूर कैसे रहेगा?' ये article उन्हीं parents के लिए है। JNV में बच्चे सुरक्षित हैं, खुश हैं, और बहुत अच्छी education मिलती है।"</p>
+</div>
+
+<p><strong>Navodaya School mein admission ke baad kya hota hai?</strong> ये सवाल हर parent के मन में होता है। बच्चे का selection हो गया — खुशी है, लेकिन चिंता भी है। बच्चा पहली बार घर से दूर जाएगा। Hostel में रहेगा। खुद से खाएगा, पढ़ेगा, सोएगा।</p>
+
+<p>चिंता की कोई बात नहीं। JNV में बच्चे की हर ज़रूरत का ध्यान रखा जाता है। पढ़ाई, खाना, रहना, कपड़े, किताबें — सब कुछ मुफ्त है। और सबसे बड़ी बात — 24/7 security है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Admission Process Final Steps — Document Verification & Medical Test</h2>
+<p>JNVST exam pass करने के बाद, selection होने पर ये steps होते हैं:</p>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> Result आने पर NVS website पर selection list जारी होती है</p>
+<p><strong>Step 2:</strong> Selected students को JNV बुलाया जाता है document verification के लिए</p>
+<p><strong>Step 3:</strong> Documents verify होते हैं — Aadhaar, domicile, caste certificate, birth certificate</p>
+<p><strong>Step 4:</strong> Medical test होता है — height, weight, eyesight, general health check</p>
+<p><strong>Step 5:</strong> Admission confirm होता है और joining date मिलती है</p>
+<p><strong>Step 6:</strong> तय तारीख को बच्चे को JNV में report करना होता है</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Navodaya Daily Routine — JNV Student का एक दिन</h2>
+<p>JNV में बच्चों का पूरा दिन planned होता है। सुबह PT से लेकर रात lights out तक — हर activity का समय तय है।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">समय</th><th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 AM</td><td class="py-3 px-4 border-b">बजाना (Wake up call)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:00 AM</td><td class="py-3 px-4 border-b">Morning PT (Physical Training) और Yoga</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 - 6:30 AM</td><td class="py-3 px-4 border-b">नहाना, तैयार होना, Uniform पहनना</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:15 AM</td><td class="py-3 px-4 border-b">नाश्ता (Breakfast)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:15 - 7:30 AM</td><td class="py-3 px-4 border-b">Assembly (प्रार्थना और announcements)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 - 1:30 PM</td><td class="py-3 px-4 border-b">Classes (6 periods, हर period 45 minutes)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">1:30 - 2:30 PM</td><td class="py-3 px-4 border-b">दोपहर का खाना (Lunch)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2:30 - 3:30 PM</td><td class="py-3 px-4 border-b">Rest / Free time</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Games और Sports (Cricket, Football, Basketball)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:30 PM</td><td class="py-3 px-4 border-b">Snacks और चाय</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:30 - 7:30 PM</td><td class="py-3 px-4 border-b">Study Hour (Self study / Homework)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 - 8:30 PM</td><td class="py-3 px-4 border-b">रात का खाना (Dinner)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">8:30 - 9:30 PM</td><td class="py-3 px-4 border-b">Study Hour (Revision)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">9:30 - 10:00 PM</td><td class="py-3 px-4 border-b">Free time / Phone call to parents</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">10:00 PM</td><td class="py-3 px-4 font-bold">Lights Out (सोने का समय)</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Free Facilities Offered by JNV</h2>
+<p>JNV में सब कुछ मुफ्त है। सरकार पूरा खर्चा उठाती है।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">सुविधा</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">खर्चा</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">पढ़ाई</td><td class="py-3 px-4 border-b">NCERT curriculum, qualified teachers, labs, library</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हॉस्टल</td><td class="py-3 px-4 border-b">Dormitory, bed, mattress, pillow, cupboard</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">खाना</td><td class="py-3 px-4 border-b">Breakfast, lunch, snacks, dinner — nutritious food</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Uniform</td><td class="py-3 px-4 border-b">School dress, shoes, socks, sports dress</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">किताबें</td><td class="py-3 px-4 border-b">NCERT books, notebooks, stationery</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Medical</td><td class="py-3 px-4 border-b">Doctor, nurse, medicines, health checkups</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sports</td><td class="py-3 px-4 border-b">Cricket, football, basketball, athletics equipment</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Lab & Library</td><td class="py-3 px-4">Science lab, computer lab, library with books</td><td class="py-3 px-4 text-green-700 font-bold">मुफ्त</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNV House System & Hostel Life</h2>
+<p>हर JNV में 4 houses होते हैं। बच्चे को admission के समय एक house assign होता है।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">House</th><th class="py-3 px-4 border-b font-bold text-white text-left">रंग</th><th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Aravalli</td><td class="py-3 px-4 border-b">लाल</td><td class="py-3 px-4 border-b">साहस और शक्ति</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Nilgiri</td><td class="py-3 px-4 border-b">नीला</td><td class="py-3 px-4 border-b">ज्ञान और बुद्धि</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Shivalik</td><td class="py-3 px-4 border-b">हरा</td><td class="py-3 px-4 border-b">प्रकृति और विकास</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Udaygiri</td><td class="py-3 px-4">पीला</td><td class="py-3 px-4">ऊर्जा और उत्साह</td></tr></tbody></table></div>
+
+<p>House system से बच्चों में team spirit, competition, और leadership skills develop होती हैं। Inter-house competitions होती हैं — sports, quiz, debate, cultural activities।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Safety, Security & Medical Facilities</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Security Measures</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>24/7 CCTV surveillance</strong> — पूरे campus में cameras लगे हैं</li>
+<li><strong>Warden system</strong> — हर hostel block में warden रहता है</li>
+<li><strong>गेट पर security guard</strong> — बिना permission कोई बाहर नहीं जा सकता</li>
+<li><strong>Girls hostel</strong> — अलग block, महिला warden, extra security</li>
+</ul>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Medical Facilities</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Resident doctor</strong> — हर JNV में एक doctor होता है</li>
+<li><strong>Nurse</strong> — 24/7 available</li>
+<li><strong>Medical room</strong> — Basic medicines और first aid</li>
+<li><strong>Health checkup</strong> — हर साल regular health checkup होता है</li>
+<li><strong>Hospital referral</strong> — Serious cases को nearest hospital ले जाया जाता है</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Parent Visiting Rules & Meeting Days</h2>
+<p>Parents अपने बच्चे से मिल सकते हैं, लेकिन कुछ rules हैं:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">नियम</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Day</td><td class="py-3 px-4 border-b">हर महीने का पहला रविवार (2nd Saturday भी कुछ JNVs में)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Time</td><td class="py-3 px-4 border-b">सुबह 10 बजे से शाम 5 बजे तक</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Place</td><td class="py-3 px-4 border-b">Visitor's room / Campus garden</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Phone Call</td><td class="py-3 px-4 border-b">हफ्ते में 1-2 बार, Warden की permission से</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Home Visit</td><td class="py-3 px-4 border-b">Summer vacation और Winter vacation में</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Emergency</td><td class="py-3 px-4">कभी भी — Principal की permission से</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Najma's Advice: बच्चे को Hostel Life के लिए कैसे तैयार करें</h2>
+
+<div class="bg-pink-50 border-2 border-pink-400 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Najma के 8 Golden Tips:</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>बच्चे से बात करें</strong> — Hostel life के बारे में positive बातें बताएं, डराएं नहीं</li>
+<li><strong>खुद से काम करना सिखाएं</strong> — कपड़े धोना, बिस्तर लगाना, सामान व्यवस्थित करना</li>
+<li><strong>छोटी-छोटी चीज़ें pack करें</strong> — बच्चे की पसंद की एक-दो चीज़ें साथ दें (photo, toy)</li>
+<li><strong>रोने से डरें नहीं</strong> — पहले 2-3 हफ्ते बच्चा रो सकता है, ये normal है</li>
+<li><strong>Warden से बात करें</strong> — बच्चे की आदतें, allergies, ज़रूरी बातें बताएं</li>
+<li><strong>हर हफ्ते phone करें</strong> — बच्चे से बात करें, लेकिन रोज़ नहीं</li>
+<li><strong>Trust the system</strong> — JNV में experienced staff है, वो बच्चे का ध्यान रखेंगे</li>
+<li><strong>बच्चे को motivate करें</strong> — 'तुम अकेले नहीं हो, बहुत बच्चे हैं तुम्हारे साथ'</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNV Migration Scheme — Class 9 में Transfer</h2>
+<p>JNV में एक unique scheme है — <strong>Migration Scheme</strong>। Class 9 में कुछ बच्चों को दूसरे JNV में transfer किया जाता है। इससे बच्चों को अलग culture और language सीखने का मौका मिलता है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-navodaya-admission-form-last-date-july-2026/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Application Form 2027</h3>
+<p class="text-gray-600 text-xs">आवेदन फॉर्म भरने की पूरी प्रक्रिया</p>
+</a>
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/jnvst-2027-mental-ability-50-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
+<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
+</a>
+<a href="/hi/blog/boarding-school-bhejne-ke-fayde-nuksan/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Boarding School के फायदे</h3>
+<p class="text-gray-600 text-xs">बच्चे को hostel में भेजने के फायदे-नुकसान</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JNVST 2027 की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> Navodaya entrance exam के लिए specialized coaching देता है। Coach Najma से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Heartfelt Encouragement</h3>
+<p>Navodaya School में admission एक बड़ी उपलब्धि है। बच्चे को 100% free, quality education मिलती है। Hostel life थोड़ी challenging है, लेकिन यही challenge बच्चे को independent और strong बनाती है। <strong>Trust your child, trust the system — Navodaya बच्चे का भविष्य बदल देगा।</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Najma | JGPS Navodaya & JNVST Coach | 85% Success Rate</p>
+</div>
+`,
+    faqs: [
+      { question: "Navodaya School में parents कब मिल सकते हैं?", answer: "हर महीने के पहले रविवार को parents बच्चे से मिल सकते हैं। समय: सुबह 10 बजे से शाम 5 बजे तक।" },
+      { question: "JNV में बच्चे को phone मिलता है?", answer: "बच्चे को personal phone नहीं मिलता। लेकिन हफ्ते में 1-2 बार warden की permission से parents से बात करा सकते हैं।" },
+      { question: "JNV में medical facility कैसी है?", answer: "हर JNV में resident doctor और nurse होता है। Regular health checkup होता है। Serious cases को nearest hospital ले जाया जाता है।" },
+      { question: "Navodaya School की fee कितनी है?", answer: "JNV में सब कुछ मुफ्त है — पढ़ाई, हॉस्टल, खाना, किताबें, uniform, medical — सब। कोई fee नहीं लगती।" }
+    ]
   }
 ];
 
