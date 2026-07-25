@@ -8069,6 +8069,154 @@ export const hindiArticles: HindiArticle[] = [
       { question: "JMI Class 6 Entrance में negative marking है?", answer: "नहीं, JMI Class 6 entrance में negative marking नहीं है। सभी questions attempt करें।" },
       { question: "JMI Class 6 Entrance की तैयारी कैसे करें?", answer: "NCERT books पढ़ें, EVS को priority दें, Math shortcuts सीखें, और mock tests दें। रोज़ 3 घंटे practice करें।" }
     ]
+  },
+  {
+    slug: "jnvst-2027-new-district-rule-explained",
+    title: "JNVST 2027 New District Boundary Rule: गलत डिस्ट्रिक्ट से फॉर्म भरा तो एडमिशन कैंसिल!",
+    description: "JNVST 2027 New District Boundary Rule — गलत district से form भरा तो admission cancel हो सकता है। जानें NVS का नया नियम और document verification process।",
+    keywords: "JNVST 2027 New District Boundary Rule, Navodaya Class 6 admission district eligibility rule, JNVST 2027 resident certificate verification, Navodaya form reject due to wrong district",
+    date: "25 जुलाई 2026, रात 9 बजे",
+    modifiedDate: "25 जुलाई 2026, रात 9 बजे",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं। 7+ साल के experience के साथ 85% success rate है।",
+    readTime: "7 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-new-district-rule-explained.webp",
+    imageAlt: "JNVST 2027 New District Boundary Rule - Navodaya admission district eligibility resident certificate verification",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-1">⚠️ Urgent Alert — JNVST 2027 District Rule:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>नया नियम:</strong> बच्चे को उसी district में Class 5 पढ़ना चाहिए जहां JNV located है</li>
+<li><strong>Residence Proof:</strong> Aadhaar card पर address और school district SAME होना चाहिए</li>
+<li><strong>गलत district से form भरा तो:</strong> Document verification में admission CANCEL हो जाएगा</li>
+<li><strong>कोई appeal नहीं:</strong> एक बार reject हुआ तो दोबारा chance नहीं मिलेगा</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Coach Najma से संदेश:</p>
+<p>"मैंने पिछले साल 5 students को district mismatch की वजह से admission खोते देखा है। बच्चे ने exam pass किया, लेकिन document verification में reject हो गया। सिर्फ इसलिए कि parents ने गलत district से form भर दिया था। ये बहुत दर्दनाक है। इसलिए ये article पढ़ें और गलती मत करें।"</p>
+</div>
+
+<p><strong>JNVST 2027 New District Boundary Rule</strong> — ये नियम हर parent को पता होना चाहिए जो Navodaya Class 6 admission के लिए form भर रहे हैं। Navodaya Vidyalaya Samiti (NVS) ने district eligibility को लेकर सख्त नियम बनाए हैं। अगर आप गलत district से form भरते हैं, तो बच्चे का admission cancel हो सकता है — भले ही exam में अच्छे marks आए हों।</p>
+
+<p>ये article आपको बताएगा कि <strong>district rule क्या है</strong>, <strong>क्यों admission cancel होता है</strong>, और <strong>कैसे बचें</strong>।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Kya Hai JNVST 2027 Ka Naya District Boundary Rule?</h2>
+<p>NVS का नियम बहुत clear है:</p>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>बच्चे को उसी district में Class 5 पढ़ना चाहिए</strong> जहां JNV located है</li>
+<li><strong>बच्चे का residence उसी district में होना चाहिए</strong> जहां JNV located है</li>
+<li><strong>Aadhaar card पर address</strong> उसी district का होना चाहिए</li>
+<li><strong>Headmaster certificate</strong> उसी school का होना चाहिए जो उस district में है</li>
+</ul>
+</div>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Condition</th><th class="py-3 px-4 border-b font-bold text-white text-left">Required</th><th class="py-3 px-4 border-b font-bold text-white text-left">Result if Wrong</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School District</td><td class="py-3 px-4 border-b">Same as JNV district</td><td class="py-3 px-4 border-b text-red-600 font-bold">Admission Cancel</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Residence District</td><td class="py-3 px-4 border-b">Same as JNV district</td><td class="py-3 px-4 border-b text-red-600 font-bold">Admission Cancel</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Aadhaar Address</td><td class="py-3 px-4 border-b">Same district</td><td class="py-3 px-4 border-b text-red-600 font-bold">Admission Cancel</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4">From school in same district</td><td class="py-3 px-4 text-red-600 font-bold">Admission Cancel</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Kyo Ho Raha Hai Admission Cancel?</h2>
+<p>पिछले साल कई students का admission cancel हुआ। सबसे common reasons:</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 1: School District ≠ Residence District</h3>
+<p>कुछ parents बच्चे को दूसरे district के school में पढ़ाते हैं, लेकिन residence पहले district में है। NVS कहता है — <strong>दोनों same होने चाहिए।</strong></p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 2: Aadhaar Address Mismatch</h3>
+<p>बच्चे के Aadhaar card पर पुराना address है जो दूसरे district का है। Parents ने address update नहीं कराया। Document verification में mismatch मिलता है।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 3: Headmaster Certificate Galat Hai</h3>
+<p>School का headmaster certificate गलत district का school दिखाता है। ये भी rejection का कारण बनता है।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 4: Fake Residence Certificate</h3>
+<p>कुछ parents fake residence certificate बनवाते हैं। NVS अब cross-verification करता है। अगर mismatch मिला तो admission cancel + blacklist हो सकता है।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">Coach Najma's Warning:</p>
+<p>"कभी भी fake document मत बनवाओ। NVS अब digitally verify करता है। अगर पकड़े गए तो सिर्फ admission cancel नहीं होगा — बच्चे को blacklist कर दिया जाएगा। ये बच्चे की पूरी ज़िंदगी खराब कर सकता है।"</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Document Verification Table: Kaun Se Documents Honge Valid?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">Valid (✅)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Rejected (❌)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Aadhaar Card</td><td class="py-3 px-4 border-b">Same district address</td><td class="py-3 px-4 border-b">Different district address</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Residence Certificate</td><td class="py-3 px-4 border-b">Issued by Tehsildar of same district</td><td class="py-3 px-4 border-b">From different district</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4 border-b">From school in same district</td><td class="py-3 px-4 border-b">From school in different district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Birth Certificate</td><td class="py-3 px-4 border-b">From any district</td><td class="py-3 px-4 border-b">Fake or forged</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Category Certificate</td><td class="py-3 px-4 border-b">Valid SC/ST/OBC certificate</td><td class="py-3 px-4 border-b">Expired or from wrong district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Passport Photo</td><td class="py-3 px-4">Recent, clear, white background</td><td class="py-3 px-4">Blurry, old, or mismatched</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Border Area Aur Shifted School District Rule</h2>
+<p>कुछ special cases हैं जहां district boundary का rule slightly different है:</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Case 1: Border Area Schools</strong></p>
+<p>अगर school district की border पर है और बच्चा adjacent district में रहता है, तो NVS कभी-कभी exception देता है। लेकिन ये case-by-case basis पर होता है — guarantee नहीं है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Case 2: Shifted School District</strong></p>
+<p>अगर school recently एक district से दूसरे district में shift हुआ है, तो NVS old district को भी accept कर सकता है। लेकिन proof देना होगा।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Case 3: Urban vs Rural Quota</strong></p>
+<p>District के अंदर urban और rural quota अलग-अलग हैं। Rural students को 75% reservation मिलता है। अगर आपका school rural area में है, तो rural quota में apply करें।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Najma की 4-Step Checklist — Form Submit करने से पहले</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Step-by-Step Verification:</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Aadhaar Card Check करें</strong> — Address में district name देखें। अगर गलत है तो form भरने से पहले update कराएं।</li>
+<li><strong>School Certificate Check करें</strong> — Headmaster से confirm करें कि school किस district में आता है।</li>
+<li><strong>Residence Certificate Check करें</strong> — Tehsildar से valid certificate लें जो same district का हो।</li>
+<li><strong>Sab Documents Match करें</strong> — Aadhaar, School Certificate, Residence Certificate — तीनों में district SAME होना चाहिए।</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">District Mismatch Fix कैसे करें?</h2>
+<div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-6 my-6">
+<p>अगर आपको पता चला कि district mismatch है, तो ये करें:</p>
+<ul class="list-decimal pl-5 mt-3 space-y-2">
+<li><strong>Aadhaar Update:</strong> Nearest Aadhaar center जाएं और address update कराएं (7-15 दिन लगते हैं)</li>
+<li><strong>School Transfer:</strong> अगर possible है तो बच्चे को same district के school में transfer कराएं</li>
+<li><strong>Residence Certificate:</strong> Same district से नया residence certificate लें</li>
+<li><strong>Form Correction Window:</strong> NVS correction window में details update करें</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-navodaya-admission-form-last-date-july-2026/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Application Form 2027</h3>
+<p class="text-gray-600 text-xs">Form भरने की पूरी प्रक्रिया</p>
+</a>
+<a href="/hi/blog/navodaya-form-me-galti-sudharen-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Form में गलती सुधारें</h3>
+<p class="text-gray-600 text-xs">Correction window कैसे use करें</p>
+</a>
+<a href="/hi/blog/jnvst-registration-2027-last-date-extend-hogi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Last Date Extend Hogi?</h3>
+<p class="text-gray-600 text-xs">Extension की संभावना</p>
+</a>
+<a href="/hi/blog/navodaya-school-admission-ke-baad-kya-hota-hai/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Admission Ke Baad Kya Hota Hai</h3>
+<p class="text-gray-600 text-xs">Hostel life, daily routine, facilities</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">District Rule में confusion है?</h3><p><strong>JGPS School</strong> में Coach Najma से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Advice for Parents</h3>
+<p>District rule को हल्के में मत लो। ये सिर्फ form filling की बात नहीं है — ये आपके बच्चे की पूरी education की बात है। <strong>Form भरने से पहले सब documents check करो। District match करो। गलती हुई तो समय रहते सुधारो।</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Najma | JGPS Navodaya & JNVST Coach | 85% Success Rate</p>
+</div>
+`,
+    faqs: [
+      { question: "JNVST 2027 में district rule क्या है?", answer: "बच्चे को उसी district में Class 5 पढ़ना चाहिए जहां JNV located है। Residence और school district SAME होने चाहिए।" },
+      { question: "गलत district से form भरा तो क्या होगा?", answer: "Document verification में admission cancel हो जाएगा। भले ही exam में अच्छे marks आए हों।" },
+      { question: "Aadhaar card पर address गलत है तो क्या करें?", answer: "Form भरने से पहले Aadhaar update कराएं। Nearest Aadhaar center जाएं — 7-15 दिन लगते हैं।" },
+      { question: "क्या fake residence certificate से form भर सकते हैं?", answer: "नहीं! NVS digitally verify करता है। Fake document से admission cancel + blacklist हो सकता है।" }
+    ]
   }
 ];
 
