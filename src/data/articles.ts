@@ -6558,6 +6558,13 @@ export const articles: Article[] = [
 
 <p>This comprehensive guide provides <strong>section-wise practice questions with detailed answers</strong> covering Mental Ability, Arithmetic, and Language sections. Whether you are just starting your preparation or doing last-minute revision, these JNVST Class 6 questions 2027 will help you understand the exam pattern, identify high-weightage topics, and build confidence.</p>
 
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-8 text-center">
+<h3 class="text-xl font-bold text-gray-900 mb-2">Download JNVST Class 6 Most Important Questions 2027 PDF</h3>
+<p class="text-gray-600 mb-4">Get 300+ practice questions with detailed solutions — FREE</p>
+<a href="/downloads/jnvst-class-6-most-important-questions-2027.pdf" download class="inline-block bg-[#035c00] hover:bg-[#024500] text-white font-bold py-3 px-8 rounded-lg text-lg transition-colors duration-200 shadow-lg">Download PDF Now</a>
+<p class="text-sm text-gray-500 mt-2">No signup required • Instant download • 6.8 MB</p>
+</div>
+
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What are JNVST Class 6 Most Important Questions?</h2>
 <p>The <strong>JNVST Class 6 Important Questions PDF</strong> is a curated collection of practice questions selected based on:</p>
 <ul class="list-disc pl-6 mb-4 space-y-2">
@@ -6763,6 +6770,12 @@ export const articles: Article[] = [
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Best Books for JNVST Preparation</h2>
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Author</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">JNVST Mental Ability</td><td class="py-3 px-4 border-b">Arihant Experts</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">Reasoning for Navodaya</td><td class="py-3 px-4 border-b">R.S. Aggarwal</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">Mathematics for JNVST</td><td class="py-3 px-4 border-b">Arihant</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">Quantitative Aptitude</td><td class="py-3 px-4 border-b">R.S. Aggarwal</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">English Grammar</td><td class="py-3 px-4 border-b">Wren & Martin</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Complete Guide</td><td class="py-3 px-4">JNVST Complete Guide</td><td class="py-3 px-4">Arihant</td></tr></tbody></table></div>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-8 text-center">
+<h3 class="text-xl font-bold text-gray-900 mb-2">Download Complete PDF — 300+ Questions with Solutions</h3>
+<p class="text-gray-600 mb-4">Mental Ability • Arithmetic • Language — All sections covered</p>
+<a href="/downloads/jnvst-class-6-most-important-questions-2027.pdf" download class="inline-block bg-[#035c00] hover:bg-[#024500] text-white font-bold py-3 px-8 rounded-lg text-lg transition-colors duration-200 shadow-lg">Download Free PDF</a>
+</div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
 
