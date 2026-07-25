@@ -6858,6 +6858,196 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Mental Ability की तैयारी कैसे करें?", answer: "रोज 20 सवाल practice करें, previous year papers solve करें, और हफ्ते में 1 mock test दें। Pattern recognition सबसे जरूरी skill है।" },
       { question: "Mental Ability में कितने marks लाने चाहिए?", answer: "Selection के लिए 40 में से 35+ marks लाने चाहिए। अगर बच्चा रोज practice करे तो ये possible है।" }
     ]
+  },
+  {
+    slug: "current-affairs-august-2026-weekly-gk-school-students",
+    title: "अगस्त 2026 करेंट अफेयर्स — स्कूल स्टूडेंट्स के लिए वीकली GK अपडेट",
+    description: "August 2026 Current Affairs — स्कूल असेंबली, परीक्षा और GK के लिए जरूरी राष्ट्रीय-अंतर्राष्ट्रीय खबरें, विज्ञान, खेल, और महत्वपूर्ण दिवस।",
+    keywords: "August 2026 Current Affairs Weekly GK Update, School assembly current affairs August 2026, Weekly GK news for school students, August 2026 important days and national events",
+    date: "25 जुलाई 2026, शाम 5 बजे",
+    modifiedDate: "25 जुलाई 2026, शाम 5 बजे",
+    author: "Ravi Prakash",
+    authorName: "Ravi Prakash",
+    authorSlug: "ravi-prakash",
+    authorRole: "Current Affairs & GK Faculty",
+    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं। उनके notes AISSEE, JNVST, और अन्य entrance exams के लिए बहुत उपयोगी हैं।",
+    readTime: "10 मिनट",
+    category: "करेंट अफेयर्स और GK",
+    image: "https://img.jgps.in/blog/current-affairs-august-2026-weekly-gk-school-students.webp",
+    imageAlt: "August 2026 Current Affairs weekly GK update for school students - national sports day independence day",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Weekly Digest — अगस्त 2026 की Top 5 Headlines:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>15 अगस्त:</strong> भारत का 80वां स्वतंत्रता दिवस — लाल किले पर प्रधानमंत्री का भाषण</li>
+<li><strong>29 अगस्त:</strong> राष्ट्रीय खेल दिवस — मेजर ध्यानचंद जयंती</li>
+<li><strong>ISRO:</strong> चंद्रयान-4 मिशन की तैयारी तेज</li>
+<li><strong>खेल:</strong> भारतीय एथलीट्स ने Asian Games क्वालिफिकेशन में शानदार प्रदर्शन</li>
+<li><strong>शिक्षा:</strong> NEP 2020 के तहत नए पाठ्यक्रम लागू</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Ravi Prakash से संदेश:</p>
+<p>"हर दिन 10 मिनट करेंट अफेयर्स पढ़ने की आदत डालें। सुबह की असेंबली में न्यूज़ सुनें, अखबार पढ़ें, और हफ्ते में एक बार ये वीकली GK जरूर पढ़ें। AISSEE, JNVST, और अन्य entrance exams में GK section बहुत important है।"</p>
+</div>
+
+<p><strong>अगस्त 2026 करेंट अफेयर्स</strong> — ये वीकली GK अपडेट स्कूल स्टूडेंट्स, टीचर्स, और entrance exam aspirants के लिए है। इसमें राष्ट्रीय-अंतर्राष्ट्रीय खबरें, विज्ञान और तकनीक, खेल, और महत्वपूर्ण दिवस शामिल हैं।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">प्रमुख राष्ट्रीय और अंतर्राष्ट्रीय खबरें — अगस्त 2026</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">राष्ट्रीय खबरें</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>15 अगस्त — स्वतंत्रता दिवस 2026</strong></p>
+<p>भारत अपना <strong>80वां स्वतंत्रता दिवस</strong> मना रहा है। प्रधानमंत्री ने लाल किले से राष्ट्र को संबोधित किया। इस साल का मुख्य विषय <strong>"विकसित भारत 2047"</strong> रखा गया।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>NEP 2020 — नया पाठ्यक्रम लागू</strong></p>
+<p>राष्ट्रीय शिक्षा नीति 2020 के तहत कक्षा 6 और 9 के लिए <strong>नए NCERT पाठ्यक्रम</strong> इस शैक्षणिक सत्र से लागू हो गए हैं। नए पाठ्यक्रम में कोडिंग, आर्टिफिशियल इंटेलिजेंस, और व्यावसायिक शिक्षा को शामिल किया गया है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>डिजिटल इंडिया — UPI ने रिकॉर्ड तोड़ा</strong></p>
+<p>जुलाई 2026 में UPI transactions ने <strong>15 अरब</strong> का आंकड़ा पार किया। भारत दुनिया का सबसे बड़ा real-time digital payment system बन गया है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">अंतर्राष्ट्रीय खबरें</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>G20 Summit — भारत की बढ़ती भूमिका</strong></p>
+<p>भारत G20 में अपनी नेतृत्व भूमिका जारी रखे हुए है। जलवायु परिवर्तन और डिजिटल अर्थव्यवस्था पर भारत के प्रस्तावों को व्यापक समर्थन मिला है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>संयुक्त राष्ट्र — शांति मिशन</strong></p>
+<p>भारतीय सेना ने संयुक्त राष्ट्र शांति मिशन में अपना योगदान जारी रखा है। भारत UN Peacekeeping में सबसे बड़े योगदानकर्ताओं में से एक है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">विज्ञान, तकनीक और पर्यावरण</h2>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>ISRO — चंद्रयान-4 मिशन</strong></p>
+<p>भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) <strong>चंद्रयान-4 मिशन</strong> की तैयारी कर रहा है। यह मिशन चंद्रमा से मिट्टी के नमूने लाने का लक्ष्य रखता है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>AI और शिक्षा</strong></p>
+<p>भारत सरकार ने स्कूलों में <strong>आर्टिफिशियल इंटेलिजेंस (AI)</strong> शिक्षा को बढ़ावा देने के लिए नई योजना शुरू की है। 500 से ज्यादा स्कूलों में AI लैब स्थापित की जाएंगी।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>सौर ऊर्जा — नया रिकॉर्ड</strong></p>
+<p>भारत ने सौर ऊर्जा उत्पादन में <strong>100 GW</strong> का आंकड़ा पार किया। यह भारत के नवीकरणीय ऊर्जा लक्ष्य की दिशा में एक बड़ी उपलब्धि है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">खेल और पुरस्कार</h2>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>29 अगस्त — राष्ट्रीय खेल दिवस</strong></p>
+<p><strong>मेजर ध्यानचंद</strong> की जयंती पर हर साल 29 अगस्त को राष्ट्रीय खेल दिवस मनाया जाता है। इस दिन खेल रत्न, अर्जुन पुरस्कार, और द्रोणाचार्य पुरस्कार दिए जाते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>भारतीय एथलीट्स की उपलब्धियां</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li>भारतीय एथलीट्स ने Asian Games क्वालिफिकेशन में शानदार प्रदर्शन किया</li>
+<li>भारतीय क्रिकेट टीम ने ICC Tournament में शानदार जीत दर्ज की</li>
+<li>भारतीय बैडमिंटन खिलाड़ियों ने अंतर्राष्ट्रीय स्तर पर पदक जीते</li>
+</ul>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>पुरस्कार और सम्मान</strong></p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>राष्ट्रीय फिल्म पुरस्कार 2026</strong> की घोषणा</li>
+<li><strong>शांति स्वरूप भटनागर पुरस्कार</strong> — विज्ञान के क्षेत्र में उत्कृष्ट योगदान के लिए</li>
+<li><strong>गांधी शांति पुरस्कार 2026</strong> की घोषणा</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">अगस्त 2026 के महत्वपूर्ण दिवस</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th><th class="py-3 px-4 border-b font-bold text-white text-left">दिवस</th><th class="py-3 px-4 border-b font-bold text-white text-left">महत्व</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">1 अगस्त</td><td class="py-3 px-4 border-b">विश्व स्तनपान दिवस</td><td class="py-3 px-4 border-b">स्तनपान के महत्व के बारे में जागरूकता</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6 अगस्त</td><td class="py-3 px-4 border-b">हिरोशिमा दिवस</td><td class="py-3 px-4 border-b">1945 में हिरोशिमा पर परमाणु बम गिरा</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">9 अगस्त</td><td class="py-3 px-4 border-b">नागासाकी दिवस</td><td class="py-3 px-4 border-b">1945 में नागासाकी पर परमाणु बम गिरा</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">12 अगस्त</td><td class="py-3 px-4 border-b">अंतर्राष्ट्रीय युवा दिवस</td><td class="py-3 px-4 border-b">युवाओं के अधिकारों और भागीदारी के लिए</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">15 अगस्त</td><td class="py-3 px-4 border-b font-bold text-green-700">स्वतंत्रता दिवस</td><td class="py-3 px-4 border-b">भारत का 80वां स्वतंत्रता दिवस</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">19 अगस्त</td><td class="py-3 px-4 border-b">विश्व फोटोग्राफी दिवस</td><td class="py-3 px-4 border-b">फोटोग्राफी कला के महत्व के लिए</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">20 अगस्त</td><td class="py-3 px-4 border-b">विश्व मच्छर दिवस</td><td class="py-3 px-4 border-b">मलेरिया से बचाव के लिए जागरूकता</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">29 अगस्त</td><td class="py-3 px-4 border-b font-bold text-green-700">राष्ट्रीय खेल दिवस</td><td class="py-3 px-4 border-b">मेजर ध्यानचंद जयंती</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">स्कूल मॉर्निंग असेंबली के लिए Top 5 Headlines</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6">
+<p class="font-bold text-gray-900 mb-3">ये headlines सीधे असेंबली में पढ़ सकते हैं:</p>
+<ol class="list-decimal pl-6 space-y-3">
+<li><strong>"भारत ने मनाया 80वां स्वतंत्रता दिवस — प्रधानमंत्री ने लाल किले से दिया संदेश"</strong></li>
+<li><strong>"ISRO ने चंद्रयान-4 मिशन की तैयारी तेज की — चंद्रमा से मिट्टी लाने का लक्ष्य"</strong></li>
+<li><strong>"UPI ने तोड़ा रिकॉर्ड — 15 अरब transactions पार"</strong></li>
+<li><strong>"भारतीय एथलीट्स ने Asian Games क्वालिफिकेशन में शानदार प्रदर्शन किया"</strong></li>
+<li><strong>"29 अगस्त को राष्ट्रीय खेल दिवस — मेजर ध्यानचंद को श्रद्धांजलि"</strong></li>
+</ol>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">वीकली करेंट अफेयर्स क्विज</h2>
+<p>अपना GK टेस्ट करें — ये 5 सवाल entrance exams में पूछे जा सकते हैं:</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q1.</strong> भारत का 80वां स्वतंत्रता दिवस कब मनाया गया?</p>
+<p>A) 15 अगस्त 2025 | B) 15 अगस्त 2026 ✓ | C) 15 अगस्त 2027 | D) 15 अगस्त 2024</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 15 अगस्त 2026 — भारत ने 1947 में स्वतंत्रता पाई, इसलिए 2026 में 80वां स्वतंत्रता दिवस मनाया गया।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q2.</strong> राष्ट्रीय खेल दिवस किसकी जयंती पर मनाया जाता है?</p>
+<p>A) सचिन तेंदुलकर | B) मेजर ध्यानचंद ✓ | C) मिल्खा सिंह | D) पीटी उषा</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) मेजर ध्यानचंद — 29 अगस्त को उनकी जयंती पर राष्ट्रीय खेल दिवस मनाया जाता है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q3.</strong> ISRO का अगला चंद्र मिशन कौन सा है?</p>
+<p>A) चंद्रयान-2 | B) चंद्रयान-3 | C) चंद्रयान-4 ✓ | D) चंद्रयान-5</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) चंद्रयान-4 — यह मिशन चंद्रमा से मिट्टी के नमूने लाने का लक्ष्य रखता है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q4.</strong> भारत ने सौर ऊर्जा में कौन सा रिकॉर्ड तोड़ा?</p>
+<p>A) 50 GW | B) 75 GW | C) 100 GW ✓ | D) 150 GW</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) 100 GW — भारत ने सौर ऊर्जा उत्पादन में 100 GW का आंकड़ा पार किया।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q5.</strong> NEP 2020 के तहत स्कूलों में कौन सा नया विषय शामिल किया गया?</p>
+<p>A) संस्कृत | B) आर्टिफिशियल इंटेलिजेंस ✓ | C) योग | D) खेल</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) आर्टिफिशियल इंटेलिजेंस — NEP 2020 के तहत कोडिंग और AI को पाठ्यक्रम में शामिल किया गया है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/jnvst-2027-mental-ability-50-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
+<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें navodaya.gov.in से</p>
+</a>
+<a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School AISSEE 2027</h3>
+<p class="text-gray-600 text-xs">Notification date और eligibility</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">GK और Current Affairs में कमजोर हैं?</h3><p><strong>JGPS School</strong> में Ravi Prakash से GK और Current Affairs सीखें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Weekly Study Advice by Ravi Prakash</h3>
+<p>हर दिन <strong>10 मिनट</strong> करेंट अफेयर्स पढ़ें। सुबह की असेंबली में न्यूज़ ध्यान से सुनें। हफ्ते में एक बार ये वीकली GK जरूर पढ़ें। <strong>रोज़ की आदत बनाओ — exam में काम आएगा!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Ravi Prakash | JGPS Current Affairs & GK Faculty</p>
+</div>
+`,
+    faqs: [
+      { question: "अगस्त 2026 में कौन से महत्वपूर्ण दिवस हैं?", answer: "15 अगस्त — स्वतंत्रता दिवस, 29 अगस्त — राष्ट्रीय खेल दिवस, 12 अगस्त — अंतर्राष्ट्रीय युवा दिवस, 6 अगस्त — हिरोशिमा दिवस।" },
+      { question: "ISRO का अगला मिशन कौन सा है?", answer: "चंद्रयान-4 — यह मिशन चंद्रमा से मिट्टी के नमूने लाने का लक्ष्य रखता है।" },
+      { question: "राष्ट्रीय खेल दिवस कब और क्यों मनाया जाता है?", answer: "29 अगस्त को मेजर ध्यानचंद की जयंती पर राष्ट्रीय खेल दिवस मनाया जाता है। इस दिन खेल रत्न, अर्जुन पुरस्कार दिए जाते हैं।" },
+      { question: "NEP 2020 में क्या नया बदलाव आया?", answer: "NEP 2020 के तहत कोडिंग, AI, और व्यावसायिक शिक्षा को पाठ्यक्रम में शामिल किया गया है। नए NCERT पाठ्यक्रम लागू हो गए हैं।" }
+    ]
   }
 ];
 
