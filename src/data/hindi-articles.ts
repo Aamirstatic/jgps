@@ -6182,6 +6182,136 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Payment fail हो गई तो पैसे कट गए?", answer: "30 minute wait करें — अगर form confirm नहीं हुआ तो पैसे 7-10 दिन में refund हो जाएंगे।" },
       { question: "Form बीच में अटक गया है?", answer: "Same Registration Number से दोबारा login करें। Data save हो गया है — जहां छोड़ा था वहां से continue करें।" }
     ]
+  },
+  {
+    slug: "jnvst-2027-answer-key-download-navodaya-class-6",
+    title: "JNVST 2027 Answer Key Download: Navodaya Class 6 Answer Sheet PDF Kaise Dekhein?",
+    description: "JNVST 2027 आंसर की डाउनलोड करें navodaya.gov.in से। Navodaya Class 6 Answer Key 2027 PDF — Set A, B, C, D सभी sets के सही उत्तर देखें।",
+    keywords: "JNVST 2027 Answer Key Download, Navodaya Class 6 Answer Key 2027 PDF, JNVST 2027 Paper Solution Class 6, Navodaya Entrance Exam Expected Cut Off 2027",
+    date: "25 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    modifiedDate: "25 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    author: "Rifaul Hasan",
+    authorName: "Rifaul Hasan",
+    authorSlug: "rifaul-hasan",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "Rifaul Hasan JGPS के लिए प्रवेश परीक्षा अपडेट और एडमिशन गाइड लिखते हैं।",
+    readTime: "8 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-answer-key-download-navodaya-class-6.webp",
+    imageAlt: "JNVST 2027 Answer Key Download - Navodaya Class 6 Answer Sheet PDF - Set A B C D solutions",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Highlights:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>परीक्षा तिथि:</strong> 28 नवंबर 2026</li>
+<li><strong>कुल प्रश्न:</strong> 80 (Mental Ability 40 + Arithmetic 20 + Language 20)</li>
+<li><strong>कुल अंक:</strong> 80 (हर प्रश्न 1 अंक)</li>
+<li><strong>Answer Key Status:</strong> परीक्षा के बाद जारी होगी</li>
+<li><strong>Official Website:</strong> <a href="https://navodaya.gov.in" class="text-green-700 underline" target="_blank">navodaya.gov.in</a></li>
+</ul>
+</div>
+
+<p><strong>JNVST 2027 Answer Key Download</strong> करने के लिए navodaya.gov.in पर जाना होगा। नवोदय विद्यालय समिति (NVS) परीक्षा के कुछ दिन बाद official answer key जारी करता है। इसके अलावा, कई coaching institutes परीक्षा के तुरंत बाद unofficial answer key भी जारी करते हैं।</p>
+
+<p>अगर आपके बच्चे ने 28 नवंबर 2026 को JNVST 2027 की परीक्षा दी है, तो answer key से आप अनुमानित score calculate कर सकते हैं। इससे पता चल जाएगा कि selection की कितनी possibility है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Class 6 Answer Key 2027 Overview</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का नाम</td><td class="py-3 px-4 border-b">Jawahar Navodaya Vidyalaya Selection Test (JNVST) 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आयोजक</td><td class="py-3 px-4 border-b">Navodaya Vidyalaya Samiti (NVS)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कुल प्रश्न</td><td class="py-3 px-4 border-b">80</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल अंक</td><td class="py-3 px-4 border-b">80</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">प्रश्न सेट</td><td class="py-3 px-4 border-b">Set A, Set B, Set C, Set D</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key Status</td><td class="py-3 px-4 border-b">परीक्षा के बाद जारी होगी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Official Website</td><td class="py-3 px-4">navodaya.gov.in</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Answer Key PDF Kaise Download Karein?</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> <a href="https://navodaya.gov.in" class="text-green-700 underline" target="_blank">navodaya.gov.in</a> वेबसाइट खोलें</p>
+<p><strong>Step 2:</strong> होमपेज पर "JNVST 2027 Answer Key" लिंक पर क्लिक करें</p>
+<p><strong>Step 3:</strong> अपना Set (A/B/C/D) चुनें</p>
+<p><strong>Step 4:</strong> Answer Key PDF डाउनलोड हो जाएगी</p>
+<p><strong>Step 5:</strong> PDF में अपने बच्चे के उत्तर match करें</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Set-Wise Answer Key (Set A, B, C, D)</h2>
+<p>JNVST की परीक्षा में 4 अलग-अलग sets होते हैं — Set A, Set B, Set C, Set D। हर set के प्रश्न अलग-अलग होते हैं, लेकिन difficulty level same होता है।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Set</th><th class="py-3 px-4 border-b font-bold text-white text-left">Answer Key</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Set A</td><td class="py-3 px-4 border-b">परीक्षा के बाद उपलब्ध</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Set B</td><td class="py-3 px-4 border-b">परीक्षा के बाद उपलब्ध</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Set C</td><td class="py-3 px-4 border-b">परीक्षा के बाद उपलब्ध</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Set D</td><td class="py-3 px-4">परीक्षा के बाद उपलब्ध</td><td class="py-3 px-4 text-gray-500">⏳ आना बाकी</td></tr></tbody></table></div>
+
+<p class="text-sm text-gray-500 mt-2">अपने बच्चे का Set कैसे पता करें? OMR sheet के ऊपर Set code छपा होता है — A, B, C, या D।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Class 6 Expected Cut Off Marks 2027</h2>
+<p>Previous year trends के आधार पर expected cut off:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">श्रेणी</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Cut Off (80 में से)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Safe Score</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">General</td><td class="py-3 px-4 border-b">55-62</td><td class="py-3 px-4 border-b font-bold text-green-700">65+</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">OBC</td><td class="py-3 px-4 border-b">50-57</td><td class="py-3 px-4 border-b font-bold text-green-700">60+</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">SC</td><td class="py-3 px-4 border-b">45-52</td><td class="py-3 px-4 border-b font-bold text-green-700">55+</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">ST</td><td class="py-3 px-4 border-b">40-47</td><td class="py-3 px-4 border-b font-bold text-green-700">50+</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Rural Area</td><td class="py-3 px-4">35-42</td><td class="py-3 px-4 font-bold text-green-700">45+</td></tr></tbody></table></div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">ध्यान दें:</p>
+<p>ये expected cut off हैं — official cut off NVS result के साथ जारी करेगा। हर जिले में cut off अलग-अलग हो सकता है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Answer Key से Score कैसे Calculate करें?</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6">
+<p><strong>Formula:</strong></p>
+<p class="text-lg font-bold my-3">Total Score = Correct Answers × 1</p>
+<p>JNVST 2027 में:</p>
+<ul class="list-disc pl-6 space-y-2">
+<li><strong>कुल प्रश्न:</strong> 80</li>
+<li><strong>हर सही उत्तर:</strong> 1 अंक</li>
+<li><strong>नेगेटिव मार्किंग:</strong> नहीं</li>
+<li><strong>Maximum Score:</strong> 80</li>
+</ul>
+
+<p class="mt-4"><strong>Example:</strong> अगर बच्चे ने 80 में से 62 सवाल सही किए हैं, तो Score = 62/80</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">OMR Response Sheet PDF Download</h2>
+<p>NVS कभी-कभी OMR Response Sheet भी जारी करता है। इससे आप देख सकते हैं कि बच्चे ने किस सवाल पर क्या answer mark किया था।</p>
+<p>OMR Response Sheet download करने के लिए:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li>navodaya.gov.in पर जाएं</li>
+<li>"OMR Response Sheet" लिंक पर क्लिक करें</li>
+<li>Registration Number और Date of Birth दर्ज करें</li>
+<li>OMR Sheet PDF download करें</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Answer Key पर Objection कैसे करें?</h2>
+<p>अगर आपको लगता है कि answer key में कोई उत्तर गलत है, तो NVS objection दर्ज करने का मौका देता है:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li>Objection window answer key जारी होने के 3-5 दिन बाद तक खुली रहती है</li>
+<li>हर objection के साथ proof/justification देना होता है</li>
+<li>अगर objection सही पाया गया तो answer key update होती है</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/jnvst-2027-model-paper-free-pdf/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Model Paper 2027</h3>
+<p class="text-gray-600 text-xs">Free PDF download — हल सहित</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें navodaya.gov.in से</p>
+</a>
+<a href="/hi/blog/navodaya-kitne-number-se-pass-hote-hain-2026-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Navodaya Cut Off Marks</h3>
+<p class="text-gray-600 text-xs">Previous year cut off — कितने नंबर चाहिए</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JNVST 2027 की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> Navodaya entrance exam के लिए specialized coaching देता है। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Verdict</h3>
+<p><strong>JNVST 2027 Answer Key</strong> परीक्षा के कुछ दिन बाद navodaya.gov.in पर जारी होगी। Answer key से आप अनुमानित score calculate कर सकते हैं। अगर score expected cut off से ज्यादा है, तो selection की possibility strong है।</p>
+<p class="mt-2 text-sm text-gray-500">Source: NVS Official Website — navodaya.gov.in</p>
+</div>
+`,
+    faqs: [
+      { question: "JNVST 2027 Answer Key कब जारी होगी?", answer: "JNVST 2027 Answer Key परीक्षा (28 नवंबर 2026) के 7-10 दिन बाद navodaya.gov.in पर जारी होने की संभावना है।" },
+      { question: "Navodaya Class 6 Answer Key 2027 PDF कहां से download करें?", answer: "navodaya.gov.in पर जाएं → 'JNVST 2027 Answer Key' लिंक पर क्लिक करें → अपना Set (A/B/C/D) चुनें → PDF download करें।" },
+      { question: "Answer Key से score कैसे calculate करें?", answer: "हर सही उत्तर के 1 अंक मिलते हैं। नेगेटिव मार्किंग नहीं है। Total Score = Correct Answers × 1। Maximum score 80 है।" },
+      { question: "Expected Cut Off कितनी है JNVST 2027 की?", answer: "General: 55-62, OBC: 50-57, SC: 45-52, ST: 40-47, Rural: 35-42 (expected)। Official cut off NVS result के साथ जारी करेगा।" },
+      { question: "Answer Key पर objection कैसे करें?", answer: "Answer key जारी होने के 3-5 दिन बाद तक objection window खुली रहती है। navodaya.gov.in पर login करके objection दर्ज करें और proof अपलोड करें।" },
+      { question: "OMR Response Sheet कैसे download करें?", answer: "navodaya.gov.in पर 'OMR Response Sheet' लिंक पर क्लिक करें। Registration Number और Date of Birth दर्ज करें। PDF download हो जाएगी।" }
+    ]
   }
 ];
 
