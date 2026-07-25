@@ -7907,6 +7907,168 @@ export const hindiArticles: HindiArticle[] = [
       { question: "AMU Class 6 Entrance में negative marking है?", answer: "हां, हर गलत answer पर 0.25 marks कटते हैं। इसलिए sure नहीं हो तो guess मत करें।" },
       { question: "AMU Class 6 Entrance की तैयारी कैसे करें?", answer: "NCERT books पढ़ें, previous year papers solve करें, और हर subject पर equal focus करें। Mock tests ज़रूर दें।" }
     ]
+  },
+  {
+    slug: "jmi-class-6-entrance-2027-preparation-tips",
+    title: "JMI Class 6 Entrance 2027: Preparation Tips और Complete Syllabus Breakdown",
+    description: "JMI Class 6 Entrance 2027 Preparation Tips — EVS, Mathematics, English syllabus breakdown, exam pattern, और Coach Sameer की complete strategy।",
+    keywords: "JMI Class 6 Entrance 2027 Preparation Tips, JMI Class 6 entrance exam syllabus 2027, Jamia Class 6 admission question paper pattern, JMI Class 6 entrance preparation strategy",
+    date: "25 जुलाई 2026, शाम 8 बजे",
+    modifiedDate: "25 जुलाई 2026, शाम 8 बजे",
+    author: "Sameer",
+    authorName: "Sameer",
+    authorSlug: "sameer",
+    authorRole: "Entrance Exam Coach, JGPS",
+    authorBio: "Sameer JGPS में entrance exam coaching देते हैं। 8+ साल के experience के साथ AMU, JMI, और अन्य entrance exams की तैयारी कराते हैं।",
+    readTime: "10 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jmi-class-6-entrance-2027-preparation-tips.webp",
+    imageAlt: "JMI Class 6 Entrance 2027 Preparation Tips - Jamia Millia Islamia syllabus exam pattern strategy",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Exam Snapshot:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Total Marks:</strong> 100</li>
+<li><strong>Subjects:</strong> EVS (50) + Mathematics (30) + English (20)</li>
+<li><strong>Duration:</strong> 2 Hours</li>
+<li><strong>Question Type:</strong> MCQ (Multiple Choice Questions)</li>
+<li><strong>Negative Marking:</strong> No</li>
+<li><strong>Official Website:</strong> <a href="https://jmicoe.in" class="text-green-700 underline" target="_blank">jmicoe.in</a></li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Coach Sameer से संदेश:</p>
+<p>"JMI Class 6 entrance में EVS सबसे ज्यादा weightage रखता है — 50 marks! ज्यादातर students Math पर focus करते हैं और EVS ignore करते हैं। ये सबसे बड़ी गलती है। जो student EVS में 40+ marks लाता है, उसका selection 80% confirm हो जाता है।"</p>
+</div>
+
+<p><strong>JMI Class 6 Entrance 2027 Preparation Tips</strong> — ये article Jamia Millia Islamia (JMI) Class 6 entrance exam की तैयारी कर रहे students और parents के लिए है। JMI हर साल Class 6 में admission के लिए entrance exam आयोजित करता है। ये exam बहुत competitive है और सही strategy से तैयारी करना ज़रूरी है।</p>
+
+<p>इस article में मैं आपको <strong>complete syllabus breakdown</strong>, <strong>exam pattern</strong>, और <strong>preparation tips</strong> दूंगा जो मैंने 8 साल के coaching experience से सीखी हैं।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JMI Class 6 Entrance Exam Pattern 2027</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Weightage</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section I</td><td class="py-3 px-4 border-b">Environmental Studies (EVS)</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b font-bold text-green-700">50%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Section II</td><td class="py-3 px-4 border-b">Mathematical Ability</td><td class="py-3 px-4 border-b">30</td><td class="py-3 px-4 border-b">30</td><td class="py-3 px-4 border-b">30%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section III</td><td class="py-3 px-4 border-b">Language Skills (English)</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4"></td><td class="py-3 px-4 font-bold">100</td><td class="py-3 px-4 font-bold">100</td><td class="py-3 px-4 font-bold">100%</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Complete Subject-Wise Syllabus Breakdown</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 1: Environmental Studies (EVS) — 50 Marks</h3>
+<p>EVS सबसे ज्यादा weightage वाला section है। इसमें Science, Social Science, और General Knowledge शामिल है।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Key Areas</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Science & Technology</td><td class="py-3 px-4 border-b">15-18</td><td class="py-3 px-4 border-b">Human body, Plants, Animals, Solar System, Inventions</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Social Science</td><td class="py-3 px-4 border-b">12-15</td><td class="py-3 px-4 border-b">Indian History, Geography, Civics, Freedom Fighters</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">General Knowledge</td><td class="py-3 px-4 border-b">10-12</td><td class="py-3 px-4 border-b">Current Affairs, Awards, Sports, Capitals, Currencies</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Environmental Awareness</td><td class="py-3 px-4">5-8</td><td class="py-3 px-4">Pollution, Conservation, Climate, Natural Resources</td></tr></tbody></table></div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Important EVS Questions:</strong></p>
+<ul class="list-decimal pl-5 space-y-2">
+<li>Which organ pumps blood in the human body? → <strong>Heart</strong></li>
+<li>What is the capital of India? → <strong>New Delhi</strong></li>
+<li>Who is known as the Father of the Nation? → <strong>Mahatma Gandhi</strong></li>
+<li>Which planet is known as the Red Planet? → <strong>Mars</strong></li>
+<li>What is the boiling point of water? → <strong>100°C</strong></li>
+<li>Which gas do plants absorb? → <strong>Carbon Dioxide</strong></li>
+<li>What is the currency of Japan? → <strong>Yen</strong></li>
+<li>Who invented the telephone? → <strong>Alexander Graham Bell</strong></li>
+<li>Which is the largest ocean? → <strong>Pacific Ocean</strong></li>
+<li>What is the national animal of India? → <strong>Tiger</strong></li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 2: Mathematical Ability — 30 Marks</h3>
+<p>Math section में Class 5 level के concepts आते हैं। Speed और accuracy दोनों ज़रूरी हैं।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Key Concepts</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Number System</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b">Place value, Face value, Roman numerals, Rounding off</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic Operations</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b">Addition, Subtraction, Multiplication, Division</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Fractions & Decimals</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">Equivalent fractions, Addition, Subtraction</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Geometry</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">Shapes, Angles, Area, Perimeter</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Measurement</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">Length, Weight, Time, Temperature</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Data Handling</td><td class="py-3 px-4">3-4</td><td class="py-3 px-4">Tables, Bar graphs, Pictographs</td></tr></tbody></table></div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Important Math Questions:</strong></p>
+<ul class="list-decimal pl-5 space-y-2">
+<li>What is the place value of 7 in 5,76,432? → <strong>70,000</strong></li>
+<li>Simplify: 3/4 + 2/3 → <strong>17/12</strong></li>
+<li>What is 25% of 200? → <strong>50</strong></li>
+<li>Find the HCF of 24 and 36 → <strong>12</strong></li>
+<li>Find the area of rectangle (12cm × 8cm) → <strong>96 sq cm</strong></li>
+<li>Convert 0.75 to fraction → <strong>3/4</strong></li>
+<li>Find the average of 10, 20, 30, 40, 50 → <strong>30</strong></li>
+<li>A car travels 60 km/h for 2 hours. Distance? → <strong>120 km</strong></li>
+<li>Find the perimeter of square (side 15cm) → <strong>60 cm</strong></li>
+<li>Simplify: 15 + 3 × 4 - 2 → <strong>25</strong></li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Coach Sameer's Math Shortcut:</p>
+<p>Percentage problems में shortcut use करो: 25% = 1/4, 50% = 1/2, 75% = 3/4। ये 3 values याद रखो — 80% problems यहीं से आती हैं।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Section 3: Language Skills (English) — 20 Marks</h3>
+<p>English section में Grammar और Comprehension आता है। ये section scoring है — अगर grammar rules याद हैं तो 15+ marks लाना आसान है।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Key Areas</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Grammar</td><td class="py-3 px-4 border-b">8-10</td><td class="py-3 px-4 border-b">Tenses, Articles, Prepositions, Subject-Verb Agreement</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Vocabulary</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b">Synonyms, Antonyms, One-Word Substitution</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Reading Comprehension</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">Passage-based questions</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Sentence Completion</td><td class="py-3 px-4">2-3</td><td class="py-3 px-4">Fill in the blanks, Error spotting</td></tr></tbody></table></div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Important English Questions:</strong></p>
+<ul class="list-decimal pl-5 space-y-2">
+<li>Choose the synonym of "Happy" → <strong>Joyful</strong></li>
+<li>Fill in: She _____ to school every day → <strong>goes</strong></li>
+<li>Choose the antonym of "Tall" → <strong>Short</strong></li>
+<li>Identify the noun: "The children played" → <strong>children</strong></li>
+<li>Choose the article: _____ apple a day → <strong>An</strong></li>
+<li>What does "Break the ice" mean? → <strong>Start a conversation</strong></li>
+<li>Choose correct: He _____ finished his work → <strong>has</strong></li>
+<li>One who loves books → <strong>Bibliophile</strong></li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Sameer की Top Preparation Tips</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Sameer के 8 Golden Tips:</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>EVS को priority दो</strong> — 50% weightage है, सबसे ज्यादा marks यहीं से आते हैं</li>
+<li><strong>NCERT books पढ़ो</strong> — Class 4 और 5 की Science, EVS, Math books thoroughly पढ़ो</li>
+<li><strong>Daily 20 questions solve करो</strong> — हर subject से 7-8 questions रोज़</li>
+<li><strong>Previous year papers करो</strong> — Pattern समझने के लिए 5 साल के papers solve करो</li>
+<li><strong>GK daily पढ़ो</strong> — 10 मिनट newspaper या current affairs पढ़ो</li>
+<li><strong>Math shortcuts सीखो</strong> — Tables 1-20 याद करो, percentage shortcuts सीखो</li>
+<li><strong>Mock tests दो</strong> — हफ्ते में 1 full mock test ज़रूर दो</li>
+<li><strong>Time management सीखो</strong> — हर question पर 1 minute से ज्यादा मत लगाओ</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Best Books & Practice Resources</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Why This Book</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">EVS</td><td class="py-3 px-4 border-b">NCERT Class 4 & 5 EVS</td><td class="py-3 px-4 border-b">Direct questions इसी से आते हैं</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Math</td><td class="py-3 px-4 border-b">NCERT Class 4 & 5 Math</td><td class="py-3 px-4 border-b">Basics clear करने के लिए best</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">English</td><td class="py-3 px-4 border-b">Wren & Martin (Junior)</td><td class="py-3 px-4 border-b">Grammar rules comprehensive coverage</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">GK</td><td class="py-3 px-4 border-b">Lucent GK (Junior)</td><td class="py-3 px-4 border-b">Static GK + Current Affairs</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Practice</td><td class="py-3 px-4">JMI Previous Year Papers</td><td class="py-3 px-4">Actual exam pattern समझने के लिए</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/amu-class-6-entrance-2027-important-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Class 6 Important Questions</h3>
+<p class="text-gray-600 text-xs">30+ questions with answers</p>
+</a>
+<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack करें</h3>
+<p class="text-gray-600 text-xs">Aamir की English strategy</p>
+</a>
+<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
+<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
+</a>
+<a href="/hi/blog/jmi-class-6-entrance-2027-complete-guide/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JMI Complete Guide</h3>
+<p class="text-gray-600 text-xs">पूरी जानकारी</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JMI Class 6 Entrance की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> JMI entrance exam के लिए specialized coaching देता है। Coach Sameer से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Encouragement</h3>
+<p>JMI Class 6 entrance exam tough है, लेकिन सही strategy से crack किया जा सकता है। EVS को priority दो, Math के shortcuts सीखो, और English grammar याद करो। <strong>रोज़ 3 घंटे practice करो — selection पक्का है!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Sameer | JGPS Entrance Exam Coach | 8+ Years Experience</p>
+</div>
+`,
+    faqs: [
+      { question: "JMI Class 6 Entrance 2027 का exam कब होगा?", answer: "JMI Class 6 Entrance 2027 का exam फरवरी-मार्च 2027 में expected है। Official date jmicoe.in पर जारी होगी।" },
+      { question: "JMI Class 6 Entrance में कितने marks चाहिए?", answer: "Total 100 marks में से minimum 40% चाहिए। General category के लिए 50+ marks safe score है।" },
+      { question: "JMI Class 6 Entrance में negative marking है?", answer: "नहीं, JMI Class 6 entrance में negative marking नहीं है। सभी questions attempt करें।" },
+      { question: "JMI Class 6 Entrance की तैयारी कैसे करें?", answer: "NCERT books पढ़ें, EVS को priority दें, Math shortcuts सीखें, और mock tests दें। रोज़ 3 घंटे practice करें।" }
+    ]
   }
 ];
 
