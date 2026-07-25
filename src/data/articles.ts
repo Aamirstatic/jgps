@@ -3155,67 +3155,148 @@ export const articles: Article[] = [
   {
     slug: 'jnvst-class-6-admission-notification-2027-28',
     title: "JNVST 2027-28 Notification Out: Class 6 Admission Dates, Syllabus & PDF",
-    description: "JNVST 2027-28 notification released — Class 6 admission dates, exam pattern, syllabus PDF download, and eligibility criteria for Navodaya Vidyalaya entrance.",
-    keywords: "JNVST 2027 notification, Navodaya admission notice, JNVST exam date, Navodaya Vidyalaya notification",
-    date: "23 जुलाई 2026, सुबह 11 बजकर 59 मिनट",
-    modifiedDate: "July 24, 2026, 10:16 AM",
+    description: "JNVST 2027-28 notification released. Class 6 admission dates, exam pattern, syllabus PDF download, eligibility criteria, and application guide for Navodaya Vidyalaya.",
+    keywords: "JNVST 2027-28 Notification Out Class 6 Admission, Navodaya Class 6 admission form 2027-28, JNVST 2027-28 official notification PDF download, JNVST Class 6 exam pattern and syllabus 2027-28",
+    date: "25 जुलाई 2026, शाम 7 बजकर 30 मिनट",
+    modifiedDate: "July 25, 2026, 7:30 PM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
     authorRole: "Principal & Academic Expert, JGPS",
     authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU. His mission is to make quality education accessible to every child through structured learning methodologies.",
-    readTime: '3 mins',
+    readTime: '8 mins',
     category: "Admissions & Test Prep",
-    image: "https://img.jgps.in/blog/jnvst-class-6-admission-notification-2027-28.webp"
-    ,
-    content: `<p>Every year, thousands of parents search for information about JNVST Class 6 Admission 2027-28. Getting the right information at the right time can make the difference between selection and rejection. This guide covers everything you need to know about JNVST Class 6 Admission 2027-28 in 2027.</p>
+    image: "https://img.jgps.in/blog/jnvst-class-6-admission-notification-2027-28.webp",
+    imageAlt: "JNVST 2027-28 Notification Out - Class 6 admission dates syllabus PDF Navodaya Vidyalaya",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Key Highlights:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Notification Status:</strong> Released (July 2026)</li>
+<li><strong>Application Start:</strong> 7 July 2026</li>
+<li><strong>Last Date to Apply:</strong> 31 July 2026</li>
+<li><strong>Exam Date:</strong> 28 November 2026</li>
+<li><strong>Total Seats:</strong> ~80,000 across 661 JNVs</li>
+<li><strong>Official Website:</strong> <a href="https://navodaya.gov.in" class="text-green-700 underline" target="_blank">navodaya.gov.in</a></li>
+<li><strong>Application Portal:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
+</ul>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What You Need to Know</h2>
-<p>JNVST Class 6 Admission 2027-28 is an important step in your child's education journey. Understanding the process, eligibility criteria, and preparation strategy is crucial for success. Many parents make the mistake of starting late or following the wrong approach.</p>
+<p><strong>JNVST 2027-28 Notification Out</strong> — Navodaya Vidyalaya Samiti (NVS) has officially released the notification for Class 6 admission to Jawahar Navodaya Vidyalayas for the academic session 2027-28. Over 30 lakh students are expected to compete for approximately 80,000 seats across 661 JNVs nationwide. If your child is currently in Class 5, this is the opportunity to secure a completely free, world-class education.</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Dates and Deadlines</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date (Expected)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification Release</td><td class="py-3 px-4 border-b font-bold">July-August 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Application Start</td><td class="py-3 px-4 border-b font-bold">August-September 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold">October-November 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b font-bold">December 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold text-green-700">January 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Result</td><td class="py-3 px-4 border-b font-bold">March-April 2027</td></tr></tbody></table></div>
+<p>The <strong>Jawahar Navodaya Vidyalaya Selection Test (JNVST)</strong> is a national-level entrance exam conducted by NVS under the Ministry of Education. Unlike private schools, JNVs provide 100% free education including boarding, meals, uniforms, and textbooks. The last date to apply is <strong>31 July 2026</strong> — act now before the portal closes.</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Eligibility Criteria</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Criteria</th><th class="py-3 px-4 border-b font-bold text-white text-left">Requirement</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Age Limit</td><td class="py-3 px-4 border-b">10-12 years for Class 6</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Qualification</td><td class="py-3 px-4 border-b">Class 5 passed from recognized school</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Nationality</td><td class="py-3 px-4 border-b">Indian citizen</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Medical Fitness</td><td class="py-3 px-4">Must pass medical test</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Class 6 Admission 2027-28 Key Dates & Schedule</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification Released</td><td class="py-3 px-4 border-b">July 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">Done</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Start</td><td class="py-3 px-4 border-b">7 July 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">Done</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold">31 July 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">6 days left</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">August 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Release</td><td class="py-3 px-4 border-b">October 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold text-green-700">28 November 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">Confirmed</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key Release</td><td class="py-3 px-4 border-b">December 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4">March-April 2027</td><td class="py-3 px-4 text-gray-500">Pending</td></tr></tbody></table></div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How to Prepare</h2>
-<p>Start preparation at least 6-8 months before the exam. Focus on NCERT books for Class 4 and 5. Practice previous year papers. Take mock tests every week. Work on time management.</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027-28 Eligibility Criteria</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Common Mistakes to Avoid</h2>
-<p>1. Starting preparation too late. Begin at least 6 months before the exam.</p>
-<p>2. Ignoring the syllabus. Check the official syllabus first and stick to it.</p>
-<p>3. Not solving previous year papers. They show the real exam pattern.</p>
-<p>4. Skipping mock tests. Practice under timed conditions is essential.</p>
-<p>5. Not checking official updates. Always verify dates from the official website.</p>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Age Limit</h3>
+<p>Students must be between <strong>10 to 12 years</strong> of age as on 1 May 2027. Both boys and girls are eligible to apply. Date of birth should be between <strong>1 May 2015 and 30 April 2017</strong> (both dates inclusive).</p>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Educational Qualification</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li>Must be studying in <strong>Class 5</strong> during the academic year 2026-27</li>
+<li>Must be enrolled in a <strong>recognized school</strong> in the district where admission is sought</li>
+<li>Must have a valid <strong>Headmaster Study Certificate</strong> from the current school</li>
+</ul>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Rural & Urban Quota Reservation</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Category</th><th class="py-3 px-4 border-b font-bold text-white text-left">Reservation</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Rural Area Students</td><td class="py-3 px-4 border-b">75% seats reserved</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Urban Area Students</td><td class="py-3 px-4 border-b">25% seats</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">SC Category</td><td class="py-3 px-4 border-b">15% reservation</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">ST Category</td><td class="py-3 px-4 border-b">7.5% reservation</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">OBC Category</td><td class="py-3 px-4 border-b">27% reservation</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Girls Quota</td><td class="py-3 px-4">Minimum 33% seats for girls</td></tr></tbody></table></div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Important Alert for Parents:</p>
+<p>Rural students get <strong>75% reservation</strong> — this is a massive advantage. If your child studies in a rural school, their chances are significantly higher. Make sure the school certificate clearly mentions the rural/urban classification.</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Class 6 Exam Pattern & Subject Weightage 2027-28</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section I</td><td class="py-3 px-4 border-b">Mental Ability Test</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Section II</td><td class="py-3 px-4 border-b">Arithmetic Test</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section III</td><td class="py-3 px-4 border-b">Language Test</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4"></td><td class="py-3 px-4 font-bold">80</td><td class="py-3 px-4 font-bold">80</td></tr></tbody></table></div>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Detail</th><th class="py-3 px-4 border-b font-bold text-white text-left">Information</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Mode</td><td class="py-3 px-4 border-b">Offline (Pen & Paper)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Question Type</td><td class="py-3 px-4 border-b">Multiple Choice Questions (MCQs)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Duration</td><td class="py-3 px-4 border-b">2 Hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4 border-b font-bold text-green-700">No</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Medium</td><td class="py-3 px-4">English, Hindi & Regional Languages</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Step-by-Step Guide to Apply Online</h2>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> Visit <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></p>
+<p><strong>Step 2:</strong> Click "New Registration" and enter the child's details</p>
+<p><strong>Step 3:</strong> Note down the Registration Number and Password</p>
+<p><strong>Step 4:</strong> Login and fill the application form carefully</p>
+<p><strong>Step 5:</strong> Upload documents (photo, signature, certificates)</p>
+<p><strong>Step 6:</strong> Submit the form and download the confirmation page</p>
+<p><strong>Step 7:</strong> Take a printout for your records</p>
+</div>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">Document Verification Checklist:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Aadhaar Card</strong> — child's Aadhaar is mandatory</li>
+<li><strong>Residence Certificate</strong> — proof of district domicile</li>
+<li><strong>Headmaster Study Certificate</strong> — from current school</li>
+<li><strong>Date of Birth Certificate</strong> — from municipality or hospital</li>
+<li><strong>Category Certificate</strong> — SC/ST/OBC (if applicable)</li>
+<li><strong>Passport Photo</strong> — JPG format, 10-100 KB</li>
+<li><strong>Signature</strong> — JPG format, 10-50 KB</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mandatory Documents & Official Notification PDF</h2>
+<p>Download the official JNVST 2027-28 notification PDF from <a href="https://navodaya.gov.in" class="text-green-700 underline" target="_blank">navodaya.gov.in</a>. The PDF contains complete eligibility details, reservation rules, and exam guidelines.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Pro-Tips for Parents: Avoiding Common Application Errors</h2>
+<div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Double-check the child's name</strong> — must match Aadhaar card exactly</li>
+<li><strong>Verify date of birth</strong> — one wrong digit can disqualify the application</li>
+<li><strong>Upload clear photos</strong> — blurry or cropped photos get rejected</li>
+<li><strong>Save the Registration Number</strong> — you'll need it for admit card download</li>
+<li><strong>Don't wait until the last day</strong> — server crashes are common on deadline day</li>
+<li><strong>Use the correction window</strong> — NVS usually provides 3-5 days to fix errors</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Related Articles</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/blog/jnvst-2027-exam-date-notification/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST 2027 Exam Date Out</h3>
+<p class="text-gray-600 text-xs">Official exam date and notification details</p>
+</a>
+<a href="/blog/jnvst-2027-exam-pattern-syllabus/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST 2027 Exam Pattern & Syllabus</h3>
+<p class="text-gray-600 text-xs">New pattern changes and complete syllabus</p>
+</a>
+<a href="/blog/how-to-crack-jnvst-2027-preparation-plan/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">How to Crack JNVST 2027</h3>
+<p class="text-gray-600 text-xs">6-month preparation plan</p>
+</a>
+<a href="/blog/jnvst-2027-application-form-last-date-31-july/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Application Form Last Date</h3>
+<p class="text-gray-600 text-xs">Apply before 31 July 2026</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help with JNVST Preparation?</h3><p><strong>JGPS School</strong> offers specialized coaching for Navodaya entrance exam. Our students have a proven track record of selections. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
+
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JNVST 2027-28 notification has been released. Application form available at <strong>navodaya.gov.in</strong>. Last date: <strong>July 31, 2026</strong>. Exam expected in <strong>January 2027</strong>. Over 30 lakh students are expected to compete for approximately 80,000 seats. Apply immediately if you haven't already. Source: NVS (July 2026).</p>
+<h3 class="font-bold text-gray-900 mb-2">July 25, 2026 Update</h3>
+<p>JNVST 2027-28 application form is live at <strong>cbseitms.rcil.gov.in</strong>. Last date: <strong>31 July 2026</strong> — only 6 days left. The exam will be held on <strong>28 November 2026</strong> (confirmed). This year's pattern has changed: 80 questions instead of 100. Apply immediately if you haven't already. Source: NVS Official Website (navodaya.gov.in).</p>
 </div>
 `,
-    faqs:     [
-          {
-                "question": "When should I start preparing for JNVST Class 6 Admission 2027-28?",
-                "answer": "Start at least 6-8 months before the exam. Early preparation gives your child enough time to cover the full syllabus and practice mock tests."
-          },
-          {
-                "question": "What is the eligibility criteria?",
-                "answer": "Your child must be studying in the relevant class, meet the age requirements, and be an Indian citizen. Check the official notification for detailed eligibility."
-          },
-          {
-                "question": "Is coaching necessary for preparation?",
-                "answer": "Coaching helps but is not mandatory. Self-study with NCERT books, previous year papers, and online resources can also work. The key is consistency and practice."
-          },
-          {
-                "question": "How many seats are available?",
-                "answer": "The number of seats varies by school and category. Check the official website for exact seat availability for your child's category and state."
-          },
-          {
-                "question": "What is the exam pattern?",
-                "answer": "The exam typically includes Mathematics, General Knowledge, Language, and Reasoning. It is usually MCQ-based with 100-150 questions. Check the official syllabus for details."
-          }
+    faqs: [
+      {
+        "question": "When is the last date to apply for JNVST 2027-28?",
+        "answer": "The last date to submit the JNVST 2027-28 online application form is 31 July 2026. No extensions have been announced yet. Apply as early as possible to avoid last-day server issues."
+      },
+      {
+        "question": "What is the age limit for JNVST 2027-28 Class 6 admission?",
+        "answer": "Students must be between 10 to 12 years of age as on 1 May 2027. Date of birth should be between 1 May 2015 and 30 April 2017 (both dates inclusive). This applies to all categories."
+      },
+      {
+        "question": "Is there negative marking in JNVST 2027-28?",
+        "answer": "No. There is no negative marking in JNVST 2027-28. Students should attempt all 80 questions without fear of losing marks for wrong answers."
+      },
+      {
+        "question": "Where can I download the JNVST 2027-28 admit card?",
+        "answer": "The JNVST 2027-28 admit card will be available at navodaya.gov.in approximately 4-6 weeks before the exam (expected October 2026). You will need your Registration Number and Date of Birth to download it."
+      }
     ],
   },
   {
