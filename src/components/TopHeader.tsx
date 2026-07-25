@@ -11,18 +11,22 @@ export default function TopHeader() {
             <a 
               href="tel:+919997161490"
               className="flex items-center gap-2 text-white/80 hover:text-yellow-300 transition-colors group"
+              title="Call Manager"
             >
               <FaPhone className="text-yellow-300 text-xs" />
-              <span className="font-medium">Manager: +91 9997161490</span>
+              <span className="hidden sm:inline font-medium">Manager: +91 9997161490</span>
+              <span className="sm:hidden font-medium text-xs">Manager</span>
             </a>
 
             <div className="flex items-center gap-2">
               <a 
                 href="tel:+919412137554"
                 className="flex items-center gap-2 text-white/80 hover:text-yellow-300 transition-colors group"
+                title="Call Principal"
               >
                 <FaPhone className="text-yellow-300 text-xs" />
-                <span className="font-medium">Principal: +91 9412137554</span>
+                <span className="hidden sm:inline font-medium">Principal: +91 9412137554</span>
+                <span className="sm:hidden font-medium text-xs">Principal</span>
               </a>
 
               <a 
