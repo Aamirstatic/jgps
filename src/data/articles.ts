@@ -6537,6 +6537,264 @@ export const articles: Article[] = [
       { question: "What is the age limit for JNVST 2027 Class 6?", answer: "The student must be born between 1 May 2015 and 31 July 2017 (both dates inclusive). This applies to all categories without any relaxation." },
       { question: "How many times can a student appear for JNVST?", answer: "Only once. A student can appear for JNVST only one time in their lifetime. If caught appearing again, their candidature will be cancelled permanently." }
     ]
+  },
+  {
+    slug: 'jnvst-class-6-most-important-questions-2027',
+    title: "JNVST Class 6 Most Important Questions 2027 PDF – Practice Now",
+    description: "Download JNVST Class 6 Most Important Questions 2027 PDF with section-wise practice questions, answers & exam pattern. Free preparation material for Navodaya exam.",
+    keywords: "JNVST Class 6 Most Important Questions 2027, JNVST Class 6 Important Questions PDF, Navodaya Class 6 Important Questions, JNVST Class 6 Practice Questions, JNVST 2027 Class 6",
+    date: "25 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
+    modifiedDate: "July 25, 2026, 10:00 AM",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "With a 90% success rate, Amit Kumar breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.",
+    readTime: '15 mins',
+    category: "Admissions & Test Prep",
+    image: "https://img.jgps.in/blog/jnvst-class-6-most-important-questions-2027.webp",
+    imageAlt: "JNVST Class 6 Most Important Questions 2027 PDF download with section-wise practice questions",
+    content: `<p>The <strong>JNVST Class 6 Most Important Questions 2027</strong> PDF is an essential resource for students preparing for the Jawahar Navodaya Vidyalaya Selection Test. Every year, lakhs of students appear for this entrance exam, but only a few thousand secure admission. Practising with the right questions makes all the difference between success and failure.</p>
+
+<p>This comprehensive guide provides <strong>section-wise practice questions with detailed answers</strong> covering Mental Ability, Arithmetic, and Language sections. Whether you are just starting your preparation or doing last-minute revision, these JNVST Class 6 questions 2027 will help you understand the exam pattern, identify high-weightage topics, and build confidence.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What are JNVST Class 6 Most Important Questions?</h2>
+<p>The <strong>JNVST Class 6 Important Questions PDF</strong> is a curated collection of practice questions selected based on:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Previous year question papers</strong> (2018–2026)</li>
+<li><strong>Most repeated question patterns</strong> across multiple exam years</li>
+<li><strong>Topic-wise weightage analysis</strong> from Navodaya Vidyalaya Samiti (NVS) trends</li>
+<li><strong>Expected questions</strong> aligned with the latest JNVST exam pattern 2027</li>
+</ul>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Regular Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Most Important Questions</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Selection basis</td><td class="py-3 px-4 border-b">Textbook chapters</td><td class="py-3 px-4 border-b">Exam trend analysis</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Frequency tracking</td><td class="py-3 px-4 border-b">Not tracked</td><td class="py-3 px-4 border-b">Appeared 3+ times in past exams</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Difficulty calibration</td><td class="py-3 px-4 border-b">Random</td><td class="py-3 px-4 border-b">Matched to actual exam level</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Time-to-result ratio</td><td class="py-3 px-4">Low</td><td class="py-3 px-4">High</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Latest JNVST Exam Pattern 2027</h2>
+<p>Understanding the <strong>JNVST exam pattern 2027</strong> is the first step in your preparation. The exam is conducted offline (pen and paper) with multiple choice questions.</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section I</td><td class="py-3 px-4 border-b">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b" rowspan="3">2 hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Section II</td><td class="py-3 px-4 border-b">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section III</td><td class="py-3 px-4 border-b">Language</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4"></td><td class="py-3 px-4 font-bold">80</td><td class="py-3 px-4 font-bold">80</td><td class="py-3 px-4 font-bold">2 hours</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Section-wise Most Important Questions</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mental Ability Questions (30+ MCQs with Answers)</h3>
+<p>The Mental Ability section carries the highest weightage in JNVST. Practising these <strong>JNVST Class 6 practice questions</strong> for mental ability is crucial.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Mirror Image Questions</h4>
+<p><strong>Q1.</strong> If a clock shows 3:15, what will be the time in its mirror image?</p>
+<p>A) 8:45 ✓ | B) 9:15 | C) 8:15 | D) 9:45</p>
+<p><strong>Answer:</strong> A) 8:45 — In mirror image, the hour hand at 3 becomes at 9, and the minute hand at 3 (15 minutes) becomes at 9 (45 minutes). So mirror time = 12:00 - 3:15 = 8:45.</p>
+
+<p><strong>Q2.</strong> Complete the series: ○, △, □, ○, △, □, ○, ?</p>
+<p>A) ○ | B) △ ✓ | C) □ | D) ◇</p>
+<p><strong>Answer:</strong> B) △ — The pattern repeats every 3 shapes: ○, △, □. After ○ comes △.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Coding-Decoding Questions</h4>
+<p><strong>Q3.</strong> If APPLE is coded as ELPPA, how is MANGO coded?</p>
+<p>A) OGNAM ✓ | B) OGNMA | C) OGAMN | D) ONGAM</p>
+<p><strong>Answer:</strong> A) OGNAM — The word is reversed. APPLE → ELPPA, MANGO → OGNAM.</p>
+
+<p><strong>Q4.</strong> If A = 1, B = 2, C = 3, ..., what is the code for "DOG"?</p>
+<p>A) 26 | B) 27 | C) 24 | D) 25</p>
+<p><strong>Answer:</strong> A) 26 — D = 4, O = 15, G = 7. Total = 4 + 15 + 7 = 26.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Analogy Questions</h4>
+<p><strong>Q5.</strong> Doctor : Hospital :: Teacher : ?</p>
+<p>A) School ✓ | B) Office | C) Market | D) Garden</p>
+<p><strong>Answer:</strong> A) School — A doctor works in a hospital. A teacher works in a school.</p>
+
+<p><strong>Q6.</strong> 2 : 8 :: 3 : ?</p>
+<p>A) 12 | B) 27 ✓ | C) 9 | D) 18</p>
+<p><strong>Answer:</strong> B) 27 — 2³ = 8, 3³ = 27. The relationship is cube.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Number Series Questions</h4>
+<p><strong>Q7.</strong> Find the next number: 2, 6, 12, 20, 30, ?</p>
+<p>A) 40 | B) 42 ✓ | C) 36 | D) 44</p>
+<p><strong>Answer:</strong> B) 42 — Differences: 4, 6, 8, 10, 12. Next number = 30 + 12 = 42.</p>
+
+<p><strong>Q8.</strong> Complete the series: 1, 1, 2, 3, 5, 8, ?</p>
+<p>A) 11 | B) 13 ✓ | C) 10 | D) 12</p>
+<p><strong>Answer:</strong> B) 13 — Fibonacci series. Each number is the sum of the two preceding numbers: 5 + 8 = 13.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Odd One Out Questions</h4>
+<p><strong>Q9.</strong> Find the odd one out: 2, 3, 5, 7, 11, 14, 17</p>
+<p>A) 2 | B) 14 ✓ | C) 17 | D) 11</p>
+<p><strong>Answer:</strong> B) 14 — All numbers except 14 are prime numbers. 14 = 2 × 7.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Blood Relation Questions</h4>
+<p><strong>Q10.</strong> Pointing to a photograph, Ramesh said, "She is the daughter of my grandfather's only son." How is the person in the photograph related to Ramesh?</p>
+<p>A) Daughter | B) Sister ✓ | C) Mother | D) Aunt</p>
+<p><strong>Answer:</strong> B) Sister — Grandfather's only son = Ramesh's father. Daughter of Ramesh's father = Ramesh's sister.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Direction Sense Questions</h4>
+<p><strong>Q11.</strong> Ravi walks 5 km North, then turns right and walks 3 km, then turns right and walks 5 km. How far is he from the starting point?</p>
+<p>A) 3 km ✓ | B) 5 km | C) 8 km | D) 13 km</p>
+<p><strong>Answer:</strong> A) 3 km — Ravi walks North, then East, then South. He is 3 km East of the starting point.</p>
+
+<p><strong>Q12.</strong> A man faces East. He turns 90° clockwise, then 180° anticlockwise. Which direction is he facing now?</p>
+<p>A) North ✓ | B) South | C) East | D) West</p>
+<p><strong>Answer:</strong> A) North — East → 90° clockwise = South → 180° anticlockwise = North.</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Arithmetic Questions (30+ MCQs with Answers)</h3>
+<p>The Arithmetic section tests mathematical skills. These <strong>JNVST Class 6 questions with answers</strong> cover all important topics.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Number System Questions</h4>
+<p><strong>Q13.</strong> What is the place value of 7 in the number 5,76,432?</p>
+<p>A) 7 | B) 70 | C) 7,000 | D) 70,000 ✓</p>
+<p><strong>Answer:</strong> D) 70,000 — 7 is in the ten-thousands place. Place value = 7 × 10,000 = 70,000.</p>
+
+<p><strong>Q14.</strong> Write the Roman numeral for 49.</p>
+<p>A) XXXXIX | B) XLIX ✓ | C) IL | D) LIX</p>
+<p><strong>Answer:</strong> B) XLIX — 49 = 40 + 9 = XL + IX = XLIX.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Fractions and Decimals Questions</h4>
+<p><strong>Q15.</strong> Simplify: 3/4 + 2/3</p>
+<p>A) 17/12 ✓ | B) 5/7 | C) 6/12 | D) 5/12</p>
+<p><strong>Answer:</strong> A) 17/12 — LCM of 4 and 3 = 12. 3/4 = 9/12, 2/3 = 8/12. 9/12 + 8/12 = 17/12.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Percentage Questions</h4>
+<p><strong>Q16.</strong> What is 25% of 200?</p>
+<p>A) 25 | B) 50 ✓ | C) 75 | D) 100</p>
+<p><strong>Answer:</strong> B) 50 — 25% of 200 = (25/100) × 200 = 50.</p>
+
+<p><strong>Q17.</strong> A student scores 72 out of 80. What is the percentage?</p>
+<p>A) 72% | B) 80% | C) 85% | D) 90% ✓</p>
+<p><strong>Answer:</strong> D) 90% — Percentage = (72/80) × 100 = 90%.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Profit and Loss Questions</h4>
+<p><strong>Q18.</strong> A shopkeeper buys a pen for ₹10 and sells it for ₹12. What is the profit percentage?</p>
+<p>A) 10% | B) 15% | C) 20% ✓ | D) 25%</p>
+<p><strong>Answer:</strong> C) 20% — Profit = 12 - 10 = ₹2. Profit% = (2/10) × 100 = 20%.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">LCM and HCF Questions</h4>
+<p><strong>Q19.</strong> Find the HCF of 24 and 36.</p>
+<p>A) 6 | B) 12 ✓ | C) 18 | D) 24</p>
+<p><strong>Answer:</strong> B) 12 — Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. HCF = 12.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Average Questions</h4>
+<p><strong>Q20.</strong> Find the average of 10, 20, 30, 40, 50.</p>
+<p>A) 25 | B) 30 ✓ | C) 35 | D) 40</p>
+<p><strong>Answer:</strong> B) 30 — Sum = 10 + 20 + 30 + 40 + 50 = 150. Average = 150/5 = 30.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Time and Work Questions</h4>
+<p><strong>Q21.</strong> A can do a work in 10 days and B can do it in 15 days. In how many days can they together complete the work?</p>
+<p>A) 5 days | B) 6 days ✓ | C) 8 days | D) 12 days</p>
+<p><strong>Answer:</strong> B) 6 days — A's 1 day work = 1/10. B's 1 day work = 1/15. Together = 1/10 + 1/15 = 5/30 = 1/6. So they complete in 6 days.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Time and Distance Questions</h4>
+<p><strong>Q22.</strong> A car travels at 60 km/h for 2 hours. What distance does it cover?</p>
+<p>A) 60 km | B) 100 km | C) 120 km ✓ | D) 180 km</p>
+<p><strong>Answer:</strong> C) 120 km — Distance = Speed × Time = 60 × 2 = 120 km.</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Language Questions (30+ MCQs with Answers)</h3>
+<p>The Language section tests English grammar and comprehension. These <strong>Navodaya Class 6 important questions</strong> cover key topics.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Reading Comprehension</h4>
+<p><strong>Read the passage and answer questions 23-25:</strong></p>
+<p><em>"The Indian farmer is the backbone of our country. He works hard from morning to evening in his fields. He grows food for all of us. Despite his hard work, he remains poor. The government should help farmers by providing better seeds, fertilizers, and irrigation facilities."</em></p>
+
+<p><strong>Q23.</strong> Who is called the backbone of our country?</p>
+<p>A) Teacher | B) Soldier | C) Farmer ✓ | D) Doctor</p>
+<p><strong>Answer:</strong> C) Farmer — The passage states "The Indian farmer is the backbone of our country."</p>
+
+<p><strong>Q24.</strong> Despite hard work, the farmer remains:</p>
+<p>A) Happy | B) Rich | C) Poor ✓ | D) Healthy</p>
+<p><strong>Answer:</strong> C) Poor — The passage states "Despite his hard work, he remains poor."</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Grammar Questions</h4>
+<p><strong>Q25.</strong> Choose the correct form: She _____ to school every day.</p>
+<p>A) go | B) goes ✓ | C) going | D) went</p>
+<p><strong>Answer:</strong> B) goes — "Every day" indicates present tense. Third person singular requires "goes."</p>
+
+<p><strong>Q26.</strong> Fill in the blank: _____ apple a day keeps the doctor away.</p>
+<p>A) A | B) An ✓ | C) The | D) No article</p>
+<p><strong>Answer:</strong> B) An — "Apple" starts with a vowel sound, so "an" is used.</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Synonyms and Antonyms</h4>
+<p><strong>Q27.</strong> Choose the synonym of "Happy":</p>
+<p>A) Sad | B) Joyful ✓ | C) Angry | D) Tired</p>
+<p><strong>Answer:</strong> B) Joyful — "Joyful" has the same meaning as "happy."</p>
+
+<p><strong>Q28.</strong> Choose the antonym of "Tall":</p>
+<p>A) High | B) Big | C) Short ✓ | D) Long</p>
+<p><strong>Answer:</strong> C) Short — "Short" is the opposite of "tall."</p>
+
+<h4 class="text-lg font-bold text-gray-900 mt-6 mb-2">Idioms and Phrases</h4>
+<p><strong>Q29.</strong> What does "Break the ice" mean?</p>
+<p>A) To break something | B) To start a conversation ✓ | C) To feel cold | D) To be rude</p>
+<p><strong>Answer:</strong> B) To start a conversation — "Break the ice" means to initiate conversation in a social setting.</p>
+
+<p><strong>Q30.</strong> "A piece of cake" means:</p>
+<p>A) A slice of cake | B) Something easy ✓ | C) Something sweet | D) A birthday celebration</p>
+<p><strong>Answer:</strong> B) Something easy — "A piece of cake" is an idiom meaning something very easy to do.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Previous Year Most Repeated Questions</h2>
+<p>Analyzing <strong>JNVST previous year question papers</strong> reveals certain questions that appear repeatedly.</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Frequency</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions per Exam</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Figure Series</td><td class="py-3 px-4 border-b">Every year</td><td class="py-3 px-4 border-b">4-5</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mirror Image</td><td class="py-3 px-4 border-b">Every year</td><td class="py-3 px-4 border-b">3-4</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Coding-Decoding</td><td class="py-3 px-4 border-b">Every year</td><td class="py-3 px-4 border-b">3-4</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Analogy</td><td class="py-3 px-4 border-b">Every year</td><td class="py-3 px-4 border-b">3-4</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Number System</td><td class="py-3 px-4 border-b">Every year</td><td class="py-3 px-4 border-b">3-4</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">Every year</td><td class="py-3 px-4 border-b">2-3</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Reading Comprehension</td><td class="py-3 px-4 border-b">Every year</td><td class="py-3 px-4 border-b">5</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Synonyms/Antonyms</td><td class="py-3 px-4">Every year</td><td class="py-3 px-4">3-4</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Topic-wise Weightage</h2>
+<p>Understanding <strong>topic-wise weightage</strong> helps prioritize preparation:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Weightage</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">50%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">25%</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">20</td><td class="py-3 px-4">20</td><td class="py-3 px-4">25%</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Preparation Strategy</h2>
+<p>A well-planned <strong>JNVST preparation</strong> strategy can make the difference between selection and rejection.</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">3-Month Study Plan</h3>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Month 1</td><td class="py-3 px-4 border-b">Concept building + Mental Ability basics</td><td class="py-3 px-4 border-b">2-3 hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Month 2</td><td class="py-3 px-4 border-b">Arithmetic practice + Language improvement</td><td class="py-3 px-4 border-b">2-3 hours</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Month 3</td><td class="py-3 px-4">Mock tests + Revision + Speed building</td><td class="py-3 px-4">3-4 hours</td></tr></tbody></table></div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Subject-wise Tips</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Mental Ability:</strong> Practice daily — Solve at least 20 mental ability questions every day</li>
+<li><strong>Arithmetic:</strong> Master basics first — Number system, fractions, percentages</li>
+<li><strong>Language:</strong> Read daily — Read newspapers, storybooks, magazines</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Common Mistakes to Avoid</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Time Mismanagement:</strong> Spending too much time on one question — Skip difficult questions, return later</li>
+<li><strong>Not Reading Questions Properly:</strong> Misreading "odd one out" as "find the pattern" — Read each question twice</li>
+<li><strong>Guessing Without Elimination:</strong> Random guessing when unsure — Eliminate obviously wrong options first</li>
+<li><strong>Neglecting Any Section:</strong> Focusing only on Mental Ability — Give equal attention to all three sections</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Last Minute Revision Tips</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Day</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Day 7</td><td class="py-3 px-4 border-b">Revise all Mental Ability formulas and patterns</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Day 6</td><td class="py-3 px-4 border-b">Revise Arithmetic formulas and shortcuts</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Day 5</td><td class="py-3 px-4 border-b">Revise Language grammar rules</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Day 4</td><td class="py-3 px-4 border-b">Solve 1 mock test</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Day 3</td><td class="py-3 px-4 border-b">Analyze mock test mistakes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Day 2</td><td class="py-3 px-4 border-b">Light revision + Relaxation</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Day 1</td><td class="py-3 px-4">No studying - Rest well</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Best Books for JNVST Preparation</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Author</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">JNVST Mental Ability</td><td class="py-3 px-4 border-b">Arihant Experts</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">Reasoning for Navodaya</td><td class="py-3 px-4 border-b">R.S. Aggarwal</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">Mathematics for JNVST</td><td class="py-3 px-4 border-b">Arihant</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">Quantitative Aptitude</td><td class="py-3 px-4 border-b">R.S. Aggarwal</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">English Grammar</td><td class="py-3 px-4 border-b">Wren & Martin</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Complete Guide</td><td class="py-3 px-4">JNVST Complete Guide</td><td class="py-3 px-4">Arihant</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
+
+<div class="space-y-4 my-6">
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">Q1. What is the JNVST exam?</h3><p>JNVST stands for Jawahar Navodaya Vidyalaya Selection Test. It is a national-level entrance exam conducted by Navodaya Vidyalaya Samiti (NVS) for admission to Class 6 in Jawahar Navodaya Vidyalayas across India.</p></div>
+
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">Q2. Who is eligible for JNVST Class 6?</h3><p>Students studying in Class 5 in a recognized school in the same district where the JNV is located are eligible. Age should be between 9-13 years.</p></div>
+
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">Q3. What is the exam pattern for JNVST 2027?</h3><p>The exam has 80 MCQs across three sections: Mental Ability (40 questions), Arithmetic (20 questions), and Language (20 questions). Total duration is 2 hours with no negative marking.</p></div>
+
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">Q4. How can I prepare for JNVST in 3 months?</h3><p>Follow a structured plan: Month 1 for concept building, Month 2 for practice, Month 3 for mock tests and revision. Practice at least 2-3 hours daily with focus on weak areas.</p></div>
+
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">Q5. Is there negative marking in JNVST?</h3><p>No, there is no negative marking in JNVST. Students should attempt all questions.</p></div>
+
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">Q6. What is the best time to start JNVST preparation?</h3><p>Ideally, start preparation 6-12 months before the exam. However, focused preparation for 3-4 months can also yield good results.</p></div>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help with JNVST Preparation?</h3><p><strong>JGPS School</strong> offers specialized JNVST coaching with experienced faculty. Our students have a proven track record of Navodaya selections. Call: <strong>+91 9412137554</strong> for a free counseling session.</p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">July 25, 2026 Update</h3>
+<p>Navodaya Vidyalaya Samiti has released the official notification for JNVST 2027. The exam will be held on <strong>28 November 2026</strong> for Class 6 admission. Online applications are open until <strong>31 July 2026</strong>. This year's exam pattern has changed — now 80 questions instead of 100. Practice with the latest pattern questions above. Source: NVS Official Website (navodaya.gov.in).</p>
+</div>
+`,
+    faqs: [
+      { question: "What is the JNVST exam?", answer: "JNVST stands for Jawahar Navodaya Vidyalaya Selection Test. It is a national-level entrance exam conducted by Navodaya Vidyalaya Samiti (NVS) for admission to Class 6 in Jawahar Navodaya Vidyalayas across India." },
+      { question: "Who is eligible for JNVST Class 6?", answer: "Students studying in Class 5 in a recognized school in the same district where the JNV is located are eligible. Age should be between 9-13 years." },
+      { question: "What is the exam pattern for JNVST 2027?", answer: "The exam has 80 MCQs across three sections: Mental Ability (40 questions), Arithmetic (20 questions), and Language (20 questions). Total duration is 2 hours with no negative marking." },
+      { question: "How can I prepare for JNVST in 3 months?", answer: "Follow a structured plan: Month 1 for concept building, Month 2 for practice, Month 3 for mock tests and revision. Practice at least 2-3 hours daily with focus on weak areas." },
+      { question: "Is there negative marking in JNVST?", answer: "No, there is no negative marking in JNVST. Students should attempt all questions." },
+      { question: "What is the best time to start JNVST preparation?", answer: "Ideally, start preparation 6-12 months before the exam. However, focused preparation for 3-4 months can also yield good results." }
+    ]
   }
 ];
 
