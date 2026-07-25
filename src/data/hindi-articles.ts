@@ -6430,7 +6430,7 @@ export const hindiArticles: HindiArticle[] = [
     ]
   },
   {
-    slug: "jnvst-2027-mental-ability-50-questions",
+    slug: "jnvst-2027-mental-ability-50-questions-hindi",
     title: "JNVST 2027 Mental Ability — 50 Most Important Questions with Answers",
     description: "JNVST 2027 Mental Ability 50 Important Questions — Odd One Out, Figure Series, Mirror Image, Analogy, Coding-Decoding, Paper Folding सभी topics cover। Free PDF download।",
     keywords: "JNVST 2027 Mental Ability 50 Important Questions, Navodaya Class 6 Mental Ability questions PDF, JNVST Reasoning practice set 2027, Navodaya Mental ability important topics",
