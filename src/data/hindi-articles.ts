@@ -6428,6 +6428,436 @@ export const hindiArticles: HindiArticle[] = [
       { question: "AISSEE 2027 की परीक्षा कब होगी?", answer: "जनवरी 2027 में expected है। Official date notification में जारी होगी।" },
       { question: "Sainik School में लड़कियां admission ले सकती हैं?", answer: "हां, 2026 से Sainik Schools में Girls Quota शुरू हो गया है। लड़कियां कक्षा 6 में admission ले सकती हैं।" }
     ]
+  },
+  {
+    slug: "jnvst-2027-mental-ability-50-questions",
+    title: "JNVST 2027 Mental Ability — 50 Most Important Questions with Answers",
+    description: "JNVST 2027 Mental Ability 50 Important Questions — Odd One Out, Figure Series, Mirror Image, Analogy, Coding-Decoding, Paper Folding सभी topics cover। Free PDF download।",
+    keywords: "JNVST 2027 Mental Ability 50 Important Questions, Navodaya Class 6 Mental Ability questions PDF, JNVST Reasoning practice set 2027, Navodaya Mental ability important topics",
+    date: "25 जुलाई 2026, शाम 4 बजकर 30 मिनट",
+    modifiedDate: "25 जुलाई 2026, शाम 4 बजकर 30 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं। 90% success rate के साथ Mental Ability और Reasoning सिखाते हैं।",
+    readTime: "15 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-mental-ability-50-questions.webp",
+    imageAlt: "JNVST 2027 Mental Ability 50 Important Questions - Navodaya Class 6 reasoning practice set with answers",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Summary:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Mental Ability में 40 प्रश्न आते हैं</strong> — कुल 80 में से 40 (50% weightage)</li>
+<li><strong>सबसे ज्यादा marks इसी section में हैं</strong> — यही selection decide करता है</li>
+<li><strong>10 topics से प्रश्न आते हैं</strong> — Odd One Out, Figure Series, Mirror Image, Analogy, Coding-Decoding, Paper Folding, Embedded Figure, Pattern Completion, Space Visualization, Geometrical Completion</li>
+<li><strong>Practice से speed बढ़ती है</strong> — हर दिन 20 सवाल जरूर करें</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Amit Kumar से संदेश:</p>
+<p>"मैं पिछले 10 साल से JNVST की तैयारी करा रहा हूं। मेरे 90% students का selection होता है। Mental Ability सबसे scoring section है — अगर बच्चा रोज 20 सवाल practice करे, तो 40 में से 35+ marks लाना आसान है। ये 50 सबसे important questions हैं जो हर साल exam में आते हैं।"</p>
+</div>
+
+<p><strong>JNVST 2027 Mental Ability 50 Important Questions</strong> — ये वो सवाल हैं जो पिछले 5 साल के JNVST papers से select किए गए हैं। Mental Ability section में 40 प्रश्न आते हैं और यही section सबसे ज्यादा marks देता है। अगर बच्चा इन 50 सवालों को अच्छे से practice कर ले, तो exam में 35+ marks लाना आसान हो जाएगा।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Mental Ability Exam Pattern & Topic-Wise Weightage</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Weightage</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Odd One Out</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">10-12%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Figure Series</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b">12-15%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Analogy</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">10-12%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Coding-Decoding</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">10-12%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mirror Image</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">7-10%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Pattern Completion</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">7-10%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Embedded Figure</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">7-10%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Paper Folding</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">7-10%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Figure Matching</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">7-10%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Space Visualization</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">5-7%</td></tr><tr><td class="py-3 px-4 font-bold text-gray-900">Geometrical Completion</td><td class="py-3 px-4 font-bold">2-3</td><td class="py-3 px-4 font-bold">5-7%</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">50 Most Important Mental Ability Questions</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 1: Odd One Out (सबसे अलग ढूंढें)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q1.</strong> सबसे अलग ढूंढें: 2, 3, 5, 7, 11, 14, 17</p>
+<p>A) 2 | B) 14 ✓ | C) 17 | D) 11</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 14 — सभी prime numbers हैं except 14 (14 = 2 × 7)</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q2.</strong> सबसे अलग ढूंढें: Square, Rectangle, Triangle, Circle</p>
+<p>A) Square | B) Rectangle | C) Circle ✓ | D) Triangle</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Circle — Square, Rectangle, Triangle polygons हैं (straight sides)। Circle के straight sides नहीं हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q3.</strong> सबसे अलग ढूंढें: Apple, Mango, Potato, Banana</p>
+<p>A) Apple | B) Mango | C) Potato ✓ | D) Banana</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Potato — बाकी fruits हैं, Potato vegetable है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q4.</strong> सबसे अलग ढूंढें: January, March, May, June</p>
+<p>A) January | B) March | C) May | D) June ✓</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> D) June — January, March, May में 31 दिन होते हैं। June में 30 दिन होते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q5.</strong> सबसे अलग ढूंढें: Dog, Cat, Lion, Cow</p>
+<p>A) Dog | B) Cat | C) Lion ✓ | D) Cow</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) Lion — बाकी domestic animals हैं, Lion wild animal है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 2: Figure Series (आकृति श्रृंखला)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q6.</strong> श्रृंखला पूरी करें: ○, △, □, ○, △, □, ○, ?</p>
+<p>A) ○ | B) △ ✓ | C) □ | D) ◇</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) △ — Pattern हर 3 shapes के बाद repeat होता है: ○, △, □</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q7.</strong> श्रृंखला पूरी करें: ▲, ▲▲, ▲▲▲, ?</p>
+<p>A) ▲▲▲▲ ✓ | B) ▲▲ | C) ▲▲▲▲▲ | D) ▲</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) ▲▲▲▲ — हर step में एक triangle बढ़ता है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q8.</strong> श्रृंखला पूरी करें: ●, ●●, ●●●, ●●●●, ?</p>
+<p>A) ●●●●● ✓ | B) ●●●●●● | C) ●● | D) ●●●</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) ●●●●● — हर step में एक dot बढ़ती है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q9.</strong> संख्या श्रृंखला: 2, 6, 12, 20, 30, ?</p>
+<p>A) 40 | B) 42 ✓ | C) 36 | D) 44</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 42 — Differences: 4, 6, 8, 10, 12। Next = 30 + 12 = 42</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q10.</strong> Fibonacci Series: 1, 1, 2, 3, 5, 8, ?</p>
+<p>A) 11 | B) 13 ✓ | C) 10 | D) 12</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 13 — हर number पिछले दो का योग: 5 + 8 = 13</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 3: Analogy (सादृश्यता)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q11.</strong> Doctor : Hospital :: Teacher : ?</p>
+<p>A) School ✓ | B) Office | C) Market | D) Garden</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) School — Doctor hospital में काम करता है। Teacher school में काम करता है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q12.</strong> Eye : See :: Ear : ?</p>
+<p>A) Sound | B) Hear ✓ | C) Nose | D) Mouth</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Hear — Eye से देखते हैं। Ear से सुनते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q13.</strong> 2 : 8 :: 3 : ?</p>
+<p>A) 12 | B) 27 ✓ | C) 9 | D) 18</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 27 — 2³ = 8, 3³ = 27। Relationship cube है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q14.</strong> Pen : Write :: Knife : ?</p>
+<p>A) Cut ✓ | B) Sharp | C) Steel | D) Kitchen</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) Cut — Pen से लिखते हैं। Knife से काटते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q15.</strong> India : Delhi :: Japan : ?</p>
+<p>A) Beijing | B) Tokyo ✓ | C) Seoul | D) Bangkok</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Tokyo — India की capital Delhi है। Japan की capital Tokyo है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 4: Coding-Decoding (कोडिंग-डिकोडिंग)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q16.</strong> APPLE को ELPPA लिखा जाता है, तो MANGO को कैसे लिखेंगे?</p>
+<p>A) OGNAM ✓ | B) OGNMA | C) OGAMN | D) ONGAM</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) OGNAM — शब्द उल्टा हो जाता है। APPLE → ELPPA, MANGO → OGNAM</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q17.</strong> A=1, B=2, C=3, ... तो DOG का code क्या होगा?</p>
+<p>A) 26 | B) 27 | C) 24 | D) 25</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) 26 — D=4, O=15, G=7। Total = 4+15+7 = 26</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q18.</strong> CAT को DBCU लिखा जाता है, तो DOG को कैसे लिखेंगे?</p>
+<p>A) EPH ✓ | B) EPG | C) FPH | D) DPH</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) EPH — हर letter +1: C→D, A→B, T→U। D→E, O→P, G→H</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q19.</strong> MONKEY को NPOOLZ लिखा जाता है, तो TIGER को कैसे लिखेंगे?</p>
+<p>A) UJHFS ✓ | B) UJHGS | C) UIHFS | D) VJHFS</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) UJHFS — हर letter +1: T→U, I→J, G→H, E→F, R→S</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q20.</strong> अगर PENCIL को QFODJM लिखा जाता है, तो ERASER को कैसे लिखेंगे?</p>
+<p>A) FSBTFS ✓ | B) FSBTSF | C) DSBTFS | D) FSBTFS</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) FSBTFS — हर letter +1: E→F, R→S, A→B, S→T, E→F, R→S</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 5: Mirror Image (दर्पण प्रतिबिंब)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q21.</strong> घड़ी 3:15 दिखा रही है। Mirror image में क्या समय होगा?</p>
+<p>A) 8:45 ✓ | B) 9:15 | C) 8:15 | D) 9:45</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) 8:45 — Mirror में 3:15 → 12:00 - 3:15 = 8:45</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q22.</strong> "MATHS" शब्द का mirror image क्या होगा?</p>
+<p>A) SHTAM | B) SHTAᗺ ✓ | C) SHTAᗡ | D) SHTAᗺ</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) SHTAᗺ — Letters reverse होते हैं और individual letters flip होते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q23.</strong> "AMBULANCE" का mirror image:</p>
+<p>A) ECNALUBMA | B) ƎƆИA⅃UᗺAᗡ ✓ | C) ECNALUBMA | D) ECNALUBMA</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) ƎƆИA⅃UᗺAᗡ — Letters reverse + flip होते हैं।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 6: Pattern Completion (पैटर्न पूर्णता)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q24.</strong> Pattern पूरा करें: 1, 4, 9, 16, 25, ?</p>
+<p>A) 30 | B) 36 ✓ | C) 35 | D) 49</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 36 — Perfect squares: 1², 2², 3², 4², 5², 6² = 36</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q25.</strong> Pattern पूरा करें: A, C, E, G, ?</p>
+<p>A) H | B) I ✓ | C) J | D) K</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) I — हर letter +2: A→C→E→G→I</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q26.</strong> Pattern पूरा करें: 3, 9, 27, 81, ?</p>
+<p>A) 162 | B) 243 ✓ | C) 216 | D) 324</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 243 — हर number ×3: 81 × 3 = 243</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 7: Embedded Figure (छुपी हुई आकृति)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q27.</strong> एक बड़ी आकृति में छोटी आकृति ढूंढें। अगर बड़ी आकृति एक star है, तो छोटी आकृति कौन सी है?</p>
+<p>A) Triangle ✓ | B) Circle | C) Square | D) Pentagon</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) Triangle — Star के अंदर triangle embedded होता है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q28.</strong> एक complex figure में से simple shape ढूंढें। अगर complex figure एक house है, तो कौन सी shape embedded है?</p>
+<p>A) Triangle (roof) ✓ | B) Circle | C) Pentagon | D) Hexagon</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) Triangle — House की roof triangle shape की होती है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 8: Paper Folding (कागज मोड़ना)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q29.</strong> एक square paper को एक बार मोड़कर triangle काटा गया। Paper खोलने पर कितने holes होंगे?</p>
+<p>A) 1 | B) 2 ✓ | C) 3 | D) 4</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 2 — एक बार मोड़कर काटने पर 2 identical holes बनते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q30.</strong> एक circular paper को दो बार मोड़कर एक छोटा circle काटा गया। Paper खोलने पर कितने holes होंगे?</p>
+<p>A) 2 | B) 3 | C) 4 ✓ | D) 5</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) 4 — दो बार मोड़कर काटने पर 4 holes बनते हैं।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 9: Blood Relation (रक्त संबंध)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q31.</strong> Ramesh एक photo की तरफ इशारा करके कहता है, "ये मेरे दादा के इकलौते बेटे की बेटी है।" Photo में कौन है?</p>
+<p>A) बेटी | B) बहन ✓ | C) माँ | D) चाची</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) बहन — दादा का इकलौता बेटा = Ramesh का पिता। पिता की बेटी = Ramesh की बहन।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q32.</strong> A, B का बेटा है। C, B की बेटी है। D, E का भाई है। E, A की बेटी है। C, E से कैसे संबंधित है?</p>
+<p>A) माँ | B) चाची ✓ | C) बहन | D) दादी</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) चाची — A और C भाई-बहन हैं (B के बच्चे)। E, A की बेटी है। C, E की चाची है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 10: Direction Sense (दिशा ज्ञान)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q33.</strong> Ravi 5 km North चलता है, फिर right मुड़कर 3 km चलता है, फिर right मुड़कर 5 km चलता है। वो starting point से कितनी दूर है?</p>
+<p>A) 3 km ✓ | B) 5 km | C) 8 km | D) 13 km</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) 3 km — North → East → South। वो starting point से 3 km East है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q34.</strong> एक आदमी East की तरफ मुख कर रहा है। वो 90° clockwise मुड़ता है, फिर 180° anticlockwise मुड़ता है। अब वो किस दिशा में मुख कर रहा है?</p>
+<p>A) North ✓ | B) South | C) East | D) West</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) North — East → 90° clockwise = South → 180° anticlockwise = North</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 11: Number Series (संख्या श्रृंखला)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q35.</strong> श्रृंखला पूरी करें: 1, 3, 6, 10, 15, ?</p>
+<p>A) 18 | B) 20 | C) 21 ✓ | D) 25</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) 21 — Differences: 2, 3, 4, 5, 6। Next = 15 + 6 = 21</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q36.</strong> श्रृंखला पूरी करें: 5, 10, 20, 40, ?</p>
+<p>A) 60 | B) 70 | C) 80 ✓ | D) 90</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> C) 80 — हर number ×2: 40 × 2 = 80</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q37.</strong> श्रृंखला पूरी करें: 100, 81, 64, 49, 36, ?</p>
+<p>A) 25 ✓ | B) 16 | C) 20 | D) 30</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) 25 — Perfect squares in reverse: 10², 9², 8², 7², 6², 5² = 25</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 12: Logical Reasoning (तार्किक तर्क)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q38.</strong> अगर सभी roses flowers हैं और कुछ flowers red हैं, तो कौन सा statement definitely true है?</p>
+<p>A) सभी roses red हैं | B) कुछ roses red हो सकते हैं ✓ | C) कोई rose red नहीं है | D) सभी flowers roses हैं</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) कुछ roses red हो सकते हैं — सभी roses flowers हैं और कुछ flowers red हैं, इसलिए कुछ roses red हो सकते हैं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q39.</strong> एक row में Rahul बाएं से 12वें और दाएं से 15वें स्थान पर है। Row में कितने students हैं?</p>
+<p>A) 25 | B) 26 ✓ | C) 27 | D) 28</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 26 — Total = Left + Right - 1 = 12 + 15 - 1 = 26</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q40.</strong> अगर Monday Day 1 है, तो Day 50 कौन सा दिन होगा?</p>
+<p>A) Monday | B) Tuesday ✓ | C) Wednesday | D) Thursday</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Tuesday — 50 ÷ 7 = 7 remainder 1। Day 50 = Monday + 1 = Tuesday</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 13: Geometrical Figure (ज्यामितीय आकृति)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q41.</strong> Square में कितनी lines of symmetry होती हैं?</p>
+<p>A) 2 | B) 4 ✓ | C) 6 | D) 8</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 4 — 2 diagonals + 2 midpoints through opposite sides</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q42.</strong> Rectangle की length 8 cm और width 6 cm है। Diagonal की length कितनी होगी?</p>
+<p>A) 10 cm ✓ | B) 12 cm | C) 14 cm | D) 48 cm</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) 10 cm — Pythagorean theorem: √(8² + 6²) = √(64+36) = √100 = 10 cm</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q43.</strong> 3×3 grid में कितने squares हैं?</p>
+<p>A) 10 | B) 14 ✓ | C) 12 | D) 16</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) 14 — 9 (1×1) + 4 (2×2) + 1 (3×3) = 14 squares</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q44.</strong> Circle, Semi-circle, Quarter-circle, अगली shape क्या होगी?</p>
+<p>A) Eighth-circle ✓ | B) Full circle | C) Oval | D) Triangle</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) Eighth-circle — Circle को progressively ज्यादा parts में बांटा जा रहा है: 1, 2, 4, 8</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 14: Figure Matching (आकृति मिलान)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q45.</strong> दी गई figure से exactly same figure कौन सी है?</p>
+<p>A) Rotated version | B) Exact match ✓ | C) Reflected version | D) Different size</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Exact match — Figure matching में identical shape, size, और orientation चाहिए।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q46.</strong> दी गई figure का mirror image कौन सा है?</p>
+<p>A) Same figure | B) Flipped horizontally ✓ | C) Flipped vertically | D) Rotated 90°</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Flipped horizontally — Mirror image में figure horizontally flip होता है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 15: Space Visualization (स्थान कल्पना)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q47.</strong> एक cube को खोलने पर कौन सा pattern बनेगा?</p>
+<p>A) T-shape ✓ | B) L-shape | C) I-shape | D) Cross shape</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> A) T-shape — Cube को खोलने पर T-shape का net बनता है।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q48.</strong> एक cylinder को काटने पर कौन सा shape बनेगा?</p>
+<p>A) Circle | B) Rectangle ✓ | C) Triangle | D) Square</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> B) Rectangle — Cylinder को length-wise काटने पर rectangle बनता है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Category 16: Ranking & Order (रैंकिंग)</h3>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q49.</strong> 5 students की height: A > B > C > D > E। सबसे छोटा कौन है?</p>
+<p>A) A | B) B | C) D | D) E ✓</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> D) E — E सबसे छोटा है क्योंकि A > B > C > D > E</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q50.</strong> एक queue में A, B के पीछे है। C, A के पीछे है। D, B के आगे है। कौन सबसे आगे है?</p>
+<p>A) A | B) B | C) C | D) D ✓</p>
+<p class="text-sm text-gray-600"><strong>Answer:</strong> D) D — Order: D → B → A → C। D सबसे आगे है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Secret Tips to Score 50/50 in Mental Ability — Amit Kumar के Pro Tips</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Amit Kumar के 10 Golden Tips:</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>रोज 20 सवाल practice करें</strong> — Consistency सबसे जरूरी है</li>
+<li><strong>पहले आसान सवाल करें</strong> — Odd One Out, Analogy पहले करें</li>
+<li><strong>Figure Series में pattern ढूंढें</strong> — Differences, rotations, additions देखें</li>
+<li><strong>Coding-Decoding में A=1, B=2 याद रखें</strong> — ये shortcut बहुत काम आता है</li>
+<li><strong>Mirror Image में left-right swap होता है</strong> — ऊपर-नीचे same रहता है</li>
+<li><strong>Paper Folding में 2^n formula याद रखें</strong> — 1 fold = 2 holes, 2 folds = 4 holes</li>
+<li><strong>Blood Relation में diagram बनाएं</strong> — Visual बनाने से answer जल्दी मिलता है</li>
+<li><strong>Direction Sense में North-South-East-West draw करें</strong></li>
+<li><strong>Time management सीखें</strong> — हर सवाल पर 1.5 minute से ज्यादा मत लगाओ</li>
+<li><strong>Mock test दें</strong> — हफ्ते में 1 full mock test जरूर दें</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Mental Ability Practice Set PDF Download</h2>
+<p>इन 50 questions की PDF download करने के लिए:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><a href="/hi/blog/jnvst-2027-model-paper-free-pdf/" class="text-green-700 underline font-bold">JNVST 2027 Model Paper Free PDF</a> — हल सहित</li>
+<li><a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="text-green-700 underline">JNVST Exam Pattern 2027</a> — पूरी जानकारी</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-model-paper-free-pdf/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Model Paper 2027</h3>
+<p class="text-gray-600 text-xs">Free PDF download — हल सहित</p>
+</a>
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें navodaya.gov.in से</p>
+</a>
+<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
+<p class="text-gray-600 text-xs">Answer Key download और score calculate करें</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JNVST 2027 की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> Navodaya entrance exam के लिए specialized coaching देता है। Amit Kumar से Mental Ability सीखें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Encouragement</h3>
+<p>Mental Ability सबसे scoring section है। अगर बच्चा इन 50 questions को अच्छे से practice कर ले और हर दिन 20 नए सवाल solve करे, तो exam में 35+ marks लाना आसान है। <strong>याद रखें — practice makes perfect!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Amit Kumar | JGPS Entrance Exam Specialist | Source: JNVST Previous Year Papers Analysis</p>
+</div>
+`,
+    faqs: [
+      { question: "JNVST Mental Ability में कितने प्रश्न आते हैं?", answer: "JNVST 2027 के Mental Ability section में 40 प्रश्न आते हैं। यह सबसे ज्यादा weightage वाला section है — कुल 80 में से 40 marks इसी के हैं।" },
+      { question: "Mental Ability में कौन से topics सबसे important हैं?", answer: "Figure Series, Odd One Out, Analogy, Coding-Decoding, Mirror Image, Paper Folding — ये 6 topics सबसे ज्यादा questions देते हैं।" },
+      { question: "Mental Ability की तैयारी कैसे करें?", answer: "रोज 20 सवाल practice करें, previous year papers solve करें, और हफ्ते में 1 mock test दें। Pattern recognition सबसे जरूरी skill है।" },
+      { question: "Mental Ability में कितने marks लाने चाहिए?", answer: "Selection के लिए 40 में से 35+ marks लाने चाहिए। अगर बच्चा रोज practice करे तो ये possible है।" }
+    ]
   }
 ];
 
