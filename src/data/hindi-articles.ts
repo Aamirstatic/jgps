@@ -8343,6 +8343,160 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Pomodoro Technique क्या है?", answer: "25 minutes focused study → 5 minutes break → repeat। 4 rounds के बाद 15 minutes लंबा break। ये technique बच्चों के लिए perfect है।" },
       { question: "बच्चा रोज़ नहीं पढ़ रहा, क्या करूं?", answer: "Fix study time रखो, study environment बनाओ, और weekly rewards दो। Pressure मत डालो — positive motivation ज्यादा काम करता है।" }
     ]
+  },
+  {
+    slug: "jnvst-class-6-omr-sheet-filling-rules-mistakes",
+    title: "JNVST Class 6 OMR Sheet Filling Rules: 5 गलतियां जो रिजल्ट कर सकती हैं रद्द!",
+    description: "JNVST Class 6 OMR Sheet filling rules — 5 गलतियां जो result cancel कर सकती हैं। जानें सही तरीका, pen selection, bubbling technique, और roll number filling rules।",
+    keywords: "JNVST Class 6 OMR Sheet filling Rules, Navodaya OMR sheet sample PDF download, JNVST OMR sheet mistakes that cancel result, How to fill Navodaya Class 6 OMR sheet correctly",
+    date: "25 जुलाई 2026, रात 10 बजे",
+    modifiedDate: "25 जुलाई 2026, रात 10 बजे",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं। 90% success rate के साथ Mental Ability और Reasoning सिखाते हैं।",
+    readTime: "7 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-class-6-omr-sheet-filling-rules-mistakes.webp",
+    imageAlt: "JNVST Class 6 OMR Sheet filling rules mistakes - Navodaya admit card OMR sheet correct way to fill",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-1">⚠️ Urgent Warning — OMR Rules at a Glance:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Ballpoint Pen Only:</strong> केवल नीला या काला ball pen use करें — pencil नहीं</li>
+<li><strong>Complete Darkening:</strong> गोला पूरा भरें — आधा भरा हुआ scan नहीं होगा</li>
+<li><strong>No Whitener/Blade:</strong> कुछ काटें नहीं, whitener न लगाएं, blade न चलाएं</li>
+<li><strong>Single Response:</strong> हर सवाल का सिर्फ एक गोला भरें — दो भरे तो गलत</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Amit Kumar से संदेश:</p>
+<p>"मैंने पिछले 10 साल में कई बच्चों को OMR sheet की गलती की वजह से fail होते देखा है। बच्चे ने सवाल सही किए, लेकिन OMR पर गलत भरा — result रद्द हो गया। ये बहुत दर्दनाक है। इसलिए OMR filling rules ज़रूर सीखो।"</p>
+</div>
+
+<p><strong>JNVST Class 6 OMR Sheet Filling Rules</strong> — ये article हर student और parent को पढ़ना चाहिए जो 28 नवंबर 2026 को JNVST exam देने वाले हैं। OMR (Optical Mark Recognition) sheet पर गलत भरने से result रद्द हो सकता है — भले ही बच्चे ने सवाल सही किए हों।</p>
+
+<p>OMR sheet एक machine-readable sheet है। Machine सिर्फ अंधेरे गोले पढ़ती है। अगर गोला आधा भरा है, दो गोले भरे हैं, या गोले के बाहर marks हैं — तो machine गलत read करेगी या skip कर देगी।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST OMR Sheet Bharne Ke 5 Basic Rules</h2>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Rule 1: सही Pen चुनें</strong></p>
+<p>केवल <strong>नीला या काला ballpoint pen</strong> use करें। Pencil, gel pen, या marker नहीं। Ball pen की ink dark और consistent होती है जो machine आसानी से पढ़ लेती है।</p>
+
+<p><strong>Rule 2: गोला पूरा भरें</strong></p>
+<p>हर गोले को <strong>पूरा अंधेरा</strong> करें। आधा भरा, लाइन से काटा, या dot लगाया — ये सब machine read नहीं कर पाएगी।</p>
+
+<p><strong>Rule 3: कुछ काटें नहीं</strong></p>
+<p>OMR sheet पर <strong>whitener, blade, eraser, या scratching</strong> का use न करें। अगर गलती हो गई है तो छोड़ दें — काटने से sheet reject हो जाएगी।</p>
+
+<p><strong>Rule 4: एक ही गोला भरें</strong></p>
+<p>हर सवाल का <strong>सिर्फ एक गोला</strong> भरें। अगर दो गोले भरे हैं तो machine उसे "no answer" मानेगी।</p>
+
+<p><strong>Rule 5: Roll Number ध्यान से भरें</strong></p>
+<p>Roll number सबसे important है। अगर roll number गलत भरा है तो <strong>आपका result किसी और को मिलेगा</strong> और आपको कुछ नहीं मिलेगा।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Disqualifying Mistakes That Cancel Your JNVST Result</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 1: Multiple Bubbles (दो गोले भरना)</h3>
+<p>अगर एक सवाल के दो गोले भरे हैं तो machine उसे <strong>"no answer"</strong> मानेगी। कोई marks नहीं मिलेंगे।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 2: Partial Darkening (आधा भरना)</h3>
+<p>गोला पूरा भरें। अगर सिर्फ एक line से काटा है या dot लगाया है तो machine <strong>skip</strong> कर देगी।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 3: Stray Marks (गोले के बाहर marks)</h3>
+<p>OMR sheet पर गोले के बाहर <strong>कोई mark नहीं</strong> होना चाहिए। अगर pen slip हो गया है या गोले के बाहर line है तो sheet reject हो सकती है।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 4: Whitener/Scratching (काटना)</h3>
+<p>OMR sheet पर <strong>whitener, blade, eraser</strong> का use सख्त मना है। अगर गलती हो गई है तो छोड़ दें — काटने से sheet reject हो जाएगी।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 5: Wrong Roll Number (गलत Roll Number)</h3>
+<p>अगर roll number गलत भरा है तो <strong>आपका result किसी और को मिलेगा</strong>। ये सबसे बड़ी गलती है — और सबसे common भी।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">Amit Kumar's Warning:</p>
+<p>"हर साल 5-10% students OMR sheet की गलती की वजह से fail होते हैं। बच्चे ने सवाल सही किए, लेकिन OMR पर गलत भरा। ये avoidable mistake है — बस rules सीखो और practice करो।"</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">OMR Filling Comparison Matrix: Sahi vs Galat Tarika</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Element</th><th class="py-3 px-4 border-b font-bold text-white text-left">✅ Correct (Sahi)</th><th class="py-3 px-4 border-b font-bold text-white text-left">❌ Wrong (Galat)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Pen</td><td class="py-3 px-4 border-b">Blue/Black ballpoint pen</td><td class="py-3 px-4 border-b">Pencil, gel pen, marker</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Bubbling</td><td class="py-3 px-4 border-b">पूरा गोला भरा हुआ</td><td class="py-3 px-4 border-b">आधा, dot, line, cross</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction</td><td class="py-3 px-4 border-b">दूसरा गोला भरें (best option: छोड़ दें)</td><td class="py-3 px-4 border-b">Whitener, blade, eraser, scratching</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Roll Number</td><td class="py-3 px-4 border-b">3 बार check करें, फिर भरें</td><td class="py-3 px-4 border-b">जल्दी में भरना, skip करना</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Stray Marks</td><td class="py-3 px-4 border-b">कोई mark नहीं</td><td class="py-3 px-4 border-b">गोले के बाहर pen slip, dots</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Multiple Answers</td><td class="py-3 px-4">सिर्फ एक गोला</td><td class="py-3 px-4">दो या ज्यादा गोले</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Step-by-Step Guide: Roll Number Aur Booklet Number Kaise Bharein?</h2>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1: Roll Number सबसे पहले भरें</strong></p>
+<p>Exam शुरू होते ही सबसे पहले Roll Number भरें। बाद में भरना भूल सकते हैं।</p>
+
+<p><strong>Step 2: Roll Number 3 बार check करें</strong></p>
+<p>Admit card से match करें। हर digit ध्यान से देखें। एक गलत digit = result रद्द।</p>
+
+<p><strong>Step 3: Booklet Number भरें</strong></p>
+<p>Question booklet के ऊपर Booklet Number लिखा होता है। उसे OMR sheet पर सही जगह भरें।</p>
+
+<p><strong>Step 4: Invigilator Signature Space भरें</strong></p>
+<p>OMR sheet पर Invigilator के signature की जगह होती है। Invigilator से sign कराएं।</p>
+
+<p><strong>Step 5: बच्चे का Signature</strong></p>
+<p>OMR sheet पर बच्चे के signature की जगह होती है। बच्चे से sign कराएं।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Amit Kumar की 3-Step OMR Practice Strategy</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Step 1: OMR Template Print करें</h3>
+<p>Internet से OMR sheet template download करें और print करें। बच्चे को practice करने दें।</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Daily 10 Questions OMR पर भरें</h3>
+<p>रोज़ 10 सवाल solve करें और OMR sheet पर भरें। बच्चे को bubbling technique practice करने दें।</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Mock Test में OMR Use करें</h3>
+<p>हर mock test में OMR sheet use करें। बच्चे को exam day जैसा feel होना चाहिए।</p>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Amit Kumar's Pro-Tip:</p>
+<p>Exam में OMR sheet <strong>सबसे पहले Roll Number भरो</strong> — बाद में भरना भूल सकते हो। फिर एक-एक सवाल solve करो और तुरंत OMR पर mark करो। सब सवाल solve करके एक साथ OMR मत भरो — time waste होगा और गलती होगी।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Acceptable Pens vs Prohibited Stationeries</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">✅ Allowed</th><th class="py-3 px-4 border-b font-bold text-white text-left">❌ Not Allowed</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Blue ballpoint pen</td><td class="py-3 px-4 border-b">Pencil</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Black ballpoint pen</td><td class="py-3 px-4 border-b">Gel pen</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">—</td><td class="py-3 px-4 border-b">Marker / Highlighter</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">—</td><td class="py-3 px-4 border-b">Whitener / Correction fluid</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">—</td><td class="py-3 px-4 border-b">Blade / Eraser</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">—</td><td class="py-3 px-4">Fountain pen</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern</p>
+</a>
+<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
+<p class="text-gray-600 text-xs">Practice questions with answers</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें</p>
+</a>
+<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
+<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">OMR Sheet Practice करना है?</h3><p><strong>JGPS School</strong> में Amit Kumar से OMR filling technique सीखें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Advisory for Parents</h3>
+<p>OMR sheet filling एक skill है — practice से सीखी जाती है। <strong>Exam से पहले बच्चे को OMR sheet पर practice कराएं।</strong> Template print करें, daily 10 questions OMR पर भरवाएं। ये simple practice exam day पर 10-20 marks का फर्क ला सकती है।</p>
+<p class="mt-2 text-sm text-gray-500">Author: Amit Kumar | JGPS Entrance Exam Specialist | 90% Success Rate</p>
+</div>
+`,
+    faqs: [
+      { question: "JNVST OMR sheet पर कौन सा pen use करें?", answer: "केवल नीला या काला ballpoint pen। Pencil, gel pen, marker, या fountain pen use न करें।" },
+      { question: "OMR sheet पर गलती हो गई तो क्या करें?", answer: "Whitener, blade, eraser use न करें। अगर possible है तो दूसरा गोला भरें। लेकिन सबसे अच्छा है गलती छोड़ दें।" },
+      { question: "OMR sheet पर Roll Number गलत भरा तो क्या होगा?", answer: "आपका result किसी और को मिलेगा और आपको कुछ नहीं मिलेगा। Roll Number 3 बार check करें।" },
+      { question: "OMR sheet practice कैसे करें?", answer: "Internet से OMR template download करें, print करें, और रोज़ 10 questions OMR पर भरें। Mock tests में OMR use करें।" }
+    ]
   }
 ];
 
