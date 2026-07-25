@@ -1522,5 +1522,137 @@ export const hindiArticles: HindiArticle[] = [
         answer: "यह आपकी स्थिति पर निर्भर करता है। ग्रामीण बच्चों के लिए नवोदय सबसे अच्छा है। UP के ग्रामीण बच्चों के लिए विद्याग्यान। सेना में करियर के लिए सैनिक स्कूल।"
       }
     ]
+  },
+
+  // ═══════════════════════════════════════════════════════════════
+  // ARTICLE: JNVST Admit Card 2027
+  // ═══════════════════════════════════════════════════════════════
+  {
+    slug: "jnvst-admit-card-2027-kab-aayega",
+    title: "JNVST Admit Card 2027 कब आएगा? Download लिंक और तारीख",
+    description: "JNVST Admit Card 2027 अक्टूबर 2026 में जारी होगा। जानें download कैसे करें, कौन सी जानकारी चाहिए, और परीक्षा वाले दिन क्या लेकर जाएं।",
+    keywords: "JNVST Admit Card 2027, Navodaya Admit Card 2027, JNVST Class 6 Admit Card 2027, JNV Admit Card Download, Navodaya Hall Ticket 2027",
+    date: "25 जुलाई 2026",
+    modifiedDate: "25 जुलाई 2026, दोपहर 2 बजे",
+    author: "Rifaul Hasan",
+    authorName: "Rifaul Hasan",
+    authorSlug: "rifaul-hasan",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "Rifaul Hasan JGPS के लिए प्रवेश परीक्षा अपडेट और एडमिशन गाइड लिखते हैं। वे छोटे शहरों के अभिभावकों के लिए जटिल प्रक्रियाओं को आसान बनाते हैं।",
+    readTime: "8 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-admit-card-2027-kab-aayega.webp",
+    imageAlt: "JNVST Admit Card 2027 download link and release date for Navodaya Class 6 entrance exam",
+    content: `<p><strong>JNVST Admit Card 2027</strong> अक्टूबर 2026 में जारी होने की संभावना है। नवोदय विद्यालय समिति (NVS) परीक्षा से 4-6 हफ्ते पहले एडमिट कार्ड अपनी आधिकारिक वेबसाइट navodaya.gov.in पर अपलोड करेगा। जिन बच्चों ने JNVST 2027 का फॉर्म भरा है, उन्हें अपना रजिस्ट्रेशन नंबर और जन्म तिथि तैयार रखनी चाहिए।</p>
+
+<p>28 नवंबर 2026 को परीक्षा है। एडमिट कार्ड के बिना परीक्षा केंद्र में एंट्री नहीं मिलेगी। इसलिए जैसे ही लिंक एक्टिव हो, तुरंत डाउनलोड करें और 2 प्रिंट निकाल लें।</p>
+
+<div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">जरूरी सूचना</h3>
+<p>JNVST 2027 का आवेदन 31 जुलाई 2026 को बंद हो रहा है। अगर आपने अभी तक फॉर्म नहीं भरा है तो <a href="/hi/blog/jnvst-2027-form-agaya-niyam-mein-badlaav" class="text-green-700 underline font-bold">यहां क्लिक करके भरें</a>।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Admit Card 2027 Latest Update</h2>
+<p>नवोदय विद्यालय समिति ने JNVST 2027 की आवेदन प्रक्रिया 7 जुलाई 2026 को शुरू की थी। अंतिम तिथि 31 जुलाई 2026 है। जिन अभिभावकों ने अभी तक फॉर्म नहीं भरा है, वे जल्द से जल्द भर दें।</p>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">ताजा जानकारी (25 जुलाई 2026)</h3>
+<ul class="list-disc pl-5 space-y-1">
+<li>आवेदन की अंतिम तिथि: <strong>31 जुलाई 2026</strong></li>
+<li>एडमिट कार्ड जारी होने की संभावित तिथि: <strong>अक्टूबर 2026</strong></li>
+<li>परीक्षा तिथि: <strong>28 नवंबर 2026</strong></li>
+<li>परीक्षा का समय: <strong>दोपहर 11:30 बजे से 1:30 बजे तक</strong></li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Admit Card 2027 Release Date</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख (संभावित)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुरू</td><td class="py-3 px-4 border-b">7 जुलाई 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b">31 जुलाई 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड जारी</td><td class="py-3 px-4 border-b font-bold text-green-700">अक्टूबर 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold text-green-700">28 नवंबर 2026</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4 font-bold">मार्च-अप्रैल 2027</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Admit Card 2027 Download Link</h2>
+<p><strong>आधिकारिक वेबसाइट:</strong> <a href="https://navodaya.gov.in" class="text-green-700 underline font-bold" target="_blank">navodaya.gov.in</a></p>
+
+<div class="bg-red-50 border border-red-300 rounded-xl p-5 my-6">
+<h3 class="font-bold text-red-700 mb-2">सावधानी</h3>
+<p>एडमिट कार्ड केवल आधिकारिक वेबसाइट navodaya.gov.in से डाउनलोड करें। किसी थर्ड पार्टी वेबसाइट पर अपनी जानकारी न दें।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Admit Card 2027 कैसे डाउनलोड करें?</h2>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-4">
+<div class="flex items-start gap-3"><span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">1</span><p><strong>Step 1:</strong> navodaya.gov.in वेबसाइट खोलें</p></div>
+<div class="flex items-start gap-3"><span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">2</span><p><strong>Step 2:</strong> होमपेज पर "Download Admit Card for JNVST 2027" लिंक पर क्लिक करें</p></div>
+<div class="flex items-start gap-3"><span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">3</span><p><strong>Step 3:</strong> Registration Number दर्ज करें</p></div>
+<div class="flex items-start gap-3"><span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">4</span><p><strong>Step 4:</strong> Date of Birth (जन्म तिथि) दर्ज करें</p></div>
+<div class="flex items-start gap-3"><span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">5</span><p><strong>Step 5:</strong> Captcha Code भरें और Submit दबाएं</p></div>
+<div class="flex items-start gap-3"><span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold flex-shrink-0">6</span><p><strong>Step 6:</strong> एडमिट कार्ड डाउनलोड करें और <strong>2 कलर प्रिंट</strong> निकालें</p></div>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एडमिट कार्ड में दी गई जानकारी</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">बच्चे का नाम</td><td class="py-3 px-4 border-b">जैसा फॉर्म में भरा गया</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">पिता/माता का नाम</td><td class="py-3 px-4 border-b">जैसा फॉर्म में भरा गया</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म तिथि</td><td class="py-3 px-4 border-b">DD/MM/YYYY फॉर्मेट में</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">श्रेणी</td><td class="py-3 px-4 border-b">General / SC / ST / OBC</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा केंद्र</td><td class="py-3 px-4 border-b">पूरा पता</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b">28 नवंबर 2026</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">बच्चे की फोटो</td><td class="py-3 px-4">वही फोटो जो फॉर्म में अपलोड की थी</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एडमिट कार्ड डाउनलोड नहीं हो रहा तो क्या करें?</h2>
+
+<div class="space-y-4 my-6">
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">वेबसाइट नहीं खुल रही</h3><p>पहले दिन सर्वर स्लो हो जाता है। कुछ घंटे बाद या सुबह जल्दी try करें।</p></div>
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">Registration Number गलत बता रहा है</h3><p>SMS या ईमेल से नंबर कॉपी करें। ध्यान से देखें कि सही नंबर डाल रहे हैं।</p></div>
+<div class="bg-gray-50 rounded-lg p-4"><h3 class="font-bold text-gray-900 mb-2">"No Record Found" आ रहा है</h3><p>NVS की हेल्पलाइन 0120-2405969 पर कॉल करें।</p></div>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">परीक्षा के दिन क्या लेकर जाएं?</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">जरूरी दस्तावेज</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>एडमिट कार्ड का प्रिंटआउट</strong> (2 कॉपी)</li>
+<li><strong>आधार कार्ड</strong> या कोई और फोटो ID</li>
+<li><strong>पासपोर्ट साइज फोटो</strong> (2 अतिरिक्त)</li>
+</ul>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">क्या न लेकर जाएं</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2 text-red-600">
+<li>मोबाइल फोन</li>
+<li>कैलकुलेटर</li>
+<li>स्मार्ट वॉच</li>
+<li>किताबें या नोट्स</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Exam Date 2027</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold text-green-700">28 नवंबर 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का समय</td><td class="py-3 px-4 border-b">11:30 AM - 1:30 PM</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल प्रश्न</td><td class="py-3 px-4 border-b">80</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कुल अंक</td><td class="py-3 px-4 border-b">80</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">अवधि</td><td class="py-3 px-4 border-b">2 घंटे</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">नेगेटिव मार्किंग</td><td class="py-3 px-4 font-bold text-green-700">नहीं</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Exam Pattern 2027</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">कुल</td><td class="py-3 px-4 font-bold">80</td><td class="py-3 px-4 font-bold">80</td></tr></tbody></table></div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JNVST 2027 की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> Navodaya entrance exam के लिए specialized coaching देता है। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">25 जुलाई 2026 अपडेट</h3>
+<p>JNVST 2027 का आवेदन 31 जुलाई 2026 को बंद हो रहा है — सिर्फ 6 दिन बाकी। एडमिट कार्ड अक्टूबर में जारी होने की संभावना है। परीक्षा 28 नवंबर 2026 को है। Source: NVS Official Website (navodaya.gov.in).</p>
+</div>
+`,
+    faqs: [
+      {
+        question: "JNVST Admit Card 2027 कब जारी होगा?",
+        answer: "JNVST Admit Card 2027 अक्टूबर 2026 में जारी होने की संभावना है। NVS परीक्षा से 4-6 हफ्ते पहले एडमिट कार्ड अपलोड करता है।"
+      },
+      {
+        question: "एडमिट कार्ड कहां से डाउनलोड करें?",
+        answer: "एडमिट कार्ड navodaya.gov.in से डाउनलोड करें। होमपेज पर Download Admit Card लिंक मिलेगा।"
+      },
+      {
+        question: "बिना एडमिट कार्ड परीक्षा दे सकते हैं?",
+        answer: "नहीं। एडमिट कार्ड के बिना परीक्षा केंद्र में एंट्री नहीं मिलेगी।"
+      },
+      {
+        question: "Admit Card में गलती हो तो क्या करें?",
+        answer: "NVS की हेल्पलाइन 0120-2405969 पर कॉल करें।"
+      },
+      {
+        question: "Registration Number भूल जाएं तो क्या करें?",
+        answer: "ईमेल और SMS चेक करें। रजिस्ट्रेशन कन्फर्मेशन में नंबर मिल जाएगा।"
+      },
+      {
+        question: "JNVST 2027 की परीक्षा कब है?",
+        answer: "28 नवंबर 2026 को दोपहर 11:30 बजे से 1:30 बजे तक।"
+      }
+    ]
   }
 ];
