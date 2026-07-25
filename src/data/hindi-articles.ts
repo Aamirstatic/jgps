@@ -7442,6 +7442,161 @@ export const hindiArticles: HindiArticle[] = [
       { question: "कौन सी book सबसे अच्छी है AMU/JMI English के लिए?", answer: "Wren & Martin (Grammar), Norman Lewis (Vocabulary), और Arihant AMU/JMI Guide (Practice) सबसे अच्छी books हैं।" },
       { question: "English section में कौन से topics सबसे important हैं?", answer: "Tenses, Active-Passive Voice, Direct-Indirect Speech, Synonyms-Antonyms, Idioms, और Reading Comprehension — ये 6 topics सबसे important हैं।" }
     ]
+  },
+  {
+    slug: "bacche-ko-boarding-school-mein-adjust-kaise-karayein",
+    title: "Bacche Ko Boarding School Mein Adjust Kaise Karayein? — Parent Guide",
+    description: "Bacche ko boarding school mein adjust kaise karayein — homesickness, separation anxiety, phone call rules, warden coordination sab cover। Priya Verma ki expert advice।",
+    keywords: "Bacche Ko Boarding School Mein Adjust Kaise Karayein, Boarding school separation anxiety in parents and child, How to overcome homesickness in boarding school, Boarding school hostel adjustment tips Hindi",
+    date: "25 जुलाई 2026, शाम 6 बजकर 30 मिनट",
+    modifiedDate: "25 जुलाई 2026, शाम 6 बजकर 30 मिनट",
+    author: "Priya Verma",
+    authorName: "Priya Verma",
+    authorSlug: "priya-verma",
+    authorRole: "Student Counselor",
+    authorBio: "Priya Verma child psychology और mental well-being में specialist हैं। Students को exam stress manage करने और healthy mindset build करने में मदद करती हैं।",
+    readTime: "8 मिनट",
+    category: "पेरेंटिंग और काउंसलिंग",
+    image: "https://img.jgps.in/blog/bacche-ko-boarding-school-mein-adjust-kaise-karayein.webp",
+    imageAlt: "Bacche ko boarding school mein adjust kaise karayein - homesickness separation anxiety parent guide Hindi",
+    content: `<div class="bg-pink-50 border-l-4 border-pink-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Takeaways — 4 Golden Rules for Parents:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Pre-departure Prep:</strong> बच्चे को boarding life के लिए पहले से तैयार करें</li>
+<li><strong>Controlled Phone Calls:</strong> रोज़ call न करें — हफ्ते में 1-2 बार काफी है</li>
+<li><strong>Validating Emotions:</strong> बच्चे की feelings को acknowledge करें, ignore न करें</li>
+<li><strong>Warden Coordination:</strong> Warden से regular contact में रहें</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Counselor Priya से संदेश:</p>
+<p>"अगर आपका बच्चा पहली बार boarding school जा रहा है, तो आपकी चिंता बिल्कुल normal है। हर parent यही feel करता है — guilt, anxiety, fear। लेकिन याद रखें: बच्चे बहुत adaptable होते हैं। 90% बच्चे 2-3 हफ्ते में adjust कर लेते हैं। आपको बस सही support देना है।"</p>
+</div>
+
+<p><strong>Bacche ko boarding school mein adjust kaise karayein?</strong> ये सवाल हर parent के मन में होता है जब बच्चा पहली बार hostel जाता है। Sainik School, Navodaya, Military School — इन सबमें boarding compulsory है। बच्चा घर से दूर जाएगा, खुद से रहेगा, खुद से खाएगा।</p>
+
+<p>ये transition easy नहीं है — बच्चे के लिए भी और parents के लिए भी। लेकिन सही preparation और approach से ये process बहुत smooth हो सकता है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Pehle 30 Din Kyun Important Hain?</h2>
+<p>Child psychology के अनुसार, boarding school में adjustment का सबसे critical phase पहले 30 दिन होते हैं।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">बच्चे की Emotional State</th><th class="py-3 px-4 border-b font-bold text-white text-left">Parent को क्या करना चाहिए</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1</td><td class="py-3 px-4 border-b">Homesickness, रोना, घर वापस जाने की ज़िद</td><td class="py-3 px-4 border-b">शांत रहें, हर दिन call न करें, warden से बात करें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Week 2</td><td class="py-3 px-4 border-b">थोड़ा adjust करना, दोस्त बनाना शुरू</td><td class="py-3 px-4 border-b">Positive बातें करें, बच्चे की achievements पूछें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3</td><td class="py-3 px-4 border-b">Routine में आना, कम रोना</td><td class="py-3 px-4 border-b">बच्चे को नई activities बताने के लिए encourage करें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Week 4</td><td class="py-3 px-4">Stable, दोस्त बन गए, routine set</td><td class="py-3 px-4">बच्चे की independence celebrate करें</td></tr></tbody></table></div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Counselor Priya's Secret Advice:</p>
+<p>पहले हफ्ते में बच्चा phone पर रोएगा — ये <strong>100% normal</strong> है। इसका मतलब ये नहीं कि बच्चा खुश नहीं है। बस वो अभी adjust कर रहा है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Boarding Bhejne Se Pehle Ki Tayyari</h2>
+<p>बच्चे को boarding school भेजने से पहले ये skills सिखाएं:</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Basic Self-Care Skills</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>कपड़े धोना</strong> — बच्चे को खुद से कपड़े धोना सिखाएं</li>
+<li><strong>बिस्तर लगाना</strong> — रोज़ सुबह बिस्तर ठीक करने की आदत डालें</li>
+<li><strong>सामान व्यवस्थित करना</strong> — cupboard में सामान रखना सिखाएं</li>
+<li><strong>नहाना और तैयार होना</strong> — खुद से तैयार होने की आदत डालें</li>
+</ul>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Money & Time Management</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>पैसे का हिसाब रखना</strong> — pocket money manage करना सिखाएं</li>
+<li><strong>समय का पालन करना</strong> — schedule follow करने की आदत डालें</li>
+<li><strong>ज़रूरी चीज़ें पैक करना</strong> — बच्चे को खुद से packing करने दें</li>
+</ul>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Emotional Preparation</h3>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Positive बातें बताएं</strong> — "तुम नए दोस्त बनाओगे", "बहुत मज़ा आएगा"</li>
+<li><strong>डराएं नहीं</strong> — "अकेले रहोगे" जैसी बातें न कहें</li>
+<li><strong>छोटी-छोटी चीज़ें साथ दें</strong> — family photo, favorite toy, पसंद की किताब</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Phone Call Aur Visiting Days Par Kya Karein?</h2>
+<p>सबसे बड़ी गलती जो parents करते हैं — <strong>रोज़ phone करना</strong>।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">ये गलती मत करें:</p>
+<p>रोज़ phone करने से बच्चे की homesickness <strong>बढ़ती</strong> है, कम नहीं होती। हर call पर बच्चा रोता है, parent भी रोता है — और adjustment process slow हो जाता है।</p>
+</div>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-green-700 mb-2">सही तरीका:</p>
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>हफ्ते में 1-2 बार call करें</strong> — ज़्यादा नहीं</li>
+<li><strong>Call का समय fix करें</strong> — जैसे हर रविवार शाम 5 बजे</li>
+<li><strong>Positive बातें करें</strong> — "आज क्या किया?", "कोई नया दोस्त बना?"</li>
+<li><strong>रोने पर घबराएं नहीं</strong> — "ठीक है, रो लो, लेकिन कल फिर मज़ा आएगा"</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Parent Do's and Don'ts Matrix</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">✅ Do's (करें)</th><th class="py-3 px-4 border-b font-bold text-white text-left">❌ Don'ts (न करें)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b">बच्चे की feelings validate करें</td><td class="py-3 px-4 border-b">"रो मत, बड़ा हो गया है" मत कहें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b">Warden से regular बात करें</td><td class="py-3 px-4 border-b">बच्चे को हर दिन call मत करें</td></tr><tr><td class="py-3 px-4 border-b">Positive बातें बताएं</td><td class="py-3 px-4 border-b">घर की problems मत बताएं</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b">बच्चे की independence celebrate करें</td><td class="py-3 px-4 border-b">बच्चे को वापस लाने की धमकी मत दें</td></tr><tr><td class="py-3 px-4 border-b">Visiting day पर खुश मिलें</td><td class="py-3 px-4 border-b">Visiting day पर रोएं नहीं</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b">बच्चे को letters/कार्ड भेजें</td><td class="py-3 px-4 border-b">बच्चे को हर दिन packages मत भेजें</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Hostel Warden & Housemaster Se Kaise Connect Rahein?</h2>
+<p>Warden आपका सबसे बड़ा support system है। उनसे अच्छा relationship बनाएं:</p>
+
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>पहले दिन मिलें</strong> — बच्चे को drop करते समय warden से बात करें</li>
+<li><strong>बच्चे की ज़रूरी बातें बताएं</strong> — allergies, medical conditions, emotional triggers</li>
+<li><strong>हफ्ते में एक बार call करें</strong> — बच्चे का हाल पूछें</li>
+<li><strong>Visiting day पर मिलें</strong> — warden से feedback लें</li>
+<li><strong>Emergency number रखें</strong> — warden और school का number हमेशा रखें</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Counselor Priya का 5-Step Action Plan — जब बच्चा Phone पर रोए</h2>
+
+<div class="bg-pink-50 border-2 border-pink-400 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Step-by-Step Guide:</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>शांत रहें</strong> — आप भी मत रोएं। बच्चा आपकी strength देखना चाहता है।</li>
+<li><strong>Listen करें</strong> — बच्चे को बोलने दें। बीच में मत काटें।</li>
+<li><strong>Validate करें</strong> — "मुझे पता है तुम्हें घर याद आ रहा है, ये normal है।"</li>
+<li><strong>Redirect करें</strong> — "आज क्या अच्छा हुआ? कोई नया दोस्त बना?"</li>
+<li><strong>End Positive</strong> — "मुझे तुम पर गर्व है। अगली बार फिर बात करेंगे।"</li>
+</ul>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Parent Self-Care Tip:</p>
+<p>आप भी अपना ध्यान रखें। बच्चे को boarding भेजना parents के लिए भी emotional होता है। Friends से बात करें, walk पर जाएं, अपने hobbies follow करें। <strong>जब आप खुश रहेंगे, तो बच्चा भी confident feel करेगा।</strong></p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/navodaya-school-admission-ke-baad-kya-hota-hai/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Navodaya Admission Ke Baad</h3>
+<p class="text-gray-600 text-xs">Hostel life, daily routine, facilities</p>
+</a>
+<a href="/hi/blog/boarding-school-bhejne-ke-fayde-nuksan/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Boarding School के फायदे</h3>
+<p class="text-gray-600 text-xs">फायदे और नुकसान — पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Exam Stress कम करें</h3>
+<p class="text-gray-600 text-xs">बच्चे का stress कैसे handle करें</p>
+</a>
+<a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Admission 2027</h3>
+<p class="text-gray-600 text-xs">Notification date और eligibility</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">बच्चे को boarding school भेज रहे हैं?</h3><p><strong>JGPS School</strong> में Priya Verma से counseling लें। Free consultation के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Heartfelt Reassurance</h3>
+<p>बच्चे को boarding school भेजना एक brave decision है। ये decision आपके बच्चे को independent, strong, और confident बनाएगा। <strong>पहले 30 दिन tough होंगे, लेकिन उसके बाद बच्चा खुश होगा — और आपको गर्व होगा।</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Priya Verma | JGPS Student Counselor | Child Psychology Specialist</p>
+</div>
+`,
+    faqs: [
+      { question: "बच्चे को boarding school में कितनी बार call करना चाहिए?", answer: "हफ्ते में 1-2 बार काफी है। रोज़ call करने से homesickness बढ़ती है। Fix time रखें — जैसे हर रविवार शाम 5 बजे।" },
+      { question: "बच्चा phone पर रो रहा है, क्या करूं?", answer: "शांत रहें, खुद मत रोएं। बच्चे की feelings validate करें: 'मुझे पता है घर याद आ रहा है, ये normal है।' फिर positive बातों पर redirect करें।" },
+      { question: "बच्चा खाना नहीं खा रहा, क्या करूं?", answer: "पहले हफ्ते में ये normal है। Warden से बात करें। बच्चे को comfort food भेजें। 2-3 हफ्ते में बच्चा adjust कर लेगा।" },
+      { question: "मुझे guilt feel हो रहा है, क्या ये normal है?", answer: "हां, ये 100% normal है। हर parent यही feel करता है। याद रखें: आपने बच्चे के भविष्य के लिए ये decision लिया है। बच्चा independent और strong बनेगा।" }
+    ]
   }
 ];
 
