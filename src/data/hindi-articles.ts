@@ -8217,6 +8217,132 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Aadhaar card पर address गलत है तो क्या करें?", answer: "Form भरने से पहले Aadhaar update कराएं। Nearest Aadhaar center जाएं — 7-15 दिन लगते हैं।" },
       { question: "क्या fake residence certificate से form भर सकते हैं?", answer: "नहीं! NVS digitally verify करता है। Fake document से admission cancel + blacklist हो सकता है।" }
     ]
+  },
+  {
+    slug: "jnvst-2027-4-month-study-plan-time-table",
+    title: "JNVST 2027: 4 महीने में नवोदय क्रैक करने का Daily Study Time Table",
+    description: "JNVST 2027 के लिए 4 महीने का complete study plan — daily time table, subject-wise strategy, और 28 नवंबर exam के लिए master plan।",
+    keywords: "JNVST 2027 4 Mahine Daily Study Time Table, Navodaya Class 6 preparation 4 month study plan, JNVST 28 November exam strategy, How to crack JNVST 2027 in 120 days",
+    date: "25 जुलाई 2026, रात 9 बजकर 30 मिनट",
+    modifiedDate: "25 जुलाई 2026, रात 9 बजकर 30 मिनट",
+    author: "Neha Singh",
+    authorName: "Neha Singh",
+    authorSlug: "neha-singh",
+    authorRole: "Study Habits Expert",
+    authorBio: "Neha Singh JGPS में study habits और student productivity expert हैं। Pomodoro, Active Recall, और Spaced Repetition जैसी techniques से students को efficient बनाती हैं।",
+    readTime: "10 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-4-month-study-plan-time-table.webp",
+    imageAlt: "JNVST 2027 4 month study plan daily time table - Navodaya Class 6 preparation 120 days strategy",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">120-Day Countdown Snapshot:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Daily Study Hours:</strong> 3-4 घंटे (school के बाद)</li>
+<li><strong>Subject Allocation:</strong> Mental Ability 40% + Maths 40% + Language 20%</li>
+<li><strong>Week 1-4:</strong> Syllabus complete करो</li>
+<li><strong>Week 5-8:</strong> Concepts strengthen करो</li>
+<li><strong>Week 9-11:</strong> Practice sets solve करो</li>
+<li><strong>Week 12-16:</strong> Mock tests + Speed building</li>
+<li><strong>Exam Date:</strong> 28 November 2026</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Neha Singh से संदेश:</p>
+<p>"मैंने सैकड़ों students को JNVST की तैयारी कराया है। सबसे बड़ी गलती जो parents करते हैं — बच्चे को 6-8 घंटे बिठाना। 10 साल के बच्चे के लिए 3-4 घंटे focused study काफी है। ज्यादा पढ़ाने से बच्चा burnout हो जाता है और exam में performance खराब होती है।"</p>
+</div>
+
+<p><strong>JNVST 2027: 4 महीने में नवोदय क्रैक करने का Daily Study Time Table</strong> — ये article उन students और parents के लिए है जो 28 नवंबर 2026 को होने वाली JNVST exam की तैयारी कर रहे हैं। अभी से 4 महीने (120 दिन) बाकी हैं। अगर सही strategy से तैयारी करें तो selection पक्का है।</p>
+
+<p>ये study plan scientifically designed है — Pomodoro Technique, Active Recall, और Spaced Repetition जैसी proven methods पर based है। और सबसे बड़ी बात — ये 10 साल के बच्चे के लिए practical है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Month-by-Month Roadmap</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Key Milestone</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Month 1 (Aug)</td><td class="py-3 px-4 border-b">Syllabus Complete</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">सभी topics cover करो</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Month 2 (Sep)</td><td class="py-3 px-4 border-b">Concept Strengthening</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">Weak areas identify और fix करो</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Month 3 (Oct)</td><td class="py-3 px-4 border-b">Practice Sets</td><td class="py-3 px-4 border-b">3.5 घंटे</td><td class="py-3 px-4 border-b">Daily 1 practice set solve करो</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Month 4 (Nov)</td><td class="py-3 px-4">Mock Tests + Speed</td><td class="py-3 px-4">4 घंटे</td><td class="py-3 px-4">Weekly mock test + revision</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily Study Time Table for School-Going Students</h2>
+<p>ये time table school-going students के लिए designed है। School के बाद 3-4 घंटे study काफी है।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 - 6:30 AM</td><td class="py-3 px-4 border-b">Morning Revision</td><td class="py-3 px-4 border-b">30 min</td><td class="py-3 px-4 border-b">Previous day revision</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 - 5:00 PM</td><td class="py-3 px-4 border-b">Study Session 1</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Mental Ability</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:15 PM</td><td class="py-3 px-4 border-b">Break</td><td class="py-3 px-4 border-b">15 min</td><td class="py-3 px-4 border-b">Snack + Rest</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:15 PM</td><td class="py-3 px-4 border-b">Study Session 2</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Mathematics</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 - 6:30 PM</td><td class="py-3 px-4 border-b">Break</td><td class="py-3 px-4 border-b">15 min</td><td class="py-3 px-4 border-b">Walk + Rest</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:00 PM</td><td class="py-3 px-4 border-b">Study Session 3</td><td class="py-3 px-4 border-b">30 min</td><td class="py-3 px-4 border-b">Language / GK</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">8:00 - 8:30 PM</td><td class="py-3 px-4 border-b">Night Revision</td><td class="py-3 px-4 border-b">30 min</td><td class="py-3 px-4 border-b">Day's learning revision</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4"></td><td class="py-3 px-4 font-bold">3.5 घंटे</td><td class="py-3 px-4"></td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Subject-Wise Time Allocation Strategy</h2>
+<p>JNVST में Mental Ability 50% weightage रखता है। इसलिए ज्यादा time इसी को दो।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Weightage</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Areas</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b font-bold text-green-700">50%</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Figure Series, Mirror Image, Coding, Analogy</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">25%</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Number System, Fractions, Percentage, Geometry</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">25%</td><td class="py-3 px-4">30 min</td><td class="py-3 px-4">Grammar, Vocabulary, Comprehension</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Neha Singh के 3 Secret Habits for 100% Selection</h2>
+
+<div class="bg-pink-50 border-2 border-pink-400 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Habit 1: Active Recall (सक्रिय स्मरण)</h3>
+<p>पढ़ने के बाद किताब बंद करो और जो पढ़ा वो लिखो। अगर नहीं याद आ रहा तो दोबारा पढ़ो। ये method 3x ज्यादा effective है सिर्फ पढ़ने से।</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Habit 2: Spaced Repetition (अंतराल दोहराव)</h3>
+<p>एक topic पढ़ने के बाद:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li>अगले दिन: 1st revision</li>
+<li>3 दिन बाद: 2nd revision</li>
+<li>7 दिन बाद: 3rd revision</li>
+<li>15 दिन बाद: 4th revision</li>
+</ul>
+<p class="mt-2">इससे memory में long-term store होता है।</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Habit 3: Pomodoro Technique</h3>
+<p>25 minutes focused study → 5 minutes break → repeat। 4 rounds के बाद 15 minutes लंबा break। ये technique 10 साल के बच्चे के लिए perfect है — ज्यादा देर बैठने की ज़रूरत नहीं।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Parents Role: बिना Stress के Discipline कैसे Maintain करें?</h2>
+
+<div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Parent Support Checklist:</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Fix study time रखो</strong> — रोज़ same time पर पढ़ाई शुरू करो</li>
+<li><strong>Study environment बनाओ</strong> — शांत जगह, अच्छी lighting, TV बंद</li>
+<li><strong>बच्चे को reward दो</strong> — Weekly target complete करने पर treat दो</li>
+<li><strong>रोज़ test लो</strong> — 5 सवाल पूछो, बच्चे को answer बताने दो</li>
+<li><strong>Pressure मत डालो</strong> — "तुझे pass होना ही है" मत कहो</li>
+<li><strong>Negative comparison मत करो</strong> — "पड़ोस वाला बच्चा तो पढ़ रहा है" मत कहो</li>
+<li><strong>Sleep ensure करो</strong> — बच्चे को 8-9 घंटे की नींद ज़रूरी है</li>
+<li><strong>Healthy food दो</strong> — Brain food: दूध, अंडे, ड्राई फ्रूट्स, फल</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Week-by-Week Detailed Plan</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Mental Ability</th><th class="py-3 px-4 border-b font-bold text-white text-left">Mathematics</th><th class="py-3 px-4 border-b font-bold text-white text-left">Language</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1-2</td><td class="figure series, mirror image">Figure Series, Mirror Image</td><td class="py-3 px-4 border-b">Number System, Place Value</td><td class="py-3 px-4 border-b">Grammar basics</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3-4</td><td class="py-3 px-4 border-b">Coding-Decoding, Analogy</td><td class="py-3 px-4 border-b">Fractions, Decimals</td><td class="py-3 px-4 border-b">Vocabulary building</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 5-6</td><td class="py-3 px-4 border-b">Paper Folding, Embedded Figure</td><td class="py-3 px-4 border-b">Percentage, Average</td><td class="py-3 px-4 border-b">Comprehension practice</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Week 7-8</td><td class="py-3 px-4 border-b">Odd One Out, Pattern</td><td class="py-3 px-4 border-b">LCM, HCF, Ratio</td><td class="py-3 px-4 border-b">Idioms, Synonyms</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 9-11</td><td class="py-3 px-4 border-b">Mixed Practice Sets</td><td class="py-3 px-4 border-b">Mixed Practice Sets</td><td class="py-3 px-4 border-b">Mixed Practice Sets</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Week 12-16</td><td class="py-3 px-4 border-b">Mock Tests + Revision</td><td class="py-3 px-4 border-b">Mock Tests + Revision</td><td class="py-3 px-4 border-b">Mock Tests + Revision</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
+<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
+</a>
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें</p>
+</a>
+<a href="/hi/blog/jnvst-2027-model-paper-free-pdf/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Model Paper 2027</h3>
+<p class="text-gray-600 text-xs">Free PDF download — हल सहित</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JNVST 2027 की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> में Neha Singh से study habits सीखें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Motivational Words</h3>
+<p>120 दिन बाकी हैं — ये बहुत time है अगर सही strategy से पढ़ो। <strong>रोज़ 3 घंटे focused study करो, active recall use करो, और mock tests दो।</strong> तुम कर सकते हो!</p>
+<p class="mt-2 text-sm text-gray-500">Author: Neha Singh | JGPS Study Habits Expert | Pomodoro & Active Recall Specialist</p>
+</div>
+`,
+    faqs: [
+      { question: "JNVST 2027 के लिए कितने घंटे पढ़ना चाहिए?", answer: "10 साल के बच्चे के लिए रोज़ 3-4 घंटे focused study काफी है। इससे ज्यादा पढ़ाने से burnout होता है।" },
+      { question: "4 महीने में JNVST crack कर सकते हैं?", answer: "हां, अगर सही strategy से तैयारी करें। Month 1 में syllabus complete करो, Month 2 में concepts strengthen करो, Month 3 में practice sets solve करो, Month 4 में mock tests दो।" },
+      { question: "Pomodoro Technique क्या है?", answer: "25 minutes focused study → 5 minutes break → repeat। 4 rounds के बाद 15 minutes लंबा break। ये technique बच्चों के लिए perfect है।" },
+      { question: "बच्चा रोज़ नहीं पढ़ रहा, क्या करूं?", answer: "Fix study time रखो, study environment बनाओ, और weekly rewards दो। Pressure मत डालो — positive motivation ज्यादा काम करता है।" }
+    ]
   }
 ];
 
