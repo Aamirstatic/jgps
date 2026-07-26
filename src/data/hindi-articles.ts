@@ -8497,6 +8497,176 @@ export const hindiArticles: HindiArticle[] = [
       { question: "OMR sheet पर Roll Number गलत भरा तो क्या होगा?", answer: "आपका result किसी और को मिलेगा और आपको कुछ नहीं मिलेगा। Roll Number 3 बार check करें।" },
       { question: "OMR sheet practice कैसे करें?", answer: "Internet से OMR template download करें, print करें, और रोज़ 10 questions OMR पर भरें। Mock tests में OMR use करें।" }
     ]
+  },
+  {
+    slug: "jnvst-2027-form-correction-window-edit-details",
+    title: "JNVST 2027 Correction Window: फॉर्म में फोटो या स्पेलिंग गलत हो गई? देखें स्टेप-बाय-स्टेप एडिट गाइड",
+    description: "JNVST 2027 Correction Window — फॉर्म में गलती हो गई? फोटो, स्पेलिंग, category सब edit कर सकते हैं। Step-by-step guide और edit करने की पूरी प्रक्रिया।",
+    keywords: "JNVST 2027 Correction Window Edit Details, Navodaya Class 6 form correction window date August 2026, How to edit JNVST application form online, JNVST photo and signature edit link",
+    date: "25 जुलाई 2026, रात 10 बजकर 30 मिनट",
+    modifiedDate: "25 जुलाई 2026, रात 10 बजकर 30 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं। 7+ साल के experience के साथ 85% success rate है।",
+    readTime: "7 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-form-correction-window-edit-details.webp",
+    imageAlt: "JNVST 2027 Correction Window - form edit details photo signature correction guide Hindi",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Correction Window Snapshot:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Correction Window Expected:</strong> अगस्त 2026 का पहला हफ्ता</li>
+<li><strong>Duration:</strong> 3-5 दिन (limited time!)</li>
+<li><strong>Official Login:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
+<li><strong>Fee:</strong> बिल्कुल FREE — कोई charge नहीं</li>
+<li><strong>Edit कर सकते हैं:</strong> Photo, Signature, Category, Gender, Medium</li>
+<li><strong>Edit नहीं कर सकते:</strong> State, District, Block</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Coach Najma से संदेश:</p>
+<p>"अगर आपने JNVST 2027 का form भरते समय गलती की है — फोटो गलत upload हो गई, नाम में spelling mistake है, या category गलत select हो गई — तो घबराएं नहीं। NVS correction window देता है। ये article आपको step-by-step बताएगा कि कैसे edit करें।"</p>
+</div>
+
+<p><strong>JNVST 2027 Correction Window</strong> — अगर आपने Navodaya Class 6 admission form भरते समय गलती की है, तो चिंता मत करो। NVS हर साल correction window खोलता है जिसमें आप form में कुछ details edit कर सकते हैं। ये window अगस्त 2026 के पहले हफ्ते में खुलने की संभावना है।</p>
+
+<p>Correction window सिर्फ 3-5 दिन के लिए खुलती है। इसलिए जैसे ही link active हो, तुरंत edit करें। Late मत करो — window बंद हो जाएगी और फिर कुछ नहीं हो सकता।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Correction Window Kab Khulegi?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date (Expected)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Submission Closed</td><td class="py-3 px-4 border-b">31 July 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">6 days left</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Opens</td><td class="py-3 px-4 border-b">1st Week August 2026</td><td class="py-3 px-4 border-b text-gray-500">Expected</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Closes</td><td class="py-3 px-4 border-b">3-5 days after opening</td><td class="py-3 px-4 border-b text-gray-500">Limited time!</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 font-bold">28 November 2026</td><td class="py-3 px-4 text-blue-600 font-bold">Confirmed</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Kya-Kya Edit Ho Sakta Hai Aur Kya Nahi?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Field</th><th class="py-3 px-4 border-b font-bold text-white text-left">Edit Possible?</th><th class="py-3 px-4 border-b font-bold text-white text-left">Notes</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Candidate Photo</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload correct photo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Candidate Signature</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload correct signature</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Category (Gen/OBC/SC/ST)</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Select correct category</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Gender</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Male/Female correction</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Medium of Exam</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Hindi/English/Regional</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Disability Status</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Yes/No correction</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload if wrong</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">State</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ No</td><td class="py-3 px-4 border-b">Fixed — cannot change</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">District</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ No</td><td class="py-3 px-4 border-b">Fixed — cannot change</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Block</td><td class="py-3 px-4 text-red-600 font-bold">❌ No</td><td class="py-3 px-4">Fixed — cannot change</td></tr></tbody></table></div>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">Coach Najma's Alert: What Cannot Be Changed</p>
+<p><strong>State, District, और Block change नहीं हो सकते।</strong> ये Class 5 school की location पर based है। अगर ये गलत है तो form reject हो सकता है — correction window में भी fix नहीं होगा।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Step-by-Step Guide: Navodaya Form Online Edit Kaise Karein?</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a> पर जाएं</p>
+<p><strong>Step 2:</strong> "Correction Window" या "Edit Application" लिंक पर क्लिक करें</p>
+<p><strong>Step 3:</strong> Registration Number और Date of Birth दर्ज करें</p>
+<p><strong>Step 4:</strong> Login करें — form खुल जाएगा</p>
+<p><strong>Step 5:</strong> जो fields edit करने हैं उन्हें change करें</p>
+<p><strong>Step 6:</strong> अगर photo/signature change करना है तो नया upload करें</p>
+<p><strong>Step 7:</strong> "Save" या "Submit" बटन दबाएं</p>
+<p><strong>Step 8:</strong> Confirmation page download करें और print निकालें</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Photo, Signature Aur Headmaster Certificate Galat Upload Ho Gaya Toh?</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Photo Correction</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>Size:</strong> 10 KB - 100 KB</li>
+<li><strong>Format:</strong> JPG/JPEG</li>
+<li><strong>Background:</strong> White preferred</li>
+<li><strong>Face:</strong> Clearly visible, no sunglasses</li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Signature Correction</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>Size:</strong> 10 KB - 50 KB</li>
+<li><strong>Format:</strong> JPG/JPEG</li>
+<li><strong>Style:</strong> Clear, readable signature</li>
+<li><strong>Background:</strong> White paper</li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Headmaster Certificate Correction</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>Size:</strong> 50 KB - 200 KB</li>
+<li><strong>Format:</strong> JPG/JPEG/PDF</li>
+<li><strong>Content:</strong> School name, district, class clearly visible</li>
+<li><strong>Stamp:</strong> School stamp and headmaster signature required</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">How to Re-Crop Photo & Signature Correctly:</p>
+<p><a href="https://www.iloveimg.com/resize-image" class="text-green-700 underline" target="_blank">iloveimg.com</a> पर photo resize करें। Photo: 3.5cm × 4.5cm, Signature: 6cm × 2cm। White background use करें।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Najma की 3-Step Verification After Correction</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Step 1: सभी Details Check करें</h3>
+<ul class="list-disc pl-5 space-y-1">
+<li>नाम spelling check करें</li>
+<li>जन्म तिथि check करें</li>
+<li>Category check करें</li>
+<li>Photo और signature check करें</li>
+</ul>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Confirmation Page Save करें</h3>
+<ul class="list-disc pl-5 space-y-1">
+<li>Confirmation page download करें</li>
+<li>2 copies print निकालें</li>
+<li>एक copy अपने पास रखें</li>
+</ul>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Registration Number Save करें</h3>
+<ul class="list-disc pl-5 space-y-1">
+<li>Registration number लिख कर रखें</li>
+<li>SMS और email में save करें</li>
+<li>Admit card download के लिए ज़रूरी है</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Common Mistakes to Avoid During Correction Window</h2>
+
+<div class="bg-red-50 border-2 border-red-500 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Window miss करना</strong> — Correction window सिर्फ 3-5 दिन खुलती है। रोज़ check करो।</li>
+<li><strong>State/District change करने की कोशिश</strong> — ये fields edit नहीं हो सकते।</li>
+<li><strong>Photo size गलत रखना</strong> — 10-100 KB, JPG format, white background।</li>
+<li><strong>Confirmation page नहीं लेना</strong> — Edit के बाद confirmation page ज़रूर download करो।</li>
+<li><strong>Deadline पर edit करना</strong> — Last day server slow हो सकता है। पहले दिन edit करो।</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-navodaya-admission-form-last-date-july-2026/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Application Form 2027</h3>
+<p class="text-gray-600 text-xs">Form भरने की पूरी प्रक्रिया</p>
+</a>
+<a href="/hi/blog/jnvst-registration-2027-server-down-navodaya-portal/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Server Down Problem</h3>
+<p class="text-gray-600 text-xs">Portal error solutions</p>
+</a>
+<a href="/hi/blog/jnvst-registration-2027-last-date-extend-hogi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Last Date Extend Hogi?</h3>
+<p class="text-gray-600 text-xs">Extension analysis</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Correction Window में help चाहिए?</h3><p><strong>JGPS School</strong> में Coach Najma से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Advisory</h3>
+<p>Correction window बहुत limited time के लिए खुलती है। <strong>जैसे ही link active हो, तुरंत edit करो।</strong> Last day मत रखो — server slow हो सकता है। और याद रखो: State, District, Block change नहीं हो सकते।</p>
+<p class="mt-2 text-sm text-gray-500">Author: Najma | JGPS Navodaya & JNVST Coach | 85% Success Rate</p>
+</div>
+`,
+    faqs: [
+      { question: "JNVST 2027 Correction Window कब खुलेगी?", answer: "अगस्त 2026 के पहले हफ्ते में खुलने की संभावना है। सिर्फ 3-5 दिन के लिए खुलती है। cbseitms.rcil.gov.in पर check करें।" },
+      { question: "Correction Window में edit करने के लिए क्या fee है?", answer: "बिल्कुल FREE है। कोई charge नहीं लगता।" },
+      { question: "क्या State/District change कर सकते हैं?", answer: "नहीं। State, District, Block change नहीं हो सकते। ये Class 5 school की location पर based है।" },
+      { question: "Photo upload reject हो गई तो क्या करें?", answer: "Photo resize करें — 10-100 KB, JPG format, white background। iloveimg.com पर free में resize कर सकते हैं।" }
+    ]
   }
 ];
 
