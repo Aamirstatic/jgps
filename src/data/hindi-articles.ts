@@ -206,6 +206,26 @@ export const hindiArticles: HindiArticle[] = [
 <p>ज़्यादा जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
 
 <p><em>यह लेख navodaya.gov.in और अन्य आधिकारिक स्रोतों पर आधारित है। कटऑफ मार्क्स अनुमानित हैं और जिले के अनुसार अलग-अलग हो सकते हैं। आधिकारिक कटऑफ के लिए navodaya.gov.in देखें।</em></p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
+<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें</p>
+</a>
+<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
+<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
+</a>
+</div>
 `,
     faqs: [
       { question: "नवोदय कक्षा 6 में कितने नंबर से पास होते हैं?", answer: "JNVST कक्षा 6 में General श्रेणी के लिए अनुमानित कटऑफ 73-80 अंक (ग्रामीण) और 80-85 अंक (शहरी) है। OBC के लिए 70-76, SC के लिए 60-68 और ST के लिए 55-62 अंक।" },
@@ -6863,6 +6883,7 @@ export const hindiArticles: HindiArticle[] = [
     slug: "current-affairs-august-2026-weekly-gk-school-students",
     title: "अगस्त 2026 करेंट अफेयर्स — स्कूल स्टूडेंट्स के लिए वीकली GK अपडेट",
     description: "August 2026 Current Affairs — स्कूल असेंबली, परीक्षा और GK के लिए जरूरी राष्ट्रीय-अंतर्राष्ट्रीय खबरें, विज्ञान, खेल, और महत्वपूर्ण दिवस।",
+    imageAlt: "August 2026 Current Affairs weekly GK update for school students - national sports day independence day",
     keywords: "August 2026 Current Affairs Weekly GK Update, School assembly current affairs August 2026, Weekly GK news for school students, August 2026 important days and national events",
     date: "25 जुलाई 2026, शाम 5 बजे",
     modifiedDate: "25 जुलाई 2026, शाम 5 बजे",
@@ -8075,6 +8096,7 @@ export const hindiArticles: HindiArticle[] = [
     title: "JNVST 2027 New District Boundary Rule: गलत डिस्ट्रिक्ट से फॉर्म भरा तो एडमिशन कैंसिल!",
     description: "JNVST 2027 New District Boundary Rule — गलत district से form भरा तो admission cancel हो सकता है। जानें NVS का नया नियम और document verification process।",
     keywords: "JNVST 2027 New District Boundary Rule, Navodaya Class 6 admission district eligibility rule, JNVST 2027 resident certificate verification, Navodaya form reject due to wrong district",
+    imageAlt: "JNVST 2027 New District Boundary Rule - Navodaya admission district eligibility resident certificate verification",
     date: "25 जुलाई 2026, रात 9 बजे",
     modifiedDate: "25 जुलाई 2026, रात 9 बजे",
     author: "Najma",
