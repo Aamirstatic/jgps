@@ -241,6 +241,7 @@ export const hindiArticles: HindiArticle[] = [
 {
     slug: "navodaya-jnvst-class-6-admission-2027-28",
     title: "नवोदय कक्षा 6 प्रवेश 2027-28 — आवेदन शुरू, सिलेबस, एग्जाम पैटर्न और पूरी जानकारी",
+    imageAlt: "नवोदय कक्षा 6 प्रवेश 2027-28 — आवेदन, सिलेबस, एग्जाम पैटर्न",
     description: "नवोदय कक्षा 6 प्रवेश 2027-28 का आवेदन शुरू। अंतिम तिथि 31 जुलाई 2026। परीक्षा 28 नवंबर 2026। सिलेबस, एग्जाम पैटर्न, पात्रता और आवेदन प्रक्रिया की पूरी जानकारी।",
     keywords: "नवोदय कक्षा 6 प्रवेश 2027-28, JNVST admission 2027, navodaya class 6 admission, नवोदय एडमिशन 2027-28, JNVST syllabus, JNVST exam pattern",
     date: "23 जुलाई 2026, सुबह 8 बजकर 34 मिनट",
