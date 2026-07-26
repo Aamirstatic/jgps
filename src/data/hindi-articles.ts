@@ -8667,6 +8667,160 @@ export const hindiArticles: HindiArticle[] = [
       { question: "क्या State/District change कर सकते हैं?", answer: "नहीं। State, District, Block change नहीं हो सकते। ये Class 5 school की location पर based है।" },
       { question: "Photo upload reject हो गई तो क्या करें?", answer: "Photo resize करें — 10-100 KB, JPG format, white background। iloveimg.com पर free में resize कर सकते हैं।" }
     ]
+  },
+  {
+    slug: "aissee-2027-sainik-school-essential-documents-list",
+    title: "AISSEE 2027 Registration: सितंबर-अक्टूबर में शुरू होंगे फॉर्म! अभी से बनवा लें ये 4 जरूरी Documents",
+    description: "AISSEE 2027 Sainik School essential documents list — domicile, caste certificate, birth proof, defence quota। अभी से बनवाएं ताकि form reject न हो।",
+    keywords: "AISSEE 2027 Sainik School Essential Documents List, Sainik School admission 2027 application form date, AISSEE 2027 domicile and caste certificate rules, How to fix DOB mismatch in Aadhaar for Sainik School",
+    date: "26 जुलाई 2026, दोपहर 1 बजकर 20 मिनट",
+    modifiedDate: "26 जुलाई 2026, दोपहर 1 बजकर 20 मिनट",
+    author: "Ravi Prakash",
+    authorName: "Ravi Prakash",
+    authorSlug: "ravi-prakash",
+    authorRole: "Current Affairs & GK Faculty",
+    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं। Entrance exams के लिए GK materials तैयार करते हैं।",
+    readTime: "8 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/aissee-2027-sainik-school-essential-documents-list.webp",
+    imageAlt: "AISSEE 2027 Sainik School essential documents list - domicile caste certificate birth proof defence quota",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Document Checklist & Timeline:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Notification Expected:</strong> September-October 2026</li>
+<li><strong>Form Start:</strong> September-October 2026</li>
+<li><strong>Exam Expected:</strong> January 2027</li>
+<li><strong>Conducting Body:</strong> NTA (National Testing Agency)</li>
+<li><strong>4 Critical Documents Needed:</strong> Domicile Certificate, Caste Certificate, Birth Proof, Defence Certificate (if applicable)</li>
+<li><strong>Official Website:</strong> <a href="https://exams.nta.ac.in/sainik-school-society/" class="text-green-700 underline" target="_blank">exams.nta.ac.in</a></li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Ravi Prakash से संदेश:</p>
+<p>"हर साल हज़ारों parents last minute में documents बनवाने की कोशिश करते हैं — और fail हो जाते हैं। Domicile certificate बनने में 15-20 दिन लगते हैं। Caste certificate में 10-15 दिन। अगर form सितंबर में आता है और आपके पास documents नहीं हैं, तो form भर नहीं पाओगे। इसलिए अभी से शुरू करो।"</p>
+</div>
+
+<p><strong>AISSEE 2027 Sainik School Essential Documents List</strong> — ये article उन parents के लिए है जो All India Sainik Schools Entrance Examination (AISSEE) 2027 के लिए form भरना चाहते हैं। NTA (National Testing Agency) सितंबर-अक्टूबर 2026 में notification जारी करेगा।</p>
+
+<p>लेकिन form भरने से पहले आपके पास कुछ जरूरी documents होने चाहिए। अगर documents नहीं हैं तो form reject हो जाएगा। इसलिए अभी से तैयारी शुरू करो।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE 2027 Schedule: Form Kab Aayenge?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification Release</td><td class="py-3 px-4 border-b">September-October 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form Start</td><td class="py-3 px-4 border-b">September-October 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Last Date</td><td class="py-3 px-4 border-b">November 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">December 2026 - January 2027</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 font-bold">January 2027</td><td class="py-3 px-4 text-blue-600 font-bold">⏳ Expected</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Top 4 Essential Documents Required</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">1. Domicile / Residence Certificate (मूल निवास प्रमाण पत्र)</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>क्या है:</strong> ये certificate prove करता है कि आपका बच्चा उस राज्य का resident है</li>
+<li><strong>कौन जारी करता है:</strong> Tehsildar / SDM / District Magistrate</li><li><strong>Processing Time:</strong> 15-20 दिन</li>
+<li><strong>Validity:</strong> 6 महीने से 1 साल (state के अनुसार)</li>
+<li><strong>Format:</strong> Original document, digital signature वाला preferred</li>
+</ul>
+</div>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Ravi Prakash's Early Alert:</p>
+<p>Domicile certificate बनने में <strong>15-20 दिन</strong> लगते हैं। अगर form सितंबर में आता है, तो अगस्त में ही apply कर दो। Last minute में rush बहुत ज्यादा होता है और office slow काम करता है।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">2. Caste / Category Certificate (जाति प्रमाण पत्र)</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>क्या है:</strong> ये certificate prove करता है कि बच्चा किस category में आता है (General/OBC/SC/ST/EWS)</li>
+<li><strong>कौन जारी करता है:</strong> Tehsildar / SDM / District Magistrate</li>
+<li><strong>Processing Time:</strong> 10-15 दिन</li>
+<li><strong>Central Format:</strong> OBC-NCL certificate central government के format में होना चाहिए</li>
+<li><strong>EWS Certificate:</strong> Income certificate के साथ जारी होता है</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">NTA Rejection Prevention Tips:</p>
+<p>OBC-NCL certificate <strong>central government के format</strong> में होना चाहिए। State format accept नहीं होता। अगर आपके पास state format है तो central format में बनवाओ।</p>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">3. Date of Birth Proof (जन्म प्रमाण पत्र)</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>क्या है:</strong> बच्चे की जन्म तिथि prove करने वाला document</li>
+<li><strong>Accepted Documents:</strong> Birth Certificate (Municipal Corporation), Aadhaar Card, Passport</li>
+<li><strong>Important:</strong> Aadhaar card पर DOB और Birth Certificate पर DOB <strong>SAME</strong> होनी चाहिए</li>
+<li><strong>Processing Time:</strong> Birth Certificate: 7-15 दिन | Aadhaar Update: 7-15 दिन</li>
+</ul>
+</div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">4. Defence Service Certificate (रक्षा कोटा प्रमाण पत्र)</h3>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>किसके लिए:</strong> जिनके माता-पिता Defence में काम करते हैं या retired हैं</li>
+<li><strong>कौन जारी करता है:</strong> Unit Commanding Officer / Record Office</li>
+<li><strong>Processing Time:</strong> 7-10 दिन</li>
+<li><strong>Quota:</strong> Defence quota के तहत extra seats मिलती हैं</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Document Matrix & Verification Table</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">Issuing Authority</th><th class="py-3 px-4 border-b font-bold text-white text-left">Format</th><th class="py-3 px-4 border-b font-bold text-white text-left">Processing Time</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Domicile Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">Original + Digital Signature</td><td class="py-3 px-4 border-b">15-20 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Caste Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">Central Format (OBC-NCL)</td><td class="py-3 px-4 border-b">10-15 days</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Birth Certificate</td><td class="py-3 px-4 border-b">Municipal Corporation</td><td class="py-3 px-4 border-b">Original / Digital</td><td class="py-3 px-4 border-b">7-15 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Aadhaar Card</td><td class="py-3 px-4 border-b">UIDAI</td><td class="py-3 px-4 border-b">Original</td><td class="py-3 px-4 border-b">7-15 days (update)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Defence Certificate</td><td class="py-3 px-4 border-b">Unit Commanding Officer</td><td class="py-3 px-4 border-b">Original</td><td class="py-3 px-4 border-b">7-10 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">EWS Certificate</td><td class="py-3 px-4">Tehsildar / SDM</td><td class="py-3 px-4">Central Format</td><td class="py-3 px-4">10-15 days</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Common Mismatch Issues & How to Fix Them</h2>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Issue 1: Name Spelling Mismatch</strong></p>
+<p>Aadhaar card पर "Mohammad" है लेकिन school record में "Muhammad" है। ये mismatch form reject करवा सकता है।</p>
+<p><strong>Fix:</strong> Aadhaar card update कराएं या school record में name correction कराएं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Issue 2: DOB Mismatch</strong></p>
+<p>Aadhaar card पर DOB 15/03/2015 है लेकिन Birth Certificate पर 16/03/2015 है।</p>
+<p><strong>Fix:</strong> Birth Certificate को primary proof माना जाता है। Aadhaar card का DOB update कराएं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Issue 3: Father's Name Mismatch</strong></p>
+<p>कुछ documents पर father's name अलग-अलग spelling में है।</p>
+<p><strong>Fix:</strong> सभी documents पर father's name SAME रखें। जो सबसे ज्यादा documents पर है उसे standard बनाओ।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Photo & Signature Scan Specifications</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Item</th><th class="py-3 px-4 border-b font-bold text-white text-left">Specification</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Size</td><td class="py-3 px-4 border-b">10 KB - 200 KB</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Format</td><td class="py-3 px-4 border-b">JPG / JPEG</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Background</td><td class="py-3 px-4 border-b">White preferred</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Dimensions</td><td class="py-3 px-4 border-b">3.5cm × 4.5cm (passport size)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Signature Size</td><td class="py-3 px-4 border-b">10 KB - 50 KB</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Signature Format</td><td class="py-3 px-4 border-b">JPG / JPEG</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Signature Background</td><td class="py-3 px-4">White paper</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AISSEE 2027 Notification Date</h3>
+<p class="text-gray-600 text-xs">Notification date और eligibility</p>
+</a>
+<a href="/hi/blog/sainik-school-admission-kaise-le-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Admission Guide</h3>
+<p class="text-gray-600 text-xs">एडमिशन कैसे लें — पूरी गाइड</p>
+</a>
+<a href="/hi/blog/sainik-school-medical-test-complete-guide-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Medical Test</h3>
+<p class="text-gray-600 text-xs">मेडिकल टेस्ट की पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/sainik-school-scholarship-complete-guide-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Scholarship</h3>
+<p class="text-gray-600 text-xs">स्कॉलरशिप की पूरी जानकारी</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Sainik School की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> AISSEE entrance exam के लिए specialized coaching देता है। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Advisory</h3>
+<p>AISSEE 2027 का form सितंबर-अक्टूबर 2026 में आने की संभावना है। <strong>अभी से documents तैयार करो।</strong> Domicile, Caste Certificate, Birth Proof — ये तीनों documents बनवाने में 15-20 दिन लगते हैं। Last minute में rush में mat पड़ो।</p>
+<p class="mt-2 text-sm text-gray-500">Author: Ravi Prakash | JGPS Current Affairs & GK Faculty</p>
+</div>
+`,
+    faqs: [
+      { question: "AISSEE 2027 का form कब आएगा?", answer: "सितंबर-अक्टूबर 2026 में expected है। NTA official website exams.nta.ac.in पर notification जारी करेगा।" },
+      { question: "Sainik School admission के लिए कौन से documents चाहिए?", answer: "Domicile Certificate, Caste Certificate (OBC-NCL/SC/ST/EWS), Birth Proof (Aadhaar + Birth Certificate), और Defence Certificate (अगर applicable है)।" },
+      { question: "Domicile Certificate बनने में कितना समय लगता है?", answer: "15-20 दिन। इसलिए form आने से पहले ही apply कर दें।" },
+      { question: "Aadhaar card पर DOB गलत है तो क्या करें?", answer: "Aadhaar update center जाकर DOB correction कराएं। 7-15 दिन लगते हैं। Birth Certificate को primary proof माना जाता है।" }
+    ]
   }
 ];
 
