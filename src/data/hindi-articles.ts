@@ -477,6 +477,26 @@ export const hindiArticles: HindiArticle[] = [
 <p>ज़्यादा जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
 
 <p><em>यह लेख navodaya.gov.in पर उपलब्ध आधिकारिक जानकारी पर आधारित है। ताज़ा अपडेट के लिए आधिकारिक वेबसाइट ज़रूर देखें।</em></p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
+</a>
+<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
+<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें</p>
+</a>
+<a href="/hi/blog/navodaya-kitne-number-se-pass-hote-hain-2026-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Navodaya Cut Off Marks</h3>
+<p class="text-gray-600 text-xs">Previous year cut off — कितने नंबर चाहिए</p>
+</a>
+</div>
 `,
     faqs: [
       { question: "नवोदय कक्षा 6 प्रवेश 2027-28 के लिए आवेदन कब तक कर सकते हैं?", answer: "आवेदन 6 जुलाई 2026 से शुरू हैं और अंतिम तिथि 31 जुलाई 2026 है।" },
