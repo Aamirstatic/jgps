@@ -9399,6 +9399,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JMI Class 6 Entrance English Scoring Rules, Jamia Class 6 entrance English passage tricks, JMI entrance English grammar rules, How to score 20/20 in JMI English",
     date: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
+    readTime: "10 मिनट",
     author: "Aamir",
     authorName: "Aamir",
     authorSlug: "aamir",
@@ -9449,7 +9450,19 @@ export const hindiArticles: HindiArticle[] = [
 <li><strong>"Everyone are"</strong> — गलत! Everyone singular है → "Everyone is"</li>
 <li><strong>"Did went"</strong> — गलत! Did के साथ V1 → "Did go"</li>
 <li><strong>"More smarter"</strong> — गलत! Smarter already comparative है → "Smarter"</li>
+<li><strong>"He don't"</strong> — गलत! He singular है → "He doesn't"</li>
+<li><strong>"I am agree"</strong> — गलत! Agree verb है → "I agree"</li>
 </ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JMI English Preparation Books</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Author</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best For</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Wren & Martin</td><td class="py-3 px-4 border-b">Wren & Martin</td><td class="py-3 px-4 border-b">Grammar rules</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Word Power Made Easy</td><td class="py-3 px-4 border-b">Norman Lewis</td><td class="py-3 px-4 border-b">Vocabulary building</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Entrance Guide</td><td class="py-3 px-4 border-b">Arihant</td><td class="py-3 px-4 border-b">Previous year papers</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">English Practice Sets</td><td class="py-3 px-4">JGPS</td><td class="py-3 px-4">Mock tests</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily 30-Minute English Practice Routine</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>10 minutes:</strong> 1 Reading Comprehension passage solve karo</p>
+<p><strong>10 minutes:</strong> 10 Grammar questions practice karo</p>
+<p><strong>10 minutes:</strong> 5 new vocabulary words seekho + revise old words</p>
 </div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
