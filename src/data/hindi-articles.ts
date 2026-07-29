@@ -10050,6 +10050,113 @@ export const hindiArticles: HindiArticle[] = [
       { question: "AMU/JMI का form कब आएगा?", answer: "नवंबर-दिसंबर 2026 में expected है। Exam फरवरी-मार्च 2027 में होगा।" },
       { question: "क्या अगले साल JNVST 2028 दे सकते हैं?", answer: "हां, अगर बच्चा अभी Class 5 में है और उम्र सीमा में है, तो अगले साल JNVST 2028 दे सकते हैं।" }
     ]
+  },
+  {
+    slug: "jnvst-2027-registration-last-48-hours-server-fix",
+    title: "JNVST 2027 Registration Last 48 Hours: Portal Error & Final Payment Solution",
+    description: "JNVST 2027 registration last 48 hours — portal error, server down, payment fail solutions। 31 July deadline से पहले form भरने की complete guide।",
+    keywords: "JNVST 2027 registration last 48 hours, Navodaya portal error fix, JNVST form payment fail solution, server down last date",
+    date: "29 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
+    modifiedDate: "29 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं। 90% success rate के साथ coaching देते हैं।",
+    readTime: "5 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-registration-last-48-hours-server-fix.webp",
+    imageAlt: "JNVST 2027 registration last 48 hours - portal error server fix payment solution",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-1">⚠️ Last 48 Hours Alert:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Last Date:</strong> 31 July 2026 — सिर्फ 2 दिन बाकी</li>
+<li><strong>Portal:</strong> cbseitms.rcil.gov.in</li>
+<li><strong>Server Status:</strong> Heavy traffic expected — slow loading possible</li>
+<li><strong>Payment Issue?</strong> 30 minute wait करें, फिर retry करें</li>
+</ul>
+</div>
+
+<p><strong>JNVST 2027 Registration Last 48 Hours</strong> — अगर आपने अभी तक form नहीं भरा है, तो अब तुरंत भरें। 31 जुलाई 2026 के बाद portal बंद हो जाएगा और फिर form नहीं भर पाएंगे।</p>
+
+<p>Last 48 hours में portal पर heavy traffic आता है — server slow हो सकता है, payment fail हो सकती है, OTP नहीं आ सकता। ये सब normal है। घबराएं नहीं — ये solutions try करें।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Server Down / Slow Loading Solutions</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Solution 1: Non-Peak Hours में try करें</strong></p>
+<p>सुबह 6-7 AM या रात 10 PM बाद — server load सबसे कम होता है।</p>
+
+<p><strong>Solution 2: Direct Link Use करें</strong></p>
+<p>navodaya.gov.in की जगह सीधे <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a> पर जाएं।</p>
+
+<p><strong>Solution 3: Browser Cache Clear करें</strong></p>
+<p>Chrome → Settings → Clear Browsing Data → Cached Images → Clear Data।</p>
+
+<p><strong>Solution 4: Mobile Data Use करें</strong></p>
+<p>WiFi से try करें, अगर काम नहीं करे तो mobile data से try करें।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Payment Fail Solutions</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Problem:</strong> Payment gateway error / Payment fail / Amount deducted but form not submitted</p>
+
+<p><strong>Solution:</strong></p>
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>30 minute wait करें</strong> — Automatic refund हो सकता है</li>
+<li><strong>Different payment method try करें</strong> — UPI / Net Banking / Card</li>
+<li><strong>Same Registration Number से login करें</strong> — Payment status check करें</li>
+<li><strong>Payment successful but form pending?</strong> — Same number से login करके form complete करें</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">OTP Not Coming Solutions</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>Resend OTP</strong> click करें — 2-3 बार try करें</li>
+<li><strong>5 minute wait करें</strong> — SMS delay हो सकता है</li>
+<li><strong>Different mobile number try करें</strong> — अगर possible है</li>
+<li><strong>Do Not Disturb (DND) check करें</strong> — DND activate है तो OTP block हो सकता है</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Photo/Signature Upload Fail</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>Photo size check करें</strong> — 10-100 KB, JPG format</li>
+<li><strong>Signature size check करें</strong> — 10-50 KB, JPG format</li>
+<li><strong>iloveimg.com</strong> पर resize करें</li>
+<li><strong>White background</strong> use करें</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-registration-2027-server-down-navodaya-portal/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Server Down Solutions</h3>
+<p class="text-gray-600 text-xs">Portal error fixes</p>
+</a>
+<a href="/hi/blog/jnvst-registration-2027-last-date-extend-hogi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Last Date Extend Hogi?</h3>
+<p class="text-gray-600 text-xs">Extension analysis</p>
+</a>
+<a href="/hi/blog/jnvst-2027-form-correction-window-edit-details/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Correction Window</h3>
+<p class="text-gray-600 text-xs">Form edit details</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Form भरने में help चाहिए?</h3><p><strong>JGPS School</strong> में Amit Kumar से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "JNVST 2027 form last date क्या है?", answer: "31 जुलाई 2026। इसके बाद portal बंद हो जाएगा।" },
+      { question: "Server down है तो क्या करें?", answer: "सुबह 6-7 AM या रात 10 PM बाद try करें। Browser cache clear करें।" },
+      { question: "Payment fail हो गई तो?", answer: "30 minute wait करें। Different payment method try करें।" },
+      { question: "Last date बढ़ेगी?", answer: "Previous year trends के आधार पर 70% chance है। लेकिन confirmation नहीं है — आज ही form भरें।" }
+    ]
   }
 ];
 
