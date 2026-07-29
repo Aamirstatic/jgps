@@ -10157,6 +10157,89 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Payment fail हो गई तो?", answer: "30 minute wait करें। Different payment method try करें।" },
       { question: "Last date बढ़ेगी?", answer: "Previous year trends के आधार पर 70% chance है। लेकिन confirmation नहीं है — आज ही form भरें।" }
     ]
+  },
+  {
+    slug: "jnvst-2027-headmaster-certificate-verification-check",
+    title: "JNVST 2027 Headmaster Certificate Rejected? Form Submit Se Pehle Ye Double-Check Karein",
+    description: "JNVST 2027 Headmaster certificate verification — principal signature, district stamp, school code validation errors se kaise bachein।",
+    keywords: "JNVST 2027 headmaster certificate rejected, Navodaya form verification check, headmaster study certificate format, school stamp validation",
+    date: "29 जुलाई 2026, दोपहर 3 बजे",
+    modifiedDate: "29 जुलाई 2026, दोपहर 3 बजे",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं। 7+ साल के experience के साथ 85% success rate है।",
+    readTime: "6 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-headmaster-certificate-verification-check.webp",
+    imageAlt: "JNVST 2027 headmaster certificate verification - principal signature district stamp validation",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-1">⚠️ Last 48 Hours — Certificate Verification Alert:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Headmaster Certificate</strong> — Principal का signature और school stamp ज़रूरी</li>
+<li><strong>District Name</strong> — Certificate पर district name Aadhaar से match होना चाहिए</li>
+<li><strong>School Code</strong> — UDISE code सही होना चाहिए</li>
+<li><strong>Class 5 Study Certificate</strong> — बच्चा उसी school में Class 5 पढ़ रहा है</li>
+</ul>
+</div>
+
+<p><strong>JNVST 2027 Headmaster Certificate Verification</strong> — हर साल कई students का form reject होता है सिर्फ इसलिए कि Headmaster Certificate में कोई error है। Principal का signature missing, school stamp unclear, district name mismatch — ये सब common errors हैं।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Headmaster Certificate में क्या-क्या होना चाहिए?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Field</th><th class="py-3 px-4 border-b font-bold text-white text-left">Required</th><th class="py-3 px-4 border-b font-bold text-white text-left">Common Error</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Student Name</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">Spelling mismatch</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Father's Name</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">Short form vs full name</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Date of Birth</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">DD/MM/YYYY format</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Class & Section</td><td class="py-3 px-4 border-b">Class 5, current year</td><td class="py-3 px-4 border-b">Old certificate use</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School Name</td><td class="py-3 px-4 border-b">Full official name</td><td class="py-3 px-4 border-b">Short name use</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">UDISE Code</td><td class="py-3 px-4 border-b">11-digit code</td><td class="py-3 px-4 border-b">Wrong code</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">District Name</td><td class="py-3 px-4 border-b">Aadhaar district से match</td><td class="py-3 px-4 border-b">Different district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Principal Signature</td><td class="py-3 px-4 border-b">Original signature</td><td class="py-3 px-4 border-b">Missing or stamp only</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">School Stamp</td><td class="py-3 px-4">Clear, readable stamp</td><td class="py-3 px-4">Unclear or missing</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Common Errors That Cause Rejection</h2>
+<div class="bg-red-50 border-2 border-red-500 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Name Spelling Mismatch</strong> — Certificate पर "Mohammad" और Aadhaar पर "Muhammad"</li>
+<li><strong>DOB Format Error</strong> — DD/MM/YYYY format में होना चाहिए</li>
+<li><strong>Missing Principal Signature</strong> — सिर्फ stamp है, signature नहीं</li>
+<li><strong>District Mismatch</strong> — Certificate पर गलत district लिखा है</li>
+<li><strong>Old Certificate</strong> — पिछले साल का certificate use किया है</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Form Submit से पहले Double-Check Checklist</h2>
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>नाम check करें</strong> — Certificate पर नाम = Aadhaar पर नाम</li>
+<li><strong>DOB check करें</strong> — Certificate पर DOB = Aadhaar पर DOB</li>
+<li><strong>District check करें</strong> — Certificate पर district = Aadhaar पर district</li>
+<li><strong>Signature check करें</strong> — Principal का original signature है</li>
+<li><strong>Stamp check करें</strong> — School stamp clear और readable है</li>
+<li><strong>UDISE Code check करें</strong> — 11-digit code सही है</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-form-correction-window-edit-details/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Correction Window</h3>
+<p class="text-gray-600 text-xs">Form edit details</p>
+</a>
+<a href="/hi/blog/jnvst-2027-new-district-rule-explained/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">District Rule</h3>
+<p class="text-gray-600 text-xs">New district boundary rule</p>
+</a>
+<a href="/hi/blog/jnvst-registration-2027-server-down-navodaya-portal/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Server Down Solutions</h3>
+<p class="text-gray-600 text-xs">Portal error fixes</p>
+</a>
+<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
+<p class="text-gray-600 text-xs">Admit Card download करें</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Certificate verification में help चाहिए?</h3><p><strong>JGPS School</strong> में Coach Najma से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "Headmaster Certificate में क्या-क्या चाहिए?", answer: "Student name, father name, DOB, class, school name, UDISE code, district, principal signature, school stamp — सब Aadhaar से match होना चाहिए।" },
+      { question: "Certificate reject हो गया तो क्या करें?", answer: "Correction window में नया certificate upload करें। Headmaster से बात करके सही certificate बनवाएं।" },
+      { question: "क्या digital signature वाला certificate चलेगा?", answer: "हां, अगर digital signature valid है और school stamp भी है।" },
+      { question: "UDISE code कहां से मिलेगा?", answer: "School office से पूछें। या udiseplus.gov.in पर school name search करें।" }
+    ]
   }
 ];
 
