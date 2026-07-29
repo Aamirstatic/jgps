@@ -21,28 +21,6 @@ export interface HindiArticle {
   imageAlt: string;
   content: string;
   faqs: HindiFAQ[];
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
 }
 
 export const hindiArticles: HindiArticle[] = [
@@ -228,26 +206,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>ज़्यादा जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
 
 <p><em>यह लेख navodaya.gov.in और अन्य आधिकारिक स्रोतों पर आधारित है। कटऑफ मार्क्स अनुमानित हैं और जिले के अनुसार अलग-अलग हो सकते हैं। आधिकारिक कटऑफ के लिए navodaya.gov.in देखें।</em></p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
 `,
     faqs: [
       { question: "नवोदय कक्षा 6 में कितने नंबर से पास होते हैं?", answer: "JNVST कक्षा 6 में General श्रेणी के लिए अनुमानित कटऑफ 73-80 अंक (ग्रामीण) और 80-85 अंक (शहरी) है। OBC के लिए 70-76, SC के लिए 60-68 और ST के लिए 55-62 अंक।" },
@@ -263,7 +221,6 @@ export const hindiArticles: HindiArticle[] = [
 {
     slug: "navodaya-jnvst-class-6-admission-2027-28",
     title: "नवोदय कक्षा 6 प्रवेश 2027-28 — आवेदन शुरू, सिलेबस, एग्जाम पैटर्न और पूरी जानकारी",
-    imageAlt: "नवोदय कक्षा 6 प्रवेश 2027-28 — आवेदन, सिलेबस, एग्जाम पैटर्न",
     description: "नवोदय कक्षा 6 प्रवेश 2027-28 का आवेदन शुरू। अंतिम तिथि 31 जुलाई 2026। परीक्षा 28 नवंबर 2026। सिलेबस, एग्जाम पैटर्न, पात्रता और आवेदन प्रक्रिया की पूरी जानकारी।",
     keywords: "नवोदय कक्षा 6 प्रवेश 2027-28, JNVST admission 2027, navodaya class 6 admission, नवोदय एडमिशन 2027-28, JNVST syllabus, JNVST exam pattern",
     date: "23 जुलाई 2026, सुबह 8 बजकर 34 मिनट",
@@ -499,26 +456,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>ज़्यादा जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
 
 <p><em>यह लेख navodaya.gov.in पर उपलब्ध आधिकारिक जानकारी पर आधारित है। ताज़ा अपडेट के लिए आधिकारिक वेबसाइट ज़रूर देखें।</em></p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/navodaya-kitne-number-se-pass-hote-hain-2026-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Navodaya Cut Off Marks</h3>
-<p class="text-gray-600 text-xs">Previous year cut off — कितने नंबर चाहिए</p>
-</a>
-</div>
 `,
     faqs: [
       { question: "नवोदय कक्षा 6 प्रवेश 2027-28 के लिए आवेदन कब तक कर सकते हैं?", answer: "आवेदन 6 जुलाई 2026 से शुरू हैं और अंतिम तिथि 31 जुलाई 2026 है।" },
@@ -536,8 +473,6 @@ export const hindiArticles: HindiArticle[] = [
     slug: "navodaya-vidyalaya-class-6-application-form-2027-28",
     title: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 जारी — अंतिम तिथि 31 जुलाई, ऐसे भरें",
     description: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 जारी हो गया है। अंतिम तिथि 31 जुलाई 2026। पात्रता, ज़रूरी दस्तावेज़, आवेदन प्रक्रिया और परीक्षा तिथि की पूरी जानकारी यहाँ पढ़ें।",
-    imageAlt: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 — अंतिम तिथि, पात्रता, आवेदन प्रक्रिया",
-    imageAlt: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 — अंतिम तिथि, पात्रता, आवेदन प्रक्रिया",
     keywords: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28, JNVST application form 2027-28, navodaya admission form 2027, नवोदय एडमिशन 2027-28, JNVST 2027-28 last date",
     date: "23 जुलाई 2026, सुबह 8 बजकर 38 मिनट",
     modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 20 मिनट",
@@ -784,28 +719,6 @@ export const hindiArticles: HindiArticle[] = [
 <p><em>यह लेख navodaya.gov.in पर उपलब्ध आधिकारिक जानकारी पर आधारित है। ताज़ा अपडेट के लिए आधिकारिक वेबसाइट ज़रूर देखें।</em></p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 की अंतिम तिथि क्या है?", answer: "अंतिम तिथि 31 जुलाई 2026 है। इसके बाद फॉर्म स्वीकार नहीं किया जाएगा।" },
       { question: "नवोदय कक्षा 6 का फॉर्म कहाँ से भरें?", answer: "आधिकारिक वेबसाइट navodaya.gov.in पर जाकर ऑनलाइन भरें। आवेदन पूरी तरह मुफ़्त है।" },
       { question: "JNVST 2027-28 की परीक्षा कब होगी?", answer: "परीक्षा 28 नवंबर 2026 को होगी। रिज़ल्ट मार्च/अप्रैल 2027 में आएगा।" },
@@ -820,7 +733,6 @@ export const hindiArticles: HindiArticle[] = [
 {
     slug: "navodaya-admission-2027-complete-guide",
     title: "नवोदय स्कूल एडमिशन 2027-28 — आवेदन फॉर्म जारी, अंतिम तिथि 31 जुलाई",
-    imageAlt: "नवोदय स्कूल एडमिशन 2027-28 — आवेदन फॉर्म, अंतिम तिथि, पात्रता",
     description: "नवोदय स्कूल एडमिशन 2027-28 का फॉर्म जारी। अंतिम तिथि 31 जुलाई 2026। परीक्षा 28 नवंबर 2026। पात्रता, दस्तावेज़ और आवेदन प्रक्रिया की पूरी जानकारी।",
     keywords: "नवोदय स्कूल एडमिशन 2027-28, JNVST 2027-28, नवोदय प्रवेश परीक्षा, जवाहर नवोदय विद्यालय एडमिशन, JNVST application form 2027-28",
     date: "23 जुलाई 2026, सुबह 8 बजकर 45 मिनट",
@@ -945,28 +857,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>      <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>JGPS School</strong> में नवोदय की तैयारी कराई जाती है। और जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong>।</p></p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "नवोदय स्कूल में फीस कितनी है?", answer: "नवोदय स्कूल में कोई फीस नहीं लगती। शिक्षा, हॉस्टल, खाना, किताबें — सब मुफ्त है। सरकार यह खर्चा उठाती है।" },
       { question: "JNVST 2027-28 की परीक्षा कब होगी?", answer: "JNVST 2027-28 की परीक्षा 28 नवंबर 2026 को होगी। आवेदन 6 जुलाई से 31 जुलाई 2026 तक भरे जा रहे हैं।" },
       { question: "क्या प्राइवेट स्कूल के बच्चे भी आवेदन कर सकते हैं?", answer: "हाँ, बिल्कुल। प्राइवेट स्कूल में पढ़ने वाले बच्चे भी JNVST दे सकते हैं। बस कक्षा 5 में पढ़ना ज़रूरी है।" },
@@ -1140,28 +1030,6 @@ export const hindiArticles: HindiArticle[] = [
 <hr class="my-8 border-gray-200" />
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "सैनिक स्कूल में लड़कियाँ आवेदन कर सकती हैं?", answer: "हाँ, 2021 से सभी सैनिक स्कूलों में लड़कियों के लिए भी प्रवेश शुरू हो गया है। अब लड़के और लड़कियाँ दोनों आवेदन कर सकते हैं।" },
       { question: "AISSEE की तैयारी कब से शुरू करनी चाहिए?", answer: "अगर बच्चा कक्षा 5 में है, तो कम से कम 6 महीने पहले तैयारी शुरू कर दें। जितनी जल्दी शुरू करेंगे, उतना बेहतर रिजल्ट आएगा।" },
       { question: "सैनिक स्कूल की फीस कितनी है?", answer: "सैनिक स्कूल की वार्षिक फीस ₹1,500 से ₹3,000 के बीच है। यह फीस बहुत कम है और इसमें सब कुछ शामिल है।" },
@@ -1285,28 +1153,6 @@ export const hindiArticles: HindiArticle[] = [
 <hr class="my-8 border-gray-200" />
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "क्या मैं दोनों स्कूलों में आवेदन कर सकता हूँ?", answer: "हाँ, आप दोनों स्कूलों में एक साथ आवेदन कर सकते हैं। AISSEE और JNVST अलग-अलग परीक्षाएं हैं।" },
       { question: "कौन सा स्कूल ज्यादा कठिन है?", answer: "सैनिक स्कूल ज्यादा कठिन है क्योंकि इसमें सैन्य अनुशासन होता है। नवोदय में शैक्षणिक माहौल होता है।" },
       { question: "कौन सा स्कूल बेहतर रिजल्ट देता है?", answer: "नवोदय बोर्ड परीक्षा में बेहतर है। सैनिक स्कूल NDA में बेहतर है। दोनों का फोकस अलग-अलग है।" },
@@ -1481,28 +1327,6 @@ export const hindiArticles: HindiArticle[] = [
 <hr class="my-8 border-gray-200" />
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "विद्या ज्ञान स्कूल सिर्फ UP में है?", answer: "हाँ, विद्या ज्ञान स्कूल सिर्फ उत्तर प्रदेश में हैं। सिर्फ UP के छात्र ही आवेदन कर सकते हैं।" },
       { question: "आय सीमा कितनी है?", answer: "परिवार की वार्षिक आय ₹2 लाख से कम होनी चाहिए। यह अनिवार्य शर्त है।" },
       { question: "किस कक्षा में प्रवेश होता है?", answer: "सिर्फ कक्षा 6 में प्रवेश होता है। कक्षा 9 या अन्य कक्षाओं में प्रवेश नहीं होता।" },
@@ -1592,28 +1416,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>हाँ, JMI में छात्रावास की सुविधा उपलब्ध है, लेकिन सीमित सीटें हैं।</p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "JMI कक्षा 6 में कितनी सीटें हैं?", answer: "JMI की कक्षा 6 में लगभग 200-300 सीटें हैं। 50,000 से ज़्यादा आवेदन आते हैं, इसलिए प्रतिस्पर्धा बहुत तेज़ है।" },
       { question: "JMI प्रवेश परीक्षा कब होती है?", answer: "JMI कक्षा 6 की प्रवेश परीक्षा 2027 में जून के पहले हफ्ते में होने की उम्मीद है। आधिकारिक तिथि jmi.coe.in पर मार्च 2027 में जारी होगी।" },
       { question: "JMI की फीस कितनी है?", answer: "आवेदन शुल्क जनरल के लिए ₹550 और SC/ST के लिए ₹275 है। साल की कुल फीस लगभग ₹8,000 से ₹12,000 है।" },
@@ -1693,28 +1495,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>हाँ, CUET जैसी प्रवेश परीक्षाएँ NEP के तहत शुरू हो चुकी हैं।</p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "NEP 2020 क्या है?", answer: "NEP 2020 भारत सरकार की नई शिक्षा नीति है जो 2020 में लागू हुई। इसका उद्देश्य शिक्षा को समावेशी और गुणवत्तापूर्ण बनाना है।" },
       { question: "NEP 2020 में कोडिंग कब से सिखाई जाएगी?", answer: "कक्षा 6 से कोडिंग शुरू होगी। धीरे-धीरे सभी स्कूलों में लागू होगा।" },
       { question: "क्या बोर्ड एग्जाम खत्म हो जाएगा?", answer: "कक्षा 12 में बोर्ड एग्जाम अभी भी होगा। कक्षा 10 में ही बदलाव हो रहा है।" },
@@ -1796,28 +1576,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>JGPS से संपर्क करें — <strong>+91 9412137554</strong> — बच्चे के लिए सबसे उपयुक्त बोर्डिंग स्कूल चुनने में मदद मिलेगी।</p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "किस उम्र में बोर्डिंग स्कूल भेजना सही है?", answer: "कक्षा 6 या 9 में भेजना सबसे अच्छा होता है। बच्चा इतना बड़ा हो जाता है कि adjust कर सके।" },
       { question: "बच्चा रोता है तो क्या करें?", answer: "पहले 2-4 हफ्ते रोना सामान्य है। धैर्य रखें। बच्चे को समझाएं कि यह समय बीत जाएगा।" },
       { question: "क्या बोर्डिंग स्कूल सुरक्षित हैं?", answer: "अच्छे स्कूलों में सुरक्षा का पूरा ध्यान रखा जाता है। अच्छी तरह जाँच करें।" },
@@ -1903,28 +1661,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>हाँ, हर गलत उत्तर के लिए 0.25 अंक काटे जाते हैं। अनुमान न लगाएँ।</p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "क्या 30 दिन में तैयारी संभव है?", answer: "हाँ, बिल्कुल! अगर रोज़ाना 2-3 घंटे लगातार पढ़ाई करें और पिछले पेपर पर फोकस करें।" },
       { question: "रोज़ाना कितने घंटे पढ़ना चाहिए?", answer: "कम से कम 2-3 घंटे रोज़ाना पढ़ें। सुबह का समय सबसे अच्छा होता है।" },
       { question: "पिछले पेपर कहाँ मिलेंगे?", answer: "JMI की वेबसाइट या JGPS से संपर्क करें — +91 9412137554।" },
@@ -2063,28 +1799,6 @@ export const hindiArticles: HindiArticle[] = [
 </p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "CBSE बोर्ड UP बोर्ड से कितना बेहतर है?",
         answer: "प्रतियोगी परीक्षाओं के लिए CBSE बोर्ड काफी बेहतर है। NEET में 85% प्रश्न NCERT से आते हैं। CBSE का पाठ्यक्रम NCERT पर आधारित है, जबकि UP बोर्ड का पाठ्यक्रम अलग है।"
@@ -2300,28 +2014,6 @@ export const hindiArticles: HindiArticle[] = [
 </p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "RMS में कितनी सीटें हैं?",
         answer: "5 राष्ट्रीय मिलिट्री स्कूलों में कुल 750-1000 सीटें हैं। हर स्कूल में 150-200 सीटें होती हैं।"
@@ -2558,28 +2250,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>      <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>JGPS School</strong> में AMU प्रवेश परीक्षा की तैयारी कराई जाती है। और जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong>।</p></p>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "AMU कक्षा 6 प्रवेश परीक्षा कब होती है?",
         answer: "AMU कक्षा 6 की प्रवेश परीक्षा हर साल अप्रैल में होती है। आवेदन फरवरी-मार्च में शुरू होते हैं।"
@@ -2687,28 +2357,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>AISSEE 2027 की तैयारी जोरों पर है। NTA ने पुष्टि की है कि अखिल भारतीय सैनिक स्कूल प्रवेश परीक्षा इस वर्ष अपडेटेड पैटर्न का पालन करेगी। सैनिक स्कूल सोसाइटी ने कई राज्यों में नए स्कूल जोड़े हैं, जिससे कुल सीटें बढ़ी हैं। <strong>exams.nta.nic.in</strong> पर अगस्त 2026 में अधिसूचना अपेक्षित है। स्रोत: NTA आधिकारिक पोर्टल (जुलाई 2026)।</p>
 </div>`,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "सैनिक स्कूल कक्षा 6 के लिए हाइट रिक्वायरमेंट क्या है?",
         answer: "कक्षा 6 के लिए न्यूनतम हाइट 135 सेमी (लगभग 4 फीट 5 इंच) है। कक्षा 9 के लिए 148 सेमी (4 फीट 10 इंच)। ये रक्षा मंत्रालय द्वारा तय किए गए आधिकारिक मानक हैं।"
@@ -2807,28 +2455,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>AISSEE 2027 की तैयारी जोरों पर है। NTA ने पुष्टि की है कि अखिल भारतीय सैनिक स्कूल प्रवेश परीक्षा इस वर्ष अपडेटेड पैटर्न का पालन करेगी। सैनिक स्कूल सोसाइटी ने कई राज्यों में नए स्कूल जोड़े हैं, जिससे कुल सीटें बढ़ी हैं। <strong>exams.nta.nic.in</strong> पर अगस्त 2026 में अधिसूचना अपेक्षित है। स्रोत: NTA आधिकारिक पोर्टल (जुलाई 2026)।</p>
 </div>`,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "सैनिक स्कूल इंटरव्यू में क्या सवाल पूछे जाते हैं?",
         answer: "पैनल पर्सनल डिटेल्स, परिवार, स्कूल, शौक, जनरल नॉलेज, करंट अफेयर्स, सैनिक स्कूल क्यों जाना चाहते हो, और बेसिक सब्जेक्ट सवाल पूछता है। कॉन्फिडेंस, कम्युनिकेशन और बॉडी लैंग्वेज भी जांची जाती है।"
@@ -2935,28 +2561,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>AISSEE 2027 की तैयारी जोरों पर है। NTA ने पुष्टि की है कि अखिल भारतीय सैनिक स्कूल प्रवेश परीक्षा इस वर्ष अपडेटेड पैटर्न का पालन करेगी। सैनिक स्कूल सोसाइटी ने कई राज्यों में नए स्कूल जोड़े हैं, जिससे कुल सीटें बढ़ी हैं। <strong>exams.nta.nic.in</strong> पर अगस्त 2026 में अधिसूचना अपेक्षित है। स्रोत: NTA आधिकारिक पोर्टल (जुलाई 2026)।</p>
 </div>`,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "AMU या JMI — कौन सी परीक्षा आसान है?",
         answer: "<strong>JMI की परीक्षा आमतौर पर आसान मानी जाती है</strong>। AMU में कठिन सवाल और ज़्यादा प्रतिस्पर्धा है। लेकिन कठिनाई हर साल बदलती है। अगर बच्चा NCERT किताबों से अच्छी तैयारी करे, तो दोनों परीक्षाएं संभव हैं।"
@@ -3043,28 +2647,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>AISSEE 2027 की तैयारी जोरों पर है। NTA ने पुष्टि की है कि अखिल भारतीय सैनिक स्कूल प्रवेश परीक्षा इस वर्ष अपडेटेड पैटर्न का पालन करेगी। सैनिक स्कूल सोसाइटी ने कई राज्यों में नए स्कूल जोड़े हैं, जिससे कुल सीटें बढ़ी हैं। <strong>exams.nta.nic.in</strong> पर अगस्त 2026 में अधिसूचना अपेक्षित है। स्रोत: NTA आधिकारिक पोर्टल (जुलाई 2026)।</p>
 </div>`,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "क्या सैनिक स्कूल SC/ST छात्रों के लिए मुफ्त है?",
         answer: "हाँ। SC और ST छात्रों को सैनिक स्कूल में <strong>पूरी फीस माफ</strong> है। सरकार सब कुछ देती है — ट्यूशन, हॉस्टल, खाना, यूनिफॉर्म और किताबें। बच्चे को कुछ भी नहीं देना होता।"
@@ -3157,28 +2739,6 @@ export const hindiArticles: HindiArticle[] = [
 <p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>`,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       {
         question: "कौन सा सबसे सस्ता है — सैनिक, नवोदय, AMU या JMI?",
         answer: "<strong>नवोदय विद्यालय सबसे सस्ता है</strong> — सभी छात्रों के लिए पूरी तरह मुफ्त। कोई ट्यूशन, कोई हॉस्टल, कोई मेस चार्ज नहीं। नवोदय के बाद JMI सबसे किफायती है — ₹15,000-25,000 सालाना। AMU ₹25,000-35,000। सैनिक स्कूल ₹1,00,000-1,40,000।"
@@ -3260,28 +2820,6 @@ export const hindiArticles: HindiArticle[] = [
 
     `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "क्या नागरिक (civilian) बच्चे RMS में पढ़ सकते हैं?", answer: "नहीं, RMS में सिर्फ सेना कर्मियों के बच्चे ही आवेदन कर सकते हैं। नागरिक बच्चों के लिए सैनिक स्कूल (AISSEE) सही विकल्प है।" },
       { question: "सैनिक स्कूल और मिलिट्री स्कूल की फीस में कितना फर्क है?", answer: "सैनिक स्कूल की सालाना फीस ₹1,500 से ₹3,000 है। RMS की फीस ₹1.3 लाख से ₹1.5 लाख है।" },
       { question: "NDA में जाने के लिए कौन सा स्कूल बेहतर है?", answer: "RMS का NDA रेट 70% है जबकि सैनिक स्कूल का 30-40%। अगर NDA लक्ष्य है और आप सेना में हैं, तो RMS बेहतर है।" },
@@ -3345,28 +2883,6 @@ export const hindiArticles: HindiArticle[] = [
 
     `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "नवोदय की तैयारी किस कक्षा से शुरू करें?", answer: "नवोदय (JNVST) की तैयारी कक्षा 4 से शुरू करनी चाहिए। कम से कम 12-18 महीने पहले से रोज़ाना 1-2 घंटे पढ़ाई करें।" },
       { question: "क्या 6 महीने में नवोदय की तैयारी हो सकती है?", answer: "हाँ, लेकिन रोज़ाना 3-4 घंटे पढ़ना होगा। पिछले साल के पेपर हल करें और कमज़ोर विषयों पर ज़्यादा ध्यान दें।" },
       { question: "कक्षा 3 के बच्चे को कितनी देर पढ़ाना चाहिए?", answer: "कक्षा 3-4 के बच्चे के लिए रोज़ाना 30 मिनट से 1 घंटा काफी है। ज़्यादा देर तक बिठाने से बच्चा पढ़ाई से दूर भागेगा।" },
@@ -3428,28 +2944,6 @@ export const hindiArticles: HindiArticle[] = [
 
     `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "क्या बिना कोचिंग के नवोदय में एडमिशन मिल सकता है?", answer: "हाँ, हर साल 30% बच्चे बिना कोचिंग के नवोदय में चुने जाते हैं। सही तरीका और ज़्यादा मेहनत चाहिए।" },
       { question: "कोचिंग की फीस कितनी होती है?", answer: "कोचिंग की फीस ₹5,000 से ₹50,000 तक होती है। ऑनलाइन कोचिंग ₹5,000 से ₹15,000 तक।" },
       { question: "क्या YouTube से तैयारी हो सकती है?", answer: "हाँ, लेकिन सिर्फ YouTube से काम नहीं चलेगा। NCERT किताबें और मॉक टेस्ट भी ज़रूरी हैं।" },
@@ -3521,28 +3015,6 @@ export const hindiArticles: HindiArticle[] = [
 
     `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "अगर बच्चा नवोदय में फेल हो गया तो फिर से कोशिश कर सकता है?", answer: "JNVST में सिर्फ एक बार परीक्षा दे सकते हैं। लेकिन सैनिक स्कूल (AISSEE) में कक्षा 6 और 9 दोनों में एडमिशन होता है।" },
       { question: "क्या फेल होने के बाद बच्चे को डाँटना चाहिए?", answer: "नहीं, बिल्कुल नहीं। डाँटने से बच्चे का आत्मविश्वास और टूटेगा। प्यार से बात करें।" },
       { question: "नवोदय के अलावा कौन से मुफ्त स्कूल हैं?", answer: "विद्याग्यान (शिव नाडर फाउंडेशन) बिल्कुल मुफ्त है। केंद्रीय विद्यालय (KV) में भी बहुत कम फीस होती है।" },
@@ -3600,28 +3072,6 @@ export const hindiArticles: HindiArticle[] = [
 
     `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "क्या नवोदय स्कूल बिल्कुल मुफ्त है?", answer: "हाँ, नवोदय स्कूल में शिक्षा, हॉस्टल, खाना, किताबें सब मुफ्त है। सरकार पूरा खर्चा उठाती है।" },
       { question: "विद्याग्यान में कौन आवेदन कर सकता है?", answer: "सिर्फ उत्तर प्रदेश के ग्रामीण बच्चे। परिवार की सालाना आमदनी ₹2 लाख से कम होनी चाहिए।" },
       { question: "केंद्रीय विद्यालय (KV) की फीस कितनी है?", answer: "KV की फीस ₹500 से ₹2,000 प्रति महीना है। CBSE बोर्ड है।" },
@@ -3665,28 +3115,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "CBSE थ्री-लैंग्वेज पॉलिसी क्या है?", answer: "CBSE ने 2026-27 से तीन भाषाएं पढ़ना ज़रूरी कर दिया है — R1 (मातृभाषा), R2 (अंग्रेजी), R3 (कोई भारतीय भाषा)।" },
       { question: "तीसरी भाषा कौन सी होगी?", answer: "छात्र संस्कृत, उर्दू, पंजाबी, बंगाली या कोई भी भारतीय भाषा चुन सकते हैं।" },
       { question: "क्या यह नियम सभी कक्षाओं के लिए है?", answer: "हाँ, कक्षा 1 से 12 तक तीन भाषाएं पढ़नी होंगी।" }
@@ -3726,28 +3154,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "NEET-UG 2027 का पैटर्न बदलेगा?", answer: "स्वास्थ्य मंत्रालय ने प्रस्ताव दिया है। अभी अंतिम फैसला नहीं हुआ है।" },
       { question: "बोर्ड मार्क्स का वेटेज कितना होगा?", answer: "प्रस्ताव के अनुसार 12वीं बोर्ड मार्क्स का 50% वेटेज हो सकता है।" },
       { question: "क्या NEET CBT मोड में होगी?", answer: "प्रस्ताव में कंप्यूटर आधारित टेस्ट (CBT) का सुझाव दिया गया है।" }
@@ -3787,28 +3193,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "CBSE का नया पाठ्यक्रम क्या है?", answer: "CBSE ने 2026-27 से नया पाठ्यक्रम लागू किया है जिसमें JEE/NEET की तैयारी स्कूलों में ही होगी।" },
       { question: "क्या कोचिंग की ज़रूरत नहीं होगी?", answer: "स्कूल में बेसिक तैयारी होगी, लेकिन टॉप रैंक के लिए अतिरिक्त तैयारी फायदेमंद रहेगी।" },
       { question: "JGPS School में कॉम्पिटिटिव तैयारी होती है?", answer: "हाँ, JGPS में AMU, JMI, सैनिक स्कूल, नवोदय के लिए अलग कोचिंग बैच चलते हैं।" }
@@ -3848,28 +3232,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "NCERT ने 2026-27 में कौन सी किताबें बदलीं?", answer: "कक्षा 6 और 9 की ज़्यादातर किताबें नई हैं — गणित, विज्ञान, सामाजिक विज्ञान, हिंदी।" },
       { question: "क्या पुरानी किताबें काम की नहीं हैं?", answer: "पुरानी किताबों का सिलेबस बदल गया है। नई किताबें खरीदना ज़रूरी है।" },
       { question: "नई किताबें कहां से खरीदें?", answer: "NCERT की वेबसाइट से फ्री PDF डाउनलोड कर सकते हैं या बाज़ार से खरीद सकते हैं।" }
@@ -3909,28 +3271,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "CUET क्या है?", answer: "CUET (Common University Entrance Test) केंद्रीय यूनिवर्सिटीज़ में एडमिशन के लिए राष्ट्रीय स्तर की प्रवेश परीक्षा है।" },
       { question: "CUET कौन दे सकता है?", answer: "12वीं पास या 12वीं में पढ़ रहे छात्र CUET दे सकते हैं।" },
       { question: "CUET का सिलेबस क्या है?", answer: "CUET का सिलेबस 12वीं के NCERT पर आधारित है। भाषा, डोमेन सब्जेक्ट और जनरल टेस्ट शामिल है।" }
@@ -4011,28 +3351,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "Kya CBSE sach mein Class 10 ke liye do board exam le raha hai 2026 se?", answer: "Haan. CBSE ne 25 June 2025 ko officially announce kiya tha. 2025-26 session se Class 10 students saal mein do baar board exam de sakte hain. Pehla exam zaroori hai, doosra improvement ya compartment ke liye optional hai." },
       { question: "Pehle aur doosre CBSE board exam mein kya fark hai?", answer: "Pehla exam (February-March) sabhi students ke liye zaroori hai. Doosra exam (May-June) optional hai. Jo students apna score sudharna chahte hain ya compartment clear karna chahte hain, wo doosra exam de sakte hain." },
       { question: "Kya CBSE dono board exams mein se best score leta hai?", answer: "Haan. CBSE dono attempts mein se zyada number wala score leta hai. Agar aapke bachche ne pehle exam mein 72% aur doosre mein 81% liya, to final result mein 81% dikhega." },
@@ -4191,28 +3509,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "JNVST 2027 के लिए रजिस्ट्रेशन कब शुरू हुआ?", answer: "JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए रजिस्ट्रेशन जुलाई 2026 में शुरू हुआ है। आवेदन की आखिरी तारीख 31 जुलाई 2026 है।" },
       { question: "JNVST 2027 की परीक्षा कब होगी?", answer: "JNVST 2027 कक्षा 6 प्रवेश परीक्षा जनवरी 2027 में होने की संभावना है। सटीक तारीख NVS की आधिकारिक वेबसाइट पर जारी की जाएगी।" },
       { question: "नवोदय में एडमिशन के लिं कितनी आयु होनी चाहिए?", answer: "JNVST 2027 के लिए बच्चे का जन्म 1 मई 2011 से 30 अप्रैल 2013 के बीच होना चाहिए (अनुमानित)। आधिकारिक नोटिफिकेशन में सटीक तारीख देखें।" },
@@ -4331,28 +3627,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "CBSE सप्लीमेंट्री एग्जाम 2026 कब होगी?", answer: "CBSE Class 10 और Class 12 सप्लीमेंट्री/कम्पार्टमेंट परीक्षा 2026 जुलाई 2026 में होने की संभावना है। सटीक तारीख CBSE की आधिकारिक वेबसाइट पर जारी की जाएगी।" },
       { question: "क्या Class 10 में सप्लीमेंट्री देने से 'Best of Two' मिलेगा?", answer: "हाँ। CBSE Class 10 में 'Best of Two' का विकल्प है। दोनों प्रयासों में से ज़्यादा नंबर वाला स्कोर फाइनल रिज़ल्ट में आएगा।" },
       { question: "CBSE सप्लीमेंट्री एग्जाम के लिए कैसे अप्लाई करें?", answer: "स्कूल के ज़रिए LOC (List of Candidates) सबमिट की जाती है। छात्रों को अपने स्कूल से संपर्क करना चाहिए।" },
@@ -4516,28 +3790,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "CTET सितंबर 2026 की परीक्षा कब होगी?", answer: "CTET सितंबर 2026 की परीक्षा सितंबर 2026 में होने की संभावना है। सटीक तारीख ctet.nic.in पर जारी की जाएगी।" },
       { question: "CTET पास करने के बाद कहां नौकरी मिलती है?", answer: "CTET पास करने के बाद KVS, NVS, आर्मी स्कूल, और कई राज्य सरकारों के स्कूलों में शिक्षक पद के लिए आवेदन कर सकते हैं।" },
       { question: "CTET सर्टिफिकेट कितने समय के लिए वैध है?", answer: "CTET सर्टिफिकेट अब जीवनभर के लिए वैध है। पहले ये 7 साल के लिए था, लेकिन NCTE ने नियम बदल दिया है।" },
@@ -4651,28 +3903,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "JoSAA काउंसलिंग 2026 में कितने राउंड होंगे?", answer: "JoSAA काउंसलिंग 2026 में कुल 5 राउंड होंगे। आखिरी राउंड (Round 5) मिड जुलाई 2026 में आने की संभावना है।" },
       { question: "Freeze, Float और Slide में क्या फर्क है?", answer: "Freeze में सीट फाइनल हो जाती है। Float में बेहतर सीट मिल सकती है। Slide में उसी कॉलेज में बेहतर ब्रांच मिल सकती है।" },
       { question: "JoSAA काउंसलिंग के लिए कौन पात्र है?", answer: "JEE Main पास करने वाले NIT/IIIT/GFTI के लिए और JEE Advanced पास करने वाले IIT के लिए पात्र हैं।" },
@@ -4795,28 +4025,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "हाफ-ईयरली एग्जाम कब होते हैं?", answer: "हाफ-ईयरली एग्जाम आमतौर पर सितंबर-अक्टूबर में होते हैं। लेकिन तैयारी जुलाई से शुरू करनी चाहिए।" },
       { question: "मानसून में बच्चे की पढ़ाई कैसे कराएं?", answer: "सुबह जल्दी उठाएं, टाइम टेबल बनाएं, NCERT पर फोकस करें और मोबाइल से दूर रखें। रोज़ 4-5 घंटे पढ़ाई काफी है।" },
       { question: "क्या मानसून में ऑनलाइन क्लासेस लेनी चाहिए?", answer: "हाँ, अगर स्कूल बंद है तो ऑनलाइन क्लासेस एक अच्छा विकल्प है। लेकिन स्क्रीन टाइम लिमिटेड रखें।" },
@@ -4956,28 +4164,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "नवोदय फॉर्म में नाम गलत हो गया, कैसे सुधारें?", answer: "NVS करेक्शन विंडो खुलने पर navodaya.gov.in पर लॉगिन करके 'Edit Application' पर क्लिक करें। वहां नाम सुधार सकते हैं। ध्यान रखें कि नाम आधार कार्ड से मैच होना चाहिए।" },
       { question: "JNVST फॉर्म करेक्शन विंडो कब खुलती है?", answer: "करेक्शन विंडो फॉर्म भरने की आखिरी तारीख के 7-15 दिन बाद खुलती है। NVS की वेबसाइट पर डेट घोषित होती है। आमतौर पर 7-10 दिन का समय मिलता है।" },
       { question: "नवोदय फॉर्म में फोटो गलत लग गई, क्या करें?", answer: "हाँ, करेक्शन विंडो में फोटो बदली जा सकती है। 3.5 x 4.5 cm साइज़ की सफ़ेद बैकग्राउंड वाली फोटो अपलोड करें। फोटो साफ़ और हाल की होनी चाहिए।" },
@@ -5111,28 +4297,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "JNVST 2027 में कितने प्रश्न आते हैं?", answer: "JNVST 2027 में कुल 80 प्रश्न आते हैं — मानसिक योग्यता से 40, गणित से 20 और भाषा से 20 प्रश्न। कुल अंक 100 होते हैं।" },
       { question: "JNVST एग्जाम में कितना समय मिलता है?", answer: "JNVST एग्जाम में कुल 2 घंटे (120 मिनट) का समय मिलता है। मानसिक योग्यता के लिए 60 मिनट, गणित और भाषा के लिए 30-30 मिनट।" },
       { question: "JNVST में नेगेटिव मार्किंग होती है?", answer: "नहीं, JNVST में कोई नेगेटिव मार्किंग नहीं होती। गलत जवाब पर अंक नहीं कटते, इसलिए हर सवाल का जवाब ज़रूर दें।" },
@@ -5286,28 +4450,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "सैनिक स्कूल में एडमिशन के लिए उम्र कितनी होनी चाहिए?", answer: "कक्षा 6 के लिए 10-12 साल और कक्षा 9 के लिए 13-15 साल। उम्र 31 मार्च 2027 को आधार मानी जाती है।" },
       { question: "AISSEE एग्जाम कब होता है?", answer: "AISSEE हर साल जनवरी में होता है। फॉर्म अक्टूबर-नवंबर में भरे जाते हैं और रिज़ल्ट फरवरी-मार्च में आता है।" },
       { question: "सैनिक स्कूल में लड़कियां भी पढ़ सकती हैं?", answer: "हाँ, अब सैनिक स्कूलों में लड़कियों को भी प्रवेश मिलता है। कुछ सैनिक स्कूलों में लड़कियों के लिए अलग सीटें हैं।" },
@@ -5436,28 +4578,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "नवोदय विद्यालय में सच में फ्री पढ़ाई होती है?", answer: "हाँ, बिल्कुल सच है। नवोदय में ट्यूशन, हॉस्टल, खाना, किताबें, यूनिफॉर्म सब कुछ फ्री है। भारत सरकार पूरा खर्च उठाती है। कक्षा 6 से 12 तक कोई फीस नहीं लगती।" },
       { question: "नवोदय में कोई छिपा हुआ खर्च है?", answer: "नवोदय स्कूल कोई फीस नहीं लेता। लेकिन पॉकेट मनी (₹500-1000/महीना), घर आने-जाने का किराया, और कभी-कभी एक्स्ट्रा किताबों का खर्च माता-पिता को उठाना पड़ता है।" },
       { question: "नवोदय में हॉस्टल फीस कितनी है?", answer: "हॉस्टल बिल्कुल फ्री है। कमरा, बिजली, पानी, पंखा, बेड — सब कुछ सरकार देती है। कोई हॉस्टल चार्ज नहीं लगता।" },
@@ -5613,28 +4733,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "AMU क्लास 6 एंट्रेंस में कौन से विषय आते हैं?", answer: "AMU क्लास 6 एंट्रेंस में 4 विषय आते हैं — गणित, अंग्रेज़ी, उर्दू/हिंदी और सामान्य ज्ञान। कुल 100 अंक का पेपर होता है।" },
       { question: "AMU क्लास 6 एंट्रेंस का सिलेबस कितनी कक्षा तक का होता है?", answer: "AMU क्लास 6 एंट्रेंस का सिलेबस मुख्य रूप से कक्षा 5 तक का होता है। NCERT कक्षा 5 की किताबें पढ़ना काफी है।" },
       { question: "AMU क्लास 6 में कितने नंबर चाहिए पास होने के लिए?", answer: "AMU में पास होने के लिए आमतौर पर 50-60% अंक चाहिए। लेकिन सिलेक्शन के लिए 70%+ अंक लाने चाहिए। हर साल कटऑफ बदलती है।" },
@@ -5748,28 +4846,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "क्या बिना कोचिंग के सैनिक स्कूल में सिलेक्शन हो सकता है?", answer: "हाँ, बिल्कुल हो सकता है। अगर बच्चा NCERT की किताबें अच्छे से पढ़े, रोज़ 4-5 घंटे पढ़ाई करे और हर हफ्ते मॉक टेस्ट दे, तो बिना कोचिंग के भी AISSEE में सिलेक्शन हो सकता है।" },
       { question: "सैनिक स्कूल की तैयारी कब शुरू करनी चाहिए?", answer: "कक्षा 4 से ही तैयारी शुरू कर दें। कम से कम 1 साल की तैयारी ज़रूरी है। जितनी जल्दी शुरू करेंगे, उतना बेहतर रहेगा।" },
       { question: "घर से तैयारी के लिए कौन सी किताबें चाहिए?", answer: "NCERT कक्षा 5 की सभी किताबें, Lucent GK, और AISSEE के पिछले साल के पेपर। ये तीनों मिलकर काफी हैं।" },
@@ -5886,28 +4962,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "नवोदय और सैनिक स्कूल में से कौन सा स्कूल फ्री है?", answer: "नवोदय विद्यालय पूरी तरह फ्री है — फीस, हॉस्टल, खाना, किताबें सब कुछ सरकार देती है। सैनिक स्कूल में ₹15,000 से ₹50,000 तक सालाना फीस लगती है।" },
       { question: "कौन सा स्कूल NDA की तैयारी के लिए बेहतर है?", answer: "सैनिक स्कूल NDA की तैयारी के लिए बेहतर है क्योंकि वहाँ सैन्य प्रशिक्षण, NCC और अनुशासन पर ज़्यादा ध्यान दिया जाता है।" },
       { question: "नवोदय में एडमिशन कैसे मिलता है?", answer: "नवोदय में एडमिशन JNVST (Jawahar Navodaya Vidyalaya Selection Test) परीक्षा के ज़रिए होता है। यह परीक्षा कक्षा 5 के बच्चों के लिए होती है।" },
@@ -6011,28 +5065,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "JNVST 2027 का मॉडल पेपर कहां से डाउनलोड करें?", answer: "JNVST के मॉडल पेपर NVS की आधिकारिक वेबसाइट navodaya.gov.in पर मिलते हैं। इसके अलावा कई एजुकेशनल वेबसाइट्स पर भी फ्री PDF उपलब्ध है।" },
       { question: "JNVST में कुल कितने प्रश्न आते हैं?", answer: "JNVST 2027 में कुल 80 प्रश्न आते हैं — मानसिक योग्यता (40), गणित (20), भाषा (20)। कुल 100 अंकों का पेपर होता है।" },
       { question: "JNVST में नेगेटिव मार्किंग होती है?", answer: "नहीं, JNVST में कोई नेगेटिव मार्किंग नहीं होती। गलत जवाब पर अंक नहीं कटते, इसलिए सभी सवाल ज़रूर करें।" },
@@ -6133,28 +5165,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "बच्चे को बोर्डिंग स्कूल भेजने की सही उम्र क्या है?", answer: "11-12 साल की उम्र बोर्डिंग स्कूल भेजने के लिए सबसे अच्छी मानी जाती है। इस उम्र में बच्चा भावनात्मक रूप से काफी मज़बूत हो जाता है।" },
       { question: "बोर्डिंग स्कूल में बच्चे की सुरक्षा कैसे होती है?", answer: "बोर्डिंग स्कूलों में 24 घंटे वार्डन होते हैं, CCTV कैमरे लगे होते हैं, और डॉक्टर की सुविधा होती है। फिर भी, स्कूल चुनने से पहले अच्छे से जांच करें।" },
       { question: "बच्चा बोर्डिंग स्कूल में रोए तो क्या करें?", answer: "शुरू में रोना सामान्य है। 2-3 हफ्ते में बच्चा एडजस्ट कर लेता है। स्कूल से बात करें, बच्चे से रोज़ फोन पर बात करें, और धीरज रखें।" },
@@ -6267,28 +5277,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "विद्याज्ञान स्कूल में एडमिशन के लिए आय सीमा क्या है?", answer: "विद्याज्ञान स्कूल में एडमिशन के लिए परिवार की वार्षिक आय ₹1,00,000 (1 लाख) से कम होनी चाहिए।" },
       { question: "विद्याज्ञान स्कूल कहां है?", answer: "विद्याज्ञान के दो स्कूल हैं — एक सीतापुर (UP) में और एक बुलंदशहर (UP) में। दोनों ग्रामीण क्षेत्रों के बच्चों के लिए हैं।" },
       { question: "विद्याज्ञान स्कूल में कितनी फीस लगती है?", answer: "विद्याज्ञान स्कूल पूरी तरह फ्री है। शिक्षा, हॉस्टल, खाना, किताबें — सब कुछ फ्री मिलता है।" },
@@ -6422,28 +5410,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "JNVST 2027 का फॉर्म कब से भर सकते हैं?", answer: "7 जुलाई 2026 से ऑनलाइन आवेदन शुरू हो गए हैं। आखिरी तारीख 31 जुलाई 2026 है।" },
       { question: "नवोदय का फॉर्म भरने में कितनी फीस लगती है?", answer: "बिल्कुल फ्री है। कोई रजिस्ट्रेशन फीस, एग्जाम फीस या प्रोसेसिंग फीस नहीं है। किसी भी श्रेणी के लिए।" },
       { question: "JNVST 2027 का एग्जाम कब है?", answer: "28 नवंबर 2026 (शनिवार) को। पिछले सालों से अलग — पहले जनवरी-फरवरी में होता था।" },
@@ -6519,28 +5485,6 @@ export const hindiArticles: HindiArticle[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में हम यही सिखाते हैं</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में बच्चों को सिर्फ पढ़ना नहीं, <strong>सही तरीके से पढ़ना</strong> सिखाते हैं। Active Recall और Spaced Repetition हमारी टीचिंग का हिस्सा है। कॉल करें: <strong>+91 9412137554</strong></p></div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "Active Recall क्या है?", answer: "Active Recall में आप किताब बंद करके खुद से पूछते हैं कि क्या याद है। जो नहीं याद, वो दोबारा पढ़ते हैं। ये रटने से 3 गुना ज्यादा असरदार है।" },
       { question: "Spaced Repetition कैसे करें?", answer: "पहले दिन पढ़ो, अगले दिन रिवीजन, फिर 3 दिन बाद, फिर 7 दिन बाद, फिर 30 दिन बाद। हर बार गैप बढ़ाओ।" },
       { question: "क्या ये तरीका छोटे बच्चों के लिए भी है?", answer: "हाँ, कक्षा 4-5 के बच्चे भी इसे अपना सकते हैं। बस तरीका थोड़ा आसान रखें — मौखिक तौर पर पूछें, लिखवाने की जरूरत नहीं।" },
@@ -6607,28 +5551,6 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "करेंट अफेयर्स कैसे याद रखें?", answer: "रोज 5 मिनट पढ़ें, हफ्ते में एक बार रिवीजन करें, और महीने में एक बार सारी खबरों की लिस्ट बनाएं। ये Active Recall + Spaced Repetition का तरीका है।" },
       { question: "JNVST में करेंट अफेयर्स से कितने सवाल आते हैं?", answer: "JNVST में सीधे करेंट अफेयर्स के सवाल नहीं आते, लेकिन Mental Ability और Language सेक्शन में जनरल अवेयरनेस के कॉन्सेप्ट आते हैं। Sainik School और AMU में सीधे GK पूछा जाता है।" },
       { question: "NEET 2027 कब होगा?", answer: "NEET 2027 की तारीख अभी घोषित नहीं हुई है, लेकिन ये कंप्यूटर-बेस्ड टेस्ट (CBT) मोड में होगा। 2026 में हुई पेपर लीक की घटना के बाद ये फैसला लिया गया।" },
@@ -6694,28 +5616,6 @@ export const hindiArticles: HindiArticle[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में इंग्लिश की खास क्लास</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में हिंदी मीडियम के बच्चों के लिए अलग से इंग्लिश क्लास चलती है। बेसिक से शुरू करके एंट्रेंस लेवल तक ले जाते हैं। कॉल करें: <strong>+91 9412137554</strong></p></div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "हिंदी मीडियम का बच्चा नवोदय निकाल सकता है?", answer: "बिल्कुल। JNVST में इंग्लिश का सेक्शन बेसिक लेवल का होता है। सही तरीके से तैयारी करें तो हिंदी मीडियम के बच्चे भी आसानी से निकाल लेते हैं।" },
       { question: "इंग्लिश कितने दिन में अच्छी हो जाएगी?", answer: "रोज 30 मिनट प्रैक्टिस करें तो 2-3 महीने में बेसिक इंग्लिश अच्छी हो जाएगी। 6 महीने में एंट्रेंस लेवल तक पहुंच सकते हैं।" },
       { question: "क्या इंग्लिश के बिना एग्जाम निकल सकता है?", answer: "JNVST में इंग्लिश सिर्फ 25 नंबर का है। बाकी 75 नंबर Mental Ability और Math के हैं। अगर बाकी सेक्शन मजबूत हैं तो इंग्लिश में औसत स्कोर भी काफी है।" },
@@ -6790,28 +5690,6 @@ export const hindiArticles: HindiArticle[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में प्राइमरी एजुकेशन</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में नर्सरी से कक्षा 5 तक के बच्चों को खेल-खेल में सिखाया जाता है। हमारा मानना है कि छोटी उम्र में रटना नहीं, <strong>समझना</strong> जरूरी है। कॉल करें: <strong>+91 9412137554</strong></p></div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "बच्चे को स्कूल कब भेजें?", answer: "3-4 साल की उम्र में नर्सरी में भेज सकते हैं। लेकिन बच्चा मानसिक रूप से तैयार हो — ये ज्यादा जरूरी है।" },
       { question: "A, B, C कब सिखाएं?", answer: "4-5 साल की उम्र में शुरू कर सकते हैं, लेकिन जबरदस्ती नहीं। खेल-खेल में सिखाएं। अगर बच्चा रुचि नहीं दिखा रहा तो 6 महीने रुकें।" },
       { question: "क्या मोबाइल पर एजुकेशनल वीडियो दिखाएं?", answer: "15-20 मिनट से ज्यादा नहीं। स्क्रीन टाइम बच्चे की ध्यान क्षमता कम करता है। असली दुनिया का अनुभव ज्यादा जरूरी है।" },
@@ -6890,28 +5768,6 @@ export const hindiArticles: HindiArticle[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS में काउंसलिंग सपोर्ट</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में बच्चों के लिए रेगुलर काउंसलिंग सेशन होते हैं। अगर आपका बच्चा एग्जाम स्ट्रेस से जूझ रहा है, तो हमसे बात करें। कॉल करें: <strong>+91 9412137554</strong></p></div>
 `,
     faqs: [
-
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern — पूरी जानकारी</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-<a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
-</a>
-</div>
-
       { question: "एग्जाम एंजायटी क्या है?", answer: "एग्जाम एंजायटी में बच्चा एग्जाम से पहले घबरा जाता है, पेट में दर्द होता है, नींद नहीं आती, और 'मैं फेल हो जाऊंगा' सोचता रहता है। ये हर 3 में से 1 बच्चे में होता है।" },
       { question: "क्या एग्जाम एंजायटी नॉर्मल है?", answer: "हाँ, थोड़ी बहुत एंजायटी नॉर्मल है। लेकिन अगर बच्चा रोज रो रहा है, खाना नहीं खा रहा, या स्कूल नहीं जाना चाहता, तो काउंसलर से बात करें।" },
       { question: "बच्चे को एग्जाम से पहले क्या खिलाएं?", answer: "हल्का और पौष्टिक खाना दें — पराठा, दूध, केला, ड्राई फ्रूट्स। भारी खाना और जंक फूड न दें।" },
@@ -8007,7 +6863,6 @@ export const hindiArticles: HindiArticle[] = [
     slug: "current-affairs-august-2026-weekly-gk-school-students",
     title: "अगस्त 2026 करेंट अफेयर्स — स्कूल स्टूडेंट्स के लिए वीकली GK अपडेट",
     description: "August 2026 Current Affairs — स्कूल असेंबली, परीक्षा और GK के लिए जरूरी राष्ट्रीय-अंतर्राष्ट्रीय खबरें, विज्ञान, खेल, और महत्वपूर्ण दिवस।",
-    imageAlt: "August 2026 Current Affairs weekly GK update for school students - national sports day independence day",
     keywords: "August 2026 Current Affairs Weekly GK Update, School assembly current affairs August 2026, Weekly GK news for school students, August 2026 important days and national events",
     date: "25 जुलाई 2026, शाम 5 बजे",
     modifiedDate: "25 जुलाई 2026, शाम 5 बजे",
@@ -9220,7 +8075,6 @@ export const hindiArticles: HindiArticle[] = [
     title: "JNVST 2027 New District Boundary Rule: गलत डिस्ट्रिक्ट से फॉर्म भरा तो एडमिशन कैंसिल!",
     description: "JNVST 2027 New District Boundary Rule — गलत district से form भरा तो admission cancel हो सकता है। जानें NVS का नया नियम और document verification process।",
     keywords: "JNVST 2027 New District Boundary Rule, Navodaya Class 6 admission district eligibility rule, JNVST 2027 resident certificate verification, Navodaya form reject due to wrong district",
-    imageAlt: "JNVST 2027 New District Boundary Rule - Navodaya admission district eligibility resident certificate verification",
     date: "25 जुलाई 2026, रात 9 बजे",
     modifiedDate: "25 जुलाई 2026, रात 9 बजे",
     author: "Najma",
@@ -9971,749 +8825,217 @@ export const hindiArticles: HindiArticle[] = [
   {
     slug: "jnvst-2027-deadline-miss-academic-strategy",
     title: "JNVST 2027 Deadline Miss Hui Toh Kya Option Hai? — Academic Year Save Karne Ki Strategy",
-    description: "JNVST 2027 की deadline miss हो गई? चिंता मत करो। ये 5 alternative options हैं जो बच्चे का academic year save कर सकते हैं।",
-    keywords: "JNVST 2027 deadline miss, Navodaya form last date passed, alternative schools after JNVST miss, academic year save strategy",
+    description: "JNVST 2027 की deadline miss हो गई? 5 alternative options जो बच्चे का academic year save कर सकते हैं।",
+    keywords: "JNVST 2027 deadline miss, Navodaya form last date passed, alternative schools after JNVST miss",
     date: "29 जुलाई 2026, दोपहर 2 बजे",
     modifiedDate: "29 जुलाई 2026, दोपहर 2 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
     authorRole: "Principal & Academic Expert, JGPS",
-    authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams like Sainik School, JNVST, and AMU.",
+    authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams.",
     readTime: "6 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-deadline-miss-academic-strategy.webp",
     imageAlt: "JNVST 2027 deadline miss - academic year save strategy alternative options",
-    content: `<div class="bg-orange-50 border-l-4 border-orange-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Summary:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>JNVST 2027 Last Date:</strong> 31 July 2026</li>
-<li><strong>Deadline miss हुई?</strong> घबराएं नहीं — 5 alternative options हैं</li>
-<li><strong>Sainik School:</strong> AISSEE 2027 form सितंबर-अक्टूबर में आएगा</li>
-<li><strong>AMU/JMI:</strong> Forms नवंबर-दिसंबर में आते हैं</li>
-<li><strong>Academic year waste नहीं होगा</strong> — सही strategy से</li>
-</ul>
-</div>
-
-<p><strong>JNVST 2027 Deadline Miss Hui?</strong> अगर आपने 31 जुलाई 2026 तक Navodaya Class 6 admission form नहीं भरा है, तो घबराएं नहीं। Academic year waste नहीं होगा। इस article में मैं आपको 5 alternative options बताऊंगा जो बच्चे का भविष्य secure कर सकते हैं।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Option 1: Sainik School (AISSEE 2027)</h2>
-<p>Sainik School का form सितंबर-अक्टूबर 2026 में आने की संभावना है। अगर JNVST का form miss हो गया है, तो Sainik School का form भरें।</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Form Expected:</strong> September-October 2026</li>
-<li><strong>Exam Expected:</strong> January 2027</li>
-<li><strong>Website:</strong> exams.nta.ac.in</li>
-</ul>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Option 2: AMU/JMI Entrance 2027</h2>
-<p>Aligarh Muslim University (AMU) और Jamia Millia Islamia (JMI) दोनों Class 6 entrance exam conduct करते हैं।</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>AMU Form:</strong> November-December 2026 (expected)</li>
-<li><strong>JMI Form:</strong> November-December 2026 (expected)</li>
-<li><strong>Exam:</strong> February-March 2027</li>
-</ul>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Option 3: Rashtriya Military School (RMS)</h2>
-<p>RMS भी Class 6 entrance exam conduct करता है। Form नवंबर-दिसंबर में आता है।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Option 4: Vidyagyan School (UP Students)</h2>
-<p>अगर आप उत्तर प्रदेश के ग्रामीण क्षेत्र से हैं, तो Vidyagyan School एक बेहतरीन option है। ये completely free है।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Option 5: Next Year JNVST 2028</h2>
-<p>अगर कोई option काम नहीं आया, तो अगले साल JNVST 2028 के लिए तैयारी करें। बच्चा अभी Class 5 में है — अभी भी time है।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School AISSEE 2027</h3>
-<p class="text-gray-600 text-xs">Notification date और eligibility</p>
-</a>
-<a href="/hi/blog/amu-class-6-entrance-2027-important-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AMU Class 6 Important Questions</h3>
-<p class="text-gray-600 text-xs">30+ questions with answers</p>
-</a>
-<a href="/hi/blog/jmi-class-6-entrance-2027-preparation-tips/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JMI Class 6 Preparation</h3>
-<p class="text-gray-600 text-xs">Preparation tips और syllabus</p>
-</a>
-<a href="/hi/blog/vidyagyan-school-admission-2027-last-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Vidyagyan School Admission</h3>
-<p class="text-gray-600 text-xs">UP students के लिए free education</p>
-</a>
-</div>
-
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Alternative options चाहिए?</h3><p><strong>JGPS School</strong> में Rifaul Hasan से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
-`,
+    content: `<p><strong>JNVST 2027 Deadline Miss?</strong> घबराएं नहीं। Sainik School (AISSEE 2027), AMU, JMI, RMS, या Vidyagyan School का form भरें। Academic year waste नहीं होगा।</p><h2>Alternative Options</h2><ul><li>Sainik School — September-October 2026</li><li>AMU/JMI — November-December 2026</li><li>RMS — November-December 2026</li><li>Vidyagyan — UP students के लिए</li><li>JNVST 2028 — Next year</li></ul><div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Alternative options चाहिए?</h3><p><strong>JGPS School</strong> में Rifaul Hasan से guidance लें। Call: <strong>+91 9412137554</strong></p></div>`,
     faqs: [
-      { question: "JNVST 2027 की deadline miss हो गई तो क्या करें?", answer: "Sainik School (AISSEE 2027), AMU, JMI, RMS, या Vidyagyan School का form भरें। Academic year waste नहीं होगा।" },
-      { question: "Sainik School का form कब आएगा?", answer: "सितंबर-अक्टूबर 2026 में expected है। exams.nta.ac.in पर notification जारी होगा।" },
-      { question: "AMU/JMI का form कब आएगा?", answer: "नवंबर-दिसंबर 2026 में expected है। Exam फरवरी-मार्च 2027 में होगा।" },
-      { question: "क्या अगले साल JNVST 2028 दे सकते हैं?", answer: "हां, अगर बच्चा अभी Class 5 में है और उम्र सीमा में है, तो अगले साल JNVST 2028 दे सकते हैं।" }
+      { question: "JNVST 2027 deadline miss हो गई तो क्या करें?", answer: "Sainik School, AMU, JMI, RMS, या Vidyagyan School का form भरें।" },
+      { question: "Sainik School का form कब आएगा?", answer: "सितंबर-अक्टूबर 2026 में expected है।" },
+      { question: "AMU/JMI का form कब आएगा?", answer: "नवंबर-दिसंबर 2026 में expected है।" },
+      { question: "क्या अगले साल JNVST 2028 दे सकते हैं?", answer: "हां, अगर बच्चा उम्र सीमा में है।" }
     ]
   },
   {
     slug: "jnvst-2027-registration-last-48-hours-server-fix",
     title: "JNVST 2027 Registration Last 48 Hours: Portal Error & Final Payment Solution",
-    description: "JNVST 2027 registration last 48 hours — portal error, server down, payment fail solutions। 31 July deadline से पहले form भरने की complete guide।",
-    keywords: "JNVST 2027 registration last 48 hours, Navodaya portal error fix, JNVST form payment fail solution, server down last date",
+    description: "JNVST 2027 registration last 48 hours — portal error, server down, payment fail solutions।",
+    keywords: "JNVST 2027 registration last 48 hours, Navodaya portal error fix, server down last date",
     date: "29 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
     authorRole: "Entrance Exam Specialist",
-    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं। 90% success rate के साथ coaching देते हैं।",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
     readTime: "5 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-registration-last-48-hours-server-fix.webp",
     imageAlt: "JNVST 2027 registration last 48 hours - portal error server fix payment solution",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-1">⚠️ Last 48 Hours Alert:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Last Date:</strong> 31 July 2026 — सिर्फ 2 दिन बाकी</li>
-<li><strong>Portal:</strong> cbseitms.rcil.gov.in</li>
-<li><strong>Server Status:</strong> Heavy traffic expected — slow loading possible</li>
-<li><strong>Payment Issue?</strong> 30 minute wait करें, फिर retry करें</li>
-</ul>
-</div>
-
-<p><strong>JNVST 2027 Registration Last 48 Hours</strong> — अगर आपने अभी तक form नहीं भरा है, तो अब तुरंत भरें। 31 जुलाई 2026 के बाद portal बंद हो जाएगा और फिर form नहीं भर पाएंगे।</p>
-
-<p>Last 48 hours में portal पर heavy traffic आता है — server slow हो सकता है, payment fail हो सकती है, OTP नहीं आ सकता। ये सब normal है। घबराएं नहीं — ये solutions try करें।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Server Down / Slow Loading Solutions</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Solution 1: Non-Peak Hours में try करें</strong></p>
-<p>सुबह 6-7 AM या रात 10 PM बाद — server load सबसे कम होता है।</p>
-
-<p><strong>Solution 2: Direct Link Use करें</strong></p>
-<p>navodaya.gov.in की जगह सीधे <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a> पर जाएं।</p>
-
-<p><strong>Solution 3: Browser Cache Clear करें</strong></p>
-<p>Chrome → Settings → Clear Browsing Data → Cached Images → Clear Data।</p>
-
-<p><strong>Solution 4: Mobile Data Use करें</strong></p>
-<p>WiFi से try करें, अगर काम नहीं करे तो mobile data से try करें।</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Payment Fail Solutions</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Problem:</strong> Payment gateway error / Payment fail / Amount deducted but form not submitted</p>
-
-<p><strong>Solution:</strong></p>
-<ul class="list-decimal pl-5 space-y-2">
-<li><strong>30 minute wait करें</strong> — Automatic refund हो सकता है</li>
-<li><strong>Different payment method try करें</strong> — UPI / Net Banking / Card</li>
-<li><strong>Same Registration Number से login करें</strong> — Payment status check करें</li>
-<li><strong>Payment successful but form pending?</strong> — Same number से login करके form complete करें</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">OTP Not Coming Solutions</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<ul class="list-decimal pl-5 space-y-2">
-<li><strong>Resend OTP</strong> click करें — 2-3 बार try करें</li>
-<li><strong>5 minute wait करें</strong> — SMS delay हो सकता है</li>
-<li><strong>Different mobile number try करें</strong> — अगर possible है</li>
-<li><strong>Do Not Disturb (DND) check करें</strong> — DND activate है तो OTP block हो सकता है</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Photo/Signature Upload Fail</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<ul class="list-decimal pl-5 space-y-2">
-<li><strong>Photo size check करें</strong> — 10-100 KB, JPG format</li>
-<li><strong>Signature size check करें</strong> — 10-50 KB, JPG format</li>
-<li><strong>iloveimg.com</strong> पर resize करें</li>
-<li><strong>White background</strong> use करें</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-registration-2027-server-down-navodaya-portal/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Server Down Solutions</h3>
-<p class="text-gray-600 text-xs">Portal error fixes</p>
-</a>
-<a href="/hi/blog/jnvst-registration-2027-last-date-extend-hogi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Last Date Extend Hogi?</h3>
-<p class="text-gray-600 text-xs">Extension analysis</p>
-</a>
-<a href="/hi/blog/jnvst-2027-form-correction-window-edit-details/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Correction Window</h3>
-<p class="text-gray-600 text-xs">Form edit details</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-</div>
-
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Form भरने में help चाहिए?</h3><p><strong>JGPS School</strong> में Amit Kumar से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
-`,
+    content: `<p><strong>Last 48 Hours Alert:</strong> 31 July 2026 — सिर्फ 2 दिन बाकी। Portal error, server down, payment fail — सब solutions यहां हैं।</p><h2>Server Down Solutions</h2><ul><li>Non-Peak Hours में try करें (सुबह 6-7 AM)</li><li>Direct Link: cbseitms.rcil.gov.in</li><li>Browser Cache Clear करें</li><li>Mobile Data Use करें</li></ul><h2>Payment Fail Solutions</h2><ul><li>30 minute wait करें</li><li>Different payment method try करें</li></ul><div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Form भरने में help चाहिए?</h3><p><strong>JGPS School</strong> में Amit Kumar से guidance लें। Call: <strong>+91 9412137554</strong></p></div>`,
     faqs: [
-      { question: "JNVST 2027 form last date क्या है?", answer: "31 जुलाई 2026। इसके बाद portal बंद हो जाएगा।" },
-      { question: "Server down है तो क्या करें?", answer: "सुबह 6-7 AM या रात 10 PM बाद try करें। Browser cache clear करें।" },
+      { question: "Server down है तो क्या करें?", answer: "सुबह 6-7 AM या रात 10 PM बाद try करें।" },
       { question: "Payment fail हो गई तो?", answer: "30 minute wait करें। Different payment method try करें।" },
-      { question: "Last date बढ़ेगी?", answer: "Previous year trends के आधार पर 70% chance है। लेकिन confirmation नहीं है — आज ही form भरें।" }
+      { question: "Last date बढ़ेगी?", answer: "70% chance है। लेकिन confirmation नहीं है।" },
+      { question: "OTP नहीं आ रहा?", answer: "Resend OTP click करें, 5 minute wait करें।" }
     ]
   },
   {
     slug: "jnvst-2027-headmaster-certificate-verification-check",
-    title: "JNVST 2027 Headmaster Certificate Rejected? Form Submit Se Pehle Ye Double-Check Karein",
-    description: "JNVST 2027 Headmaster certificate verification — principal signature, district stamp, school code validation errors se kaise bachein।",
-    keywords: "JNVST 2027 headmaster certificate rejected, Navodaya form verification check, headmaster study certificate format, school stamp validation",
+    title: "JNVST 2027 Headmaster Certificate Rejected? Form Submit Se Pehle Double-Check Karein",
+    description: "JNVST 2027 Headmaster certificate verification — principal signature, district stamp validation errors se kaise bachein।",
+    keywords: "JNVST 2027 headmaster certificate rejected, Navodaya form verification check",
     date: "29 जुलाई 2026, दोपहर 3 बजे",
     modifiedDate: "29 जुलाई 2026, दोपहर 3 बजे",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
     authorRole: "Navodaya & JNVST Coach",
-    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं। 7+ साल के experience के साथ 85% success rate है।",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
     readTime: "6 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-headmaster-certificate-verification-check.webp",
     imageAlt: "JNVST 2027 headmaster certificate verification - principal signature district stamp validation",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-1">⚠️ Last 48 Hours — Certificate Verification Alert:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Headmaster Certificate</strong> — Principal का signature और school stamp ज़रूरी</li>
-<li><strong>District Name</strong> — Certificate पर district name Aadhaar से match होना चाहिए</li>
-<li><strong>School Code</strong> — UDISE code सही होना चाहिए</li>
-<li><strong>Class 5 Study Certificate</strong> — बच्चा उसी school में Class 5 पढ़ रहा है</li>
-</ul>
-</div>
-
-<p><strong>JNVST 2027 Headmaster Certificate Verification</strong> — हर साल कई students का form reject होता है सिर्फ इसलिए कि Headmaster Certificate में कोई error है। Principal का signature missing, school stamp unclear, district name mismatch — ये सब common errors हैं।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Headmaster Certificate में क्या-क्या होना चाहिए?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Field</th><th class="py-3 px-4 border-b font-bold text-white text-left">Required</th><th class="py-3 px-4 border-b font-bold text-white text-left">Common Error</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Student Name</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">Spelling mismatch</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Father's Name</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">Short form vs full name</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Date of Birth</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">DD/MM/YYYY format</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Class & Section</td><td class="py-3 px-4 border-b">Class 5, current year</td><td class="py-3 px-4 border-b">Old certificate use</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School Name</td><td class="py-3 px-4 border-b">Full official name</td><td class="py-3 px-4 border-b">Short name use</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">UDISE Code</td><td class="py-3 px-4 border-b">11-digit code</td><td class="py-3 px-4 border-b">Wrong code</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">District Name</td><td class="py-3 px-4 border-b">Aadhaar district से match</td><td class="py-3 px-4 border-b">Different district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Principal Signature</td><td class="py-3 px-4 border-b">Original signature</td><td class="py-3 px-4 border-b">Missing or stamp only</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">School Stamp</td><td class="py-3 px-4">Clear, readable stamp</td><td class="py-3 px-4">Unclear or missing</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Common Errors That Cause Rejection</h2>
-<div class="bg-red-50 border-2 border-red-500 rounded-xl p-6 my-6">
-<ul class="list-decimal pl-6 space-y-3">
-<li><strong>Name Spelling Mismatch</strong> — Certificate पर "Mohammad" और Aadhaar पर "Muhammad"</li>
-<li><strong>DOB Format Error</strong> — DD/MM/YYYY format में होना चाहिए</li>
-<li><strong>Missing Principal Signature</strong> — सिर्फ stamp है, signature नहीं</li>
-<li><strong>District Mismatch</strong> — Certificate पर गलत district लिखा है</li>
-<li><strong>Old Certificate</strong> — पिछले साल का certificate use किया है</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Form Submit से पहले Double-Check Checklist</h2>
-<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
-<ul class="list-decimal pl-6 space-y-3">
-<li><strong>नाम check करें</strong> — Certificate पर नाम = Aadhaar पर नाम</li>
-<li><strong>DOB check करें</strong> — Certificate पर DOB = Aadhaar पर DOB</li>
-<li><strong>District check करें</strong> — Certificate पर district = Aadhaar पर district</li>
-<li><strong>Signature check करें</strong> — Principal का original signature है</li>
-<li><strong>Stamp check करें</strong> — School stamp clear और readable है</li>
-<li><strong>UDISE Code check करें</strong> — 11-digit code सही है</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-form-correction-window-edit-details/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Correction Window</h3>
-<p class="text-gray-600 text-xs">Form edit details</p>
-</a>
-<a href="/hi/blog/jnvst-2027-new-district-rule-explained/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">District Rule</h3>
-<p class="text-gray-600 text-xs">New district boundary rule</p>
-</a>
-<a href="/hi/blog/jnvst-registration-2027-server-down-navodaya-portal/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Server Down Solutions</h3>
-<p class="text-gray-600 text-xs">Portal error fixes</p>
-</a>
-<a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
-</a>
-</div>
-
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Certificate verification में help चाहिए?</h3><p><strong>JGPS School</strong> में Coach Najma से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
-`,
+    content: `<p><strong>Headmaster Certificate Verification</strong> — हर साल कई students का form reject होता है। Principal signature, school stamp, district name — सब check करें।</p><h2>Common Errors</h2><ul><li>Name Spelling Mismatch</li><li>Missing Principal Signature</li><li>District Mismatch</li><li>Old Certificate</li></ul><div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Certificate verification में help चाहिए?</h3><p><strong>JGPS School</strong> में Coach Najma से guidance लें। Call: <strong>+91 9412137554</strong></p></div>`,
     faqs: [
-      { question: "Headmaster Certificate में क्या-क्या चाहिए?", answer: "Student name, father name, DOB, class, school name, UDISE code, district, principal signature, school stamp — सब Aadhaar से match होना चाहिए।" },
-      { question: "Certificate reject हो गया तो क्या करें?", answer: "Correction window में नया certificate upload करें। Headmaster से बात करके सही certificate बनवाएं।" },
-      { question: "क्या digital signature वाला certificate चलेगा?", answer: "हां, अगर digital signature valid है और school stamp भी है।" },
-      { question: "UDISE code कहां से मिलेगा?", answer: "School office से पूछें। या udiseplus.gov.in पर school name search करें।" }
+      { question: "Headmaster Certificate में क्या-क्या चाहिए?", answer: "Student name, father name, DOB, class, school name, UDISE code, district, principal signature, school stamp।" },
+      { question: "Certificate reject हो गया तो क्या करें?", answer: "Correction window में नया certificate upload करें।" },
+      { question: "UDISE code कहां से मिलेगा?", answer: "School office से पूछें। या udiseplus.gov.in पर search करें।" },
+      { question: "क्या digital signature वाला certificate चलेगा?", answer: "हां, अगर digital signature valid है।" }
     ]
   },
   {
     slug: "last-minute-form-panic-parenting-guide",
-    title: "Form Deadline Panic: Parents Ke Darr Ka Bacchon Par Asar Aur Sahi Behavioral Approach",
-    description: "Last minute form panic — parents की anxiety बच्चों पर कैसे affect करती है और सही behavioral approach क्या है।",
-    keywords: "last minute form panic parenting, parent anxiety child effect, JNVST deadline stress management, form deadline parenting guide",
+    title: "Form Deadline Panic: Parents Ke Darr Ka Bacchon Par Asar",
+    description: "Last minute form panic — parents की anxiety बच्चों पर कैसे affect करती है।",
+    keywords: "last minute form panic parenting, parent anxiety child effect",
     date: "29 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
     authorRole: "Student Counselor",
-    authorBio: "Priya Verma child psychology और mental well-being में specialist हैं। Students को exam stress manage करने में मदद करती हैं।",
+    authorBio: "Priya Verma child psychology में specialist हैं।",
     readTime: "6 मिनट",
     category: "पेरेंटिंग और काउंसलिंग",
     image: "https://img.jgps.in/blog/last-minute-form-panic-parenting-guide.webp",
-    imageAlt: "Last minute form panic parenting guide - parent anxiety child effect behavioral approach",
-    content: `<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Takeaways:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Parent anxiety</strong> बच्चों पर directly affect करती है</li>
-<li><strong>"जल्दी करो!"</strong> चिल्लाने से बच्चा और slow हो जाता है</li>
-<li><strong>Calm approach</strong> से बच्चा better perform करता है</li>
-<li><strong>Form deadline stress</strong> temporary है — इसे manage करना सीखें</li>
-</ul>
-</div>
-
-<p><strong>Form Deadline Panic</strong> — अगर आप JNVST 2027 का form भरने में late हो गए हैं या server problems आ रहे हैं, तो आपकी anxiety बच्चे पर directly affect करती है। बच्चा आपकी tension देखता है और खुद भी紧张 हो जाता है।</p>
-
-<p>ये article आपको बताएगा कि <strong>deadline panic में कैसे calm रहें</strong> और बच्चे को कैसे support करें।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Parent Anxiety बच्चों पर कैसे Affect करती है?</h2>
-<div class="bg-gray-50 rounded-xl p-5 my-4">
-<ul class="list-disc pl-5 space-y-2">
-<li><strong>बच्चा紧张 हो जाता है</strong> — "मम्मी/पापा परेशान हैं, मतलब कुछ गलत है"</li>
-<li><strong>बच्चा focus खो देता है</strong> — Form भरते समय गलती करता है</li>
-<li><strong>बच्चा confidence खो देता है</strong> — "मैं कर पाऊंगा?"</li>
-<li><strong>बच्चा physically affect होता है</strong> — Pet dard, headache, neend nahi aati</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Calm Approach: 5 Steps</h2>
-<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
-<ul class="list-decimal pl-6 space-y-3">
-<li><strong>खुद calm रहें</strong> — Deep breath लें, panic मत करें</li>
-<li><strong>बच्चे से positive बात करें</strong> — "हम कर लेंगे, चिंता मत करो"</li>
-<li><strong>Step-by-step approach</strong> — एक बार में एक ही काम करें</li>
-<li><strong>बच्चे को involve करें</strong> — "तुम ये check करो, मैं ये करता हूं"</li>
-<li><strong>Success celebrate करें</strong> — Form submit हो जाए तो "बहुत बढ़िया!" कहें</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/bacche-ko-boarding-school-mein-adjust-kaise-karayein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Boarding School Adjustment</h3>
-<p class="text-gray-600 text-xs">बच्चे को hostel life के लिए तैयार करें</p>
-</a>
-<a href="/hi/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Exam Stress कम करें</h3>
-<p class="text-gray-600 text-xs">बच्चे का stress handle करें</p>
-</a>
-<a href="/hi/blog/entrance-exam-me-bachcha-fail-ho-gaya-ab-kya-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Exam में Fail हो गया</h3>
-<p class="text-gray-600 text-xs">5 alternative options</p>
-</a>
-<a href="/hi/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">पहली कक्षा से पहले</h3>
-<p class="text-gray-600 text-xs">बच्चे को क्या सिखाएं</p>
-</a>
-</div>
-`,
+    imageAlt: "Last minute form panic parenting guide - parent anxiety child effect",
+    content: `<p><strong>Parent Anxiety</strong> बच्चों पर directly affect करती है। "जल्दी करो!" चिल्लाने से बच्चा और slow हो जाता है।</p><h2>Calm Approach: 5 Steps</h2><ul><li>खुद calm रहें</li><li>बच्चे से positive बात करें</li><li>Step-by-step approach</li><li>बच्चे को involve करें</li><li>Success celebrate करें</li></ul>`,
     faqs: [
-      { question: "Parent anxiety बच्चे को कैसे affect करती है?", answer: "बच्चा紧张 हो जाता है, focus खो देता है, और physically भी affect होता है (pet dard, headache)।" },
-      { question: "Form deadline panic में क्या करें?", answer: "Deep breath लें, calm रहें, step-by-step approach use करें। बच्चे से positive बात करें।" },
-      { question: "बच्चा form भरते समय nervous है?", answer: "बच्चे को reassure करें: 'हम साथ हैं, मिलकर करते हैं।' Pressure मत डालें।" },
-      { question: "Deadline miss हो गई तो बच्चे को कैसे बताएं?", answer: "Honest रहें लेकिन positive रहें: 'कोई बात नहीं, और भी options हैं।'" }
+      { question: "Parent anxiety बच्चे को कैसे affect करती है?", answer: "बच्चा紧张 हो जाता है, focus खो देता है।" },
+      { question: "Form deadline panic में क्या करें?", answer: "Deep breath लें, calm रहें।" },
+      { question: "बच्चा form भरते समय nervous है?", answer: "बच्चे को reassure करें।" },
+      { question: "Deadline miss हो गई तो बच्चे को कैसे बताएं?", answer: "Honest रहें लेकिन positive रहें।" }
     ]
   },
   {
     slug: "amu-class-6-math-aptitude-preparation-2027",
-    title: "AMU Class 6 Entrance 2027: Math & Numerical Aptitude Ki Zero-Level Se Taiyari",
-    description: "AMU Class 6 Math preparation 2027 — zero level se shuru karein, important topics, shortcuts, aur practice strategy।",
-    keywords: "AMU Class 6 math preparation 2027, AMU entrance numerical aptitude, AMU math important topics, AMU Class 6 math shortcuts",
+    title: "AMU Class 6 Entrance 2027: Math & Numerical Aptitude Preparation",
+    description: "AMU Class 6 Math preparation 2027 — zero level se shuru karein, important topics, shortcuts।",
+    keywords: "AMU Class 6 math preparation 2027, AMU entrance numerical aptitude",
     date: "29 जुलाई 2026, दोपहर 4 बजे",
     modifiedDate: "29 जुलाई 2026, दोपहर 4 बजे",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
     authorRole: "Entrance Exam Coach, JGPS",
-    authorBio: "Sameer JGPS में entrance exam coaching देते हैं। 8+ साल के experience के साथ AMU, JMI की तैयारी कराते हैं।",
+    authorBio: "Sameer JGPS में entrance exam coaching देते हैं।",
     readTime: "8 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/amu-class-6-math-aptitude-preparation-2027.webp",
-    imageAlt: "AMU Class 6 Math aptitude preparation 2027 - zero level se taiyari important topics shortcuts",
-    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Overview:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>AMU Math Weightage:</strong> 25 marks out of 100</li>
-<li><strong>Key Topics:</strong> Number System, Fractions, Percentage, Geometry, Word Problems</li>
-<li><strong>Preparation Time:</strong> 3-4 months (zero level se)</li>
-<li><strong>Daily Practice:</strong> 1 hour Math roz karein</li>
-</ul>
-</div>
-
-<p><strong>AMU Class 6 Math Preparation 2027</strong> — agar aapka baccha Math mein weak hai, toh chinta mat karo. AMU entrance exam mein Math section Class 5 level ka hai. Zero level se bhi 3-4 months mein crack kiya ja sakta hai.</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Math Important Topics</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Difficulty</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Number System</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b">Easy</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Fractions & Decimals</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">Medium</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">Medium</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Geometry</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">Medium</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Word Problems</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">Hard</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Data Interpretation</td><td class="py-3 px-4">2-3</td><td class="py-3 px-4">Medium</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Zero-Level Se Math Preparation Strategy</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Week 1-2:</strong> Tables 1-20 yaad karein, Basic operations (Add, Subtract, Multiply, Divide)</p>
-<p><strong>Week 3-4:</strong> Fractions, Decimals, Place Value</p>
-<p><strong>Week 5-6:</strong> Percentage, Average, Ratio</p>
-<p><strong>Week 7-8:</strong> Geometry (Shapes, Area, Perimeter)</p>
-<p><strong>Week 9-10:</strong> Word Problems practice</p>
-<p><strong>Week 11-12:</strong> Mock Tests + Revision</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Sameer के Math Shortcuts</h2>
-<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
-<p class="font-bold">Percentage Shortcuts:</p>
-<p>25% = 1/4, 50% = 1/2, 75% = 3/4, 10% = 1/10</p>
-<p>Ye 4 values yaad rakho — 80% problems yahi se aati hain.</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/amu-class-6-entrance-2027-important-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AMU Important Questions</h3>
-<p class="text-gray-600 text-xs">30+ questions with answers</p>
-</a>
-<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack</h3>
-<p class="text-gray-600 text-xs">Aamir की English strategy</p>
-</a>
-<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
-<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
-</a>
-<a href="/hi/blog/amu-class-6-syllabus-2027-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AMU Syllabus 2027</h3>
-<p class="text-gray-600 text-xs">पूरा syllabus Hindi में</p>
-</a>
-</div>
-`,
+    imageAlt: "AMU Class 6 Math aptitude preparation 2027 - zero level se taiyari",
+    content: `<p><strong>AMU Math Preparation</strong> — zero level se bhi 3-4 months mein crack kiya ja sakta hai।</p><h2>Important Topics</h2><ul><li>Number System — 5-6 questions</li><li>Fractions — 4-5 questions</li><li>Percentage — 3-4 questions</li><li>Geometry — 3-4 questions</li><li>Word Problems — 4-5 questions</li></ul><h2>Math Shortcuts</h2><p>25% = 1/4, 50% = 1/2, 75% = 3/4</p>`,
     faqs: [
-      { question: "AMU Class 6 Math में कौन से topics सबसे important हैं?", answer: "Number System, Fractions, Percentage, Geometry, और Word Problems — ये 5 topics सबसे ज्यादा questions देते हैं।" },
-      { question: "Zero level se AMU Math crack कर सकते हैं?", answer: "हां, 3-4 months की focused preparation से। Tables याद करो, basics clear करो, और daily practice करो।" },
-      { question: "AMU Math में कितने marks चाहिए?", answer: "25 marks में से 15+ marks लाने चाहिए। Total 100 marks में से 50+ safe score है।" },
-      { question: "Math shortcuts कहां से सीखें?", answer: "R.S. Aggarwal Quantitative Aptitude, YouTube Math channels, और JGPS coaching से।" }
+      { question: "AMU Math में कौन से topics सबसे important हैं?", answer: "Number System, Fractions, Percentage, Geometry, Word Problems।" },
+      { question: "Zero level se AMU Math crack कर सकते हैं?", answer: "हां, 3-4 months की focused preparation से।" },
+      { question: "AMU Math में कितने marks चाहिए?", answer: "25 marks में से 15+ marks लाने चाहिए।" },
+      { question: "Math shortcuts कहां से सीखें?", answer: "R.S. Aggarwal, YouTube, और JGPS coaching से।" }
     ]
   },
   {
     slug: "jmi-class-6-entrance-english-scoring-rules",
     title: "JMI Class 6 Entrance 2027: Passage & Grammar Scoring Rules",
-    description: "JMI Class 6 English scoring rules — passage comprehension, grammar tricks, aur full marks lाने की strategy।",
-    keywords: "JMI Class 6 English scoring rules, JMI entrance passage comprehension, JMI grammar tricks, JMI English full marks strategy",
+    description: "JMI Class 6 English scoring rules — passage comprehension, grammar tricks, full marks strategy।",
+    keywords: "JMI Class 6 English scoring rules, JMI entrance passage comprehension",
     date: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
     author: "Aamir",
     authorName: "Aamir",
     authorSlug: "aamir",
     authorRole: "English & Urdu Language Expert, JGPS",
-    authorBio: "Aamir JGPS में English और Urdu language preparation कराते हैं। AMU, JMI entrance exams के language section में expert हैं।",
+    authorBio: "Aamir JGPS में English और Urdu language preparation कराते हैं।",
     readTime: "7 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jmi-class-6-entrance-english-scoring-rules.webp",
-    imageAlt: "JMI Class 6 Entrance 2027 English scoring rules - passage comprehension grammar tricks full marks strategy",
-    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Scoring Rules:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>English Weightage:</strong> 20 marks out of 100</li>
-<li><strong>Key Areas:</strong> Grammar (10 marks), Passage (6 marks), Vocabulary (4 marks)</li>
-<li><strong>Scoring Target:</strong> 16+ marks (80%+)</li>
-<li><strong>Time Allocation:</strong> 20 minutes for English section</li>
-</ul>
-</div>
-
-<p><strong>JMI Class 6 English Scoring Rules</strong> — English section JMI entrance exam mein sabse scoring section hai. Agar grammar rules yaad hain aur passage comprehension ki practice hai, toh 16+ marks lana easy hai.</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Grammar Scoring Rules</h2>
-<div class="bg-gray-50 rounded-xl p-5 my-4">
-<ul class="list-decimal pl-5 space-y-2">
-<li><strong>Tenses:</strong> Present, Past, Future — teeno ka rules yaad karo</li>
-<li><strong>Articles:</strong> A/An/The — vowel sound pe "An", consonant pe "A"</li>
-<li><strong>Prepositions:</strong> At/In/On — time ke liye "At", jagah ke liye "In", surface ke liye "On"</li>
-<li><strong>Subject-Verb Agreement:</strong> Singular subject + Singular verb</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Passage Comprehension Tips</h2>
-<div class="bg-gray-50 rounded-xl p-5 my-4">
-<ul class="list-decimal pl-5 space-y-2">
-<li><strong>Pehle questions padho</strong> — passage se pehle questions padho</li>
-<li><strong>Keywords underline karo</strong> — passage mein important words mark karo</li>
-<li><strong>Pehla aur aakhri paragraph</strong> — yahan main idea hota hai</li>
-<li><strong>Synonyms se answer dhundho</strong> — question aur passage mein same meaning ke words hote hain</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Vocabulary Scoring Tips</h2>
-<div class="bg-gray-50 rounded-xl p-5 my-4">
-<ul class="list-decimal pl-5 space-y-2">
-<li><strong>Daily 5 new words seekho</strong> — synonyms + antonyms dono</li>
-<li><strong>One-Word Substitution yaad karo</strong> — Bibliophile, Somnambulist, etc.</li>
-<li><strong>Idioms seekho</strong> — Break the ice, A piece of cake, etc.</li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jmi-class-6-entrance-2027-preparation-tips/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JMI Preparation Tips</h3>
-<p class="text-gray-600 text-xs">Complete syllabus breakdown</p>
-</a>
-<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack</h3>
-<p class="text-gray-600 text-xs">Aamir की English strategy</p>
-</a>
-<a href="/hi/blog/english-kamzor-bacche-entrance-exam-kaise-nikale/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">English में कमजोर बच्चे</h3>
-<p class="text-gray-600 text-xs">5 तरीके जो काम करते हैं</p>
-</a>
-<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
-<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
-</a>
-</div>
-`,
+    imageAlt: "JMI Class 6 Entrance 2027 English scoring rules - passage comprehension grammar",
+    content: `<p><strong>JMI English Scoring Rules</strong> — English section sabse scoring section hai। 16+ marks lana easy hai।</p><h2>Grammar Rules</h2><ul><li>Tenses: Present, Past, Future</li><li>Articles: A/An/The</li><li>Prepositions: At/In/On</li></ul><h2>Passage Tips</h2><ul><li>Pehle questions padho</li><li>Keywords underline karo</li><li>Pehla aur aakhri paragraph dhyan se padho</li></ul>`,
     faqs: [
-      { question: "JMI English section में कितने marks चाहिए?", answer: "20 marks में से 16+ marks लाने चाहिए। Grammar rules याद करो और passage practice करो।" },
-      { question: "Passage comprehension कैसे improve करें?", answer: "Pehle questions padho, phir passage padho। Keywords underline karo। Daily 1 passage practice karo।" },
-      { question: "Grammar rules कहां से सीखें?", answer: "Wren & Martin, Norman Lewis, और JGPS coaching से।" },
+      { question: "JMI English section में कितने marks चाहिए?", answer: "20 marks में से 16+ marks लाने चाहिए।" },
+      { question: "Passage comprehension कैसे improve करें?", answer: "Pehle questions padho, phir passage padho।" },
+      { question: "Grammar rules कहां से सीखें?", answer: "Wren & Martin, Norman Lewis।" },
       { question: "JMI English में negative marking है?", answer: "नहीं, JMI entrance में negative marking नहीं है।" }
     ]
   },
   {
     slug: "class-5-school-syllabus-entrance-prep-balance",
-    title: "Class 5th Running Students Ko Entrance Test Aur School Syllabus Mein Balance Kaise Karayein?",
-    description: "Class 5 students ke liye entrance exam preparation aur school syllabus balance karne ki complete strategy।",
-    keywords: "Class 5 entrance exam school balance, entrance prep school syllabus balance, Class 5 study time management, school exam entrance exam balance",
+    title: "Class 5 Students: Entrance Test Aur School Syllabus Mein Balance Kaise Karein?",
+    description: "Class 5 students ke liye entrance exam preparation aur school syllabus balance karne ki strategy।",
+    keywords: "Class 5 entrance exam school balance, entrance prep school syllabus balance",
     date: "29 जुलाई 2026, शाम 5 बजे",
     modifiedDate: "29 जुलाई 2026, शाम 5 बजे",
     author: "Nisha",
     authorName: "Nisha",
     authorSlug: "nisha",
     authorRole: "Primary Education Expert, JGPS",
-    authorBio: "Nisha JGPS में primary education specialist हैं। Class 1-5 तक के बच्चों को पढ़ाने और parents को guide करने में expert हैं।",
+    authorBio: "Nisha JGPS में primary education specialist हैं।",
     readTime: "6 मिनट",
     category: "पेरेंटिंग और शिक्षा",
     image: "https://img.jgps.in/blog/class-5-school-syllabus-entrance-prep-balance.webp",
-    imageAlt: "Class 5 school syllabus entrance exam preparation balance - study time management strategy",
-    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Balance Strategy:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>School Homework:</strong> 2 hours daily</li>
-<li><strong>Entrance Prep:</strong> 1.5-2 hours daily</li>
-<li><strong>Total Study:</strong> 3.5-4 hours daily (school ke baad)</li>
-<li><strong>Weekend:</strong> Extra 2 hours entrance prep</li>
-</ul>
-</div>
-
-<p><strong>Class 5 School Syllabus vs Entrance Prep Balance</strong> — ye bahut common problem hai. Baccha school mein Class 5 padh raha hai, lekin entrance exam bhi dena hai. Dono ko kaise balance karein?</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily Time Table for Class 5 Students</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 - 5:00 PM</td><td class="py-3 px-4 border-b">School Homework</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:15 PM</td><td class="py-3 px-4 border-b">Break + Snack</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:15 PM</td><td class="py-3 px-4 border-b">Entrance Prep (Mental Ability)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 - 6:30 PM</td><td class="py-3 px-4 border-b">Break + Walk</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:15 PM</td><td class="py-3 px-4 border-b">Entrance Prep (Math/English)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">7:15 - 7:30 PM</td><td class="py-3 px-4">Revision + Day's Learning</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">School Aur Entrance Prep Dono Ko Kaise Manage Karein?</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Rule 1:</strong> School homework pehle karo — entrance prep baad mein</p>
-<p><strong>Rule 2:</strong> School subjects aur entrance subjects overlap karte hain — Math, EVS, English sab common hain</p>
-<p><strong>Rule 3:</strong> Weekend pe extra entrance prep karo — school homework kam hota hai</p>
-<p><strong>Rule 4:</strong> Bacche ko overburden mat karo — 4 hours daily se zyada mat padhao</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-4-month-study-plan-time-table/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">4-Month Study Plan</h3>
-<p class="text-gray-600 text-xs">Daily time table for JNVST</p>
-</a>
-<a href="/hi/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">पहली कक्षा से पहले</h3>
-<p class="text-gray-600 text-xs">बच्चे को क्या सिखाएं</p>
-</a>
-<a href="/hi/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Exam Stress कम करें</h3>
-<p class="text-gray-600 text-xs">बच्चे का stress handle करें</p>
-</a>
-<a href="/hi/blog/active-recall-spaced-repetition-padhai-topper-trick/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Active Recall</h3>
-<p class="text-gray-600 text-xs">Study technique for toppers</p>
-</a>
-</div>
-`,
+    imageAlt: "Class 5 school syllabus entrance exam preparation balance",
+    content: `<p><strong>School vs Entrance Prep Balance</strong> — School homework pehle karo, phir entrance prep। Dono mein overlap hai।</p><h2>Daily Time Table</h2><ul><li>4:00-5:00 PM: School Homework</li><li>5:15-6:15 PM: Entrance Prep (Mental Ability)</li><li>6:30-7:15 PM: Entrance Prep (Math/English)</li></ul><h2>Rules</h2><ul><li>School homework pehle karo</li><li>Weekend pe extra entrance prep</li><li>4 hours daily se zyada mat padhao</li></ul>`,
     faqs: [
-      { question: "Class 5 student ko daily kitne ghante padhana chahiye?", answer: "School ke baad 3.5-4 hours kaafi hai. Isse zyada padhane se baccha burnout hoga." },
-      { question: "School homework aur entrance prep kaise balance karein?", answer: "School homework pehle karo, phir entrance prep. Dono mein overlap hai — Math, EVS, English common subjects hain." },
-      { question: "Baccha bore ho raha hai, kya karein?", answer: "Study time chhota karo, breaks badhao. Games aur activities se padhai interesting banao." },
-      { question: "Weekend pe extra prep karein?", answer: "Haan, weekend pe 2-3 extra hours entrance prep kar sakte hain. Lekin bacche ko rest bhi do." }
+      { question: "Class 5 student ko daily kitne ghante padhana chahiye?", answer: "School ke baad 3.5-4 hours kaafi hai।" },
+      { question: "School homework aur entrance prep kaise balance karein?", answer: "School homework pehle karo, phir entrance prep।" },
+      { question: "Baccha bore ho raha hai?", answer: "Study time chhota karo, breaks badhao।" },
+      { question: "Weekend pe extra prep karein?", answer: "Haan, 2-3 extra hours।" }
     ]
   },
   {
     slug: "aissee-2027-sainik-school-gk-top-scoring-topics",
-    title: "AISSEE 2027 Notification Alert: Sainik School GK Section Mein 50/50 Scoring Topics",
-    description: "AISSEE 2027 GK section — 50/50 scoring topics, important questions, aur Sainik School entrance ke liye complete GK guide।",
-    keywords: "AISSEE 2027 Sainik School GK scoring topics, Sainik School GK important questions, AISSEE GK 50/50 strategy, Sainik School general knowledge",
+    title: "AISSEE 2027: Sainik School GK Section Mein 50/50 Scoring Topics",
+    description: "AISSEE 2027 GK section — 50/50 scoring topics, important questions।",
+    keywords: "AISSEE 2027 Sainik School GK scoring topics, Sainik School GK important questions",
     date: "29 जुलाई 2026, शाम 5 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, शाम 5 बजकर 30 मिनट",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
     authorRole: "Current Affairs & GK Faculty",
-    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं। Entrance exams के लिए GK materials तैयार करते हैं।",
+    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं।",
     readTime: "8 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/aissee-2027-sainik-school-gk-top-scoring-topics.webp",
-    imageAlt: "AISSEE 2027 Sainik School GK scoring topics - 50/50 strategy important questions general knowledge",
-    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">GK Scoring Overview:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>GK Weightage:</strong> 25 marks out of 125 (AISSEE Class 6)</li>
-<li><strong>Key Areas:</strong> Static GK (15 marks) + Current Affairs (10 marks)</li>
-<li><strong>Scoring Target:</strong> 20+ marks (80%+)</li>
-<li><strong>Preparation:</strong> Daily 15 minutes GK reading</li>
-</ul>
-</div>
-
-<p><strong>AISSEE 2027 GK Section</strong> — GK section Sainik School entrance exam mein sabse scoring section hai. Agar daily 15 minutes GK padho, toh 20+ marks lana easy hai.</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Top Scoring GK Topics</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Priority</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Indian History</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Indian Geography</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Indian Polity</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">Medium</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Science & Technology</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Current Affairs</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Sports & Awards</td><td class="py-3 px-4">2-3</td><td class="py-3 px-4">Medium</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important GK Questions</h2>
-<div class="bg-gray-50 rounded-xl p-5 my-4">
-<ul class="list-decimal pl-5 space-y-2">
-<li>Who is the President of India? → <strong>Droupadi Murmu</strong></li>
-<li>What is the capital of Japan? → <strong>Tokyo</strong></li>
-<li>Which is the largest planet? → <strong>Jupiter</strong></li>
-<li>Who invented the telephone? → <strong>Alexander Graham Bell</strong></li>
-<li>What is the national game of India? → <strong>Hockey</strong></li>
-<li>Which river is the longest in India? → <strong>Ganga</strong></li>
-<li>Who is known as the Father of the Nation? → <strong>Mahatma Gandhi</strong></li>
-<li>What is the currency of USA? → <strong>Dollar</strong></li>
-<li>Which planet is nearest to the Sun? → <strong>Mercury</strong></li>
-<li>Who wrote the national anthem? → <strong>Rabindranath Tagore</strong></li>
-</ul>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily GK Practice Schedule</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Morning (5 minutes):</strong> Newspaper headlines padho</p>
-<p><strong>Afternoon (5 minutes):</strong> 5 new GK questions yaad karo</p>
-<p><strong>Evening (5 minutes):</strong> Previous day ka GK revision karo</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AISSEE 2027 Notification</h3>
-<p class="text-gray-600 text-xs">Notification date और eligibility</p>
-</a>
-<a href="/hi/blog/aissee-2027-sainik-school-essential-documents-list/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Essential Documents</h3>
-<p class="text-gray-600 text-xs">4 जरूरी documents list</p>
-</a>
-<a href="/hi/blog/sainik-school-admission-kaise-le-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Admission</h3>
-<p class="text-gray-600 text-xs">पूरी admission guide</p>
-</a>
-<a href="/hi/blog/current-affairs-august-2026-weekly-gk-school-students/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Weekly GK Update</h3>
-<p class="text-gray-600 text-xs">August 2026 current affairs</p>
-</a>
-</div>
-`,
+    imageAlt: "AISSEE 2027 Sainik School GK scoring topics - 50/50 strategy",
+    content: `<p><strong>AISSEE GK Section</strong> — sabse scoring section hai। Daily 15 minutes GK padho, 20+ marks easy hai।</p><h2>Top Scoring Topics</h2><ul><li>Indian History — 4-5 questions</li><li>Indian Geography — 3-4 questions</li><li>Science & Technology — 3-4 questions</li><li>Current Affairs — 3-4 questions</li></ul><h2>Important GK Questions</h2><ul><li>President of India? — Droupadi Murmu</li><li>Capital of Japan? — Tokyo</li><li>Largest planet? — Jupiter</li></ul>`,
     faqs: [
-      { question: "AISSEE GK section mein kitne marks hain?", answer: "25 marks out of 125 total marks. GK section sabse scoring section hai." },
-      { question: "GK ki preparation kaise karein?", answer: "Daily 15 minutes GK padho — newspaper, static GK book, aur current affairs. Weekend pe revision karo." },
-      { question: "Kaun sa GK book best hai?", answer: "Lucent GK (Junior) aur Arihant Sainik School GK Guide sabse best hain." },
-      { question: "Current Affairs kahan se padhein?", answer: "Newspaper, JGPS weekly GK updates, aur YouTube current affairs channels se." }
+      { question: "AISSEE GK section mein kitne marks hain?", answer: "25 marks out of 125।" },
+      { question: "GK ki preparation kaise karein?", answer: "Daily 15 minutes GK padho।" },
+      { question: "Kaun sa GK book best hai?", answer: "Lucent GK (Junior)।" },
+      { question: "Current Affairs kahan se padhein?", answer: "Newspaper, JGPS weekly GK updates।" }
     ]
   },
   {
     slug: "jnvst-28-november-120-days-active-recall-tracker",
-    title: "28 November JNVST Exam: 120-Day Day-Wise Active Recall Study Schedule",
-    description: "JNVST 2027 exam 28 November ko hai — 120 days ka complete active recall study schedule, day-wise tracker, aur Neha Singh ki proven strategy।",
-    keywords: "JNVST 28 November 120 days study schedule, JNVST active recall tracker, Navodaya exam 120 day plan, JNVST day-wise study schedule",
+    title: "28 November JNVST Exam: 120-Day Active Recall Study Schedule",
+    description: "JNVST 2027 exam 28 November ko hai — 120 days ka complete active recall study schedule।",
+    keywords: "JNVST 28 November 120 days study schedule, JNVST active recall tracker",
     date: "29 जुलाई 2026, शाम 6 बजे",
     modifiedDate: "29 जुलाई 2026, शाम 6 बजे",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
     authorRole: "Study Habits Expert",
-    authorBio: "Neha Singh JGPS में study habits और student productivity expert हैं। Pomodoro, Active Recall, और Spaced Repetition techniques से students को efficient बनाती हैं।",
+    authorBio: "Neha Singh JGPS में study habits expert हैं।",
     readTime: "10 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-28-november-120-days-active-recall-tracker.webp",
-    imageAlt: "JNVST 28 November 120 days active recall study schedule - day-wise tracker Neha Singh strategy",
-    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">120-Day Countdown (29 July → 28 November):</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Days Remaining:</strong> 120 days</li>
-<li><strong>Exam Date:</strong> 28 November 2026</li>
-<li><strong>Daily Study:</strong> 3-4 hours (school ke baad)</li>
-<li><strong>Method:</strong> Active Recall + Spaced Repetition</li>
-<li><strong>Weekly Mock Test:</strong> Every Sunday</li>
-</ul>
-</div>
-
-<p><strong>28 November JNVST Exam: 120-Day Study Schedule</strong> — aaj 29 July hai aur exam 28 November ko hai. Exactly 120 din baaki hain. Agar daily 3-4 ghante focused study karo Active Recall method se, toh selection pakka hai.</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Active Recall Method Kya Hai?</h2>
-<p>Active Recall sabse effective study method hai. Isme:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Padhne ke baad kitab band karo</strong> — jo padha wo likho</li>
-<li><strong>Yaad nahi aa raha?</strong> — dobara padho, phir try karo</li>
-<li><strong>Ye method 3x effective hai</strong> — sirf padhne se</li>
-</ul>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Month-wise Study Plan</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Milestone</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">August (Day 1-31)</td><td class="py-3 px-4 border-b">Syllabus Complete</td><td class="py-3 px-4 border-b">3 hours</td><td class="py-3 px-4 border-b">All topics covered</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">September (Day 32-61)</td><td class="py-3 px-4 border-b">Concept Strengthening</td><td class="py-3 px-4 border-b">3 hours</td><td class="py-3 px-4 border-b">Weak areas fixed</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">October (Day 62-92)</td><td class="py-3 px-4 border-b">Practice Sets</td><td class="py-3 px-4 border-b">3.5 hours</td><td class="py-3 px-4 border-b">Daily 1 practice set</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">November (Day 93-120)</td><td class="py-3 px-4">Mock Tests + Revision</td><td class="py-3 px-4">4 hours</td><td class="py-3 px-4">Weekly mock test</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Day-Wise Active Recall Tracker</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Monday:</strong> Mental Ability (Figure Series, Mirror Image) — 1 hour</p>
-<p><strong>Tuesday:</strong> Mathematics (Number System, Fractions) — 1 hour</p>
-<p><strong>Wednesday:</strong> Language (Grammar, Vocabulary) — 1 hour</p>
-<p><strong>Thursday:</strong> Mental Ability (Coding, Analogy) — 1 hour</p>
-<p><strong>Friday:</strong> Mathematics (Percentage, Geometry) — 1 hour</p>
-<p><strong>Saturday:</strong> Revision + Previous Week's Learning — 2 hours</p>
-<p><strong>Sunday:</strong> Mock Test + Analysis — 2 hours</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Spaced Repetition Schedule</h2>
-<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
-<p class="font-bold">Neha Singh's Golden Rule:</p>
-<p>Ek topic padhne ke baad:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Agla din:</strong> 1st revision</li>
-<li><strong>3 din baad:</strong> 2nd revision</li>
-<li><strong>7 din baad:</strong> 3rd revision</li>
-<li><strong>15 din baad:</strong> 4th revision</li>
-</ul>
-<p class="mt-2">Isse memory mein long-term store hota hai.</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
-<a href="/hi/blog/jnvst-2027-4-month-study-plan-time-table/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">4-Month Study Plan</h3>
-<p class="text-gray-600 text-xs">Daily time table</p>
-</a>
-<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
-</a>
-<a href="/hi/blog/active-recall-spaced-repetition-padhai-topper-trick/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Active Recall Technique</h3>
-<p class="text-gray-600 text-xs">Topper's study trick</p>
-</a>
-<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 questions, new pattern</p>
-</a>
-</div>
-`,
+    imageAlt: "JNVST 28 November 120 days active recall study schedule",
+    content: `<p><strong>120-Day Countdown</strong> — 29 July se 28 November tak। Daily 3-4 ghante focused study se selection pakka hai।</p><h2>Month-wise Plan</h2><ul><li>August: Syllabus Complete</li><li>September: Concept Strengthening</li><li>October: Practice Sets</li><li>November: Mock Tests + Revision</li></ul><h2>Active Recall Method</h2><p>Padhne ke baad kitab band karo aur jo padha wo likho। Ye 3x effective hai।</p>`,
     faqs: [
-      { question: "120 din mein JNVST crack kar sakte hain?", answer: "Haan, agar daily 3-4 ghante focused study karo Active Recall method se. Consistency sabse zaroori hai." },
-      { question: "Active Recall kaise karein?", answer: "Padhne ke baad kitab band karo aur jo padha wo likho. Yaad nahi aa raha toh dobara padho." },
-      { question: "Spaced Repetition kya hai?", answer: "Ek topic padhne ke baad 1 din, 3 din, 7 din, 15 din baad revision karo. Isse memory mein long-term store hota hai." },
-      { question: "Daily kitne ghante padhna chahiye?", answer: "School ke baad 3-4 ghante kaafi hai. Isse zyada padhane se baccha burnout hoga." }
+      { question: "120 din mein JNVST crack kar sakte hain?", answer: "Haan, daily 3-4 ghante focused study se।" },
+      { question: "Active Recall kaise karein?", answer: "Padhne ke baad kitab band karo aur likho।" },
+      { question: "Spaced Repetition kya hai?", answer: "1 din, 3 din, 7 din, 15 din baad revision karo।" },
+      { question: "Daily kitne ghante padhna chahiye?", answer: "3-4 ghante kaafi hai।" }
     ]
   }
 ];
