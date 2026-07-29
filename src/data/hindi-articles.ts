@@ -10543,6 +10543,87 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Baccha bore ho raha hai, kya karein?", answer: "Study time chhota karo, breaks badhao. Games aur activities se padhai interesting banao." },
       { question: "Weekend pe extra prep karein?", answer: "Haan, weekend pe 2-3 extra hours entrance prep kar sakte hain. Lekin bacche ko rest bhi do." }
     ]
+  },
+  {
+    slug: "aissee-2027-sainik-school-gk-top-scoring-topics",
+    title: "AISSEE 2027 Notification Alert: Sainik School GK Section Mein 50/50 Scoring Topics",
+    description: "AISSEE 2027 GK section — 50/50 scoring topics, important questions, aur Sainik School entrance ke liye complete GK guide।",
+    keywords: "AISSEE 2027 Sainik School GK scoring topics, Sainik School GK important questions, AISSEE GK 50/50 strategy, Sainik School general knowledge",
+    date: "29 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    modifiedDate: "29 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    author: "Ravi Prakash",
+    authorName: "Ravi Prakash",
+    authorSlug: "ravi-prakash",
+    authorRole: "Current Affairs & GK Faculty",
+    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं। Entrance exams के लिए GK materials तैयार करते हैं।",
+    readTime: "8 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/aissee-2027-sainik-school-gk-top-scoring-topics.webp",
+    imageAlt: "AISSEE 2027 Sainik School GK scoring topics - 50/50 strategy important questions general knowledge",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">GK Scoring Overview:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>GK Weightage:</strong> 25 marks out of 125 (AISSEE Class 6)</li>
+<li><strong>Key Areas:</strong> Static GK (15 marks) + Current Affairs (10 marks)</li>
+<li><strong>Scoring Target:</strong> 20+ marks (80%+)</li>
+<li><strong>Preparation:</strong> Daily 15 minutes GK reading</li>
+</ul>
+</div>
+
+<p><strong>AISSEE 2027 GK Section</strong> — GK section Sainik School entrance exam mein sabse scoring section hai. Agar daily 15 minutes GK padho, toh 20+ marks lana easy hai.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Top Scoring GK Topics</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Priority</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Indian History</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Indian Geography</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Indian Polity</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">Medium</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Science & Technology</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Current Affairs</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Sports & Awards</td><td class="py-3 px-4">2-3</td><td class="py-3 px-4">Medium</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important GK Questions</h2>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-decimal pl-5 space-y-2">
+<li>Who is the President of India? → <strong>Droupadi Murmu</strong></li>
+<li>What is the capital of Japan? → <strong>Tokyo</strong></li>
+<li>Which is the largest planet? → <strong>Jupiter</strong></li>
+<li>Who invented the telephone? → <strong>Alexander Graham Bell</strong></li>
+<li>What is the national game of India? → <strong>Hockey</strong></li>
+<li>Which river is the longest in India? → <strong>Ganga</strong></li>
+<li>Who is known as the Father of the Nation? → <strong>Mahatma Gandhi</strong></li>
+<li>What is the currency of USA? → <strong>Dollar</strong></li>
+<li>Which planet is nearest to the Sun? → <strong>Mercury</strong></li>
+<li>Who wrote the national anthem? → <strong>Rabindranath Tagore</strong></li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily GK Practice Schedule</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Morning (5 minutes):</strong> Newspaper headlines padho</p>
+<p><strong>Afternoon (5 minutes):</strong> 5 new GK questions yaad karo</p>
+<p><strong>Evening (5 minutes):</strong> Previous day ka GK revision karo</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AISSEE 2027 Notification</h3>
+<p class="text-gray-600 text-xs">Notification date और eligibility</p>
+</a>
+<a href="/hi/blog/aissee-2027-sainik-school-essential-documents-list/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Essential Documents</h3>
+<p class="text-gray-600 text-xs">4 जरूरी documents list</p>
+</a>
+<a href="/hi/blog/sainik-school-admission-kaise-le-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Admission</h3>
+<p class="text-gray-600 text-xs">पूरी admission guide</p>
+</a>
+<a href="/hi/blog/current-affairs-august-2026-weekly-gk-school-students/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Weekly GK Update</h3>
+<p class="text-gray-600 text-xs">August 2026 current affairs</p>
+</a>
+</div>
+`,
+    faqs: [
+      { question: "AISSEE GK section mein kitne marks hain?", answer: "25 marks out of 125 total marks. GK section sabse scoring section hai." },
+      { question: "GK ki preparation kaise karein?", answer: "Daily 15 minutes GK padho — newspaper, static GK book, aur current affairs. Weekend pe revision karo." },
+      { question: "Kaun sa GK book best hai?", answer: "Lucent GK (Junior) aur Arihant Sainik School GK Guide sabse best hain." },
+      { question: "Current Affairs kahan se padhein?", answer: "Newspaper, JGPS weekly GK updates, aur YouTube current affairs channels se." }
+    ]
   }
 ];
 
