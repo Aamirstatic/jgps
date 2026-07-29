@@ -9279,6 +9279,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "AMU Class 6 Math Aptitude Preparation 2027, AMU Class 6 entrance math syllabus, How to score 30/30 in AMU Class 6 maths, AMU math numerical practice questions",
     date: "29 जुलाई 2026, दोपहर 4 बजे",
     modifiedDate: "29 जुलाई 2026, दोपहर 4 बजे",
+    readTime: "12 मिनट",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -9343,6 +9344,18 @@ export const hindiArticles: HindiArticle[] = [
 <p><strong>Q5.</strong> Find the area of a rectangle with length 12 cm and breadth 8 cm.</p>
 <p>Answer: 96 sq cm — Area = Length × Breadth = 12 × 8 = 96 sq cm</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Negative Marking Rules</h2>
+<p>AMU entrance exam में negative marking है। ये rules जानना ज़रूरी है:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>हर गलत answer पर 0.25 marks कटते हैं</strong></li>
+<li><strong>OMR sheet पर pen से भरें</strong> — pencil से नहीं</li>
+<li><strong>100% sure नहीं हो तो guess मत करो</strong></li>
+<li><strong>सभी questions attempt मत करो</strong> — सिर्फ वो जो sure हो</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Math Preparation Books</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Author</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best For</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">NCERT Class 4 & 5 Math</td><td class="py-3 px-4 border-b">NCERT</td><td class="py-3 px-4 border-b">Basics clear करने के लिए</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Quantitative Aptitude</td><td class="py-3 px-4 border-b">R.S. Aggarwal</td><td class="py-3 px-4 border-b">Advanced practice</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Entrance Guide</td><td class="py-3 px-4 border-b">Arihant</td><td class="py-3 px-4 border-b">Previous year papers</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Math Practice Sets</td><td class="py-3 px-4">JGPS</td><td class="py-3 px-4">Mock tests</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
