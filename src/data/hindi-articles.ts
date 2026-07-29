@@ -9206,26 +9206,109 @@ export const hindiArticles: HindiArticle[] = [
   },
   {
     slug: "amu-class-6-math-aptitude-preparation-2027",
-    title: "AMU Class 6 Entrance 2027: Math & Numerical Aptitude Preparation",
-    description: "AMU Class 6 Math preparation 2027 — zero level se shuru karein, important topics, shortcuts।",
-    keywords: "AMU Class 6 math preparation 2027, AMU entrance numerical aptitude",
+    title: "AMU Class 6 Entrance 2027: Mathematics और Numerical Aptitude की Zero-Level से तैयारी",
+    description: "AMU Class 6 Math preparation 2027 — zero level se shuru karein, chapter-wise priority, shortcuts, aur 30/30 scoring strategy।",
+    keywords: "AMU Class 6 Math Aptitude Preparation 2027, AMU Class 6 entrance math syllabus, How to score 30/30 in AMU Class 6 maths, AMU math numerical practice questions",
     date: "29 जुलाई 2026, दोपहर 4 बजे",
     modifiedDate: "29 जुलाई 2026, दोपहर 4 बजे",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
     authorRole: "Entrance Exam Coach, JGPS",
-    authorBio: "Sameer JGPS में entrance exam coaching देते हैं।",
-    readTime: "8 मिनट",
+    authorBio: "Sameer JGPS में entrance exam coaching देते हैं। 8+ साल के experience के साथ AMU, JMI की तैयारी कराते हैं।",
+    readTime: "10 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/amu-class-6-math-aptitude-preparation-2027.webp",
-    imageAlt: "AMU Class 6 Math aptitude preparation 2027 - zero level se taiyari",
-    content: `<p><strong>AMU Math Preparation</strong> — zero level se bhi 3-4 months mein crack kiya ja sakta hai।</p><h2>Important Topics</h2><ul><li>Number System — 5-6 questions</li><li>Fractions — 4-5 questions</li><li>Percentage — 3-4 questions</li><li>Geometry — 3-4 questions</li><li>Word Problems — 4-5 questions</li></ul><h2>Math Shortcuts</h2><p>25% = 1/4, 50% = 1/2, 75% = 3/4</p>`,
+    imageAlt: "AMU Class 6 Math aptitude preparation 2027 - zero level se taiyari numerical aptitude",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Mathematics Master Strategy:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>AMU Math Weightage:</strong> 30 marks out of 100</li>
+<li><strong>Key Topics:</strong> Number System, LCM/HCF, Fractions, Percentage, Profit/Loss, Geometry</li>
+<li><strong>Preparation Time:</strong> 3-4 months (zero level se)</li>
+<li><strong>Daily Practice:</strong> 1 hour Math roz karein</li>
+<li><strong>Target Score:</strong> 25+ marks (80%+)</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Coach Sameer से संदेश:</p>
+<p>"AMU Class 6 entrance में Math section selection-decider है। जो student Math में 25+ marks लाता है, उसका selection 80% confirm हो जाता है। Zero level se bhi 3-4 months mein crack kiya ja sakta hai — bas daily 1 ghanta practice karo."</p>
+</div>
+
+<p><strong>AMU Class 6 Math Preparation 2027</strong> — agar aapka baccha Math mein weak hai, toh chinta mat karo. AMU entrance exam mein Math section Class 5 level ka hai. Zero level se bhi 3-4 months mein crack kiya ja sakta hai.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Class 6 Mathematics Weightage & Exam Pattern</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section I</td><td class="py-3 px-4 border-b">Languages</td><td class="py-3 px-4 border-b">35</td><td class="py-3 px-4 border-b">Combined</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Section II</td><td class="py-3 px-4 border-b font-bold">Mathematics & Science</td><td class="py-3 px-4 border-b font-bold">30</td><td class="py-3 px-4 border-b">Combined</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section III</td><td class="py-3 px-4 border-b">General Knowledge</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">Combined</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Interview</td><td class="py-3 px-4">—</td><td class="py-3 px-4">15</td><td class="py-3 px-4">—</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Chapter-Wise Priority List</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Priority</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Number System</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">LCM & HCF</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Fractions & Decimals</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Profit & Loss</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">★★★</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Geometry</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">★★★</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Word Problems</td><td class="py-3 px-4">4-5</td><td class="py-3 px-4">★★★</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Zero-Level Math Preparation Roadmap</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Week 1-2:</strong> Tables 1-20 yaad karein, Basic operations (Add, Subtract, Multiply, Divide)</p>
+<p><strong>Week 3-4:</strong> Fractions, Decimals, Place Value, Number System</p>
+<p><strong>Week 5-6:</strong> LCM, HCF, Percentage shortcuts</p>
+<p><strong>Week 7-8:</strong> Profit & Loss, Simple Interest</p>
+<p><strong>Week 9-10:</strong> Geometry (Shapes, Area, Perimeter, Angles)</p>
+<p><strong>Week 11-12:</strong> Word Problems + AMU Previous Year Papers</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Sameer के Top 5 High-Yield Sample Problems</h2>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q1.</strong> Find the HCF of 24 and 36.</p>
+<p>Answer: 12 — Factors of 24: 1,2,3,4,6,8,12,24. Factors of 36: 1,2,3,4,6,9,12,18,36. HCF = 12</p>
+</div>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q2.</strong> What is 25% of 200?</p>
+<p>Answer: 50 — 25% = 1/4. 200 × 1/4 = 50</p>
+</div>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q3.</strong> Simplify: 3/4 + 2/3</p>
+<p>Answer: 17/12 — LCM of 4 and 3 = 12. 3/4 = 9/12, 2/3 = 8/12. 9/12 + 8/12 = 17/12</p>
+</div>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q4.</strong> A shopkeeper buys a pen for ₹10 and sells it for ₹12. What is the profit percentage?</p>
+<p>Answer: 20% — Profit = 12 - 10 = ₹2. Profit% = (2/10) × 100 = 20%</p>
+</div>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>Q5.</strong> Find the area of a rectangle with length 12 cm and breadth 8 cm.</p>
+<p>Answer: 96 sq cm — Area = Length × Breadth = 12 × 8 = 96 sq cm</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/amu-class-6-entrance-2027-important-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Important Questions</h3>
+<p class="text-gray-600 text-xs">30+ questions with answers</p>
+</a>
+<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack</h3>
+<p class="text-gray-600 text-xs">Aamir की English strategy</p>
+</a>
+<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
+<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
+</a>
+<a href="/hi/blog/amu-class-6-syllabus-2027-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Syllabus 2027</h3>
+<p class="text-gray-600 text-xs">पूरा syllabus Hindi में</p>
+</a>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">AMU Class 6 Entrance की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> में Coach Sameer से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Motivational Words</h3>
+<p>AMU Class 6 entrance exam tough है, लेकिन impossible नहीं। <strong>Zero level se bhi 3-4 months mein crack kiya ja sakta hai।</strong> Tables याद करो, NCERT books पढ़ो, और daily 1 ghanta Math practice करो। <strong>Hard work beats talent when talent doesn't work hard!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Sameer | JGPS Entrance Exam Coach | 8+ Years Experience</p>
+</div>
+`,
     faqs: [
-      { question: "AMU Math में कौन से topics सबसे important हैं?", answer: "Number System, Fractions, Percentage, Geometry, Word Problems।" },
-      { question: "Zero level se AMU Math crack कर सकते हैं?", answer: "हां, 3-4 months की focused preparation से।" },
-      { question: "AMU Math में कितने marks चाहिए?", answer: "25 marks में से 15+ marks लाने चाहिए।" },
-      { question: "Math shortcuts कहां से सीखें?", answer: "R.S. Aggarwal, YouTube, और JGPS coaching से।" }
+      { question: "AMU Class 6 Math में कौन से topics सबसे important हैं?", answer: "Number System, LCM/HCF, Fractions, Percentage, Geometry, और Word Problems — ये topics सबसे ज्यादा questions देते हैं।" },
+      { question: "Zero level se AMU Math crack कर सकते हैं?", answer: "हां, 3-4 months की focused preparation से। Tables याद करो, basics clear करो, और daily practice करो।" },
+      { question: "AMU Math में कितने marks चाहिए?", answer: "30 marks में से 25+ marks लाने चाहिए। Total 100 marks में से 50+ safe score है।" },
+      { question: "Math shortcuts कहां से सीखें?", answer: "R.S. Aggarwal Quantitative Aptitude, YouTube Math channels, और JGPS coaching से।" }
     ]
   },
   {
