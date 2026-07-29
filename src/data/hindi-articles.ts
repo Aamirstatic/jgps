@@ -8829,6 +8829,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST 2027 Deadline Miss Academic Strategy, What if missed Navodaya Class 6 application deadline, Alternative options for JNVST Class 6, Sainik School and AMU JMI entrance option",
     date: "29 जुलाई 2026, दोपहर 2 बजे",
     modifiedDate: "29 जुलाई 2026, दोपहर 2 बजे",
+    readTime: "12 मिनट",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -8870,10 +8871,40 @@ export const hindiArticles: HindiArticle[] = [
 </ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Backup Plan 2: Sainik School, AMU, aur JMI Entrance Options</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">School</th><th class="py-3 px-4 border-b font-bold text-white text-left">Form Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Exam Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Seats</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School (AISSEE)</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">~10,000</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">~200</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">~100</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">RMS CET</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">~500</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Vidyagyan (UP)</td><td class="py-3 px-4">Jan-Feb 2027</td><td class="py-3 px-4">Mar 2027</td><td class="py-3 px-4">~2,500</td></tr></tbody></table></div>
+<p>अगर JNVST miss हो गया है, तो भारत में कई और बेहतरीन residential schools हैं जो Class 6 में admission देते हैं। ये सब schools free या बहुत कम fee पर quality education प्रदान करते हैं।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">School</th><th class="py-3 px-4 border-b font-bold text-white text-left">Form Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Exam Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Seats</th><th class="py-3 px-4 border-b font-bold text-white text-left">Fee</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School (AISSEE)</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">~10,000</td><td class="py-3 px-4 border-b">₹30,000-50,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">~200</td><td class="py-3 px-4 border-b">₹5,000-10,000/yr</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">~100</td><td class="py-3 px-4 border-b">₹5,000-8,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">RMS CET</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">~500</td><td class="py-3 px-4 border-b">₹15,000-25,000/yr</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Vidyagyan (UP)</td><td class="py-3 px-4">Jan-Feb 2027</td><td class="py-3 px-4">Mar 2027</td><td class="py-3 px-4">~2,500</td><td class="py-3 px-4 text-green-700 font-bold">मुफ्त</td></tr></tbody></table></div>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Sainik School (AISSEE 2027) — सबसे बड़ा मौका</h3>
+<p>Sainik School entrance exam (AISSEE) हर साल NTA (National Testing Agency) द्वारा आयोजित किया जाता है। ये exam सबसे बड़ा मौका है क्योंकि:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>10,000+ seats</strong> — देश भर में 33 Sainik Schools हैं</li>
+<li><strong>Girls Quota</strong> — 2026 से लड़कियों के लिए 10% seats reserved हैं</li>
+<li><strong>Form September-October 2026</strong> में आएगा — अभी time है</li>
+<li><strong>Exam January 2027</strong> में होगा</li>
+</ul>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">AMU (Aligarh Muslim University) — Quality Education</h3>
+<p>AMU Class 6 entrance exam बहुत competitive है लेकिन quality education मिलती है। AMU के schools में:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Fee बहुत कम</strong> — ₹5,000-10,000 per year</li>
+<li><strong>Experienced teachers</strong> — AMU के professors पढ़ाते हैं</li>
+<li><strong>Form November-December 2026</strong> में आएगा</li>
+<li><strong>Exam February-March 2027</strong> में होगा</li>
+</ul>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">JMI (Jamia Millia Islamia) — Delhi का बेहतरीन School</h3>
+<p>JMI Class 6 entrance exam Delhi में सबसे popular है। JMI के schools में:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Fee बहुत कम</strong> — ₹5,000-8,000 per year</li>
+<li><strong>Modern facilities</strong> — Computer lab, library, sports ground</li>
+<li><strong>Form November-December 2026</strong> में आएगा</li>
+</ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">State Model Schools & EMRS Alternatives</h2>
-<p>कई राज्यों में <strong>Model Schools</strong> और <strong>Eklavya Model Residential Schools (EMRS)</strong> भी हैं जो free education देते हैं। ये options भी explore करें।</p>
+<p>कई राज्यों में <strong>Model Schools</strong> और <strong>Eklavya Model Residential Schools (EMRS)</strong> भी हैं जो free education देते हैं:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">School Type</th><th class="py-3 px-4 border-b font-bold text-white text-left">Fee</th><th class="py-3 px-4 border-b font-bold text-white text-left">Eligibility</th><th class="py-3 px-4 border-b font-bold text-white text-left">Location</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">State Model Schools</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">State-specific</td><td class="py-3 px-4 border-b">Various states</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">EMRS</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">ST students only</td><td class="py-3 px-4 border-b">Tribal areas</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Kendriya Vidyalaya</td><td class="py-3 px-4 border-b">₹1,500-2,000/month</td><td class="py-3 px-4 border-b">Central govt employees</td><td class="py-3 px-4 border-b">Pan India</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Army Public School</td><td class="py-3 px-4">₹2,000-5,000/month</td><td class="py-3 px-4">Defence personnel</td><td class="py-3 px-4">Near cantonments</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Principal's Checklist: Academic Momentum कैसे बनाए रखें</h2>
 <div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
