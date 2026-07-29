@@ -9406,26 +9406,94 @@ export const hindiArticles: HindiArticle[] = [
   },
   {
     slug: "class-5-school-syllabus-entrance-prep-balance",
-    title: "Class 5 Students: Entrance Test Aur School Syllabus Mein Balance Kaise Karein?",
-    description: "Class 5 students ke liye entrance exam preparation aur school syllabus balance karne ki strategy।",
-    keywords: "Class 5 entrance exam school balance, entrance prep school syllabus balance",
+    title: "Class 5th Running Students: School Syllabus और Entrance Test में Balance कैसे बनाएं?",
+    description: "Class 5 students ke liye entrance exam preparation aur school syllabus balance karne ki complete strategy — daily time table, overlapping syllabus, aur burnout prevention।",
+    keywords: "Class 5 School Syllabus Entrance Prep Balance, How to balance Class 5 studies with Navodaya prep, School homework vs entrance exam time table, Primary school study routine",
     date: "29 जुलाई 2026, शाम 5 बजे",
     modifiedDate: "29 जुलाई 2026, शाम 5 बजे",
     author: "Nisha",
     authorName: "Nisha",
     authorSlug: "nisha",
     authorRole: "Primary Education Expert, JGPS",
-    authorBio: "Nisha JGPS में primary education specialist हैं।",
-    readTime: "6 मिनट",
+    authorBio: "Nisha JGPS में primary education specialist हैं। Class 1-5 तक के बच्चों को पढ़ाने और parents को guide करने में expert हैं।",
+    readTime: "7 मिनट",
     category: "पेरेंटिंग और शिक्षा",
     image: "https://img.jgps.in/blog/class-5-school-syllabus-entrance-prep-balance.webp",
-    imageAlt: "Class 5 school syllabus entrance exam preparation balance",
-    content: `<p><strong>School vs Entrance Prep Balance</strong> — School homework pehle karo, phir entrance prep। Dono mein overlap hai।</p><h2>Daily Time Table</h2><ul><li>4:00-5:00 PM: School Homework</li><li>5:15-6:15 PM: Entrance Prep (Mental Ability)</li><li>6:30-7:15 PM: Entrance Prep (Math/English)</li></ul><h2>Rules</h2><ul><li>School homework pehle karo</li><li>Weekend pe extra entrance prep</li><li>4 hours daily se zyada mat padhao</li></ul>`,
+    imageAlt: "Class 5 school syllabus entrance exam preparation balance - study time management strategy",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Balance Blueprint:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>School Homework:</strong> 2 hours daily</li>
+<li><strong>Entrance Prep:</strong> 1.5-2 hours daily</li>
+<li><strong>Total Study:</strong> 3.5-4 hours daily (school ke baad)</li>
+<li><strong>Weekend:</strong> Extra 2 hours entrance prep</li>
+<li><strong>Playtime:</strong> 1 hour daily zaroori hai</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Nisha से संदेश:</p>
+<p>"10 साल के बच्चे का brain abhi develop ho raha hai. Zyada load dalne se baccha bore hoga, frustrated hoga, aur padhai se door bhaagega. Balance bahut zaroori hai — school bhi, entrance prep bhi, aur khelna-kudna bhi."</p>
+</div>
+
+<p><strong>Class 5 School Syllabus vs Entrance Prep Balance</strong> — ye bahut common problem hai. Baccha school mein Class 5 padh raha hai, lekin entrance exam bhi dena hai. Dono ko kaise balance karein?</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Why Class 5 Students Feel Overwhelmed</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Double workload:</strong> School homework + entrance prep dono karna padta hai</li>
+<li><strong>Time pressure:</strong> School ke baad limited time bachta hai</li>
+<li><strong>Parent expectations:</strong> "Dono mein top karo" ka pressure</li>
+<li><strong>No playtime:</strong> Padhai mein khelna-kudna chhoot jata hai</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Overlapping Syllabus Advantage</h2>
+<p>Good news — Class 5 school syllabus aur entrance exam syllabus mein bahut overlap hai:</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">School Syllabus</th><th class="py-3 px-4 border-b font-bold text-white text-left">Entrance Exam</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Math</td><td class="py-3 px-4 border-b">Number System, Fractions, Geometry</td><td class="py-3 px-4 border-b">Same topics, higher difficulty</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">EVS/Science</td><td class="py-3 px-4 border-b">Plants, Animals, Human Body</td><td class="py-3 px-4 border-b">Same topics + GK</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">English</td><td class="py-3 px-4">Grammar, Comprehension</td><td class="py-3 px-4">Same topics + Vocabulary</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily Time-Table Matrix</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 - 5:00 PM</td><td class="py-3 px-4 border-b">School Homework</td><td class="py-3 px-4 border-b">1 hour</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:15 PM</td><td class="py-3 px-4 border-b">Break + Snack</td><td class="py-3 px-4 border-b">15 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:15 PM</td><td class="py-3 px-4 border-b">Entrance Prep (Mental Ability)</td><td class="py-3 px-4 border-b">1 hour</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 - 6:30 PM</td><td class="py-3 px-4 border-b">Break + Walk</td><td class="py-3 px-4 border-b">15 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:15 PM</td><td class="py-3 px-4 border-b">Entrance Prep (Math/English)</td><td class="py-3 px-4 border-b">45 min</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:15 - 7:30 PM</td><td class="py-3 px-4 border-b">Revision + Day's Learning</td><td class="py-3 px-4 border-b">15 min</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">7:30 PM onwards</td><td class="py-3 px-4">Playtime + Dinner + Rest</td><td class="py-3 px-4">Free time</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Nisha के 4 Smart Hacks for Parents</h2>
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Weekend Focus:</strong> Weekend pe extra 2-3 hours entrance prep karo — school homework kam hota hai</li>
+<li><strong>Homework Alignment:</strong> School homework aur entrance prep overlap karo — Math dono mein common hai</li>
+<li><strong>Playtime Preservation:</strong> 1 hour daily khelna-kudna zaroori hai — brain development ke liye</li>
+<li><strong>No Overburdening:</strong> 4 hours daily se zyada mat padhao — burnout hoga</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-4-month-study-plan-time-table/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">4-Month Study Plan</h3>
+<p class="text-gray-600 text-xs">Daily time table for JNVST</p>
+</a>
+<a href="/hi/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">पहली कक्षा से पहले</h3>
+<p class="text-gray-600 text-xs">बच्चे को क्या सिखाएं</p>
+</a>
+<a href="/hi/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Exam Stress कम करें</h3>
+<p class="text-gray-600 text-xs">बच्चे का stress handle करें</p>
+</a>
+<a href="/hi/blog/active-recall-spaced-repetition-padhai-topper-trick/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Active Recall</h3>
+<p class="text-gray-600 text-xs">Study technique for toppers</p>
+</a>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Reassuring Summary</h3>
+<p>Class 5 ke bacche ke liye balance bahut zaroori hai. <strong>School bhi, entrance prep bhi, aur khelna-kudna bhi.</strong> Zyada load dalne se baccha bore hoga aur padhai se door bhaagega. Daily 3.5-4 hours kaafi hai. Weekend pe extra prep karo. <strong>Balance rakho — baccha happy bhi rahega aur exam bhi crack karega!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Nisha | JGPS Primary Education Expert</p>
+</div>
+`,
     faqs: [
-      { question: "Class 5 student ko daily kitne ghante padhana chahiye?", answer: "School ke baad 3.5-4 hours kaafi hai।" },
-      { question: "School homework aur entrance prep kaise balance karein?", answer: "School homework pehle karo, phir entrance prep।" },
-      { question: "Baccha bore ho raha hai?", answer: "Study time chhota karo, breaks badhao।" },
-      { question: "Weekend pe extra prep karein?", answer: "Haan, 2-3 extra hours।" }
+      { question: "Class 5 student ko daily kitne ghante padhana chahiye?", answer: "School ke baad 3.5-4 hours kaafi hai। Isse zyada padhane se baccha burnout hoga।" },
+      { question: "School homework aur entrance prep kaise balance karein?", answer: "School homework pehle karo, phir entrance prep। Dono mein overlap hai — Math, EVS, English common subjects hain।" },
+      { question: "Baccha bore ho raha hai, kya karein?", answer: "Study time chhota karo, breaks badhao। Games aur activities se padhai interesting banao।" },
+      { question: "Weekend pe extra prep karein?", answer: "Haan, weekend pe 2-3 extra hours entrance prep kar sakte hain। Lekin bacche ko rest bhi do।" }
     ]
   },
   {
