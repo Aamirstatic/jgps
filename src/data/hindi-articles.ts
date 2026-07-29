@@ -8959,6 +8959,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST 2027 Registration Last 48 Hours Server Fix, Navodaya portal server down 31 July, cbseitms.rcil.gov.in time out error solution, How to complete JNVST form in last 2 days",
     date: "29 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
+    readTime: "10 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -9015,6 +9016,21 @@ export const hindiArticles: HindiArticle[] = [
 <p><strong>Step 3:</strong> अगर link काम नहीं करे तो browser change करें (Firefox/Edge)</p>
 <p><strong>Step 4:</strong> Confirmation page screenshot लें — backup के लिए</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Form Details Verification Checklist</h2>
+<p>Form submit करने से पहले ये details ज़रूर check करें:</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Field</th><th class="py-3 px-4 border-b font-bold text-white text-left">What to Check</th><th class="py-3 px-4 border-b font-bold text-white text-left">Common Error</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Student Name</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">Spelling mistake</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Date of Birth</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">Wrong date format</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Father's Name</td><td class="py-3 px-4 border-b">Aadhaar से match</td><td class="py-3 px-4 border-b">Short form vs full name</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Category</td><td class="py-3 px-4 border-b">Correct category select</td><td class="py-3 px-4 border-b">Wrong category</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">District</td><td class="py-3 px-4 border-b">School district match</td><td class="py-3 px-4 border-b">Wrong district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Photo</td><td class="py-3 px-4">Clear, white background</td><td class="py-3 px-4">Blurry or wrong photo</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Happens After Form Submission?</h2>
+<p>Form submit होने के बाद ये process होता है:</p>
+<ul class="list-decimal pl-6 mb-4 space-y-2">
+<li><strong>Confirmation Page:</strong> Download करें और print निकालें</li>
+<li><strong>SMS/Email:</strong> Registration number और details आएंगी</li>
+<li><strong>Correction Window:</strong> अगस्त 2026 में खुलेगी — गलती सुधारने का मौका</li>
+<li><strong>Admit Card:</strong> अक्टूबर 2026 में जारी होगा</li>
+<li><strong>Exam:</strong> 28 नवंबर 2026 को</li>
+<li><strong>Result:</strong> मार्च-अप्रैल 2027 में</li>
+</ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
