@@ -9313,26 +9313,95 @@ export const hindiArticles: HindiArticle[] = [
   },
   {
     slug: "jmi-class-6-entrance-english-scoring-rules",
-    title: "JMI Class 6 Entrance 2027: Passage & Grammar Scoring Rules",
-    description: "JMI Class 6 English scoring rules — passage comprehension, grammar tricks, full marks strategy।",
-    keywords: "JMI Class 6 English scoring rules, JMI entrance passage comprehension",
+    title: "JMI Class 6 Entrance 2027: English Passage और Grammar के Full Scoring Rules",
+    description: "JMI Class 6 English scoring rules — passage comprehension tricks, grammar rules breakdown, aur 20/20 scoring strategy।",
+    keywords: "JMI Class 6 Entrance English Scoring Rules, Jamia Class 6 entrance English passage tricks, JMI entrance English grammar rules, How to score 20/20 in JMI English",
     date: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
     author: "Aamir",
     authorName: "Aamir",
     authorSlug: "aamir",
     authorRole: "English & Urdu Language Expert, JGPS",
-    authorBio: "Aamir JGPS में English और Urdu language preparation कराते हैं।",
-    readTime: "7 मिनट",
+    authorBio: "Aamir JGPS में English और Urdu language preparation कराते हैं। AMU, JMI entrance exams के language section में expert हैं।",
+    readTime: "8 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jmi-class-6-entrance-english-scoring-rules.webp",
-    imageAlt: "JMI Class 6 Entrance 2027 English scoring rules - passage comprehension grammar",
-    content: `<p><strong>JMI English Scoring Rules</strong> — English section sabse scoring section hai। 16+ marks lana easy hai।</p><h2>Grammar Rules</h2><ul><li>Tenses: Present, Past, Future</li><li>Articles: A/An/The</li><li>Prepositions: At/In/On</li></ul><h2>Passage Tips</h2><ul><li>Pehle questions padho</li><li>Keywords underline karo</li><li>Pehla aur aakhri paragraph dhyan se padho</li></ul>`,
+    imageAlt: "JMI Class 6 Entrance 2027 English scoring rules - passage comprehension grammar full marks strategy",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick English Section Overview:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>English Weightage:</strong> 20 marks out of 100</li>
+<li><strong>Key Areas:</strong> Grammar (10 marks), Passage (6 marks), Vocabulary (4 marks)</li>
+<li><strong>Scoring Target:</strong> 16+ marks (80%+)</li>
+<li><strong>Time Allocation:</strong> 20 minutes for English section</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Aamir से संदेश:</p>
+<p>"JMI entrance में English section sabse scoring section hai. Agar grammar rules yaad hain aur passage comprehension ki practice hai, toh 16+ marks lana easy hai. Rote learning se kuch nahi hoga — samajh ke padho, practice karo."</p>
+</div>
+
+<p><strong>JMI Class 6 English Scoring Rules</strong> — English section JMI entrance exam mein sabse scoring section hai. Agar grammar rules yaad hain aur passage comprehension ki practice hai, toh 16+ marks lana easy hai.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JMI Class 6 English Marks Distribution</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Scoring Potential</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Grammar</td><td class="py-3 px-4 border-b">8-10</td><td class="py-3 px-4 border-b">10</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Passage</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">6</td><td class="py-3 px-4 border-b text-green-700 font-bold">High</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Vocabulary</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">4</td><td class="py-3 px-4 border-b">Medium</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4 font-bold">16-20</td><td class="py-3 px-4 font-bold">20</td><td class="py-3 px-4 font-bold">—</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">3 Rules to Solve Unseen Reading Passages</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Rule 1: Pehle Questions Padho</strong></p>
+<p>Passage se pehle questions padho. Isse pata chalega kya dhundna hai.</p>
+
+<p><strong>Rule 2: Keywords Underline Karo</strong></p>
+<p>Passage mein important words underline karo — names, dates, places.</p>
+
+<p><strong>Rule 3: Pehla Aur Aakhri Paragraph</strong></p>
+<p>Main idea usually pehle ya aakhri paragraph mein hota hai.</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">High-Yield Grammar Topics with Examples</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Rule</th><th class="py-3 px-4 border-b font-bold text-white text-left">Example</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Tenses</td><td class="py-3 px-4 border-b">Present/Past/Future rules</td><td class="py-3 px-4 border-b">She goes (not go)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Articles</td><td class="py-3 px-4 border-b">A/An/The usage</td><td class="py-3 px-4 border-b">An apple (vowel sound)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Prepositions</td><td class="py-3 px-4 border-b">At/In/On rules</td><td class="py-3 px-4 border-b">At 5 PM, In July, On Monday</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Subject-Verb</td><td class="py-3 px-4 border-b">Singular/Plural agreement</td><td class="py-3 px-4 border-b">He plays (not play)</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Spelling</td><td class="py-3 px-4">Common misspellings</td><td class="py-3 px-4">Accommodation (not accomodation)</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Common Pitfalls That Lose Marks</h2>
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-4 my-4">
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>"Everyone are"</strong> — गलत! Everyone singular है → "Everyone is"</li>
+<li><strong>"Did went"</strong> — गलत! Did के साथ V1 → "Did go"</li>
+<li><strong>"More smarter"</strong> — गलत! Smarter already comparative है → "Smarter"</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jmi-class-6-entrance-2027-preparation-tips/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JMI Preparation Tips</h3>
+<p class="text-gray-600 text-xs">Complete syllabus breakdown</p>
+</a>
+<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack</h3>
+<p class="text-gray-600 text-xs">Aamir की English strategy</p>
+</a>
+<a href="/hi/blog/english-kamzor-bacche-entrance-exam-kaise-nikale/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English में कमजोर बच्चे</h3>
+<p class="text-gray-600 text-xs">5 तरीके जो काम करते हैं</p>
+</a>
+<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
+<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
+</a>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Final Study Advice</h3>
+<p>JMI English section mein full marks lana possible hai. <strong>Grammar rules yaad karo, daily 1 passage practice karo, aur vocabulary build karo.</strong> Rote learning se kuch nahi hoga — samajh ke padho, practice karo. <strong>Daily 30 minutes English zaroor padho!</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Aamir | JGPS English & Urdu Language Expert</p>
+</div>
+`,
     faqs: [
-      { question: "JMI English section में कितने marks चाहिए?", answer: "20 marks में से 16+ marks लाने चाहिए।" },
-      { question: "Passage comprehension कैसे improve करें?", answer: "Pehle questions padho, phir passage padho।" },
-      { question: "Grammar rules कहां से सीखें?", answer: "Wren & Martin, Norman Lewis।" },
-      { question: "JMI English में negative marking है?", answer: "नहीं, JMI entrance में negative marking नहीं है।" }
+      { question: "JMI English section में कितने marks चाहिए?", answer: "20 marks में से 16+ marks लाने चाहिए। Grammar rules याद करो और passage practice करो।" },
+      { question: "Passage comprehension कैसे improve करें?", answer: "Pehle questions padho, phir passage padho। Keywords underline karo। Daily 1 passage practice karo।" },
+      { question: "Grammar rules कहां से सीखें?", answer: "Wren & Martin, Norman Lewis, और JGPS coaching से।" },
+      { question: "JMI English में negative marking है?", answer: "नहीं, JMI entrance में negative marking नहीं है। सभी questions attempt करें।" }
     ]
   },
   {
