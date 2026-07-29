@@ -9180,6 +9180,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "Last Minute Form Panic Parenting Guide, Parent exam stress effect on children, How to keep child calm during entrance prep, Parent anxiety management JNVST",
     date: "29 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    readTime: "10 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -9222,15 +9223,21 @@ export const hindiArticles: HindiArticle[] = [
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Counselor Priya की 3-Step Strategy</h2>
 <div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
 <h3 class="font-bold text-gray-900 mb-3">Step 1: "28 November" पर Focus करो</h3>
-<p>Form deadline temporary है। Real goal 28 November का exam है। Form भरने के बाद बच्चे को exam preparation में लगाओ।</p>
+<p>Form deadline temporary है। Real goal 28 November का exam है। Form भरने के बाद बच्चे को exam preparation में लगाओ। JNVST 2027 में 80 प्रश्न आएंगे — Mental Ability (40), Arithmetic (20), Language (20)।</p>
 
 <h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Positive Language Use करो</h3>
 <p>❌ "जल्दी करो, deadline आ रही है!"</p>
 <p>✅ "चलो मिलकर form भरते हैं, तुम ये check करो, मैं ये करता हूं।"</p>
+<p>❌ "तूने अभी तक क्या किया?"</p>
+<p>✅ "कोई बात नहीं, अभी भी time है।"</p>
 
 <h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Success Celebrate करो</h3>
-<p>Form submit हो जाए तो "बहुत बढ़िया! अब 28 November की तैयारी शुरू करते हैं!" कहो।</p>
+<p>Form submit हो जाए तो "बहुत बढ़िया! अब 28 November की तैयारी शुरू करते हैं!" कहो। बच्चे को treat दो — ice cream, park जाओ, या favorite food बनाओ।</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">28 November की तैयारी कैसे शुरू करें?</h2>
+<p>Form भरने के बाद बच्चे को exam preparation में लगाओ। JNVST 2027 का pattern:</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Practice</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">20 questions</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">10 questions</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">20</td><td class="py-3 px-4">20</td><td class="py-3 px-4">10 questions</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
