@@ -9074,6 +9074,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST 2027 Headmaster Certificate Verification Check, Navodaya Class 6 headmaster certificate format PDF, Reasons for JNVST form rejection, School seal and principal signature on NVS form",
     date: "29 जुलाई 2026, दोपहर 3 बजे",
     modifiedDate: "29 जुलाई 2026, दोपहर 3 बजे",
+    readTime: "10 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -9123,6 +9124,19 @@ export const hindiArticles: HindiArticle[] = [
 <p><strong>Option 3:</strong> Photo resize करें — 50-200 KB, JPG format</p>
 <p><strong>Option 4:</strong> Correction window में re-upload करें (अगस्त 2026)</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Headmaster Certificate कैसे बनवाएं?</h2>
+<p>अगर आपके पास Headmaster Certificate नहीं है या गलत है, तो ये steps follow करें:</p>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> School office जाएं और Headmaster से मिलें</p>
+<p><strong>Step 2:</strong> बच्चे का नाम, DOB, और class बताएं</p>
+<p><strong>Step 3:</strong> Headmaster से certificate पर signature और stamp लगवाएं</p>
+<p><strong>Step 4:</strong> Certificate की clear photo खींचें या scan करें</p>
+<p><strong>Step 5:</strong> Photo को 50-200 KB में compress करें</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Document Re-upload Specifications</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">Size</th><th class="py-3 px-4 border-b font-bold text-white text-left">Format</th><th class="py-3 px-4 border-b font-bold text-white text-left">Compression Tool</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4 border-b">50-200 KB</td><td class="py-3 px-4 border-b">JPG/JPEG</td><td class="py-3 px-4 border-b">iloveimg.com</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Student Photo</td><td class="py-3 px-4 border-b">10-100 KB</td><td class="py-3 px-4 border-b">JPG/JPEG</td><td class="py-3 px-4 border-b">iloveimg.com</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Signature</td><td class="py-3 px-4">10-50 KB</td><td class="py-3 px-4">JPG/JPEG</td><td class="py-3 px-4">iloveimg.com</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
