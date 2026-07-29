@@ -9114,26 +9114,94 @@ export const hindiArticles: HindiArticle[] = [
   },
   {
     slug: "last-minute-form-panic-parenting-guide",
-    title: "Form Deadline Panic: Parents Ke Darr Ka Bacchon Par Asar",
-    description: "Last minute form panic — parents की anxiety बच्चों पर कैसे affect करती है।",
-    keywords: "last minute form panic parenting, parent anxiety child effect",
+    title: "Deadline Stress & Parenting: फॉर्म की आपाधापी का बच्चे पर असर और सही Approach",
+    description: "Last minute form panic — parents की anxiety बच्चों पर कैसे affect करती है और सही behavioral approach क्या है।",
+    keywords: "Last Minute Form Panic Parenting Guide, Parent exam stress effect on children, How to keep child calm during entrance prep, Parent anxiety management JNVST",
     date: "29 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
     authorRole: "Student Counselor",
-    authorBio: "Priya Verma child psychology में specialist हैं।",
-    readTime: "6 मिनट",
+    authorBio: "Priya Verma child psychology और exam stress management में specialist हैं।",
+    readTime: "7 मिनट",
     category: "पेरेंटिंग और काउंसलिंग",
     image: "https://img.jgps.in/blog/last-minute-form-panic-parenting-guide.webp",
-    imageAlt: "Last minute form panic parenting guide - parent anxiety child effect",
-    content: `<p><strong>Parent Anxiety</strong> बच्चों पर directly affect करती है। "जल्दी करो!" चिल्लाने से बच्चा और slow हो जाता है।</p><h2>Calm Approach: 5 Steps</h2><ul><li>खुद calm रहें</li><li>बच्चे से positive बात करें</li><li>Step-by-step approach</li><li>बच्चे को involve करें</li><li>Success celebrate करें</li></ul>`,
+    imageAlt: "Deadline stress parenting guide - parent anxiety child effect behavioral approach JNVST",
+    content: `<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Mindful Parenting Do's & Don'ts:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>✅ Do:</strong> "हम साथ हैं, मिलकर करते हैं" कहें</li>
+<li><strong>✅ Do:</strong> Step-by-step approach use करें</li>
+<li><strong>❌ Don't:</strong> "जल्दी करो!" चिल्लाएं नहीं</li>
+<li><strong>❌ Don't:</strong> बच्चे को दोष न दें</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Counselor Priya से संदेश:</p>
+<p>"मैंने कई parents को last-minute panic में देखा है। वो चिल्लाते हैं, घबराते हैं, और बच्चे पर pressure डालते हैं। लेकिन ये approach उल्टा पड़ता है। बच्चा और slow हो जाता है, गलतियां करता है, और confidence खो देता है।"</p>
+</div>
+
+<p><strong>Form Deadline Panic</strong> — JNVST 2027 की deadline 31 जुलाई है। अगर आपने अभी तक form नहीं भरा है, तो आपकी anxiety बच्चे पर directly affect करती है। बच्चा आपकी tension देखता है और खुद भी紧张 हो जाता है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How Parental Anxiety Traverses to a 10-Year-Old</h2>
+<p>10 साल के बच्चे बहुत sensitive होते हैं। वो आपकी हर expression पढ़ते हैं। अगर आप panic में हैं, तो बच्चा सोचता है: "कुछ बहुत गलत है।"</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Parent Behavior</th><th class="py-3 px-4 border-b font-bold text-white text-left">Child's Reaction</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">"जल्दी करो!" चिल्लाना</td><td class="py-3 px-4 border-b">बच्चा और slow हो जाता है</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">घबराकर form भरना</td><td class="py-3 px-4 border-b">बच्चा गलतियां करता है</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">"तूने अभी तक क्या किया?" पूछना</td><td class="py-3 px-4 border-b">बच्चा confidence खो देता है</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">शांत रहकर help करना</td><td class="py-3 px-4">बच्चा calm और focused रहता है</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4 Signs Your Child Is Overwhelmed</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>पेट में दर्द</strong> — Stress की वजह से stomach ache</li>
+<li><strong>नींद नहीं आना</strong> — रात को सो नहीं पाता</li>
+<li><strong>भूख नहीं लगना</strong> — खाना नहीं खाता</li>
+<li><strong>रोना</strong> — छोटी-छोटी बात पर रोना</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Counselor Priya की 3-Step Strategy</h2>
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Step 1: "28 November" पर Focus करो</h3>
+<p>Form deadline temporary है। Real goal 28 November का exam है। Form भरने के बाद बच्चे को exam preparation में लगाओ।</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Positive Language Use करो</h3>
+<p>❌ "जल्दी करो, deadline आ रही है!"</p>
+<p>✅ "चलो मिलकर form भरते हैं, तुम ये check करो, मैं ये करता हूं।"</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Success Celebrate करो</h3>
+<p>Form submit हो जाए तो "बहुत बढ़िया! अब 28 November की तैयारी शुरू करते हैं!" कहो।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/bacche-ko-boarding-school-mein-adjust-kaise-karayein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Boarding School Adjustment</h3>
+<p class="text-gray-600 text-xs">बच्चे को hostel life के लिए तैयार करें</p>
+</a>
+<a href="/hi/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Exam Stress कम करें</h3>
+<p class="text-gray-600 text-xs">बच्चे का stress handle करें</p>
+</a>
+<a href="/hi/blog/entrance-exam-me-bachcha-fail-ho-gaya-ab-kya-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Exam में Fail हो गया</h3>
+<p class="text-gray-600 text-xs">5 alternative options</p>
+</a>
+<a href="/hi/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">पहली कक्षा से पहले</h3>
+<p class="text-gray-600 text-xs">बच्चे को क्या सिखाएं</p>
+</a>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Reassuring Parenting Words</h3>
+<p>Form deadline temporary है। <strong>बच्चे का confidence permanent है।</strong> अगर आप panic में हैं, तो बच्चा panic में आएगा। अगर आप calm हैं, तो बच्चा calm रहेगा। <strong>आज शांत रहो, form भरो, और 28 November की तैयारी शुरू करो।</strong></p>
+<p class="mt-2 text-sm text-gray-500">Author: Priya Verma | JGPS Student Counselor | Child Psychology Specialist</p>
+</div>
+`,
     faqs: [
-      { question: "Parent anxiety बच्चे को कैसे affect करती है?", answer: "बच्चा紧张 हो जाता है, focus खो देता है।" },
-      { question: "Form deadline panic में क्या करें?", answer: "Deep breath लें, calm रहें।" },
-      { question: "बच्चा form भरते समय nervous है?", answer: "बच्चे को reassure करें।" },
-      { question: "Deadline miss हो गई तो बच्चे को कैसे बताएं?", answer: "Honest रहें लेकिन positive रहें।" }
+      { question: "Parent anxiety बच्चे को कैसे affect करती है?", answer: "बच्चा紧张 हो जाता है, focus खो देता है, और physically भी affect होता है (pet dard, headache)।" },
+      { question: "Form deadline panic में क्या करें?", answer: "Deep breath लें, calm रहें, step-by-step approach use करें। बच्चे से positive बात करें।" },
+      { question: "बच्चा form भरते समय nervous है?", answer: "बच्चे को reassure करें: 'हम साथ हैं, मिलकर करते हैं।' Pressure मत डालें।" },
+      { question: "Deadline miss हो गई तो बच्चे को कैसे बताएं?", answer: "Honest रहें लेकिन positive रहें: 'कोई बात नहीं, और भी options हैं।'" }
     ]
   },
   {
