@@ -10318,6 +10318,81 @@ export const hindiArticles: HindiArticle[] = [
       { question: "बच्चा form भरते समय nervous है?", answer: "बच्चे को reassure करें: 'हम साथ हैं, मिलकर करते हैं।' Pressure मत डालें।" },
       { question: "Deadline miss हो गई तो बच्चे को कैसे बताएं?", answer: "Honest रहें लेकिन positive रहें: 'कोई बात नहीं, और भी options हैं।'" }
     ]
+  },
+  {
+    slug: "amu-class-6-math-aptitude-preparation-2027",
+    title: "AMU Class 6 Entrance 2027: Math & Numerical Aptitude Ki Zero-Level Se Taiyari",
+    description: "AMU Class 6 Math preparation 2027 — zero level se shuru karein, important topics, shortcuts, aur practice strategy।",
+    keywords: "AMU Class 6 math preparation 2027, AMU entrance numerical aptitude, AMU math important topics, AMU Class 6 math shortcuts",
+    date: "29 जुलाई 2026, दोपहर 4 बजे",
+    modifiedDate: "29 जुलाई 2026, दोपहर 4 बजे",
+    author: "Sameer",
+    authorName: "Sameer",
+    authorSlug: "sameer",
+    authorRole: "Entrance Exam Coach, JGPS",
+    authorBio: "Sameer JGPS में entrance exam coaching देते हैं। 8+ साल के experience के साथ AMU, JMI की तैयारी कराते हैं।",
+    readTime: "8 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/amu-class-6-math-aptitude-preparation-2027.webp",
+    imageAlt: "AMU Class 6 Math aptitude preparation 2027 - zero level se taiyari important topics shortcuts",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Overview:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>AMU Math Weightage:</strong> 25 marks out of 100</li>
+<li><strong>Key Topics:</strong> Number System, Fractions, Percentage, Geometry, Word Problems</li>
+<li><strong>Preparation Time:</strong> 3-4 months (zero level se)</li>
+<li><strong>Daily Practice:</strong> 1 hour Math roz karein</li>
+</ul>
+</div>
+
+<p><strong>AMU Class 6 Math Preparation 2027</strong> — agar aapka baccha Math mein weak hai, toh chinta mat karo. AMU entrance exam mein Math section Class 5 level ka hai. Zero level se bhi 3-4 months mein crack kiya ja sakta hai.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Math Important Topics</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Difficulty</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Number System</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b">Easy</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Fractions & Decimals</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">Medium</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">Medium</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Geometry</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">Medium</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Word Problems</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">Hard</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Data Interpretation</td><td class="py-3 px-4">2-3</td><td class="py-3 px-4">Medium</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Zero-Level Se Math Preparation Strategy</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Week 1-2:</strong> Tables 1-20 yaad karein, Basic operations (Add, Subtract, Multiply, Divide)</p>
+<p><strong>Week 3-4:</strong> Fractions, Decimals, Place Value</p>
+<p><strong>Week 5-6:</strong> Percentage, Average, Ratio</p>
+<p><strong>Week 7-8:</strong> Geometry (Shapes, Area, Perimeter)</p>
+<p><strong>Week 9-10:</strong> Word Problems practice</p>
+<p><strong>Week 11-12:</strong> Mock Tests + Revision</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Sameer के Math Shortcuts</h2>
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Percentage Shortcuts:</p>
+<p>25% = 1/4, 50% = 1/2, 75% = 3/4, 10% = 1/10</p>
+<p>Ye 4 values yaad rakho — 80% problems yahi se aati hain.</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/amu-class-6-entrance-2027-important-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Important Questions</h3>
+<p class="text-gray-600 text-xs">30+ questions with answers</p>
+</a>
+<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack</h3>
+<p class="text-gray-600 text-xs">Aamir की English strategy</p>
+</a>
+<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
+<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
+</a>
+<a href="/hi/blog/amu-class-6-syllabus-2027-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU Syllabus 2027</h3>
+<p class="text-gray-600 text-xs">पूरा syllabus Hindi में</p>
+</a>
+</div>
+`,
+    faqs: [
+      { question: "AMU Class 6 Math में कौन से topics सबसे important हैं?", answer: "Number System, Fractions, Percentage, Geometry, और Word Problems — ये 5 topics सबसे ज्यादा questions देते हैं।" },
+      { question: "Zero level se AMU Math crack कर सकते हैं?", answer: "हां, 3-4 months की focused preparation से। Tables याद करो, basics clear करो, और daily practice करो।" },
+      { question: "AMU Math में कितने marks चाहिए?", answer: "25 marks में से 15+ marks लाने चाहिए। Total 100 marks में से 50+ safe score है।" },
+      { question: "Math shortcuts कहां से सीखें?", answer: "R.S. Aggarwal Quantitative Aptitude, YouTube Math channels, और JGPS coaching से।" }
+    ]
   }
 ];
 
