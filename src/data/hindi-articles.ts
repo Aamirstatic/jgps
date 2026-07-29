@@ -9611,6 +9611,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "AISSEE 2027 Sainik School GK Top Scoring Topics, Sainik school class 6 GK syllabus 2027, How to score full marks in AISSEE GK, Sainik school general knowledge important questions",
     date: "29 जुलाई 2026, शाम 5 बजकर 30 मिनट",
     modifiedDate: "29 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    readTime: "12 मिनट",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -9661,10 +9662,22 @@ export const hindiArticles: HindiArticle[] = [
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Ravi Prakash की 15-Minute Daily GK Habit</h2>
 <div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Morning (5 minutes):</strong> Newspaper headlines padho</p>
-<p><strong>Afternoon (5 minutes):</strong> 5 new GK questions yaad karo</p>
-<p><strong>Evening (5 minutes):</strong> Previous day ka GK revision karo</p>
+<p><strong>Morning (5 minutes):</strong> Newspaper headlines padho — 2-3 important news items note karo</p>
+<p><strong>Afternoon (5 minutes):</strong> 5 new GK questions yaad karo — static GK se</p>
+<p><strong>Evening (5 minutes):</strong> Previous day ka GK revision karo — jo padha wo dobara padho</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE GK Preparation Books</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Author</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best For</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Lucent GK (Junior)</td><td class="py-3 px-4 border-b">Lucent</td><td class="py-3 px-4 border-b">Static GK</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AISSEE GK Guide</td><td class="py-3 px-4 border-b">Arihant</td><td class="py-3 px-4 border-b">Previous year questions</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">General Knowledge 2026</td><td class="py-3 px-4 border-b">Manohar Pandey</td><td class="py-3 px-4 border-b">Current affairs</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JGPS Weekly GK Notes</td><td class="py-3 px-4">Ravi Prakash</td><td class="py-3 px-4">Weekly updates</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important Indian Armed Forces Facts</h2>
+<p>Sainik School entrance exam में Indian Armed Forces से related questions आते हैं:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Indian Army:</strong> Largest component, Chief of Army Staff</li>
+<li><strong>Indian Navy:</strong> Maritime security, Chief of Naval Staff</li>
+<li><strong>Indian Air Force:</strong> Air operations, Chief of Air Staff</li>
+<li><strong>National Cadet Corps (NCC):</strong> Youth wing of Indian Armed Forces</li>
+</ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
