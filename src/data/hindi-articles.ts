@@ -9505,6 +9505,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "Class 5 School Syllabus Entrance Prep Balance, How to balance Class 5 studies with Navodaya prep, School homework vs entrance exam time table, Primary school study routine",
     date: "29 जुलाई 2026, शाम 5 बजे",
     modifiedDate: "29 जुलाई 2026, शाम 5 बजे",
+    readTime: "10 मिनट",
     author: "Nisha",
     authorName: "Nisha",
     authorSlug: "nisha",
@@ -9556,6 +9557,19 @@ export const hindiArticles: HindiArticle[] = [
 <li><strong>No Overburdening:</strong> 4 hours daily se zyada mat padhao — burnout hoga</li>
 </ul>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Burnout Prevention Signs</h2>
+<p>अगर बच्चा ये signs दिखा रहा है, तो study time कम करें:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>पढ़ाई से भागना</strong> — "मुझे नहीं पढ़ना" कहना</li>
+<li><strong>नींद नहीं आना</strong> — रात को सो नहीं पाना</li>
+<li><strong>भूख नहीं लगना</strong> — खाना नहीं खाना</li>
+<li><strong>रोना</strong> — छोटी-छोटी बात पर रोना</li>
+<li><strong>शिकायत करना</strong> — "बहुत ज्यादा पढ़ाई है" कहना</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Entrance Exam Preparation Books for Class 5</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best For</th><th class="py-3 px-4 border-b font-bold text-white text-left">Price</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">NCERT Class 4 & 5 EVS</td><td class="py-3 px-4 border-b">EVS basics</td><td class="py-3 px-4 border-b">₹50-100</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">NCERT Class 4 & 5 Math</td><td class="py-3 px-4 border-b">Math basics</td><td class="py-3 px-4 border-b">₹50-100</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Lucent GK (Junior)</td><td class="py-3 px-4 border-b">General Knowledge</td><td class="py-3 px-4 border-b">₹150-200</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JNVST Practice Sets</td><td class="py-3 px-4">Mock tests</td><td class="py-3 px-4">₹200-300</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
