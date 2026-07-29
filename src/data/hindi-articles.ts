@@ -9593,26 +9593,115 @@ export const hindiArticles: HindiArticle[] = [
   },
   {
     slug: "jnvst-28-november-120-days-active-recall-tracker",
-    title: "28 November JNVST Exam: 120-Day Active Recall Study Schedule",
-    description: "JNVST 2027 exam 28 November ko hai — 120 days ka complete active recall study schedule।",
-    keywords: "JNVST 28 November 120 days study schedule, JNVST active recall tracker",
+    title: "28 November JNVST Exam: 120-Day Active Recall Study Schedule और Final Tracker",
+    description: "JNVST 2027 exam 28 November ko hai — 120 days ka complete active recall study schedule, day-wise tracker, aur Neha Singh ki proven strategy।",
+    keywords: "JNVST 28 November 120 Days Active Recall Tracker, Navodaya exam 28 November study plan, 120 days countdown strategy for JNVST 2027, Active recall technique for Class 5 students",
     date: "29 जुलाई 2026, शाम 6 बजे",
     modifiedDate: "29 जुलाई 2026, शाम 6 बजे",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
     authorRole: "Study Habits Expert",
-    authorBio: "Neha Singh JGPS में study habits expert हैं।",
-    readTime: "10 मिनट",
+    authorBio: "Neha Singh JGPS में study habits और student productivity expert हैं। Pomodoro, Active Recall, और Spaced Repetition techniques से students को efficient बनाती हैं।",
+    readTime: "12 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-28-november-120-days-active-recall-tracker.webp",
-    imageAlt: "JNVST 28 November 120 days active recall study schedule",
-    content: `<p><strong>120-Day Countdown</strong> — 29 July se 28 November tak। Daily 3-4 ghante focused study se selection pakka hai।</p><h2>Month-wise Plan</h2><ul><li>August: Syllabus Complete</li><li>September: Concept Strengthening</li><li>October: Practice Sets</li><li>November: Mock Tests + Revision</li></ul><h2>Active Recall Method</h2><p>Padhne ke baad kitab band karo aur jo padha wo likho। Ye 3x effective hai।</p>`,
+    imageAlt: "JNVST 28 November 120 days active recall study schedule - day-wise tracker Neha Singh strategy",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">120-Day Master Tracker Summary:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Days Remaining:</strong> 120 days (29 July → 28 November)</li>
+<li><strong>Exam Date:</strong> 28 November 2026</li>
+<li><strong>Daily Study:</strong> 3-4 hours (school ke baad)</li>
+<li><strong>Method:</strong> Active Recall + Spaced Repetition</li>
+<li><strong>Weekly Mock Test:</strong> Every Sunday</li>
+</ul>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Neha Singh से संदेश:</p>
+<p>"Maine sauon students ko JNVST ki tayyari karwayi hai. Sabse bada raaz hai — daily consistency. Roz 3-4 ghante focused study karo Active Recall method se, toh selection pakka hai. 120 din bahut time hai agar sahi strategy se padho."</p>
+</div>
+
+<p><strong>28 November JNVST Exam: 120-Day Study Schedule</strong> — aaj 29 July hai aur exam 28 November ko hai. Exactly 120 din baaki hain. Agar daily 3-4 ghante focused study karo Active Recall method se, toh selection pakka hai.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">120-Day Phase-Wise Execution Plan</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Phase</th><th class="py-3 px-4 border-b font-bold text-white text-left">Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Milestone</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Phase 1</td><td class="py-3 px-4 border-b">August (Day 1-31)</td><td class="py-3 px-4 border-b">Syllabus Complete</td><td class="py-3 px-4 border-b">3 hours</td><td class="py-3 px-4 border-b">All topics covered</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Phase 2</td><td class="py-3 px-4 border-b">September (Day 32-61)</td><td class="py-3 px-4 border-b">Concept Strengthening</td><td class="py-3 px-4 border-b">3 hours</td><td class="py-3 px-4 border-b">Weak areas fixed</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Phase 3</td><td class="py-3 px-4 border-b">October (Day 62-92)</td><td class="py-3 px-4 border-b">Practice Sets</td><td class="py-3 px-4 border-b">3.5 hours</td><td class="py-3 px-4 border-b">Daily 1 practice set</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Phase 4</td><td class="py-3 px-4">November (Day 93-120)</td><td class="py-3 px-4">Mock Tests + Revision</td><td class="py-3 px-4">4 hours</td><td class="py-3 px-4">Weekly mock test</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How Active Recall Works for JNVST</h2>
+<p>Active Recall sabse effective study method hai. Isme:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Padhne ke baad kitab band karo</strong> — jo padha wo likho</li>
+<li><strong>Yaad nahi aa raha?</strong> — dobara padho, phir try karo</li>
+<li><strong>Ye method 3x effective hai</strong> — sirf padhne se</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Day-Wise Active Recall Tracker</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Monday:</strong> Mental Ability (Figure Series, Mirror Image) — 1 hour</p>
+<p><strong>Tuesday:</strong> Mathematics (Number System, Fractions) — 1 hour</p>
+<p><strong>Wednesday:</strong> Language (Grammar, Vocabulary) — 1 hour</p>
+<p><strong>Thursday:</strong> Mental Ability (Coding, Analogy) — 1 hour</p>
+<p><strong>Friday:</strong> Mathematics (Percentage, Geometry) — 1 hour</p>
+<p><strong>Saturday:</strong> Revision + Previous Week's Learning — 2 hours</p>
+<p><strong>Sunday:</strong> Mock Test + Analysis — 2 hours</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Spaced Repetition Schedule</h2>
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">Neha Singh's Golden Rule:</p>
+<p>Ek topic padhne ke baad:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Agla din:</strong> 1st revision</li>
+<li><strong>3 din baad:</strong> 2nd revision</li>
+<li><strong>7 din baad:</strong> 3rd revision</li>
+<li><strong>15 din baad:</strong> 4th revision</li>
+</ul>
+<p class="mt-2">Isse memory mein long-term store hota hai.</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Neha Singh's Daily 2-Hour High-Efficiency Routine</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>First 25 minutes:</strong> Active Recall — Previous day ka revision (kitab band karo, likho)</p>
+<p><strong>5 minute break:</strong> Walk, stretch, water</p>
+<p><strong>Next 25 minutes:</strong> New topic padho (Mental Ability/Math/Language)</p>
+<p><strong>5 minute break:</strong> Walk, stretch, water</p>
+<p><strong>Next 25 minutes:</strong> Practice questions solve karo</p>
+<p><strong>5 minute break:</strong> Walk, stretch, water</p>
+<p><strong>Last 25 minutes:</strong> Flashcards / Self-quizzing</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jnvst-2027-4-month-study-plan-time-table/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">4-Month Study Plan</h3>
+<p class="text-gray-600 text-xs">Daily time table</p>
+</a>
+<a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
+<p class="text-gray-600 text-xs">Practice questions with answers</p>
+</a>
+<a href="/hi/blog/active-recall-spaced-repetition-padhai-topper-trick/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">Active Recall Technique</h3>
+<p class="text-gray-600 text-xs">Topper's study trick</p>
+</a>
+<a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
+<p class="text-gray-600 text-xs">80 questions, new pattern</p>
+</a>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Countdown Encouragement</h3>
+<p>120 din baaki hain — ye bahut time hai agar sahi strategy se padho. <strong>Roz 3-4 ghante focused study karo, Active Recall use karo, Spaced Repetition follow karo, aur weekly mock tests do.</strong> Tum kar sakte ho!</p>
+<p class="mt-2 text-sm text-gray-500">Author: Neha Singh | JGPS Study Habits Expert | Pomodoro & Active Recall Specialist</p>
+</div>
+`,
     faqs: [
-      { question: "120 din mein JNVST crack kar sakte hain?", answer: "Haan, daily 3-4 ghante focused study se।" },
-      { question: "Active Recall kaise karein?", answer: "Padhne ke baad kitab band karo aur likho।" },
-      { question: "Spaced Repetition kya hai?", answer: "1 din, 3 din, 7 din, 15 din baad revision karo।" },
-      { question: "Daily kitne ghante padhna chahiye?", answer: "3-4 ghante kaafi hai।" }
+      { question: "120 din mein JNVST crack kar sakte hain?", answer: "Haan, agar daily 3-4 ghante focused study karo Active Recall method se. Consistency sabse zaroori hai." },
+      { question: "Active Recall kaise karein?", answer: "Padhne ke baad kitab band karo aur jo padha wo likho. Yaad nahi aa raha toh dobara padho." },
+      { question: "Spaced Repetition kya hai?", answer: "Ek topic padhne ke baad 1 din, 3 din, 7 din, 15 din baad revision karo. Isse memory mein long-term store hota hai." },
+      { question: "Daily kitne ghante padhna chahiye?", answer: "School ke baad 3-4 ghante kaafi hai. Isse zyada padhane se baccha burnout hoga." }
     ]
   }
 ];
