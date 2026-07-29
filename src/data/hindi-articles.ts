@@ -10393,6 +10393,90 @@ export const hindiArticles: HindiArticle[] = [
       { question: "AMU Math में कितने marks चाहिए?", answer: "25 marks में से 15+ marks लाने चाहिए। Total 100 marks में से 50+ safe score है।" },
       { question: "Math shortcuts कहां से सीखें?", answer: "R.S. Aggarwal Quantitative Aptitude, YouTube Math channels, और JGPS coaching से।" }
     ]
+  },
+  {
+    slug: "jmi-class-6-entrance-english-scoring-rules",
+    title: "JMI Class 6 Entrance 2027: Passage & Grammar Scoring Rules",
+    description: "JMI Class 6 English scoring rules — passage comprehension, grammar tricks, aur full marks lाने की strategy।",
+    keywords: "JMI Class 6 English scoring rules, JMI entrance passage comprehension, JMI grammar tricks, JMI English full marks strategy",
+    date: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
+    modifiedDate: "29 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
+    author: "Aamir",
+    authorName: "Aamir",
+    authorSlug: "aamir",
+    authorRole: "English & Urdu Language Expert, JGPS",
+    authorBio: "Aamir JGPS में English और Urdu language preparation कराते हैं। AMU, JMI entrance exams के language section में expert हैं।",
+    readTime: "7 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jmi-class-6-entrance-english-scoring-rules.webp",
+    imageAlt: "JMI Class 6 Entrance 2027 English scoring rules - passage comprehension grammar tricks full marks strategy",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Scoring Rules:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>English Weightage:</strong> 20 marks out of 100</li>
+<li><strong>Key Areas:</strong> Grammar (10 marks), Passage (6 marks), Vocabulary (4 marks)</li>
+<li><strong>Scoring Target:</strong> 16+ marks (80%+)</li>
+<li><strong>Time Allocation:</strong> 20 minutes for English section</li>
+</ul>
+</div>
+
+<p><strong>JMI Class 6 English Scoring Rules</strong> — English section JMI entrance exam mein sabse scoring section hai. Agar grammar rules yaad hain aur passage comprehension ki practice hai, toh 16+ marks lana easy hai.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Grammar Scoring Rules</h2>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>Tenses:</strong> Present, Past, Future — teeno ka rules yaad karo</li>
+<li><strong>Articles:</strong> A/An/The — vowel sound pe "An", consonant pe "A"</li>
+<li><strong>Prepositions:</strong> At/In/On — time ke liye "At", jagah ke liye "In", surface ke liye "On"</li>
+<li><strong>Subject-Verb Agreement:</strong> Singular subject + Singular verb</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Passage Comprehension Tips</h2>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>Pehle questions padho</strong> — passage se pehle questions padho</li>
+<li><strong>Keywords underline karo</strong> — passage mein important words mark karo</li>
+<li><strong>Pehla aur aakhri paragraph</strong> — yahan main idea hota hai</li>
+<li><strong>Synonyms se answer dhundho</strong> — question aur passage mein same meaning ke words hote hain</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Vocabulary Scoring Tips</h2>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>Daily 5 new words seekho</strong> — synonyms + antonyms dono</li>
+<li><strong>One-Word Substitution yaad karo</strong> — Bibliophile, Somnambulist, etc.</li>
+<li><strong>Idioms seekho</strong> — Break the ice, A piece of cake, etc.</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
+<a href="/hi/blog/jmi-class-6-entrance-2027-preparation-tips/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">JMI Preparation Tips</h3>
+<p class="text-gray-600 text-xs">Complete syllabus breakdown</p>
+</a>
+<a href="/hi/blog/amu-jmi-entrance-2027-english-section-crack-kaise-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English Section Crack</h3>
+<p class="text-gray-600 text-xs">Aamir की English strategy</p>
+</a>
+<a href="/hi/blog/english-kamzor-bacche-entrance-exam-kaise-nikale/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">English में कमजोर बच्चे</h3>
+<p class="text-gray-600 text-xs">5 तरीके जो काम करते हैं</p>
+</a>
+<a href="/hi/blog/amu-vs-jmi-2027-complete-comparison/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU vs JMI 2027</h3>
+<p class="text-gray-600 text-xs">कौन सा बेहतर है?</p>
+</a>
+</div>
+`,
+    faqs: [
+      { question: "JMI English section में कितने marks चाहिए?", answer: "20 marks में से 16+ marks लाने चाहिए। Grammar rules याद करो और passage practice करो।" },
+      { question: "Passage comprehension कैसे improve करें?", answer: "Pehle questions padho, phir passage padho। Keywords underline karo। Daily 1 passage practice karo।" },
+      { question: "Grammar rules कहां से सीखें?", answer: "Wren & Martin, Norman Lewis, और JGPS coaching से।" },
+      { question: "JMI English में negative marking है?", answer: "नहीं, JMI entrance में negative marking नहीं है।" }
+    ]
   }
 ];
 
