@@ -9719,6 +9719,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST 28 November 120 Days Active Recall Tracker, Navodaya exam 28 November study plan, 120 days countdown strategy for JNVST 2027, Active recall technique for Class 5 students",
     date: "29 जुलाई 2026, शाम 6 बजे",
     modifiedDate: "29 जुलाई 2026, शाम 6 बजे",
+    readTime: "14 मिनट",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -9790,6 +9791,22 @@ export const hindiArticles: HindiArticle[] = [
 <p><strong>Next 25 minutes:</strong> Practice questions solve karo</p>
 <p><strong>5 minute break:</strong> Walk, stretch, water</p>
 <p><strong>Last 25 minutes:</strong> Flashcards / Self-quizzing</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">OMR Sheet Practice Schedule</h2>
+<p>JNVST exam में OMR sheet use होती है। बच्चे को OMR filling practice कराना ज़रूरी है:</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">OMR Practice</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1-2</td><td class="py-3 px-4 border-b">10 questions daily</td><td class="py-3 px-4 border-b">Bubbling technique</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3-4</td><td class="py-3 px-4 border-b">20 questions daily</td><td class="py-3 px-4 border-b">Speed building</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Month 2</td><td class="py-3 px-4 border-b">30 questions daily</td><td class="py-3 px-4 border-b">Accuracy improvement</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Month 3</td><td class="py-3 px-4 border-b">Full mock test</td><td class="py-3 px-4 border-b">Exam simulation</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Month 4</td><td class="py-3 px-4">Full mock test</td><td class="py-3 px-4">Final preparation</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Study Material Checklist</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Must-Have:</strong></p>
+<ul class="list-disc pl-5 space-y-2">
+<li>NCERT Class 4 & 5 books (Math, EVS, English)</li>
+<li>JNVST Previous Year Papers (5 years)</li>
+<li>OMR Sheet templates (for practice)</li>
+<li>GK book (Lucent Junior)</li>
+<li>Notebook for Active Recall practice</li>
+</ul>
 </div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
