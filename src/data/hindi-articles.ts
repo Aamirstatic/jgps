@@ -10208,6 +10208,788 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Baccha phone nahi chhod raha toh kya karein?", answer: "Physical books kharido, flashcards banao, sath mein padho. Gradually screen time kam karo — ekdum band mat karo." },
       { question: "Kitna screen time Class 5 student ke liye safe hai?", answer: "Study ke liye 30-60 minutes daily kaafi hai. Entertainment ke liye 30 minutes. Total 1.5-2 hours se zyada nahi." }
     ]
+  },
+  {
+    slug: "jnvst-2027-result-date-check-kaise-karein",
+    title: "JNVST 2027 Result Date: Navodaya Class 6 Result कब आएगा? ऐसे Check करें",
+    description: "JNVST 2027 result date — Navodaya Class 6 result kab aayega aur kaise check karein। Complete guide for parents and students।",
+    keywords: "JNVST 2027 Result Date, Navodaya Class 6 result kab aayega, JNVST result check kaise karein",
+    date: "30 जुलाई 2026, सुबह 8 बजे",
+    modifiedDate: "30 जुलाई 2026, सुबह 8 बजे",
+    readTime: "6 मिनट",
+    author: "Rifaul Hasan",
+    authorName: "Rifaul Hasan",
+    authorSlug: "rifaul-hasan",
+    authorRole: "Principal & Academic Expert",
+    authorBio: "Rifaul Hasan has over 15 years of experience guiding students for competitive exams.",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-result-date-check-kaise-karein.webp",
+    imageAlt: "JNVST 2027 result date - Navodaya Class 6 result kab aayega check kaise karein",
+    content: `<p><strong>JNVST 2027 Result</strong> मार्च-अप्रैल 2027 में आने की संभावना है। रिजल्ट navodaya.gov.in पर जारी होगा।</p>
+
+<h2>Result Check कैसे करें?</h2>
+<ul class="list-decimal pl-6 space-y-2">
+<li>navodaya.gov.in पर जाएं</li>
+<li>"JNVST 2027 Result" लिंक पर क्लिक करें</li>
+<li>Registration Number और Date of Birth दर्ज करें</li>
+<li>Result देखें और print निकालें</li>
+</ul>
+
+<h2>Expected Cut Off Marks</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Category</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Cut Off</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">General</td><td class="py-3 px-4 border-b">55-62</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">OBC</td><td class="py-3 px-4 border-b">50-57</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">SC</td><td class="py-3 px-4 border-b">45-52</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">ST</td><td class="py-3 px-4">40-47</td></tr></tbody></table></div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Result check में help चाहिए?</h3><p><strong>JGPS School</strong> में Rifaul Hasan से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "JNVST 2027 result kab aayega?", answer: "March-April 2027 mein expected hai." },
+      { question: "Result kaise check karein?", answer: "navodaya.gov.in par Registration Number aur DOB se check karein." },
+      { question: "Cut off kitni hogi?", answer: "General: 55-62, OBC: 50-57, SC: 45-52, ST: 40-47 expected hai." },
+      { question: "Result ke baad kya karein?", answer: "Counseling mein participate karein aur documents ready rakhein." }
+    ]
+  },
+  {
+    slug: "sainik-school-aissee-2027-exam-date-schedule",
+    title: "Sainik School AISSEE 2027 Exam Date: January 2027 में होगी परीक्षा — पूरा Schedule",
+    description: "AISSEE 2027 exam date January 2027 mein expected hai। Complete schedule, eligibility, aur preparation tips।",
+    keywords: "Sainik School AISSEE 2027 Exam Date, AISSEE 2027 January exam schedule, Sainik School entrance exam date 2027",
+    date: "30 जुलाई 2026, सुबह 8 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, सुबह 8 बजकर 30 मिनट",
+    readTime: "7 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/sainik-school-aissee-2027-exam-date-schedule.webp",
+    imageAlt: "Sainik School AISSEE 2027 exam date - January 2027 schedule eligibility",
+    content: `<p><strong>AISSEE 2027 Exam Date</strong> जनवरी 2027 में expected है। NTA (National Testing Agency) ये exam conduct करता है।</p>
+
+<h2>Expected Schedule</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form Start</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Last Date</td><td class="py-3 px-4 border-b">Nov 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">Jan 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">Feb-Mar 2027</td></tr></tbody></table></div>
+
+<h2>Eligibility</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Class 6:</strong> Age 10-12 years (as on 31 March 2027)</li>
+<li><strong>Class 9:</strong> Age 13-15 years (as on 31 March 2027)</li>
+<li><strong>Nationality:</strong> Indian citizen</li>
+</ul>
+`,
+    faqs: [
+      { question: "AISSEE 2027 exam kab hoga?", answer: "January 2027 mein expected hai." },
+      { question: "Form kab aayega?", answer: "September-October 2026 mein expected hai." },
+      { question: "Age limit kya hai?", answer: "Class 6 ke liye 10-12 years, Class 9 ke liye 13-15 years." },
+      { question: "Girls apply kar sakti hain?", answer: "Haan, 10% seats girls ke liye reserved hain." }
+    ]
+  },
+  {
+    slug: "navodaya-school-mein-hostel-life-kaisi-hoti-hai",
+    title: "Navodaya School Mein Hostel Life Kaisi Hoti Hai? — Daily Routine aur Facilities",
+    description: "Navodaya school hostel life — daily routine, food, facilities, safety aur parent meeting rules। Complete guide for parents।",
+    keywords: "Navodaya school hostel life kaisi hoti hai, JNV daily routine, Navodaya school facilities",
+    date: "30 जुलाई 2026, सुबह 9 बजे",
+    modifiedDate: "30 जुलाई 2026, सुबह 9 बजे",
+    readTime: "8 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-mein-hostel-life-kaisi-hoti-hai.webp",
+    imageAlt: "Navodaya school hostel life - daily routine food facilities safety parent meeting",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Overview:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>100% Free Education:</strong> पढ़ाई, हॉस्टल, खाना, किताबें — सब मुफ्त</li>
+<li><strong>24/7 Security:</strong> CCTV, warden, medical facility</li>
+<li><strong>Daily Routine:</strong> सुबह 5 बजे PT से रात 10 बजे lights out</li>
+<li><strong>Parent Meeting:</strong> हर महीने एक बार</li>
+</ul>
+</div>
+
+<h2>Daily Time Table</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 AM</td><td class="py-3 px-4 border-b">Wake up + PT</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 AM</td><td class="py-3 px-4 border-b">Breakfast</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 AM - 1:30 PM</td><td class="py-3 px-4 border-b">Classes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">1:30 PM</td><td class="py-3 px-4 border-b">Lunch</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Sports</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:30 - 7:30 PM</td><td class="py-3 px-4 border-b">Study Hour</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 PM</td><td class="py-3 px-4 border-b">Dinner</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">10:00 PM</td><td class="py-3 px-4">Lights Out</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Navodaya school mein khana kaisa hota hai?", answer: "Nutritious hota hai — breakfast, lunch, snacks, dinner sab milta hai." },
+      { question: "Parents kab mil sakte hain?", answer: "Har mahine ke pehle Sunday ko meeting hoti hai." },
+      { question: "Phone use kar sakte hain?", answer: "Personal phone nahi milta. Warden ki permission se parents se baat karwa sakte hain." },
+      { question: "Safety kaisi hai?", answer: "24/7 CCTV, warden, medical facility — bahut safe hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-exam-day-tips-checklist",
+    title: "JNVST 2027 Exam Day: परीक्षा वाले दिन क्या करें? Complete Checklist",
+    description: "JNVST 2027 exam day tips — kya leke jayein, kya na le jayein, time management, aur last minute revision strategy।",
+    keywords: "JNVST 2027 exam day tips, Navodaya exam day checklist, JNVST kya leke jayein",
+    date: "30 जुलाई 2026, सुबह 9 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, सुबह 9 बजकर 30 मिनट",
+    readTime: "6 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-exam-day-tips-checklist.webp",
+    imageAlt: "JNVST 2027 exam day tips - kya leke jayein time management checklist",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Exam Day Checklist:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Admit Card</strong> — 2 color printouts</li>
+<li><strong>Aadhaar Card</strong> — original + photocopy</li>
+<li><strong>Passport Photos</strong> — 2 extra</li>
+<li><strong>Blue/Black Ball Pen</strong> — OMR filling ke liye</li>
+<li><strong>Water Bottle</strong> — transparent</li>
+</ul>
+</div>
+
+<h2>Time Management Strategy</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Strategy</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Pehle easy questions karo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">35 min</td><td class="py-3 px-4 border-b">Shortcuts use karo</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">25 min</td><td class="py-3 px-4">Comprehension pehle padho</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Exam day kya leke jayein?", answer: "Admit Card, Aadhaar, photos, ball pen, water bottle." },
+      { question: "Kitna time pehle pahunchna hai?", answer: "30 minutes pehle pahunchna hai." },
+      { question: "Mobile le ja sakte hain?", answer: "Nahi, mobile allowed nahi hai." },
+      { question: "Pehle kaun sa section karein?", answer: "Mental Ability pehle karo — sabse zyada marks hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-admit-card-download-problems-solutions",
+    title: "JNVST 2027 Admit Card Download Problems: Server Error & Solutions",
+    description: "JNVST 2027 admit card download problems — server error, photo not showing, wrong details aur solutions।",
+    keywords: "JNVST 2027 admit card download problems, Navodaya admit card server error, JNVST admit card solution",
+    date: "30 जुलाई 2026, सुबह 10 बजे",
+    modifiedDate: "30 जुलाई 2026, सुबह 10 बजे",
+    readTime: "6 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-admit-card-download-problems-solutions.webp",
+    imageAlt: "JNVST 2027 admit card download problems - server error solutions",
+    content: `<p><strong>JNVST 2027 Admit Card</strong> अक्टूबर 2026 में जारी होगा। लेकिन download करते समय कई problems आ सकती हैं।</p>
+
+<h2>Common Problems & Solutions</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Problem</th><th class="py-3 px-4 border-b font-bold text-white text-left">Solution</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Server not loading</td><td class="py-3 px-4 border-b">Subah 6-7 AM try karo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Registration number wrong</td><td class="py-3 px-4 border-b">SMS/Email se check karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo not showing</td><td class="py-3 px-4 border-b">Dusre browser mein try karo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">PDF not downloading</td><td class="py-3 px-4">Chrome/Firefox use karo</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Admit card kab aayega?", answer: "October 2026 mein expected hai." },
+      { question: "Server slow hai toh kya karein?", answer: "Subah 6-7 AM ya raat 10 PM baad try karein." },
+      { question: "Registration number bhool gaye?", answer: "SMS aur email check karein. NVS helpline par call karein." },
+      { question: "Admit card mein galti hai toh?", answer: "NVS helpline 0120-2405969 par call karein." }
+    ]
+  },
+  {
+    slug: "sainik-school-aadmission-2027-tayyari-kaise-karein",
+    title: "Sainik School Admission 2027: घर से तैयारी कैसे करें? Complete Strategy",
+    description: "Sainik School admission 2027 preparation — ghar se tayyari kaise karein, books, daily routine aur success tips।",
+    keywords: "Sainik School admission 2027 tayyari kaise karein, AISSEE ghar se preparation, Sainik School ghar se padhai",
+    date: "30 जुलाई 2026, सुबह 10 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, सुबह 10 बजकर 30 मिनट",
+    readTime: "8 मिनट",
+    author: "Sameer",
+    authorName: "Sameer",
+    authorSlug: "sameer",
+    authorRole: "Entrance Exam Coach",
+    authorBio: "Sameer JGPS में entrance exam coaching देते हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/sainik-school-aadmission-2027-tayyari-kaise-karein.webp",
+    imageAlt: "Sainik School admission 2027 preparation - ghar se tayyari kaise karein strategy",
+    content: `<p><strong>Sainik School Admission 2027</strong> की तैयारी घर से भी की जा सकती है। सही strategy और daily practice से selection possible है।</p>
+
+<h2>Daily Study Schedule</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00-5:00 PM</td><td class="py-3 px-4 border-b">Mathematics</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15-6:15 PM</td><td class="py-3 px-4 border-b">GK & Current Affairs</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30-7:15 PM</td><td class="py-3 px-4 border-b">English</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">7:30-8:00 PM</td><td class="py-3 px-4">Intelligence & Reasoning</td></tr></tbody></table></div>
+
+<h2>Best Books</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Lucent GK</strong> — Static GK ke liye</li>
+<li><strong>NCERT Class 4-5</strong> — Math aur EVS basics</li>
+<li><strong>Wren & Martin</strong> — English grammar</li>
+<li><strong>AISSEE Previous Year Papers</strong> — Pattern samajhne ke liye</li>
+</ul>
+`,
+    faqs: [
+      { question: "Ghar se Sainik School ki tayyari ho sakti hai?", answer: "Haan, sahi books aur daily practice se possible hai." },
+      { question: "Kitne ghante padhna chahiye?", answer: "Roz 3-4 ghante focused study kaafi hai." },
+      { question: "Kaun si book best hai?", answer: "Lucent GK, NCERT books, aur previous year papers." },
+      { question: "Coaching zaroori hai?", answer: "Nahi, self-study se bhi ho sakta hai. Consistency zaroori hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-exam-center-kaise-pahunche",
+    title: "JNVST 2027 Exam Center: परीक्षा केंद्र कैसे पहुंचें? Important Tips",
+    description: "JNVST 2027 exam center — kaise pahunchein, kya leke jayein, aur exam day important tips।",
+    keywords: "JNVST 2027 exam center kaise pahunche, Navodaya exam center tips, JNVST exam day preparation",
+    date: "30 जुलाई 2026, सुबह 11 बजे",
+    modifiedDate: "30 जुलाई 2026, सुबह 11 बजे",
+    readTime: "5 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-exam-center-kaise-pahunche.webp",
+    imageAlt: "JNVST 2027 exam center - kaise pahunchein important tips",
+    content: `<p><strong>JNVST 2027 Exam Center</strong> का पता Admit Card पर छपा होगा। परीक्षा केंद्र पर 30 मिनट पहले पहुंचें।</p>
+
+<h2>Important Tips</h2>
+<ul class="list-decimal pl-6 mb-4 space-y-2">
+<li><strong>Route पहले से check करें</strong> — एक दिन पहले exam center देख लें</li>
+<li><strong>30 मिनट पहले पहुंचें</strong> — देर से पहुंचने पर entry नहीं मिलेगी</li>
+<li><strong>Parking की व्यवस्था करें</strong> — भीड़ बहुत होगी</li>
+<li><strong>खाना-पानी लेकर जाएं</strong> — Exam hall में पानी की बोतल allowed है</li>
+</ul>
+`,
+    faqs: [
+      { question: "Exam center kaise pata karein?", answer: "Admit Card par center ka naam aur address hoga." },
+      { question: "Kitna pehle pahunchna hai?", answer: "30 minutes pehle pahunchna zaroori hai." },
+      { question: "Mobile le ja sakte hain?", answer: "Nahi, mobile exam hall mein allowed nahi hai." },
+      { question: "Late ho gaye toh kya hoga?", answer: "Entry nahi milegi. Time pe pahunchna zaroori hai." }
+    ]
+  },
+  {
+    slug: "navodaya-school-mein-free-education-kaise-milti-hai",
+    title: "Navodaya School Mein Free Education Kaise Milti Hai? — Complete Facilities List",
+    description: "Navodaya school free education — kya kya free milta hai, facilities list, aur admission process।",
+    keywords: "Navodaya school free education kaise milti hai, JNV facilities list, Navodaya school kya free hai",
+    date: "30 जुलाई 2026, सुबह 11 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, सुबह 11 बजकर 30 मिनट",
+    readTime: "6 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-mein-free-education-kaise-milti-hai.webp",
+    imageAlt: "Navodaya school free education - facilities list kya free hai",
+    content: `<p><strong>Navodaya School</strong> में सब कुछ मुफ्त है। सरकार पूरा खर्चा उठाती है।</p>
+
+<h2>Free Facilities List</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Facility</th><th class="py-3 px-4 border-b font-bold text-white text-left">Cost</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Education</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Food</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Books</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Uniform</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Medical</td><td class="py-3 px-4 text-green-700 font-bold">मुफ्त</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Navodaya school mein kya free hai?", answer: "Padhai, hostel, khana, kitabein, uniform, medical — sab free hai." },
+      { question: "Koi fee nahi lagti?", answer: "Nahi, bilkul free hai. Sarkar poora kharcha uthati hai." },
+      { question: "Kitne din hostel mein rehna padta hai?", answer: "Poora saal — summer aur winter vacation chhodkar." },
+      { question: "Parents visit kar sakte hain?", answer: "Haan, har mahine ke pehle Sunday ko meeting hoti hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-mental-ability-shortcuts-tricks",
+    title: "JNVST 2027 Mental Ability Shortcuts: 1 Minute Mein Answer Kaise Nikalein?",
+    description: "JNVST 2027 Mental Ability shortcuts — 1 minute mein answer nikalne ki tricks aur speed building techniques।",
+    keywords: "JNVST 2027 Mental Ability shortcuts, Navodaya mental ability tricks, JNVST reasoning speed tricks",
+    date: "30 जुलाई 2026, दोपहर 12 बजे",
+    modifiedDate: "30 जुलाई 2026, दोपहर 12 बजे",
+    readTime: "8 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-mental-ability-shortcuts-tricks.webp",
+    imageAlt: "JNVST 2027 Mental Ability shortcuts - 1 minute mein answer kaise nikalein tricks",
+    content: `<p><strong>JNVST 2027 Mental Ability</strong> में speed बहुत जरूरी है। 40 सवाल, 60 मिनट — हर सवाल पर 1.5 मिनट मिलता है।</p>
+
+<h2>Topic-wise Shortcuts</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Shortcut</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Figure Series</td><td class="py-3 px-4 border-b">Pattern dhundho — rotation, addition, deletion</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mirror Image</td><td class="py-3 px-4 border-b">Left-right swap karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Coding-Decoding</td><td class="py-3 px-4 border-b">A=1, B=2 yaad rakho</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Analogy</td><td class="py-3 px-4 border-b">Relationship dhundho</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Odd One Out</td><td class="py-3 px-4">Common property dhundho</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Mental Ability mein speed kaise badhayein?", answer: "Roz 20 questions practice karo. Pattern recognition seekho." },
+      { question: "Mirror image kaise solve karein?", answer: "Left-right swap karo. Upper-lower same rehta hai." },
+      { question: "Coding-Decoding shortcut kya hai?", answer: "A=1, B=2... yaad rakho. Phir addition/subtraction check karo." },
+      { question: "Kitne questions daily practice karne chahiye?", answer: "Roz 20 questions kaafi hain. Consistency zaroori hai." }
+    ]
+  },
+  {
+    slug: "sainik-school-mein-ladkiyon-ka-admission-2027",
+    title: "Sainik School Mein Ladkiyon Ka Admission 2027 — Girls Quota aur Eligibility",
+    description: "Sainik School mein ladkiyon ka admission 2027 — girls quota, eligibility, aur application process।",
+    keywords: "Sainik School mein ladkiyon ka admission 2027, Sainik School girls quota, AISSEE girls admission",
+    date: "30 जुलाई 2026, दोपहर 12 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, दोपहर 12 बजकर 30 मिनट",
+    readTime: "6 मिनट",
+    author: "Ravi Prakash",
+    authorName: "Ravi Prakash",
+    authorSlug: "ravi-prakash",
+    authorRole: "Current Affairs & GK Faculty",
+    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/sainik-school-mein-ladkiyon-ka-admission-2027.webp",
+    imageAlt: "Sainik School mein ladkiyon ka admission 2027 - girls quota eligibility",
+    content: `<p><strong>Sainik School Mein Ladkiyon Ka Admission</strong> — 2026 से Sainik Schools में लड़कियों के लिए 10% seats reserved हैं। ये एक बड़ा बदलाव है।</p>
+
+<h2>Girls Quota Details</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Detail</th><th class="py-3 px-4 border-b font-bold text-white text-left">Information</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Quota</td><td class="py-3 px-4 border-b">10% seats reserved</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Eligibility</td><td class="py-3 px-4 border-b">Same as boys — Age 10-12 years</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam</td><td class="py-3 px-4 border-b">Same exam as boys</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Hostel</td><td class="py-3 px-4">Separate hostel for girls</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Kya ladkiyan Sainik School mein admission le sakti hain?", answer: "Haan, 10% seats girls ke liye reserved hain." },
+      { question: "Girls ke liye alag exam hota hai?", answer: "Nahi, same exam hota hai — boys aur girls dono ke liye." },
+      { question: "Age limit kya hai girls ke liye?", answer: "10-12 years for Class 6, same as boys." },
+      { question: "Hostel alag hota hai?", answer: "Haan, girls ke liye separate hostel hota hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-previous-year-papers-pdf-download",
+    title: "JNVST 2027 Previous Year Papers PDF Download — Free Practice Sets",
+    description: "JNVST 2027 previous year papers PDF download — free practice sets, answer keys, aur exam pattern analysis।",
+    keywords: "JNVST 2027 previous year papers PDF download, Navodaya old question papers, JNVST practice sets free",
+    date: "30 जुलाई 2026, दोपहर 1 बजे",
+    modifiedDate: "30 जुलाई 2026, दोपहर 1 बजे",
+    readTime: "5 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-previous-year-papers-pdf-download.webp",
+    imageAlt: "JNVST 2027 previous year papers PDF download - free practice sets answer keys",
+    content: `<p><strong>JNVST Previous Year Papers</strong> सबसे अच्छी practice material हैं। पिछले 5 साल के papers solve करने से exam pattern समझ आता है।</p>
+
+<h2>Available Papers</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Year</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2026</td><td class="py-3 px-4 border-b">80</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">2023</td><td class="py-3 px-4">100</td><td class="py-3 px-4 text-green-700 font-bold">Available</td></tr></tbody></table></div>
+
+<h2>Previous Year Papers Kaise Use Karein?</h2>
+<ul class="list-decimal pl-6 mb-4 space-y-2">
+<li><strong>Exam conditions mein solve karo</strong> — 2 hours ka timer lagao</li>
+<li><strong>OMR sheet pe answers mark karo</strong> — Real exam jaisa feel hoga</li>
+<li><strong>Galtiyan analyze karo</strong> — Kaun se topics mein weak ho</li>
+<li><strong>Weak topics ki practice karo</strong> — Extra questions solve karo</li>
+</ul>
+`,
+    faqs: [
+      { question: "Previous year papers kahan se download karein?", answer: "JGPS website ya navodaya.gov.in se download kar sakte hain." },
+      { question: "Kitne papers solve karne chahiye?", answer: "Kam se kam 5 saal ke papers solve karo." },
+      { question: "Papers solve karne se selection hoga?", answer: "Papers se pattern samajh aata hai. Selection ke liye daily practice bhi zaroori hai." },
+      { question: "Answer key kahan milegi?", answer: "Papers ke saath answer key bhi milti hai." }
+    ]
+  },
+  {
+    slug: "navodaya-school-mein-sports-facilities",
+    title: "Navodaya School Mein Sports Facilities — Games aur Physical Training",
+    description: "Navodaya school sports facilities — cricket, football, basketball, athletics aur physical training schedule।",
+    keywords: "Navodaya school sports facilities, JNV games physical training, Navodaya school sports ground",
+    date: "30 जुलाई 2026, दोपहर 1 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, दोपहर 1 बजकर 30 मिनट",
+    readTime: "5 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-mein-sports-facilities.webp",
+    imageAlt: "Navodaya school sports facilities - games physical training cricket football",
+    content: `<p><strong>Navodaya School</strong> में sports facilities बहुत अच्छी हैं। बच्चों को daily physical training मिलती है।</p>
+
+<h2>Available Sports</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Cricket</strong> — Full cricket ground</li>
+<li><strong>Football</strong> — Football ground</li>
+<li><strong>Basketball</strong> — Basketball court</li>
+<li><strong>Athletics</strong> — Running track</li>
+<li><strong>Volleyball</strong> — Volleyball court</li>
+<li><strong>Yoga</strong> — Daily morning yoga</li>
+</ul>
+
+<h2>Daily Physical Training</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:30 AM</td><td class="py-3 px-4 border-b">Morning PT + Yoga</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Sports & Games</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Saturday</td><td class="py-3 px-4">Inter-house competitions</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Navodaya mein kaun se sports hain?", answer: "Cricket, football, basketball, athletics, volleyball, yoga — sab available hai." },
+      { question: "Sports kitne baje hote hain?", answer: "Subah 5-5:30 AM PT aur dopahar 3:30-5:00 PM games hote hain." },
+      { question: "Inter-house competitions hote hain?", answer: "Haan, har Saturday ko inter-house competitions hote hain." },
+      { question: "Sports equipment school deta hai?", answer: "Haan, sab equipment school provide karta hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-negative-marking-rules-explained",
+    title: "JNVST 2027 Negative Marking: क्या सच में marks कटते हैं? सच्चाई जानें",
+    description: "JNVST 2027 negative marking — kya sach mein marks kat'te hain? Sachchai jaane aur safe strategy apnayein।",
+    keywords: "JNVST 2027 negative marking rules, Navodaya exam negative marking, JNVST marks kat'te hain kya",
+    date: "30 जुलाई 2026, दोपहर 2 बजे",
+    modifiedDate: "30 जुलाई 2026, दोपहर 2 बजे",
+    readTime: "5 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-negative-marking-rules-explained.webp",
+    imageAlt: "JNVST 2027 negative marking rules - kya sach mein marks kat'te hain",
+    content: `<p><strong>JNVST 2027 Negative Marking</strong> — बहुत से parents पूछते हैं कि क्या JNVST में negative marking है। सच्चाई ये है:</p>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-green-700 mb-2">Good News: JNVST में Negative Marking नहीं है!</p>
+<p>JNVST 2027 में कोई negative marking नहीं है। हर सवाल का जवाब देना चाहिए — चाहे sure न हो।</p>
+</div>
+
+<h2>AMU vs JMI vs JNVST — Negative Marking Comparison</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Exam</th><th class="py-3 px-4 border-b font-bold text-white text-left">Negative Marking</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JNVST</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AISSEE (Sainik School)</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">AMU</td><td class="py-3 px-4 border-b text-red-600 font-bold">हां (0.25 marks)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JMI</td><td class="py-3 px-4 text-green-700 font-bold">नहीं</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "JNVST mein negative marking hai?", answer: "Nahi, JNVST mein koi negative marking nahi hai." },
+      { question: "Guess kar sakte hain?", answer: "Haan, JNVST mein guess karo — marks nahi kat'te." },
+      { question: "AMU mein negative marking hai?", answer: "Haan, AMU mein har galat jawab par 0.25 marks kat'te hain." },
+      { question: "Safe strategy kya hai?", answer: "JNVST mein sab questions attempt karo. AMU mein sirf sure wale karo." }
+    ]
+  },
+  {
+    slug: "navodaya-school-mein-medical-facility",
+    title: "Navodaya School Mein Medical Facility — Bacche Ki Sehat Ka Khayal",
+    description: "Navodaya school medical facility — doctor, nurse, health checkup aur emergency care। Parents ke liye complete guide।",
+    keywords: "Navodaya school medical facility, JNV doctor nurse health checkup, Navodaya school bacche ki sehat",
+    date: "30 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
+    readTime: "5 मिनट",
+    author: "Priya Verma",
+    authorName: "Priya Verma",
+    authorSlug: "priya-verma",
+    authorRole: "Student Counselor",
+    authorBio: "Priya Verma child psychology और mental well-being में specialist हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-mein-medical-facility.webp",
+    imageAlt: "Navodaya school medical facility - doctor nurse health checkup emergency care",
+    content: `<p><strong>Navodaya School</strong> में medical facilities बहुत अच्छी हैं। बच्चे की सेहत का पूरा ध्यान रखा जाता है।</p>
+
+<h2>Medical Facilities</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Resident Doctor</strong> — हर JNV में एक doctor होता है</li>
+<li><strong>Nurse</strong> — 24/7 available</li>
+<li><strong>Medical Room</strong> — Basic medicines और first aid</li>
+<li><strong>Health Checkup</strong> — हर साल regular checkup</li>
+<li><strong>Hospital Referral</strong> — Serious cases को nearest hospital</li>
+</ul>
+
+<h2>Emergency Protocol</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Situation</th><th class="py-3 px-4 border-b font-bold text-white text-left">Action</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Minor illness</td><td class="py-3 px-4 border-b">School doctor treats</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Serious illness</td><td class="py-3 px-4 border-b">Nearest hospital referral</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Emergency</td><td class="py-3 px-4 border-b">Parents informed immediately</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Medicine</td><td class="py-3 px-4">School provides free medicines</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Navodaya mein doctor hota hai?", answer: "Haan, har JNV mein resident doctor aur nurse hota hai." },
+      { question: "Baccha bimar ho jaye toh kya hoga?", answer: "School doctor treatment dega. Serious cases mein hospital referral hoga." },
+      { question: "Medicine kaun deta hai?", answer: "School free medicines provide karta hai." },
+      { question: "Parents ko kab bataya jayega?", answer: "Emergency mein turant parents ko inform kiya jayega." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-admit-card-ke-saath-kya-leke-jayein",
+    title: "JNVST 2027: Admit Card Ke Saath Kya Leke Jayein? Complete List",
+    description: "JNVST 2027 exam ke din admit card ke saath kya leke jayein — complete list aur important tips।",
+    keywords: "JNVST 2027 admit card ke saath kya leke jayein, Navodaya exam day checklist, JNVST exam essentials",
+    date: "30 जुलाई 2026, दोपहर 3 बजे",
+    modifiedDate: "30 जुलाई 2026, दोपहर 3 बजे",
+    readTime: "5 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-admit-card-ke-saath-kya-leke-jayein.webp",
+    imageAlt: "JNVST 2027 admit card ke saath kya leke jayein - exam day checklist",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Exam Day Checklist:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Admit Card</strong> — 2 color printouts</li>
+<li><strong>Aadhaar Card</strong> — original + photocopy</li>
+<li><strong>Photos</strong> — 2 extra passport size</li>
+<li><strong>Ball Pen</strong> — Blue/Black for OMR</li>
+<li><strong>Water Bottle</strong> — transparent</li>
+</ul>
+</div>
+
+<h2>Kya Na Le Jayein</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2 text-red-600">
+<li>Mobile phone</li>
+<li>Calculator</li>
+<li>Smart watch</li>
+<li>Books or notes</li>
+<li>Bluetooth devices</li>
+</ul>
+`,
+    faqs: [
+      { question: "Admit card ke saath kya leke jayein?", answer: "Admit card, Aadhaar, photos, ball pen, water bottle." },
+      { question: "Mobile le ja sakte hain?", answer: "Nahi, mobile allowed nahi hai." },
+      { question: "Kitne printout nikalne hain?", answer: "2 color printout nikalne hain." },
+      { question: "Pencil use kar sakte hain?", answer: "Nahi, OMR ke liye ball pen zaroori hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-exam-pattern-changes-new-vs-old",
+    title: "JNVST 2027 Exam Pattern Changes: Naya vs Purana Pattern Comparison",
+    description: "JNVST 2027 exam pattern changes — naya vs purana pattern comparison, kya badla hai aur kaise prepare karein।",
+    keywords: "JNVST 2027 exam pattern changes, Navodaya naya vs purana pattern, JNVST new syllabus 2027",
+    date: "30 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    readTime: "6 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-exam-pattern-changes-new-vs-old.webp",
+    imageAlt: "JNVST 2027 exam pattern changes - naya vs purana pattern comparison",
+    content: `<p><strong>JNVST 2027 Exam Pattern</strong> बदल गया है। पहले 100 सवाल आते थे, अब 80 सवाल आएंगे।</p>
+
+<h2>Old vs New Pattern</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Old Pattern</th><th class="py-3 px-4 border-b font-bold text-white text-left">New Pattern 2027</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Total Questions</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b font-bold">80</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b font-bold">40</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b font-bold">20</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b font-bold">20</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Duration</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b">2 hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4">No</td><td class="py-3 px-4 font-bold">No</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "JNVST 2027 mein kitne questions hain?", answer: "80 questions — Mental Ability 40, Arithmetic 20, Language 20." },
+      { question: "Purane pattern se kya badla?", answer: "Questions 100 se 80 hue hain. Duration same hai — 2 hours." },
+      { question: "Kya preparation strategy badalni chahiye?", answer: "Haan, ab har question zyada important hai. Accuracy badhao." },
+      { question: "Negative marking hai?", answer: "Nahi, JNVST mein negative marking nahi hai." }
+    ]
+  },
+  {
+    slug: "navodaya-school-mein-parents-meeting-rules",
+    title: "Navodaya School Mein Parents Meeting Rules — Kab Mil Sakte Hain?",
+    description: "Navodaya school parents meeting rules — kab mil sakte hain, phone call rules, aur visiting guidelines।",
+    keywords: "Navodaya school parents meeting rules, JNV parent visit kab, Navodaya school phone call rules",
+    date: "30 जुलाई 2026, दोपहर 4 बजे",
+    modifiedDate: "30 जुलाई 2026, दोपहर 4 बजे",
+    readTime: "5 मिनट",
+    author: "Priya Verma",
+    authorName: "Priya Verma",
+    authorSlug: "priya-verma",
+    authorRole: "Student Counselor",
+    authorBio: "Priya Verma child psychology और mental well-being में specialist हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-mein-parents-meeting-rules.webp",
+    imageAlt: "Navodaya school parents meeting rules - kab mil sakte hain phone call rules",
+    content: `<p><strong>Navodaya School</strong> में parents meeting के कुछ rules हैं जो हर parent को पता होने चाहिए।</p>
+
+<h2>Meeting Rules</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Rule</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Day</td><td class="py-3 px-4 border-b">Har mahine ka pehla Sunday</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Time</td><td class="py-3 px-4 border-b">10 AM - 5 PM</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Phone Call</td><td class="py-3 px-4 border-b">Hafte mein 1-2 baar, warden ki permission se</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Home Visit</td><td class="py-3 px-4">Summer aur Winter vacation mein</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Parents kab mil sakte hain?", answer: "Har mahine ke pehle Sunday ko 10 AM - 5 PM tak." },
+      { question: "Phone call kar sakte hain?", answer: "Haan, hafte mein 1-2 baar warden ki permission se." },
+      { question: "Baccha ghar kab aayega?", answer: "Summer aur winter vacation mein." },
+      { question: "Emergency mein kya karein?", answer: "Principal ki permission se turant mil sakte hain." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-admit-card-ke-saath-kya-na-le-jayein",
+    title: "JNVST 2027: Exam Hall Mein Kya Allowed Nahi Hai? Complete List",
+    description: "JNVST 2027 exam hall mein kya allowed nahi hai — prohibited items list aur exam rules।",
+    keywords: "JNVST 2027 exam hall prohibited items, Navodaya exam kya allowed nahi hai, JNVST exam rules",
+    date: "30 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
+    readTime: "5 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-admit-card-ke-saath-kya-na-le-jayein.webp",
+    imageAlt: "JNVST 2027 exam hall prohibited items - kya allowed nahi hai",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">Prohibited Items:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li>Mobile phone</li>
+<li>Calculator</li>
+<li>Smart watch</li>
+<li>Books or notes</li>
+<li>Bluetooth devices</li>
+<li>Electronic gadgets</li>
+</ul>
+</div>
+
+<h2>Allowed Items</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Admit Card</strong> — 2 color printouts</li>
+<li><strong>Aadhaar Card</strong> — original</li>
+<li><strong>Ball Pen</strong> — Blue/Black</li>
+<li><strong>Water Bottle</strong> — transparent</li>
+</ul>
+`,
+    faqs: [
+      { question: "Mobile le ja sakte hain?", answer: "Nahi, mobile exam hall mein allowed nahi hai." },
+      { question: "Calculator use kar sakte hain?", answer: "Nahi, calculator allowed nahi hai." },
+      { question: "Pencil use kar sakte hain?", answer: "Nahi, OMR ke liye ball pen zaroori hai." },
+      { question: "Pani ki bottle le ja sakte hain?", answer: "Haan, transparent bottle allowed hai." }
+    ]
+  },
+  {
+    slug: "navodaya-school-mein-khana-kaisa-hota-hai",
+    title: "Navodaya School Mein Khana Kaisa Hota Hai? — Mess Menu aur Quality",
+    description: "Navodaya school mein khana kaisa hota hai — mess menu, food quality, aur nutrition guide for parents।",
+    keywords: "Navodaya school mein khana kaisa hota hai, JNV mess menu food quality, Navodaya school khana",
+    date: "30 जुलाई 2026, शाम 5 बजे",
+    modifiedDate: "30 जुलाई 2026, शाम 5 बजे",
+    readTime: "5 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-mein-khana-kaisa-hota-hai.webp",
+    imageAlt: "Navodaya school mein khana kaisa hota hai - mess menu food quality nutrition",
+    content: `<p><strong>Navodaya School</strong> में खाना बहुत अच्छा होता है। सरकार पूरा खर्चा उठाती है — बच्चे को एक पैसा नहीं देना पड़ता।</p>
+
+<h2>Daily Mess Menu</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Food</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:00 AM</td><td class="py-3 px-4 border-b">Breakfast — Poha, Paratha, Dalia, Milk</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">1:30 PM</td><td class="py-3 px-4 border-b">Lunch — Dal, Rice, Roti, Sabzi, Salad</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 PM</td><td class="py-3 px-4 border-b">Snacks — Samosa, Biscuit, Tea/Milk</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">7:30 PM</td><td class="py-3 px-4">Dinner — Dal, Rice, Roti, Sabzi</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Navodaya mein khana kaisa hota hai?", answer: "Nutritious aur tasty hota hai. Breakfast, lunch, snacks, dinner sab milta hai." },
+      { question: "Kya non-veg milta hai?", answer: "Nahi, Navodaya mein vegetarian khana milta hai." },
+      { question: "Khana free hai?", answer: "Haan, sab kuch free hai — government bear karti hai." },
+      { question: "Baccha khana nahi khaye toh?", answer: "Warden aur teacher dhyan rakhte hain. Bacche ko adjust karne mein time lagta hai." }
+    ]
+  },
+  {
+    slug: "sainik-school-aissee-2027-result-date-kab-aayega",
+    title: "Sainik School AISSEE 2027 Result Date: February-March 2027 Mein Expected",
+    description: "AISSEE 2027 result date — February-March 2027 mein expected hai। Result kaise check karein aur aage kya karein।",
+    keywords: "Sainik School AISSEE 2027 result date, AISSEE result kab aayega, Sainik School result check kaise karein",
+    date: "30 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    readTime: "5 मिनट",
+    author: "Ravi Prakash",
+    authorName: "Ravi Prakash",
+    authorSlug: "ravi-prakash",
+    authorRole: "Current Affairs & GK Faculty",
+    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/sainik-school-aissee-2027-result-date-kab-aayega.webp",
+    imageAlt: "Sainik School AISSEE 2027 result date - February March 2027 kab aayega",
+    content: `<p><strong>AISSEE 2027 Result</strong> फरवरी-मार्च 2027 में आने की संभावना है। NTA official website पर result जारी करेगा।</p>
+
+<h2>Result Check Process</h2>
+<ul class="list-decimal pl-6 mb-4 space-y-2">
+<li>exams.nta.ac.in पर जाएं</li>
+<li>"AISSEE 2027 Result" लिंक पर क्लिक करें</li>
+<li>Application Number और DOB दर्ज करें</li>
+<li>Result देखें और download करें</li>
+</ul>
+
+<h2>Result ke Baad Kya Hoga?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Step</th><th class="py-3 px-4 border-b font-bold text-white text-left">Timeline</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Test</td><td class="py-3 px-4 border-b">Mar-Apr 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Merit List</td><td class="py-3 px-4 border-b">Apr 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Admission</td><td class="py-3 px-4">Apr-May 2027</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "AISSEE 2027 result kab aayega?", answer: "February-March 2027 mein expected hai." },
+      { question: "Result kaise check karein?", answer: "exams.nta.ac.in par Application Number aur DOB se check karein." },
+      { question: "Result ke baad kya karna hai?", answer: "Medical test ke liye ready rahein. Documents ready rakhein." },
+      { question: "Merit list kab aayegi?", answer: "April 2027 mein expected hai." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-exam-center-map-directions",
+    title: "JNVST 2027 Exam Center: Map aur Directions — Kaise Pahunchein?",
+    description: "JNVST 2027 exam center map aur directions — kaise pahunchein, parking, aur important tips।",
+    keywords: "JNVST 2027 exam center map directions, Navodaya exam center kaise pahunchein, JNV exam center location",
+    date: "30 जुलाई 2026, शाम 6 बजे",
+    modifiedDate: "30 जुलाई 2026, शाम 6 बजे",
+    readTime: "5 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-exam-center-map-directions.webp",
+    imageAlt: "JNVST 2027 exam center map directions - kaise pahunchein parking tips",
+    content: `<p><strong>JNVST 2027 Exam Center</strong> का पता Admit Card पर छपा होगा। एक दिन पहले exam center देख लें।</p>
+
+<h2>Exam Day Tips</h2>
+<ul class="list-decimal pl-6 mb-4 space-y-2">
+<li><strong>Route पहले से check करें</strong> — Google Maps पर देख लें</li>
+<li><strong>Parking की व्यवस्था करें</strong> — भीड़ बहुत होगी</li>
+<li><strong>30 मिनट पहले पहुंचें</strong> — देर से पहुंचने पर entry नहीं मिलेगी</li>
+<li><strong>Public Transport use करें</strong> — अगर possible हो तो</li>
+</ul>
+`,
+    faqs: [
+      { question: "Exam center kaise pata karein?", answer: "Admit Card par center ka naam aur address hoga." },
+      { question: "Ek din pehle dekh sakte hain?", answer: "Haan, exam center ek din pehle dekhna better hai." },
+      { question: "Parking milti hai?", answer: "Hoti hai lekin limited. Public transport better hai." },
+      { question: "Kitna pehle pahunchna hai?", answer: "30 minutes pehle zaroor pahunchna chahiye." }
+    ]
+  },
+  {
+    slug: "navodaya-school-mein-classes-kaise-hoti-hain",
+    title: "Navodaya School Mein Classes Kaise Hoti Hain? — Teaching Method aur Faculty",
+    description: "Navodaya school mein classes kaise hoti hain — teaching method, faculty quality, aur academic environment।",
+    keywords: "Navodaya school mein classes kaise hoti hain, JNV teaching method faculty, Navodaya school padhai kaisi hai",
+    date: "30 जुलाई 2026, शाम 6 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, शाम 6 बजकर 30 मिनट",
+    readTime: "5 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-school-mein-classes-kaise-hoti-hain.webp",
+    imageAlt: "Navodaya school mein classes kaise hoti hain - teaching method faculty quality",
+    content: `<p><strong>Navodaya School</strong> में पढ़ाई बहुत अच्छी होती है। Qualified teachers, modern labs, और बड़ी library मिलती है।</p>
+
+<h2>Teaching Method</h2>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>NCERT Curriculum</strong> — CBSE pattern पर आधारित</li>
+<li><strong>Smart Classes</strong> — Projector और digital boards</li>
+<li><strong>Science Labs</strong> — Physics, Chemistry, Biology labs</li>
+<li><strong>Computer Lab</strong> — Computer education compulsory</li>
+<li><strong>Library</strong> — हज़ारों books उपलब्ध</li>
+</ul>
+
+<h2>Daily Class Schedule</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Period</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 - 8:15 AM</td><td class="py-3 px-4 border-b">Period 1</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">8:15 - 9:00 AM</td><td class="py-3 px-4 border-b">Period 2</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">9:00 - 9:45 AM</td><td class="py-3 px-4 border-b">Period 3</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">10:15 - 11:00 AM</td><td class="py-3 px-4 border-b">Period 4</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">11:00 - 11:45 AM</td><td class="py-3 px-4 border-b">Period 5</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">12:30 - 1:15 PM</td><td class="py-3 px-4">Period 6</td></tr></tbody></table></div>
+`,
+    faqs: [
+      { question: "Navodaya mein padhai kaisi hai?", answer: "Bahut acchi hai — qualified teachers, smart classes, labs, library sab hai." },
+      { question: "Kaun sa curriculum follow hota hai?", answer: "NCERT curriculum — CBSE pattern par based." },
+      { question: "Computer education milti hai?", answer: "Haan, computer lab hai aur computer education compulsory hai." },
+      { question: "Teachers qualified hain?", answer: "Haan, sab teachers qualified aur experienced hain." }
+    ]
+  },
+  {
+    slug: "jnvst-2027-admit-card-download-kaise-karein-mobile-se",
+    title: "JNVST 2027 Admit Card Mobile Se Kaise Download Karein? Step-by-Step Guide",
+    description: "JNVST 2027 admit card mobile se kaise download karein — step-by-step guide aur tips।",
+    keywords: "JNVST 2027 admit card mobile se download, Navodaya admit card phone se kaise nikale, JNV admit card mobile download",
+    date: "30 जुलाई 2026, शाम 7 बजे",
+    modifiedDate: "30 जुलाई 2026, शाम 7 बजे",
+    readTime: "5 मिनट",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-admit-card-download-kaise-karein-mobile-se.webp",
+    imageAlt: "JNVST 2027 admit card mobile se kaise download karein - step by step guide",
+    content: `<p><strong>JNVST 2027 Admit Card</strong> मोबाइल से भी डाउनलोड कर सकते हैं। लेकिन प्रिंट निकालने के लिए कंप्यूटर चाहिए।</p>
+
+<h2>Mobile Se Download Steps</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> Chrome browser खोलें</p>
+<p><strong>Step 2:</strong> navodaya.gov.in जाएं</p>
+<p><strong>Step 3:</strong> "Download Admit Card" लिंक पर क्लिक करें</p>
+<p><strong>Step 4:</strong> Registration Number और DOB दर्ज करें</p>
+<p><strong>Step 5:</strong> PDF download करें</p>
+<p><strong>Step 6:</strong> किसी print shop पर जाकर प्रिंट निकालें</p>
+</div>
+`,
+    faqs: [
+      { question: "Mobile se admit card download ho sakta hai?", answer: "Haan, Chrome browser se download kar sakte hain." },
+      { question: "Print kaise nikalein?", answer: "Print shop par jaakar PDF se print nikal lein." },
+      { question: "Mobile se form bhar sakte hain?", answer: "Haan, lekin computer se better hai." },
+      { question: "Kitne printout nikalne hain?", answer: "2 color printout nikalne hain." }
+    ]
   }
 ];
 
