@@ -9895,6 +9895,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST 2027 Post Application Form Checklist, How to download JNVST application form printout, Forgot JNVST registration number recovery",
     date: "30 जुलाई 2026, सुबह 5 बजकर 30 मिनट",
     modifiedDate: "30 जुलाई 2026, सुबह 5 बजकर 30 मिनट",
+    readTime: "10 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -9935,6 +9936,10 @@ export const hindiArticles: HindiArticle[] = [
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Post-Registration Timeline</h2>
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Action Required</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">August 2026</td><td class="py-3 px-4 border-b">Check for errors, fix if needed</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">October 2026</td><td class="py-3 px-4 border-b">Download + 2 printouts</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">28 November 2026</td><td class="py-3 px-4 border-b">Appear at exam center</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key</td><td class="py-3 px-4 border-b">December 2026</td><td class="py-3 px-4 border-b">Check answers, calculate score</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">March-April 2027</td><td class="py-3 px-4">Check result, attend counseling</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Correction Window: गलती सुधारने का मौका</h2>
+<p>NVS correction window देता है जिसमें आप form में कुछ details edit कर सकते हैं:</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Edit कर सकते हैं</th><th class="py-3 px-4 border-b font-bold text-white text-left">Edit नहीं कर सकते</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo, Signature</td><td class="py-3 px-4 border-b">State, District, Block</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Category (Gen/OBC/SC/ST)</td><td class="py-3 px-4 border-b">School name</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Gender, Medium</td><td class="py-3 px-4 border-b">—</td></tr></tbody></table></div>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Registration number खो गया?</h3><p><strong>JGPS School</strong> में Coach Najma से help लें। Call: <strong>+91 9412137554</strong></p></div>
 `,
