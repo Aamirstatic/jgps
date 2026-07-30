@@ -9840,6 +9840,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST 2027 Last Date Extension Official Notice, Navodaya Class 6 form last date extend hogi ya nahi, JNVST 2027 registration last date 31 July update",
     date: "30 जुलाई 2026, सुबह 5 बजे",
     modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
+    readTime: "10 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -9869,11 +9870,14 @@ export const hindiArticles: HindiArticle[] = [
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What to Do If You Could Not Submit Before Midnight?</h2>
 <div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Option 1:</strong> Check NVS official website for extension notice</p>
+<p><strong>Option 1:</strong> Check NVS official website for extension notice — navodaya.gov.in</p>
 <p><strong>Option 2:</strong> Try early morning (4-5 AM) — some portals stay open briefly after midnight</p>
 <p><strong>Option 3:</strong> Prepare for alternative schools (Sainik School, AMU, JMI)</p>
-<p><strong>Option 4:</strong> Wait for JNVST 2028 (next year)</p>
+<p><strong>Option 4:</strong> Wait for JNVST 2028 (next year) — bacche ki age limit mein hai toh</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Alternative Schools Options</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">School</th><th class="py-3 px-4 border-b font-bold text-white text-left">Form Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Exam Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Fee</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School (AISSEE)</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">₹30,000-50,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">₹5,000-10,000/yr</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">₹5,000-8,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">RMS CET</td><td class="py-3 px-4">Nov-Dec 2026</td><td class="py-3 px-4">Jan 2027</td><td class="py-3 px-4">₹15,000-25,000/yr</td></tr></tbody></table></div>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Form भरने में help चाहिए?</h3><p><strong>JGPS School</strong> में Amit Kumar से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
 `,
