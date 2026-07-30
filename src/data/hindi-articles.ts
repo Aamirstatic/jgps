@@ -9957,6 +9957,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "August 1 JNVST 2027 120 Days Revision Strategy, Navodaya 28 November exam 120 day study plan, How to prepare for JNVST Class 6 from August",
     date: "30 जुलाई 2026, सुबह 6 बजे",
     modifiedDate: "30 जुलाई 2026, सुबह 6 बजे",
+    readTime: "12 मिनट",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -9998,6 +9999,12 @@ export const hindiArticles: HindiArticle[] = [
 <li><strong>Active Recall use karo</strong> — Padhne ke baad kitab band karo aur likho</li>
 <li><strong>Weekly mock test do</strong> — Har Sunday ko full mock test do</li>
 </ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Weekend Revision Strategy</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Saturday (2 hours):</strong> Poori hafte ka revision — jo padha wo dobara padho</p>
+<p><strong>Sunday (2 hours):</strong> Full mock test + analysis — galtiyan note karo</p>
 </div>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Study plan chahiye?</h3><p><strong>JGPS School</strong> में Neha Singh से personalized study plan लें। Call: <strong>+91 9412137554</strong></p></div>
