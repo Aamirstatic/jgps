@@ -9832,6 +9832,358 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Spaced Repetition kya hai?", answer: "Ek topic padhne ke baad 1 din, 3 din, 7 din, 15 din baad revision karo. Isse memory mein long-term store hota hai." },
       { question: "Daily kitne ghante padhna chahiye?", answer: "School ke baad 3-4 ghante kaafi hai. Isse zyada padhane se baccha burnout hoga." }
     ]
+  },
+  {
+    slug: "jnvst-2027-last-date-extension-official-notice",
+    title: "JNVST 2027 Last Date Extension Alert: क्या बढ़ेगी रजिस्ट्रेशन की तारीख? देखें NVS का ऑफिशियल अपडेट",
+    description: "JNVST 2027 last date extension — क्या 31 July के बाद form भर सकते हैं? NVS का official update और previous year trends।",
+    keywords: "JNVST 2027 Last Date Extension Official Notice, Navodaya Class 6 form last date extend hogi ya nahi, JNVST 2027 registration last date 31 July update",
+    date: "30 जुलाई 2026, सुबह 5 बजे",
+    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
+    author: "Amit Kumar",
+    authorName: "Amit Kumar",
+    authorSlug: "amit-kumar",
+    authorRole: "Entrance Exam Specialist",
+    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    readTime: "6 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-last-date-extension-official-notice.webp",
+    imageAlt: "JNVST 2027 last date extension official notice - Navodaya form extend hogi ya nahi",
+    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Official Status (30 July 2026):</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Current Deadline:</strong> 31 July 2026 — सिर्फ 1 दिन बाकी</li>
+<li><strong>Extension Status:</strong> NVS ने अभी तक कोई official notice नहीं दिया</li>
+<li><strong>Server Status:</strong> Heavy traffic — slow loading possible</li>
+<li><strong>Portal:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
+</ul>
+</div>
+
+<p><strong>JNVST 2027 Last Date Extension</strong> — 31 जुलाई 2026 को registration window बंद हो रही है। लाखों parents अभी भी form भरने की कोशिश कर रहे हैं। Server slow है, OTP नहीं आ रहा, payment fail हो रही है। सबसे बड़ा सवाल — <strong>क्या NVS last date बढ़ाएगा?</strong></p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Past 3 Years NVS Trends</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Year</th><th class="py-3 px-4 border-b font-bold text-white text-left">Original Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Extended Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Days Extended</th><th class="py-3 px-4 border-b font-bold text-white text-left">Reason</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2023</td><td class="py-3 px-4 border-b">31 Aug</td><td class="py-3 px-4 border-b">7 Sep</td><td class="py-3 px-4 border-b">7 days</td><td class="py-3 px-4 border-b">Server issues</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">31 Aug</td><td class="py-3 px-4 border-b">10 Sep</td><td class="py-3 px-4 border-b">10 days</td><td class="py-3 px-4 border-b">Portal crash</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">31 Jul</td><td class="py-3 px-4 border-b">7 Aug</td><td class="py-3 px-4 border-b">7 days</td><td class="py-3 px-4 border-b">Server overload</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">2026</td><td class="py-3 px-4 font-bold">31 Jul</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 text-orange-600 font-bold">TBD</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Server Glitch vs Official Extension</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th><th class="py-3 px-4 border-b font-bold text-white text-left">Server Glitch</th><th class="py-3 px-4 border-b font-bold text-white text-left">Official Extension</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement</td><td class="py-3 px-4 border-b">No announcement</td><td class="py-3 px-4 border-b">NVS official notice</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Duration</td><td class="py-3 px-4 border-b">Temporary (hours)</td><td class="py-3 px-4 border-b">7-10 days</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Portal Status</td><td class="py-3 px-4 border-b">Intermittent</td><td class="py-3 px-4 border-b">Fully working with new deadline</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">What to do</td><td class="py-3 px-4">Wait + retry</td><td class="py-3 px-4">Fill form before new deadline</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What to Do If You Could Not Submit Before Midnight?</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Option 1:</strong> Check NVS official website for extension notice</p>
+<p><strong>Option 2:</strong> Try early morning (4-5 AM) — some portals stay open briefly after midnight</p>
+<p><strong>Option 3:</strong> Prepare for alternative schools (Sainik School, AMU, JMI)</p>
+<p><strong>Option 4:</strong> Wait for JNVST 2028 (next year)</p>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Form भरने में help चाहिए?</h3><p><strong>JGPS School</strong> में Amit Kumar से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "JNVST 2027 last date बढ़ेगी?", answer: "Previous year trends के आधार पर 70% chance है। लेकिन NVS ने अभी तक official notice नहीं दिया।" },
+      { question: "Extension हुआ तो कितने दिन बढ़ेगा?", answer: "पिछले 3 सालों में 7-10 दिन का extension मिला है।" },
+      { question: "Server slow है तो क्या करें?", answer: "सुबह 4-5 AM या रात 10 PM बाद try करें। Non-peak hours में server fast होता है।" },
+      { question: "Form submit नहीं हुआ तो क्या options हैं?", answer: "Sainik School (Sept-Oct), AMU/JMI (Nov-Dec), RMS, या JNVST 2028 — सब options खुले हैं।" }
+    ]
+  },
+  {
+    slug: "jnvst-2027-post-application-form-checklist",
+    title: "JNVST 2027 Form Submit होने के बाद का Checklist: Registration No. और PDF कैसे सुरक्षित रखें?",
+    description: "JNVST 2027 form submit hone ke baad — registration number save karein, PDF download karein, correction window ka wait karein। Complete post-submission checklist।",
+    keywords: "JNVST 2027 Post Application Form Checklist, How to download JNVST application form printout, Forgot JNVST registration number recovery",
+    date: "30 जुलाई 2026, सुबह 5 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, सुबह 5 बजकर 30 मिनट",
+    author: "Najma",
+    authorName: "Najma",
+    authorSlug: "najma",
+    authorRole: "Navodaya & JNVST Coach",
+    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    readTime: "6 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/jnvst-2027-post-application-form-checklist.webp",
+    imageAlt: "JNVST 2027 post application form checklist - registration number save PDF download",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">4 Immediate Actions After Form Fill:</p>
+<ul class="list-decimal pl-5 space-y-1">
+<li><strong>PDF Download करें</strong> — Confirmation page save करें</li>
+<li><strong>Printout निकालें</strong> — 2 copies रखें</li>
+<li><strong>Registration Number Note करें</strong> — SMS, Email, और notebook में लिखें</li>
+<li><strong>Screenshot लें</strong> — Confirmation page का screenshot रखें</li>
+</ul>
+</div>
+
+<p><strong>JNVST 2027 Form Submit</strong> हो गया? बधाई! लेकिन अभी relax मत हो। Form submit करने के बाद कुछ ज़रूरी काम हैं जो तुरंत करने चाहिए। नहीं तो admit card download करते समय problem हो सकती है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Form Submission Confirmation</h2>
+<p>Form submit होने के बाद ये check करें:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Confirmation page</strong> दिख रहा है</li>
+<li><strong>Registration number</strong> मिल गया है</li>
+<li><strong>SMS/Email</strong> आया है confirmation का</li>
+<li><strong>PDF download</strong> हो गया है</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Registration Number खो गया तो?</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>Step 1:</strong> SMS check करें — NVS ने confirmation SMS भेजा होगा</p>
+<p><strong>Step 2:</strong> Email check करें — Spam folder भी देखें</p>
+<p><strong>Step 3:</strong> cbseitms.rcil.gov.in पर "Forgot Registration Number" try करें</p>
+<p><strong>Step 4:</strong> NVS Helpline: 0120-2405969</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Post-Registration Timeline</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Action Required</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">August 2026</td><td class="py-3 px-4 border-b">Check for errors, fix if needed</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">October 2026</td><td class="py-3 px-4 border-b">Download + 2 printouts</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">28 November 2026</td><td class="py-3 px-4 border-b">Appear at exam center</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key</td><td class="py-3 px-4 border-b">December 2026</td><td class="py-3 px-4 border-b">Check answers, calculate score</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">March-April 2027</td><td class="py-3 px-4">Check result, attend counseling</td></tr></tbody></table></div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Registration number खो गया?</h3><p><strong>JGPS School</strong> में Coach Najma से help लें। Call: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "Form submit hone ke baad kya karein?", answer: "PDF download karein, printout nikalein, registration number note karein, screenshot lein." },
+      { question: "Registration number khul gaya toh kya karein?", answer: "SMS aur email check karein. NVS helpline 0120-2405969 par call karein." },
+      { question: "Correction window kab khulegi?", answer: "August 2026 mein expected hai. 3-5 din ke liye khulegi." },
+      { question: "Admit card kab aayega?", answer: "October 2026 mein expected hai. navodaya.gov.in se download karna hoga." }
+    ]
+  },
+  {
+    slug: "august-1-jnvst-2027-120-days-revision-strategy",
+    title: "August 1st से JNVST 2027 का Target: 28 नवंबर Exam तक 120-Days की Master Revision Strategy",
+    description: "August 1st se JNVST 2027 preparation — 120 days ka complete revision strategy, daily schedule, aur subject-wise plan।",
+    keywords: "August 1 JNVST 2027 120 Days Revision Strategy, Navodaya 28 November exam 120 day study plan, How to prepare for JNVST Class 6 from August",
+    date: "30 जुलाई 2026, सुबह 6 बजे",
+    modifiedDate: "30 जुलाई 2026, सुबह 6 बजे",
+    author: "Neha Singh",
+    authorName: "Neha Singh",
+    authorSlug: "neha-singh",
+    authorRole: "Study Habits Expert",
+    authorBio: "Neha Singh JGPS में study habits और student productivity expert हैं।",
+    readTime: "10 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/august-1-jnvst-2027-120-days-revision-strategy.webp",
+    imageAlt: "August 1 JNVST 2027 120 days revision strategy - Navodaya exam study plan",
+    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">120-Day Phase-Wise Plan:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>August (Day 1-31):</strong> Concept Base — सभी topics cover करो</li>
+<li><strong>September (Day 32-61):</strong> Speed Building — Practice sets solve करो</li>
+<li><strong>October (Day 62-92):</strong> Mock Tests — Weekly mock test दो</li>
+<li><strong>November (Day 93-120):</strong> Final Polish — Revision + OMR practice</li>
+</ul>
+</div>
+
+<p><strong>August 1st से JNVST 2027 का Target</strong> — Registration बंद हो गया। अब सिर्फ एक काम बचा है — <strong>पढ़ाई</strong>। 28 नवंबर को exam है। आज से 120 दिन बाकी हैं। अगर रोज़ 3-4 घंटे focused study करो, तो selection पक्का है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">August 1st Mindset Shift</h2>
+<p>Registration phase खत्म हो गया। अब "form भरने" का tension नहीं है। अब सिर्फ <strong>preparation</strong> पर focus करो। ये mindset shift बहुत ज़रूरी है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">120-Day Roadmap Matrix</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Phase</th><th class="py-3 px-4 border-b font-bold text-white text-left">Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Goal</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">1</td><td class="py-3 px-4 border-b">August</td><td class="py-3 px-4 border-b">Concept Base</td><td class="py-3 px-4 border-b">3 hours</td><td class="py-3 px-4 border-b">सभी topics cover</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2</td><td class="py-3 px-4 border-b">September</td><td class="py-3 px-4 border-b">Speed Building</td><td class="py-3 px-4 border-b">3 hours</td><td class="py-3 px-4 border-b">Practice sets</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">3</td><td class="py-3 px-4 border-b">October</td><td class="py-3 px-4 border-b">Mock Tests</td><td class="py-3 px-4 border-b">3.5 hours</td><td class="py-3 px-4 border-b">Weekly mock test</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">4</td><td class="py-3 px-4">November</td><td class="py-3 px-4">Final Polish</td><td class="py-3 px-4">4 hours</td><td class="py-3 px-4">Revision + OMR</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily 3-Hour Smart Study Schedule</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>4:00-5:00 PM:</strong> Mental Ability (1 hour) — Figure Series, Mirror Image, Coding</p>
+<p><strong>5:15-6:15 PM:</strong> Mathematics (1 hour) — Number System, Fractions, Percentage</p>
+<p><strong>6:30-7:30 PM:</strong> Language (1 hour) — Grammar, Vocabulary, Comprehension</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Neha Singh के 3 Non-Negotiable Rules</h2>
+<div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Roz 3 ghante padho</strong> — Skip mat karo, consistency sabse zaroori hai</li>
+<li><strong>Active Recall use karo</strong> — Padhne ke baad kitab band karo aur likho</li>
+<li><strong>Weekly mock test do</strong> — Har Sunday ko full mock test do</li>
+</ul>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Study plan chahiye?</h3><p><strong>JGPS School</strong> में Neha Singh से personalized study plan लें। Call: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "August 1st se preparation shuru karein toh selection hoga?", answer: "Haan, agar daily 3-4 ghante focused study karo toh 120 din bahut hain." },
+      { question: "Daily kitne ghante padhna chahiye?", answer: "School ke baad 3-4 ghante kaafi hai. Isse zyada padhane se burnout hoga." },
+      { question: "Mock test kab se dena shuru karein?", answer: "Month 3 (October) se weekly mock test do. Pehle concepts clear karo." },
+      { question: "Active Recall kaise karein?", answer: "Padhne ke baad kitab band karo aur jo padha wo likho. Yaad nahi aa raha toh dobara padho." }
+    ]
+  },
+  {
+    slug: "aissee-2027-sainik-school-pre-notification-documents",
+    title: "Sainik School AISSEE 2027 Notification Update: सितम्बर रजिस्ट्रेशन से पहले Ready रखें ये 3 Certificates",
+    description: "AISSEE 2027 notification September-October mein expected hai. Registration se pehle ye 3 certificates ready rakhein — Domicile, Caste, Defence certificate.",
+    keywords: "AISSEE 2027 Sainik School Pre Notification Documents, Sainik school admission 2027 application form date September, AISSEE 2027 mandatory documents list",
+    date: "30 जुलाई 2026, सुबह 6 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, सुबह 6 बजकर 30 मिनट",
+    author: "Ravi Prakash",
+    authorName: "Ravi Prakash",
+    authorSlug: "ravi-prakash",
+    authorRole: "Current Affairs & GK Faculty",
+    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं।",
+    readTime: "7 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/aissee-2027-sainik-school-pre-notification-documents.webp",
+    imageAlt: "AISSEE 2027 Sainik School pre notification documents - domicile caste certificate preparation",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Document Checklist:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Domicile Certificate</strong> — 15-20 din lagte hain banane mein</li>
+<li><strong>Caste/Category Certificate</strong> — Central format mein chahiye</li>
+<li><strong>Defence Service Certificate</strong> — Agar applicable ho</li>
+</ul>
+</div>
+
+<p><strong>AISSEE 2027 Notification</strong> सितंबर-अक्टूबर 2026 में expected है। JNVST registration बंद हो गया है — अब parents का focus Sainik School पर shift होना चाहिए। लेकिन form आने से पहले documents ready रखना ज़रूरी है।</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE 2027 Expected Timeline</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification</td><td class="py-3 px-4 border-b">September-October 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form Start</td><td class="py-3 px-4 border-b">September-October 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Last Date</td><td class="py-3 px-4 border-b">November 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">January 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">February-March 2027</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Top 3 Critical Certificates</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">1. Domicile Certificate (मूल निवास प्रमाण पत्र)</h3>
+<p>Ye certificate prove karta hai ki aapka baccha us state ka resident hai. <strong>15-20 din lagte hain banane mein.</strong></p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">2. Caste/Category Certificate</h3>
+<p>OBC-NCL certificate <strong>central government ke format</strong> mein hona chahiye. State format accept nahi hota.</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">3. Defence Service Certificate</h3>
+<p>Agar parents Defence mein hain toh ye certificate extra seats dilata hai.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Document Processing Time</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">Authority</th><th class="py-3 px-4 border-b font-bold text-white text-left">Processing Time</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Domicile Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">15-20 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Caste Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">10-15 days</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Defence Certificate</td><td class="py-3 px-4">Unit Commanding Officer</td><td class="py-3 px-4">7-10 days</td></tr></tbody></table></div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Documents ready nahi hain?</h3><p><strong>JGPS School</strong> में Ravi Prakash से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "AISSEE 2027 ka notification kab aayega?", answer: "September-October 2026 mein expected hai. NTA official website exams.nta.ac.in par release hoga." },
+      { question: "Sainik School ke liye kaun se documents chahiye?", answer: "Domicile Certificate, Caste Certificate (central format), Birth Proof, aur Defence Certificate (agar applicable)." },
+      { question: "Domicile Certificate banane mein kitna time lagta hai?", answer: "15-20 din lagte hain. Isliye abhi se apply karein." },
+      { question: "OBC certificate state format mein chalega?", answer: "Nahi, OBC-NCL certificate central government ke format mein hona chahiye." }
+    ]
+  },
+  {
+    slug: "amu-jmi-class-6-maths-speed-tricks-2027",
+    title: "AMU & JMI Class 6 Entrance 2027: Maths Speed Test — 1 मिनट में Question सॉल्व करने की Smart Tricks",
+    description: "AMU JMI Class 6 Maths speed tricks — 1 minute mein question solve karne ki shortcuts, mental math techniques, aur scoring strategy।",
+    keywords: "AMU JMI Class 6 Maths Speed Tricks 2027, How to solve AMU class 6 maths questions fast, Jamia entrance math calculation shortcuts",
+    date: "30 जुलाई 2026, सुबह 7 बजे",
+    modifiedDate: "30 जुलाई 2026, सुबह 7 बजे",
+    author: "Sameer",
+    authorName: "Sameer",
+    authorSlug: "sameer",
+    authorRole: "Entrance Exam Coach, JGPS",
+    authorBio: "Sameer JGPS में entrance exam coaching देते हैं। 8+ साल के experience के साथ AMU, JMI की तैयारी कराते हैं।",
+    readTime: "8 मिनट",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/amu-jmi-class-6-maths-speed-tricks-2027.webp",
+    imageAlt: "AMU JMI Class 6 Maths speed tricks 2027 - 1 minute question solving shortcuts",
+    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">Quick Speed Building Hacks:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Unit Digit Method:</strong> Last digit se answer guess karo</li>
+<li><strong>Option Elimination:</strong> Galat options hatao, bacha hua answer hai</li>
+<li><strong>Mental Fraction Math:</strong> 25% = 1/4, 50% = 1/2 yaad rakho</li>
+<li><strong>Estimation:</strong> Exact calculation ki jagah estimate karo</li>
+</ul>
+</div>
+
+<p><strong>AMU & JMI Class 6 Maths Speed Tricks</strong> — AMU aur JMI entrance exams mein Math section sabse zyada time leta hai. Agar speed nahi hai toh time khatam ho jayega aur questions reh jayenge. Ye tricks seekho — 1 minute mein question solve kar paoge.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU vs JMI Maths Section Comparison</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th><th class="py-3 px-4 border-b font-bold text-white text-left">AMU Class 6</th><th class="py-3 px-4 border-b font-bold text-white text-left">JMI Class 6</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Math Questions</td><td class="py-3 px-4 border-b">25-30</td><td class="py-3 px-4 border-b">30</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Total Time</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b">2 hours</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Time per Question</td><td class="py-3 px-4 border-b">~2 minutes</td><td class="py-3 px-4 border-b">~1.5 minutes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4">0.25 marks</td><td class="py-3 px-4">No</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4 Game-Changing Speed Tricks</h2>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 1: Option Elimination</h3>
+<p>Galat options hatao — bacha hua answer hai. Example: "25% of 200" mein options hain 25, 50, 75, 100. 25% = 1/4, toh 200/4 = 50. Answer: 50.</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 2: Unit Digit Method</h3>
+<p>Last digit se answer guess karo. Example: 23 × 17 ka last digit? 3 × 7 = 21, last digit 1. Options mein 1 se end hone wala answer dhundho.</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 3: Mental Fraction Math</h3>
+<p>Ye values yaad rakho: 25% = 1/4, 50% = 1/2, 75% = 3/4, 10% = 1/10, 12.5% = 1/8. 80% problems yahi se aati hain.</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 4: Estimation</h3>
+<p>Exact calculation ki jagah estimate karo. Example: 498 × 5 ≈ 500 × 5 = 2500. Closest answer dhundho.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">High-Yield Math Chapters</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Chapter</th><th class="py-3 px-4 border-b font-bold text-white text-left">Speed Trick</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">LCM & HCF</td><td class="py-3 px-4 border-b">Prime factorization shortcut</td><td class="py-3 px-4 border-b">3-4</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Simplification</td><td class="py-3 px-4 border-b">BODMAS + mental math</td><td class="py-3 px-4 border-b">4-5</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">Fraction conversion</td><td class="py-3 px-4 border-b">3-4</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Profit & Loss</td><td class="py-3 px-4 border-b">CP/SP formula shortcut</td><td class="py-3 px-4 border-b">2-3</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Average</td><td class="py-3 px-4">Sum/Count formula</td><td class="py-3 px-4">2-3</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">15-Minute Daily Mental Math Routine</h2>
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<p><strong>5 minutes:</strong> Tables 1-20 oral practice</p>
+<p><strong>5 minutes:</strong> 10 mental math questions (no pen-paper)</p>
+<p><strong>5 minutes:</strong> Percentage-Fraction conversion practice</p>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Speed tricks seekhni hain?</h3><p><strong>JGPS School</strong> में Coach Sameer से Math shortcuts सीखें। Call: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "AMU JMI Math mein speed kaise badhayein?", answer: "Unit digit method, option elimination, aur mental math daily practice karo. 15 minute daily kaafi hai." },
+      { question: "Kaun sa speed trick sabse useful hai?", answer: "Option elimination — galat options hatao, bacha hua answer hai. Ye 80% questions mein kaam karta hai." },
+      { question: "Negative marking mein speed tricks safe hain?", answer: "Haan, agar option elimination se 2 options eliminate ho jayein toh 50% chance hai — AMU mein safe hai." },
+      { question: "Daily kitna time speed practice ke liye chahiye?", answer: "15-20 minutes daily kaafi hai. Tables yaad karo, mental math karo, percentage conversion practice karo." }
+    ]
+  },
+  {
+    slug: "jnvst-post-form-study-routine-screen-time-control",
+    title: "JNVST Form Submit हो गया? अब बच्चे के Daily Routine से Screen Time 50% कैसे घटाएं?",
+    description: "JNVST form submit hone ke baad — bacche ka screen time kaise kam karein aur offline study habit kaise develop karein।",
+    keywords: "JNVST Post Form Study Routine Screen Time Control, How to reduce child screen time during entrance prep, Mobile addiction in Class 5 students",
+    date: "30 जुलाई 2026, सुबह 7 बजकर 30 मिनट",
+    modifiedDate: "30 जुलाई 2026, सुबह 7 बजकर 30 मिनट",
+    author: "Priya Verma",
+    authorName: "Priya Verma",
+    authorSlug: "priya-verma",
+    authorRole: "Student Counselor",
+    authorBio: "Priya Verma child psychology और digital wellness में specialist हैं।",
+    readTime: "7 मिनट",
+    category: "पेरेंटिंग और काउंसलिंग",
+    image: "https://img.jgps.in/blog/jnvst-post-form-study-routine-screen-time-control.webp",
+    imageAlt: "JNVST post form study routine screen time control - reduce child mobile addiction offline study",
+    content: `<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">4 Golden Rules for Screen Reduction:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>Rule 1:</strong> Study time mein phone doosre room mein rakho</li>
+<li><strong>Rule 2:</strong> OMR sheet practice se offline habit banao</li>
+<li><strong>Rule 3:</strong> Physical books use karo — screen nahi</li>
+<li><strong>Rule 4:</strong> Reward system banao — padhai ke baad 30 min screen time</li>
+</ul>
+</div>
+
+<p><strong>JNVST Form Submit</strong> ho gaya? Ab online form bharna band. Ab <strong>offline study</strong> ka time hai. Lekin problem ye hai — form bharne ke liye bacche ne phone/laptop use kiya. Ab wo screen se door nahi ho raha. Ye article batayega kaise screen time 50% kam karein bina fight ke.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Digital Trap</h2>
+<p>10 saal ke bacche ka brain abhi develop ho raha hai. Zyada screen time se:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Concentration kamzor hota hai</strong> — Focus 10 minute se zyada nahi rehta</li>
+<li><strong>Nind nahi aati</strong> — Screen light se brain active rehta hai</li>
+<li><strong>Padhai boring lagti hai</strong> — Screen ke comparison mein padhai boring lagti hai</li>
+<li><strong>Aankhen kharab hoti hain</strong> — 10 saal ke bacche ki aankhen sensitive hoti hain</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Offline Study Transition</h2>
+<p>JNVST exam <strong>OMR sheet</strong> pe hota hai — pen-paper based. Isliye offline practice zaroori hai:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Physical books use karo</strong> — NCERT, practice sets</li>
+<li><strong>OMR sheet practice karo</strong> — Pen se gola bharne ki practice</li>
+<li><strong>Flashcards banao</strong> — Paper cards pe GK questions likho</li>
+<li><strong>Notebook mein formulas likho</strong> — Writing se memory strong hoti hai</li>
+</ul>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily Routine: Screen vs Offline Study</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Screen?</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00-5:00 PM</td><td class="py-3 px-4 border-b">School Homework</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15-6:15 PM</td><td class="py-3 px-4 border-b">Mental Ability Practice</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30-7:30 PM</td><td class="py-3 px-4 border-b">Math + Language Practice</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:30-8:00 PM</td><td class="py-3 px-4 border-b">Free Time (Screen allowed)</td><td class="py-3 px-4 border-b text-orange-600 font-bold">30 min</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">8:00 PM onwards</td><td class="py-3 px-4">Dinner + Rest</td><td class="py-3 px-4 text-green-700 font-bold">No</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Counselor Priya के 4 Practical Hacks</h2>
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>Study table pe phone mat rakho</strong> — Doosre room mein rakho</li>
+<li><strong>Physical books kharido</strong> — NCERT, practice sets, flashcards</li>
+<li><strong>Reward system banao</strong> — Padhai ke baad 30 min screen time milega</li>
+<li><strong>Sath mein padho</strong> — Bacche ke saath baith ke padho, phone mat dekho</li>
+</ul>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Screen time control nahi ho raha?</h3><p><strong>JGPS School</strong> में Counselor Priya से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
+`,
+    faqs: [
+      { question: "Bacche ka screen time kaise kam karein bina fight ke?", answer: "Reward system banao — padhai ke baad 30 min screen time milega. Study time mein phone doosre room mein rakho." },
+      { question: "OMR sheet practice kaise karein bina screen ke?", answer: "Internet se OMR template download karo, print karo, aur pen se practice karo. Daily 10 questions OMR pe bharo." },
+      { question: "Baccha phone nahi chhod raha toh kya karein?", answer: "Physical books kharido, flashcards banao, sath mein padho. Gradually screen time kam karo — ekdum band mat karo." },
+      { question: "Kitna screen time Class 5 student ke liye safe hai?", answer: "Study ke liye 30-60 minutes daily kaafi hai. Entertainment ke liye 30 minutes. Total 1.5-2 hours se zyada nahi." }
+    ]
   }
 ];
 
