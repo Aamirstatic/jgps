@@ -10149,6 +10149,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST Post Form Study Routine Screen Time Control, How to reduce child screen time during entrance prep, Mobile addiction in Class 5 students",
     date: "30 जुलाई 2026, सुबह 7 बजकर 30 मिनट",
     modifiedDate: "30 जुलाई 2026, सुबह 7 बजकर 30 मिनट",
+    readTime: "10 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -10200,6 +10201,9 @@ export const hindiArticles: HindiArticle[] = [
 <li><strong>Sath mein padho</strong> — Bacche ke saath baith ke padho, phone mat dekho</li>
 </ul>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Exam Pattern Quick Reference</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Practice Method</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">Offline (Paper-Pen)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">Offline (Paper-Pen)</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">20</td><td class="py-3 px-4">20</td><td class="py-3 px-4">Offline (Paper-Pen)</td></tr></tbody></table></div>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Screen time control nahi ho raha?</h3><p><strong>JGPS School</strong> में Counselor Priya से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
 `,
