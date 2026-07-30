@@ -10076,6 +10076,7 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "AMU JMI Class 6 Maths Speed Tricks 2027, How to solve AMU class 6 maths questions fast, Jamia entrance math calculation shortcuts",
     date: "30 जुलाई 2026, सुबह 7 बजे",
     modifiedDate: "30 जुलाई 2026, सुबह 7 बजे",
+    readTime: "10 मिनट",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -10123,6 +10124,14 @@ export const hindiArticles: HindiArticle[] = [
 <p><strong>5 minutes:</strong> 10 mental math questions (no pen-paper)</p>
 <p><strong>5 minutes:</strong> Percentage-Fraction conversion practice</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Negative Marking Rules</h2>
+<p>AMU entrance exam mein negative marking hai:</p>
+<ul class="list-disc pl-6 mb-4 space-y-2">
+<li><strong>Har galat answer par 0.25 marks kat'te hain</strong></li>
+<li><strong>100% sure nahi ho toh guess mat karo</strong></li>
+<li><strong>Option elimination se 2 options hatao</strong> — phir 50% chance hai</li>
+</ul>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Speed tricks seekhni hain?</h3><p><strong>JGPS School</strong> में Coach Sameer से Math shortcuts सीखें। Call: <strong>+91 9412137554</strong></p></div>
 `,
