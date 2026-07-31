@@ -10029,35 +10029,169 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/aissee-2027-sainik-school-pre-notification-documents.webp",
     imageAlt: "AISSEE 2027 Sainik School pre notification documents - domicile caste certificate preparation",
-    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Document Checklist:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Domicile Certificate</strong> — 15-20 din lagte hain banane mein</li>
-<li><strong>Caste/Category Certificate</strong> — Central format mein chahiye</li>
-<li><strong>Defence Service Certificate</strong> — Agar applicable ho</li>
-</ul>
+    content: `<p><strong>AISSEE 2027 Notification</strong> सितंबर-अक्टूबर 2026 में expected है। JNVST registration बंद हो गया है — अब parents का focus Sainik School पर shift होना चाहिए। लेकिन form आने से पहले documents ready रखना बहुत ज़रूरी है।</p>
+
+<p>मैंने कई parents को देखा है जो form आने के बाद documents बनवाने भागते हैं — और last date निकल जाती है। <strong>अभी से documents तैयार करो</strong> — form आते ही सिर्फ upload करना है।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/aissee-2027-documents-preparation.webp" alt="AISSEE 2027 Sainik School — Registration से पहले documents तैयार करें" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AISSEE 2027 — Documents Checklist</p>
 </div>
 
-<p><strong>AISSEE 2027 Notification</strong> सितंबर-अक्टूबर 2026 में expected है। JNVST registration बंद हो गया है — अब parents का focus Sainik School पर shift होना चाहिए। लेकिन form आने से पहले documents ready रखना ज़रूरी है।</p>
+<h2>AISSEE 2027 Expected Timeline</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE 2027 Expected Timeline</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification</td><td class="py-3 px-4 border-b">September-October 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form Start</td><td class="py-3 px-4 border-b">September-October 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Last Date</td><td class="py-3 px-4 border-b">November 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">January 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">February-March 2027</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Event</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification</td><td class="py-3 px-4 border-b">September-October 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form Start</td><td class="py-3 px-4 border-b">September-October 2026</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Last Date</td><td class="py-3 px-4 border-b">November 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">January 2027</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">February-March 2027</td></tr>
+    </tbody>
+  </table>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Top 3 Critical Certificates</h2>
+<h2>Complete Document List — कौन-कौन से documents चाहिए?</h2>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">1. Domicile Certificate (मूल निवास प्रमाण पत्र)</h3>
-<p>Ye certificate prove karta hai ki aapka baccha us state ka resident hai. <strong>15-20 din lagte hain banane mein.</strong></p>
+<p>AISSEE 2027 के form के लिए ये documents चाहिए:</p>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">2. Caste/Category Certificate</h3>
-<p>OBC-NCL certificate <strong>central government ke format</strong> mein hona chahiye. State format accept nahi hota.</p>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">#</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Document</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">ज़रूरी?</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Format</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">1</td><td class="py-3 px-4 border-b">Birth Certificate / Aadhaar</td><td class="py-3 px-4 border-b text-red-600 font-bold">ज़रूरी</td><td class="py-3 px-4 border-b">PDF/JPEG</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2</td><td class="py-3 px-4 border-b">Domicile Certificate</td><td class="py-3 px-4 border-b text-red-600 font-bold">ज़रूरी</td><td class="py-3 px-4 border-b">PDF</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">3</td><td class="py-3 px-4 border-b">Caste Certificate (OBC/SC/ST)</td><td class="py-3 px-4 border-b">Category के अनुसार</td><td class="py-3 px-4 border-b">PDF</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">4</td><td class="py-3 px-4 border-b">Defence Service Certificate</td><td class="py-3 px-4 border-b">अगर applicable</td><td class="py-3 px-4 border-b">PDF</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5</td><td class="py-3 px-4 border-b">Passport Size Photo</td><td class="py-3 px-4 border-b text-red-600 font-bold">ज़रूरी</td><td class="py-3 px-4 border-b">JPEG (50-100 KB)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6</td><td class="py-3 px-4 border-b">Signature</td><td class="py-3 px-4 border-b text-red-600 font-bold">ज़रूरी</td><td class="py-3 px-4 border-b">JPEG (10-50 KB)</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">7</td><td class="py-3 px-4 border-b">Class 5 Marksheet</td><td class="py-3 px-4 border-b text-red-600 font-bold">ज़रूरी</td><td class="py-3 px-4 border-b">PDF</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">8</td><td class="py-3 px-4">Aadhaar Card</td><td class="py-3 px-4 text-red-600 font-bold">ज़रूरी</td><td class="py-3 px-4">PDF/JPEG</td></tr>
+    </tbody>
+  </table>
+</div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">3. Defence Service Certificate</h3>
-<p>Agar parents Defence mein hain toh ye certificate extra seats dilata hai.</p>
+<h2>Top 3 Critical Certificates — विस्तार से</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Document Processing Time</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">Authority</th><th class="py-3 px-4 border-b font-bold text-white text-left">Processing Time</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Domicile Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">15-20 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Caste Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">10-15 days</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Defence Certificate</td><td class="py-3 px-4">Unit Commanding Officer</td><td class="py-3 px-4">7-10 days</td></tr></tbody></table></div>
+<h3>1. Domicile Certificate (मूल निवास प्रमाण पत्र)</h3>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Documents ready nahi hain?</h3><p><strong>JGPS School</strong> में Ravi Prakash से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
+<p>यह certificate prove करता है कि आपका बच्चा उस state का resident है। <strong>15-20 दिन लगते हैं बनाने में।</strong></p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>कैसे बनवाएं:</strong></p>
+  <ul class="list-disc pl-5 space-y-1 text-sm text-gray-700">
+    <li>Tehsil/SDM office में apply करें</li>
+    <li>Aadhaar card, Ration card, School certificate लगेगा</li>
+    <li>Online भी apply कर सकते हैं (कुछ states में)</li>
+    <li>15-20 दिन में बन जाता है</li>
+  </ul>
+</div>
+
+<h3>2. Caste/Category Certificate</h3>
+
+<p>OBC-NCL certificate <strong>central government के format</strong> में होना चाहिए। State format accept नहीं होता।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg my-4">
+  <p class="text-red-800 text-sm"><strong>सावधान:</strong> बहुत से parents state OBC certificate लगा देते हैं — form reject हो जाता है। Central OBC-NCL certificate बनवाएं।</p>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>कैसे बनवाएं:</strong></p>
+  <ul class="list-disc pl-5 space-y-1 text-sm text-gray-700">
+    <li>District Magistrate/SDM office से बनता है</li>
+    <li>Income certificate भी लगेगा (NCL के लिए)</li>
+    <li>10-15 दिन लगते हैं</li>
+    <li>Validity: Generally 1 year</li>
+  </ul>
+</div>
+
+<h3>3. Defence Service Certificate</h3>
+
+<p>अगर parents Defence में हैं तो यह certificate extra seats दिलाता है।</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>कैसे बनवाएं:</strong></p>
+  <ul class="list-disc pl-5 space-y-1 text-sm text-gray-700">
+    <li>Unit Commanding Officer से certificate लें</li>
+    <li>7-10 दिन में बन जाता है</li>
+    <li>Serving और Ex-servicemen दोनों के लिए valid</li>
+  </ul>
+</div>
+
+<h2>Document Processing Time — कितना समय लगेगा?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Document</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Authority</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Processing Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Domicile Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">15-20 days</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Caste Certificate (Central)</td><td class="py-3 px-4 border-b">District Magistrate</td><td class="py-3 px-4 border-b">10-15 days</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Defence Certificate</td><td class="py-3 px-4 border-b">Unit Commanding Officer</td><td class="py-3 px-4 border-b">7-10 days</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Income Certificate</td><td class="py-3 px-4 border-b">Tehsildar</td><td class="py-3 px-4 border-b">7-10 days</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Aadhaar Correction</td><td class="py-3 px-4">Aadhaar Center</td><td class="py-3 px-4">7-15 days</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Common Mistakes — जो ज़्यादातर parents करते हैं</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>State OBC certificate लगाना:</strong> Central OBC-NCL चाहिए। State format reject होता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>Photo size गलत रखना:</strong> Photo 50-100 KB, Signature 10-50 KB होना चाहिए। बड़ी file upload नहीं होगी।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>Form आने के बाद documents बनवाना:</strong> Documents में 15-20 दिन लगते हैं। Form last date से पहले बन नहीं पाएंगे।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>Name mismatch:</strong> Aadhaar में name और form में name same होना चाहिए। अगर अलग है तो पहले correct कराओ।</p>
+  </div>
+</div>
+
+<h2>Document Verification Tips</h2>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>सभी documents की photocopy रखें:</strong> Original + 2 photocopies</li>
+  <li><strong>Digital scan रखें:</strong> सभी documents का clear PDF scan</li>
+  <li><strong>Name consistency:</strong> सभी documents में name same हो</li>
+  <li><strong>Date of Birth match:</strong> Birth certificate और Aadhaar में DOB same हो</li>
+  <li><strong>Validity check:</strong> Caste certificate expire न हुआ हो</li>
+</ul>
+
+<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>Pro Tip:</strong> अभी August है, notification September-October में आएगा। इस महीने सभी documents बनवा लो। Form आते ही सिर्फ upload करना है — tension free!</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Documents ready नहीं हैं?</h3>
+<p><strong>JGPS School</strong> में Ravi Prakash से guidance लें। Call: <strong>+91 9412137554</strong></p>
+</div>
 `,
     faqs: [
       { question: "AISSEE 2027 ka notification kab aayega?", answer: "September-October 2026 mein expected hai. NTA official website exams.nta.ac.in par release hoga." },
@@ -10082,54 +10216,183 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/amu-jmi-class-6-maths-speed-tricks-2027.webp",
     imageAlt: "AMU JMI Class 6 Maths speed tricks 2027 - 1 minute question solving shortcuts",
-    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Speed Building Hacks:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Unit Digit Method:</strong> Last digit se answer guess karo</li>
-<li><strong>Option Elimination:</strong> Galat options hatao, bacha hua answer hai</li>
-<li><strong>Mental Fraction Math:</strong> 25% = 1/4, 50% = 1/2 yaad rakho</li>
-<li><strong>Estimation:</strong> Exact calculation ki jagah estimate karo</li>
-</ul>
+    content: `<p><strong>AMU & JMI Class 6 Maths Speed Tricks</strong> — AMU aur JMI entrance exams mein Math section सबसे ज़्यादा time लेता है। बहुत से बच्चे सवाल तो जानते हैं, लेकिन speed नहीं होने से time khatam ho jayega aur 5-6 questions reh jayenge। 1-2 marks se selection miss ho jata hai।</p>
+
+<p>यहाँ मैंने <strong>shortcut methods, Vedic math tricks, और calculation speed</strong> बढ़ाने के तरीके बताए हैं जो 8+ साल के coaching experience पर based हैं। ये tricks daily 15 minute practice करो — 2 हफ़्ते में speed 2 गुनी हो जाएगी।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/amu-jmi-maths-speed-tricks.webp" alt="AMU JMI Class 6 Math Speed Tricks — Shortcut Methods" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AMU & JMI Math Speed Tricks — 1 minute में solve करो</p>
 </div>
 
-<p><strong>AMU & JMI Class 6 Maths Speed Tricks</strong> — AMU aur JMI entrance exams mein Math section sabse zyada time leta hai. Agar speed nahi hai toh time khatam ho jayega aur questions reh jayenge. Ye tricks seekho — 1 minute mein question solve kar paoge.</p>
+<h2>AMU vs JMI Maths Section — Comparison</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU vs JMI Maths Section Comparison</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th><th class="py-3 px-4 border-b font-bold text-white text-left">AMU Class 6</th><th class="py-3 px-4 border-b font-bold text-white text-left">JMI Class 6</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Math Questions</td><td class="py-3 px-4 border-b">25-30</td><td class="py-3 px-4 border-b">30</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Total Time</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b">2 hours</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Time per Question</td><td class="py-3 px-4 border-b">~2 minutes</td><td class="py-3 px-4 border-b">~1.5 minutes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4">0.25 marks</td><td class="py-3 px-4">No</td></tr></tbody></table></div>
+<p>पहले दोनों exams का Math section compare कर लेते हैं:</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4 Game-Changing Speed Tricks</h2>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">AMU Class 6</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">JMI Class 6</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Math Questions</td><td class="py-3 px-4 border-b">25-30</td><td class="py-3 px-4 border-b">30</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Total Time</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b">2 hours</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Time per Question</td><td class="py-3 px-4 border-b">~2 minutes</td><td class="py-3 px-4 border-b">~1.5 minutes</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4 border-b text-red-600 font-bold">हाँ (0.25 marks)</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Difficulty Level</td><td class="py-3 px-4">Moderate-High</td><td class="py-3 px-4">Moderate</td></tr>
+    </tbody>
+  </table>
+</div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 1: Option Elimination</h3>
-<p>Galat options hatao — bacha hua answer hai. Example: "25% of 200" mein options hain 25, 50, 75, 100. 25% = 1/4, toh 200/4 = 50. Answer: 50.</p>
+<h2>4 Game-Changing Speed Tricks</h2>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 2: Unit Digit Method</h3>
-<p>Last digit se answer guess karo. Example: 23 × 17 ka last digit? 3 × 7 = 21, last digit 1. Options mein 1 se end hone wala answer dhundho.</p>
+<h3>Trick 1: Option Elimination (सबसे Powerful)</h3>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 3: Mental Fraction Math</h3>
-<p>Ye values yaad rakho: 25% = 1/4, 50% = 1/2, 75% = 3/4, 10% = 1/10, 12.5% = 1/8. 80% problems yahi se aati hain.</p>
+<p>यह trick 80% questions में काम करता है। सबसे पहले clearly गलत options हटाओ, बचे हुए में से answer चुनो।</p>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Trick 4: Estimation</h3>
-<p>Exact calculation ki jagah estimate karo. Example: 498 × 5 ≈ 500 × 5 = 2500. Closest answer dhundho.</p>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>Example:</strong> 25% of 200 = ?</p>
+  <p class="text-sm text-gray-700">Options: (A) 25 (B) 50 (C) 75 (D) 100</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 25% = 1/4, तो 200/4 = 50। Answer: <strong>(B) 50</strong></p>
+  <p class="text-sm text-gray-700 mt-1">पूरा calculation करने की ज़रूरत नहीं — सिर्फ fraction convert करो।</p>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">High-Yield Math Chapters</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Chapter</th><th class="py-3 px-4 border-b font-bold text-white text-left">Speed Trick</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">LCM & HCF</td><td class="py-3 px-4 border-b">Prime factorization shortcut</td><td class="py-3 px-4 border-b">3-4</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Simplification</td><td class="py-3 px-4 border-b">BODMAS + mental math</td><td class="py-3 px-4 border-b">4-5</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">Fraction conversion</td><td class="py-3 px-4 border-b">3-4</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Profit & Loss</td><td class="py-3 px-4 border-b">CP/SP formula shortcut</td><td class="py-3 px-4 border-b">2-3</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Average</td><td class="py-3 px-4">Sum/Count formula</td><td class="py-3 px-4">2-3</td></tr></tbody></table></div>
+<h3>Trick 2: Unit Digit Method</h3>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">15-Minute Daily Mental Math Routine</h2>
+<p>बड़ी numbers का multiplication में last digit से answer guess करो।</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>Example:</strong> 23 × 17 = ?</p>
+  <p class="text-sm text-gray-700">Options: (A) 381 (B) 391 (C) 401 (D) 411</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 3 × 7 = 21, last digit = 1। Options में 1 से end होने वाला देखो → (B) 391 ✅</p>
+  <p class="text-sm text-gray-700 mt-1">पूरा multiply किए बिना answer मिल गया!</p>
+</div>
+
+<h3>Trick 3: Mental Fraction Math</h3>
+
+<p>ये values याद रखो — 80% percentage problems यहीं से आती हैं:</p>
+
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3 my-4">
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">25% = 1/4</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">50% = 1/2</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">75% = 3/4</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">10% = 1/10</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">12.5% = 1/8</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">33.33% = 1/3</div>
+</div>
+
+<h3>Trick 4: Estimation (अनुमान)</h3>
+
+<p>Exact calculation की जगह estimate करो और closest answer चुनो।</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>Example:</strong> 498 × 5 = ?</p>
+  <p class="text-sm text-gray-700">Options: (A) 2450 (B) 2490 (C) 2500 (D) 2550</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 498 ≈ 500, तो 500 × 5 = 2500। Closest: <strong>(C) 2500</strong></p>
+</div>
+
+<h2>Section-wise Tips — हर section के लिए</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Chapter</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Speed Trick</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">LCM & HCF</td><td class="py-3 px-4 border-b">Prime factorization shortcut</td><td class="py-3 px-4 border-b">3-4</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Simplification</td><td class="py-3 px-4 border-b">BODMAS + mental math</td><td class="py-3 px-4 border-b">4-5</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">Fraction conversion</td><td class="py-3 px-4 border-b">3-4</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Profit & Loss</td><td class="py-3 px-4 border-b">CP/SP formula shortcut</td><td class="py-3 px-4 border-b">2-3</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Average</td><td class="py-3 px-4 border-b">Sum/Count formula</td><td class="py-3 px-4 border-b">2-3</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Ratio & Proportion</td><td class="py-3 px-4 border-b">Cross multiplication</td><td class="py-3 px-4 border-b">2-3</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Time & Distance</td><td class="py-3 px-4">Speed = Distance/Time</td><td class="py-3 px-4">2-3</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Common Patterns — बार-बार आने वाले सवाल</h2>
+
+<p>पिछले 5 साल के AMU/JMI papers analyze करने पर ये common patterns मिले:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Pattern 1:</span>
+    <p class="text-sm text-gray-700"><strong>"A का 20% B के 30% के बराबर है"</strong> — यह type हर साल आता है। Cross multiplication से solve होता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Pattern 2:</span>
+    <p class="text-sm text-gray-700"><strong>"3 लोगों की औसत age"</strong> — Average = Sum/Count। यह formula याद रखो।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Pattern 3:</span>
+    <p class="text-sm text-gray-700"><strong>"CP और SP से Profit/Loss %"</strong> — Profit% = (Profit/CP) × 100। Direct formula।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Pattern 4:</span>
+    <p class="text-sm text-gray-700"><strong>"LCM और HCF find करो"</strong> — Prime factorization method use करो। Fast और accurate है।</p>
+  </div>
+</div>
+
+<h2>15-Minute Daily Mental Math Routine</h2>
+
+<p>यह routine daily follow करो — 2 हफ़्ते में speed double हो जाएगी:</p>
+
 <div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>5 minutes:</strong> Tables 1-20 oral practice</p>
-<p><strong>5 minutes:</strong> 10 mental math questions (no pen-paper)</p>
-<p><strong>5 minutes:</strong> Percentage-Fraction conversion practice</p>
+  <p><strong>5 minutes:</strong> Tables 1-20 oral practice — बिना रुके, बिना देखे</p>
+  <p><strong>5 minutes:</strong> 10 mental math questions — pen-paper बिल्कुल नहीं, सिर्फ दिमाग़ से</p>
+  <p><strong>5 minutes:</strong> Percentage-Fraction conversion — random numbers लो और convert करो</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Negative Marking Rules</h2>
-<p>AMU entrance exam mein negative marking hai:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Har galat answer par 0.25 marks kat'te hain</strong></li>
-<li><strong>100% sure nahi ho toh guess mat karo</strong></li>
-<li><strong>Option elimination se 2 options hatao</strong> — phir 50% chance hai</li>
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>Important:</strong> Speed tricks सिर्फ तभी काम करती हैं जब basics clear हों। पहले NCERT की किताब से concepts समझो, फिर tricks apply करो।</p>
+</div>
+
+<h2>Time Management — Exam में कैसे manage करें?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Phase</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Strategy</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पहला Round</td><td class="py-3 px-4 border-b">0-60 min</td><td class="py-3 px-4 border-b">Easy सवाल पहले करो — skip the hard ones</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरा Round</td><td class="py-3 px-4 border-b">60-100 min</td><td class="py-3 px-4 border-b">Medium सवाल — tricks apply करो</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">तीसरा Round</td><td class="py-3 px-4">100-120 min</td><td class="py-3 px-4">Hard सवाल — जो न बने skip करो (AMU में)</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>AMU Negative Marking — Safe Strategy</h2>
+
+<p>AMU entrance exam में negative marking है:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Har galat answer पर 0.25 marks कटते हैं</strong></li>
+  <li><strong>100% sure नहीं हो तो guess मत करो</strong></li>
+  <li><strong>Option elimination से 2 options हटाओ</strong> — फिर 50% chance है, safe है</li>
+  <li><strong>4 options में से 1 भी eliminate नहीं हो रहा</strong> — skip करो</li>
 </ul>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Speed tricks seekhni hain?</h3><p><strong>JGPS School</strong> में Coach Sameer से Math shortcuts सीखें। Call: <strong>+91 9412137554</strong></p></div>
+<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>Pro Tip:</strong> JMI में negative marking नहीं है। तो JMI के exam में सभी सवाल attempt करो — चाहे sure न हो। AMU में careful रहो।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Speed tricks सीखनी हैं?</h3>
+<p><strong>JGPS School</strong> में Coach Sameer से Math shortcuts सीखें। Call: <strong>+91 9412137554</strong></p>
+</div>
 `,
     faqs: [
       { question: "AMU JMI Math mein speed kaise badhayein?", answer: "Unit digit method, option elimination, aur mental math daily practice karo. 15 minute daily kaafi hai." },
@@ -10154,53 +10417,176 @@ export const hindiArticles: HindiArticle[] = [
     category: "पेरेंटिंग और काउंसलिंग",
     image: "https://img.jgps.in/blog/jnvst-post-form-study-routine-screen-time-control.webp",
     imageAlt: "JNVST post form study routine screen time control - reduce child mobile addiction offline study",
-    content: `<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">4 Golden Rules for Screen Reduction:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Rule 1:</strong> Study time mein phone doosre room mein rakho</li>
-<li><strong>Rule 2:</strong> OMR sheet practice se offline habit banao</li>
-<li><strong>Rule 3:</strong> Physical books use karo — screen nahi</li>
-<li><strong>Rule 4:</strong> Reward system banao — padhai ke baad 30 min screen time</li>
-</ul>
+    content: `<p><strong>JNVST Form Submit</strong> ho gaya? बहुत अच्छा! अब online form bharna band. Ab <strong>offline study</strong> ka time hai। लेकिन problem ये है — form bharne ke liye bacche ne phone/laptop use kiya। Ab wo screen se door nahi ho raha। YouTube dekh raha है, games खेल रहा है, reels scroll कर रहा है। Parents परेशान हैं — "पढ़ाई कैसे होगी?"</p>
+
+<p>यह article आपको बताएगा कि <strong>screen time 50% कैसे कम करें</strong> — बिना fight के, बिना रोए-धोए, practical तरीके से।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/study-routine-screen-time-control.webp" alt="बच्चे का study routine और screen time control" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">Screen time control — JNVST preparation के लिए ज़रूरी</p>
 </div>
 
-<p><strong>JNVST Form Submit</strong> ho gaya? Ab online form bharna band. Ab <strong>offline study</strong> ka time hai. Lekin problem ye hai — form bharne ke liye bacche ne phone/laptop use kiya. Ab wo screen se door nahi ho raha. Ye article batayega kaise screen time 50% kam karein bina fight ke.</p>
+<h2>The Digital Trap — स्क्रीन का जाल</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Digital Trap</h2>
-<p>10 saal ke bacche ka brain abhi develop ho raha hai. Zyada screen time se:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Concentration kamzor hota hai</strong> — Focus 10 minute se zyada nahi rehta</li>
-<li><strong>Nind nahi aati</strong> — Screen light se brain active rehta hai</li>
-<li><strong>Padhai boring lagti hai</strong> — Screen ke comparison mein padhai boring lagti hai</li>
-<li><strong>Aankhen kharab hoti hain</strong> — 10 saal ke bacche ki aankhen sensitive hoti hain</li>
+<p>10-11 साल के बच्चे का brain अभी develop हो रहा है। Research कहती है कि इस उम्र में ज़्यादा screen time से:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Concentration कमज़ोर होता है:</strong> Focus 10 minute से ज़्यादा नहीं रहता। बच्चा 5 minute पढ़कर बोर हो जाता है।</li>
+  <li><strong>नींद नहीं आती:</strong> Screen की blue light से brain active रहता है। रात को phone देखने से नींद देर से आती है।</li>
+  <li><strong>पढ़ाई boring लगती है:</strong> Screen (games, videos) से instant dopamine मिलता है। पढ़ाई में effort लगता है। बच्चा पढ़ाई से भागता है।</li>
+  <li><strong>आँखें कमज़ोर होती हैं:</strong> 10 साल के बच्चे की आँखें sensitive होती हैं। लंबे screen time से eyesight पर असर पड़ता है।</li>
+  <li><strong>चिड़चिड़ापन बढ़ता है:</strong> जब phone छीनो तो बच्चा गुस्सा करता है, रोता है। यह addiction का sign है।</li>
 </ul>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Offline Study Transition</h2>
-<p>JNVST exam <strong>OMR sheet</strong> pe hota hai — pen-paper based. Isliye offline practice zaroori hai:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Physical books use karo</strong> — NCERT, practice sets</li>
-<li><strong>OMR sheet practice karo</strong> — Pen se gola bharne ki practice</li>
-<li><strong>Flashcards banao</strong> — Paper cards pe GK questions likho</li>
-<li><strong>Notebook mein formulas likho</strong> — Writing se memory strong hoti hai</li>
+<div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg my-4">
+  <p class="text-red-800 text-sm"><strong>चेतावनी:</strong> JNVST exam pen-paper based (OMR sheet) है। अगर बच्चा screen पर practice करेगा, तो real exam में OMR fill करने में problem होगी। Offline practice ज़रूरी है।</p>
+</div>
+
+<h2>Daily Timetable — पूरे दिन का schedule</h2>
+
+<p>यह timetable JNVST preparation के लिए design किया गया है। इसमें study, play, और limited screen time — तीनों balanced हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Screen?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 - 6:30 AM</td><td class="py-3 px-4 border-b">उठना, तैयार होना</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:00 AM</td><td class="py-3 px-4 border-b">Tables/Formulas याद करना</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:00 - 2:30 PM</td><td class="py-3 px-4 border-b">School</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2:30 - 3:30 PM</td><td class="py-3 px-4 border-b">खाना + आराम</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 4:00 PM</td><td class="py-3 px-4 border-b">खेलना (बाहर)</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 - 5:00 PM</td><td class="py-3 px-4 border-b">Mental Ability Practice (Offline)</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:15 PM</td><td class="py-3 px-4 border-b">Break + Snacks</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:15 PM</td><td class="py-3 px-4 border-b">Math Practice (Offline)</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 - 6:30 PM</td><td class="py-3 px-4 border-b">Break</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:30 PM</td><td class="py-3 px-4 border-b">Language Practice (Offline)</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 - 8:00 PM</td><td class="py-3 px-4 border-b">Free Time (Reward)</td><td class="py-3 px-4 border-b text-orange-600 font-bold">30 min max</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">8:00 - 9:00 PM</td><td class="py-3 px-4 border-b">रात का खाना + Family time</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">9:00 PM</td><td class="py-3 px-4">सोना</td><td class="py-3 px-4 text-green-700 font-bold">No</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>Key Point:</strong> Total screen time सिर्फ 30 minutes/day। बाकी सब offline। यह schedule 120 दिन follow करो — selection पक्का है।</p>
+</div>
+
+<h2>Screen Time Rules — 4 Golden Rules</h2>
+
+<p>Counselor Priya Verma (child psychology specialist) के अनुसार, screen time control करने के लिए ये 4 rules ज़रूरी हैं:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Rule 1:</span>
+    <p class="text-sm text-gray-700"><strong>Study time में phone दूसरे room में रखो:</strong> Study table पर phone मत रखो। अगर phone सामने होगा तो बच्चा check करेगा। Phone को दूसरे room में रखो और study के बाद ही दो।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Rule 2:</span>
+    <p class="text-sm text-gray-700"><strong>OMR sheet practice से offline habit बनाओ:</strong> JNVST exam OMR sheet पर होता है। Print करके practice करो। Pen से गोले भरने की आदत डालो। यह screen से ज़्यादा effective है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Rule 3:</span>
+    <p class="text-sm text-gray-700"><strong>Physical books use करो:</strong> NCERT की किताबें, practice sets, flashcards — सब offline। Screen पर पढ़ने से आँखें थकती हैं और concentration टूटता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Rule 4:</span>
+    <p class="text-sm text-gray-700"><strong>Reward system बनाओ:</strong> पढ़ाई पूरी करने के बाद 30 minute screen time मिलेगा। यह "reward" है, "right" नहीं। बच्चा खुद motivated रहेगा।</p>
+  </div>
+</div>
+
+<h2>Study-Balance — पढ़ाई और आराम का संतुलन</h2>
+
+<p>सिर्फ पढ़ाई-पढ़ाई-पढ़ाई — यह approach काम नहीं करता। बच्चे को break भी चाहिए। लेकिन break में screen time नहीं, बल्कि:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>बाहर खेलना:</strong> Cricket, badminton, cycling — physical activity ज़रूरी है</li>
+  <li><strong>Drawing/Coloring:</strong> Creative activity brain को relax करती है</li>
+  <li><strong>Story books पढ़ना:</strong> Hindi/English story books — vocabulary भी बढ़ेगी</li>
+  <li><strong>Family time:</strong> Parents के साथ बात करना, board games खेलना</li>
+  <li><strong>Music सुनना:</strong> 10-15 minute — relax करने के लिए</li>
 </ul>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily Routine: Screen vs Offline Study</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Screen?</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00-5:00 PM</td><td class="py-3 px-4 border-b">School Homework</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15-6:15 PM</td><td class="py-3 px-4 border-b">Mental Ability Practice</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30-7:30 PM</td><td class="py-3 px-4 border-b">Math + Language Practice</td><td class="py-3 px-4 border-b text-green-700 font-bold">No</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:30-8:00 PM</td><td class="py-3 px-4 border-b">Free Time (Screen allowed)</td><td class="py-3 px-4 border-b text-orange-600 font-bold">30 min</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">8:00 PM onwards</td><td class="py-3 px-4">Dinner + Rest</td><td class="py-3 px-4 text-green-700 font-bold">No</td></tr></tbody></table></div>
+<h2>Phone Management — Practical Tips</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Counselor Priya के 4 Practical Hacks</h2>
+<p>Phone completely छीनना सही approach नहीं है। बच्चा rebel होगा। इसकी जगह:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">गलत तरीका</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सही तरीका</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b text-red-600">Phone छीन लो</td><td class="py-3 px-4 border-b">Study time के बाद 30 min दो</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b text-red-600">डाँट कर phone बंद कराओ</td><td class="py-3 px-4 border-b">Timer लगाओ — "30 min बाद automatic बंद"</td></tr>
+      <tr><td class="py-3 px-4 border-b text-red-600">"Phone मत देखो" बोलो</td><td class="py-3 px-4 border-b">"पहले पढ़ाई, फिर phone" — sequence बनाओ</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 text-red-600">ख़ुद phone use करो</td><td class="py-3 px-4">बच्चे के सामने phone मत देखो — lead by example</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>App Recommendations — Study के लिए Useful Apps</h2>
+
+<p>अगर screen time ले ही रहे हैं, तो productive apps use करो:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>NCERT App:</strong> Free NCERT books download कर सकते हैं</li>
+  <li><strong>Diksha App:</strong> Government education app — video lessons मिलते हैं</li>
+  <li><strong>YouTube (Educational):</strong> Math tricks, Science experiments — लेकिन timer लगाकर</li>
+</ul>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> Entertainment apps (games, social media, reels) study time में बिल्कुल नहीं। सिर्फ educational apps, वो भी limited time।</p>
+</div>
+
+<h2>Parent Monitoring — माता-पिता की भूमिका</h2>
+
+<p>Screen time control करना सिर्फ बच्चे की ज़िम्मेदारी नहीं है। Parents को भी active role निभाना होगा:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>ख़ुद कम phone use करो:</strong> अगर आप बच्चे के सामने phone scroll करोगे, तो बच्चा भी करेगा। Lead by example।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Study time में साथ बैठो:</strong> बच्चे के साथ बैठकर पढ़ाओ। अगर आप सामने हो, तो बच्चा phone नहीं माँगेगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Phone का password रखो:</strong> बच्चा ख़ुद phone unlock न करे। आप दें तभी use करे।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Screen time app use करो:</strong> Google Family Link या Apple Screen Time से daily limit set करो।</p>
+  </div>
+</div>
+
+<h2>Reward System — बिना लड़ाई के Screen Time Control</h2>
+
+<p>यह सबसे effective method है:</p>
+
 <div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
 <ul class="list-decimal pl-6 space-y-3">
-<li><strong>Study table pe phone mat rakho</strong> — Doosre room mein rakho</li>
-<li><strong>Physical books kharido</strong> — NCERT, practice sets, flashcards</li>
-<li><strong>Reward system banao</strong> — Padhai ke baad 30 min screen time milega</li>
-<li><strong>Sath mein padho</strong> — Bacche ke saath baith ke padho, phone mat dekho</li>
+<li><strong>Task Complete = Reward:</strong> 1 घंटे की focused study के बाद 15 minute screen time</li>
+<li><strong>Daily Goal Achieved:</strong> दिन का target पूरा करो → 30 minute free time (screen allowed)</li>
+<li><strong>Weekly Champion:</strong> हफ़्ते का target पूरा → Sunday को extra 30 minute</li>
+<li><strong>No Study = No Screen:</strong> अगर पढ़ाई नहीं की, तो screen time नहीं मिलेगा</li>
 </ul>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Exam Pattern Quick Reference</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Practice Method</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">Offline (Paper-Pen)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">Offline (Paper-Pen)</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">20</td><td class="py-3 px-4">20</td><td class="py-3 px-4">Offline (Paper-Pen)</td></tr></tbody></table></div>
-
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Screen time control nahi ho raha?</h3><p><strong>JGPS School</strong> में Counselor Priya से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Screen time control नहीं हो रहा?</h3>
+<p><strong>JGPS School</strong> में Counselor Priya से guidance लें। Call: <strong>+91 9412137554</strong></p>
+</div>
 `,
     faqs: [
       { question: "Bacche ka screen time kaise kam karein bina fight ke?", answer: "Reward system banao — padhai ke baad 30 min screen time milega. Study time mein phone doosre room mein rakho." },
@@ -10263,17 +10649,157 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/sainik-school-aissee-2027-exam-date-schedule.webp",
     imageAlt: "Sainik School AISSEE 2027 exam date - January 2027 schedule eligibility",
-    content: `<p><strong>AISSEE 2027 Exam Date</strong> जनवरी 2027 में expected है। NTA (National Testing Agency) ये exam conduct करता है।</p>
+    content: `<p><strong>AISSEE 2027 Exam Date</strong> जनवरी 2027 में expected है। NTA (National Testing Agency) ये exam conduct करता है। Sainik School में admission लेने के लिए AISSEE (All India Sainik Schools Entrance Exam) पास करना ज़रूरी है। इस लेख में मैं आपको complete schedule बताऊंगा — application timeline से लेकर result date तक, और preparation timeline भी।</p>
 
-<h2>Expected Schedule</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form Start</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Last Date</td><td class="py-3 px-4 border-b">Nov 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">Jan 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">Feb-Mar 2027</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/aissee-2027-exam-date-schedule.webp" alt="Sainik School AISSEE 2027 exam date — January 2027 schedule" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AISSEE 2027 — Complete Exam Schedule</p>
+</div>
 
-<h2>Eligibility</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Class 6:</strong> Age 10-12 years (as on 31 March 2027)</li>
-<li><strong>Class 9:</strong> Age 13-15 years (as on 31 March 2027)</li>
-<li><strong>Nationality:</strong> Indian citizen</li>
-</ul>
+<h2>Expected Full Schedule</h2>
+
+<p>पिछले सालों के pattern के आधार पर AISSEE 2027 का schedule यह हो सकता है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Event</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification Release</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Application Form Start</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Last Date</td><td class="py-3 px-4 border-b">Nov 2026</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">Dec 2026 - Jan 2027</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900 font-bold">Exam Date</td><td class="py-3 px-4 border-b font-bold">Jan 2027</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key</td><td class="py-3 px-4 border-b">Feb 2027</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Test</td><td class="py-3 px-4 border-b">Mar-Apr 2027</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">Pending</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Final Merit List + Admission</td><td class="py-3 px-4">Apr-May 2027</td><td class="py-3 px-4 text-yellow-600 font-bold">Pending</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Exam Day Schedule — परीक्षा वाले दिन</h2>
+
+<p>AISSEE की परीक्षा एक ही दिन होती है। दो papers होते हैं — Class 6 और Class 9 के लिए:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Paper</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Time</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Class 6</td><td class="py-3 px-4 border-b">सुबह 10:00 - 12:30 बजे</td><td class="py-3 px-4 border-b">2.5 घंटे</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Class 9</td><td class="py-3 px-4">दोपहर 2:00 - 4:30 बजे</td><td class="py-3 px-4">2.5 घंटे</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Eligibility — कौन apply कर सकता है?</h2>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-3">Class 6 के लिए:</h3>
+  <ul class="space-y-2 text-sm text-gray-700">
+    <li><strong>Age:</strong> 10-12 years (as on 31 March 2027)</li>
+    <li><strong>Education:</strong> Class 5 में पढ़ रहा हो</li>
+    <li><strong>Nationality:</strong> Indian citizen</li>
+    <li><strong>Girls:</strong> 10% seats reserved</li>
+  </ul>
+</div>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-3">Class 9 के लिए:</h3>
+  <ul class="space-y-2 text-sm text-gray-700">
+    <li><strong>Age:</strong> 13-15 years (as on 31 March 2027)</li>
+    <li><strong>Education:</strong> Class 8 में पढ़ रहा हो</li>
+    <li><strong>Nationality:</strong> Indian citizen</li>
+  </ul>
+</div>
+
+<h2>Application Timeline — कब form भरें?</h2>
+
+<p>Application form September-October 2026 में आने की संभावना है। Form भरने की process:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
+    <p class="text-sm text-gray-700"><strong>exams.nta.ac.in पर जाएं</strong> — NTA की official website</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
+    <p class="text-sm text-gray-700"><strong>New Registration करें</strong> — Email ID और Mobile Number से</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
+    <p class="text-sm text-gray-700"><strong>Form भरें</strong> — Personal details, address, school choice</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">4</div>
+    <p class="text-sm text-gray-700"><strong>Documents upload करें</strong> — Photo, signature, certificates</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">5</div>
+    <p class="text-sm text-gray-700"><strong>Fee pay करें</strong> — Online payment (General: ₹550, SC/ST: ₹400)</p>
+  </div>
+</div>
+
+<h2>Exam Pattern — कैसा आता है पेपर?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">25</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">GK & Science</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">English</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Intelligence</td><td class="py-3 px-4">25</td><td class="py-3 px-4">25</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>Note:</strong> AISSEE में <strong>negative marking नहीं</strong> है। हर सवाल का जवाब दें।</p>
+</div>
+
+<h2>Preparation Timeline — कब से तैयारी शुरू करें?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Month</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">July-Aug 2026</td><td class="py-3 px-4 border-b">NCERT basics complete करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Sept-Oct 2026</td><td class="py-3 px-4 border-b">GK + Current Affairs daily पढ़ें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Nov 2026</td><td class="py-3 px-4 border-b">Mock tests + Previous year papers</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Dec 2026 - Jan 2027</td><td class="py-3 px-4">Revision + Weak topics practice</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 AISSEE 2027 की तैयारी में मदद चाहिए?</h3>
+<p>JGPS School में Sainik School की coaching होती है। Call: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख AISSEE 2027 के expected schedule पर based है। Exact dates NTA official website पर announce होंगी।</em></p>
 `,
     faqs: [
       { question: "AISSEE 2027 exam kab hoga?", answer: "January 2027 mein expected hai." },
@@ -10435,15 +10961,144 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-exam-center-kaise-pahunche.webp",
     imageAlt: "JNVST 2027 exam center - kaise pahunchein important tips",
-    content: `<p><strong>JNVST 2027 Exam Center</strong> का पता Admit Card पर छपा होगा। परीक्षा केंद्र पर 30 मिनट पहले पहुंचें।</p>
+    content: `<p><strong>JNVST 2027 Exam Center</strong> का पता Admit Card पर छपा होगा। बहुत से बच्चे और माता-पिता परीक्षा वाले दिन exam center ढूंढने में परेशान हो जाते हैं। कई बार तो बच्चे इतनी देर से पहुंचते हैं कि entry ही नहीं मिलती। इसलिए <strong>travel planning पहले से करें</strong>। यह लेख आपको बताएगा कि exam center कैसे पहुंचें, क्या-क्या तैयारी करें, और परीक्षा वाले दिन का routine कैसा हो।</p>
 
-<h2>Important Tips</h2>
-<ul class="list-decimal pl-6 mb-4 space-y-2">
-<li><strong>Route पहले से check करें</strong> — एक दिन पहले exam center देख लें</li>
-<li><strong>30 मिनट पहले पहुंचें</strong> — देर से पहुंचने पर entry नहीं मिलेगी</li>
-<li><strong>Parking की व्यवस्था करें</strong> — भीड़ बहुत होगी</li>
-<li><strong>खाना-पानी लेकर जाएं</strong> — Exam hall में पानी की बोतल allowed है</li>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-exam-center-kaise-pahunche.webp" alt="JNVST 2027 exam center कैसे पहुंचें — travel planning tips" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 Exam Center — कैसे पहुंचें Complete Guide</p>
+</div>
+
+<h2>Travel Planning — पहले से क्या करें?</h2>
+
+<p>Exam center पहुंचने से पहले ये planning ज़रूरी है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>Admit Card पर address पढ़ें:</strong> Center का पूरा address, room number, और reporting time note करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Google Maps पर route देखें:</strong> Center का नाम search करें और distance + time check करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Transport decide करें:</strong> बस, auto, गाड़ी, या train — कौन सा option सबसे अच्छा है?</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Backup plan रखें:</strong> अगर primary transport fail हो जाए, तो क्या करेंगे?</p>
+  </div>
+</div>
+
+<h2>Day-Before Visit — एक दिन पहले ज़रूर जाएं</h2>
+
+<p>मैं हमेशा कहता हूँ — <strong>exam center एक दिन पहले ज़रूर देख लें</strong>। इसके फ़ायदे:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>सही location पता चल जाएगी</strong> — Google Maps हमेशा सही नहीं होता</li>
+  <li><strong>Entry gate पता चल जाएगा</strong> — बड़े centers में multiple gates होते हैं</li>
+  <li><strong>Parking spot ढूंढ सकते हैं</strong> — अगर गाड़ी से जा रहे हैं</li>
+  <li><strong>समय का अंदाज़ा हो जाएगा</strong> — traffic कैसा होगा, कितना time लगेगा</li>
+  <li><strong>मानसिक शांति मिलेगी</strong> — परीक्षा वाले दिन tension कम होगी</li>
 </ul>
+
+<h2>Transport Options — कैसे पहुंचें?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Transport</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Pros</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Cons</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">गाड़ी/बाइक</td><td class="py-3 px-4 border-b">Flexible timing</td><td class="py-3 px-4 border-b">Parking problem</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Auto-rickshaw</td><td class="py-3 px-4 border-b">Door-to-door</td><td class="py-3 px-4 border-b">भीड़ में मिलना मुश्किल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Bus</td><td class="py-3 px-4 border-b">सस्ता</td><td class="py-3 px-4 border-b">Time fixed नहीं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Train</td><td class="py-3 px-4">Long distance के लिए best</td><td class="py-3 px-4">Station से center तक auto चाहिए</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>Tip:</strong> Auto-rickshaw या bus से जाना सबसे अच्छा है। Parking की tension नहीं होती।</p>
+</div>
+
+<h2>अगर Center बहुत दूर है तो क्या करें?</h2>
+
+<p>कई बार exam center बच्चे के घर से 50-100 km दूर होता है। ऐसे में:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>एक दिन पहले पहुंचें:</strong> अगर center 50+ km दूर है, तो एक दिन पहले जाएं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Overnight stay करें:</strong> Center के पास कोई hotel या धर्मशाला ढूंढें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>रिश्तेदार के यहाँ रुकें:</strong> अगर center के पास कोई जानने वाला है, तो वहाँ रुकें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Sleep well:</strong> रात को अच्छी नींद लें — सुबह fresh होकर जाएं।</p>
+  </div>
+</div>
+
+<h2>Morning Routine — परीक्षा वाले दिन</h2>
+
+<p>परीक्षा वाले दिन का routine बहुत ज़रूरी है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Time</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 AM</td><td class="py-3 px-4 border-b">जल्दी उठें, नहाएं, तैयार हों</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:00 AM</td><td class="py-3 px-4 border-b">हल्का नाश्ता करें (ज़्यादा भारी नहीं)</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">8:00 AM</td><td class="py-3 px-4 border-b">Admit Card, ID proof, pen check करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">9:00 AM</td><td class="py-3 px-4 border-b">घर से निकलें (center 30+ min पहले पहुंचें)</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">10:30 AM</td><td class="py-3 px-4">Center पर पहुंचें, gate पर entry लें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Reporting Time — कितने बजे पहुंचें?</h2>
+
+<p>JNVST 2027 की परीक्षा <strong>सुबह 11:30 बजे</strong> शुरू होगी। लेकिन reporting time <strong>10:00-10:30 बजे</strong> होता है। यानी कम से कम <strong>1 घंटा पहले</strong> पहुंचें।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+  <p class="font-bold text-red-700 mb-2">Warning:</p>
+  <p class="text-sm text-gray-700">देर से पहुंचने पर <strong>entry नहीं मिलेगी</strong>। Gate बंद हो जाता है। एक भी minute late मत हों।</p>
+</div>
+
+<h2>Exam Center पर क्या-क्या ध्यान रखें?</h2>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>✅ <strong>Admit Card का printout</strong> — 2 copies</li>
+  <li>✅ <strong>Aadhaar Card</strong> — original + photocopy</li>
+  <li>✅ <strong>Ball Pen</strong> — Blue/Black</li>
+  <li>✅ <strong>पानी की बोतल</strong> — transparent</li>
+  <li>✅ <strong>समय पर पहुंचें</strong> — 1 घंटा पहले</li>
+  <li>❌ <strong>Mobile मत ले जाएं</strong> — exam hall में allowed नहीं</li>
+  <li>❌ <strong>Calculator मत ले जाएं</strong> — allowed नहीं</li>
+</ul>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 Exam Center से जुड़ी मदद चाहिए?</h3>
+<p>JGPS School में guidance लें। Call: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख JNVST 2027 exam center पहुंचने की complete guide है। Admit Card download होने के बाद जल्द से जल्द planning करें।</em></p>
 `,
     faqs: [
       { question: "Exam center kaise pata karein?", answer: "Admit Card par center ka naam aur address hoga." },
@@ -10468,10 +11123,182 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/navodaya-school-mein-free-education-kaise-milti-hai.webp",
     imageAlt: "Navodaya school free education - facilities list kya free hai",
-    content: `<p><strong>Navodaya School</strong> में सब कुछ मुफ्त है। सरकार पूरा खर्चा उठाती है।</p>
+    content: `<p>बहुत से माता-पिता को यकीन नहीं होता जब मैं कहती हूँ कि <strong>Navodaya School में सब कुछ मुफ्त है</strong>। लेकिन यह 100% सच है। भारत सरकार नवोदय विद्यालय समिति (NVS) के ज़रिए पूरा खर्चा उठाती है — पढ़ाई से लेकर खाने-पीने तक, और किताबों से लेकर यूनिफ़ॉर्म तक। एक भी पैसा नहीं लगता। आज मैं आपको detail में बताती हूँ कि क्या-क्या free मिलता है, क्या-क्या नहीं मिलता, और private schools से तुलना कैसे है।</p>
 
-<h2>Free Facilities List</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Facility</th><th class="py-3 px-4 border-b font-bold text-white text-left">Cost</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Education</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Food</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Books</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Uniform</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Medical</td><td class="py-3 px-4 text-green-700 font-bold">मुफ्त</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-free-education-facilities.webp" alt="नवोदय स्कूल में मुफ्त शिक्षा — सरकारी सुविधाओं की पूरी लिस्ट" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय स्कूल — जहाँ सरकार हर बच्चे का पूरा खर्चा उठाती है</p>
+</div>
+
+<h2>नवोदय में क्या-क्या Free मिलता है? — Complete List</h2>
+
+<p>नवोदय स्कूल में बच्चे को कक्षा 6 से लेकर कक्षा 12 तक <strong>7 साल तक</strong> सब कुछ मुफ्त मिलता है। यह रही पूरी list:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सुविधा (Facility)</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या मिलता है</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">खर्चा</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पढ़ाई (Education)</td><td class="py-3 px-4 border-b">NCERT syllabus, labs, library, computer education</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हॉस्टल (Hostel)</td><td class="py-3 px-4 border-b">बेड, अलमारी, पंखा, बिजली, पानी</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">खाना (Food/Mess)</td><td class="py-3 px-4 border-b">नाश्ता, दोपहर का खाना, शाम का नाश्ता, रात का खाना</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">किताबें (Books)</td><td class="py-3 px-4 border-b">NCERT की सभी किताबें, notebooks, stationery</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">यूनिफ़ॉर्म (Uniform)</td><td class="py-3 px-4 border-b">स्कूल ड्रेस, जूते, मोज़े, sports dress</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">मेडिकल (Health)</td><td class="py-3 px-4 border-b">डॉक्टर, दवाइयाँ, health checkup, hospital referral</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">खेल (Sports)</td><td class="py-3 px-4 border-b">Cricket, football, basketball, athletics equipment</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">यात्रा (Travel)</td><td class="py-3 px-4">छुट्टी में घर आने-जाने का किराया (2nd class rail fare)</td><td class="py-3 px-4 text-green-700 font-bold">मुफ्त</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>खास बात:</strong> नवोदय में SC/ST बच्चों के लिए कोई fee नहीं है। General और OBC बच्चों से भी कोई fee नहीं ली जाती। यह पूरी तरह सरकारी funded school है।</p>
+</div>
+
+<h2>Private School से तुलना — कितना फ़र्क़ है?</h2>
+
+<p>अगर आप private school की fees देखें तो आपको समझ आएगा कि नवोदय कितना बड़ा मौका है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">खर्चे का मद</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Private School (सालाना)</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय (सालाना)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Tuition Fee</td><td class="py-3 px-4 border-b">₹30,000 - ₹1,50,000</td><td class="py-3 px-4 border-b text-green-700 font-bold">₹0</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel Fee</td><td class="py-3 px-4 border-b">₹50,000 - ₹2,00,000</td><td class="py-3 px-4 border-b text-green-700 font-bold">₹0</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">खाना (Mess)</td><td class="py-3 px-4 border-b">₹30,000 - ₹60,000</td><td class="py-3 px-4 border-b text-green-700 font-bold">₹0</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">किताबें + Stationery</td><td class="py-3 px-4 border-b">₹5,000 - ₹15,000</td><td class="py-3 px-4 border-b text-green-700 font-bold">₹0</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">यूनिफ़ॉर्म</td><td class="py-3 px-4 border-b">₹3,000 - ₹8,000</td><td class="py-3 px-4 border-b text-green-700 font-bold">₹0</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">कुल सालाना बचत</td><td class="py-3 px-4 font-bold text-red-600">₹1,18,000 - ₹4,33,000</td><td class="py-3 px-4 font-bold text-green-700">पूरा मुफ्त!</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<p>यानी 7 साल में <strong>₹8 लाख से ₹30 लाख तक की बचत</strong> — और ऊपर से quality education भी!</p>
+
+<h2>नवोदय में Admission कैसे मिलता है?</h2>
+
+<p>नवोदय में admission JNVST (Jawahar Navodaya Vidyalaya Selection Test) परीक्षा के ज़रिए होता है। यह परीक्षा हर साल कक्षा 6 में प्रवेश के लिए होती है।</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>पात्रता:</strong> बच्चा कक्षा 5 में पढ़ रहा हो और उम्र 10-12 साल हो।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>आवेदन:</strong> navodaya.gov.in पर ऑनलाइन फ़ॉर्म भरें — बिल्कुल मुफ्त।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>परीक्षा:</strong> Mental Ability (50 अंक), गणित (25 अंक), भाषा (25 अंक) — कुल 100 अंक।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>सिलेक्शन:</strong> हर जिले से अधिकतम 80 बच्चों का चयन होता है।</p>
+  </div>
+</div>
+
+<h2>क्या-क्या नहीं मिलता? — Hidden Costs</h2>
+
+<p>ईमानदारी से बताऊँ तो कुछ चीज़ें हैं जो ख़ुद से लानी पड़ती हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>टूथपेस्ट, साबुन, तौलिया</strong> — Personal hygiene items ख़ुद लाने होते हैं</li>
+  <li><strong>Extra कपड़े</strong> — School uniform free है, लेकिन अंदर के कपड़े ख़ुद लाने होते हैं</li>
+  <li><strong>Pocket Money:</strong> कुछ बच्चों को ₹200-500 महीना pocket money दी जाती है (optional)</li>
+  <li><strong>Extra Coaching:</strong> अगर बच्चा कोई extra coaching लेना चाहे तो वो personal expense है</li>
+</ul>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> ये ख़र्चे बहुत छोटे हैं — महीने के ₹500 से ज़्यादा नहीं। Private school के मुक़ाबले यह कुछ भी नहीं है।</p>
+</div>
+
+<h2>मासिक Mess Charges — Category Wise</h2>
+
+<p>नवोदय में खाना पूरी तरह मुफ्त है, लेकिन SC/ST और BPL परिवारों के बच्चों को extra benefits मिलते हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">श्रेणी (Category)</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Mess Charge</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अन्य ख़र्चे</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">SC/ST (अनुसूचित जाति/जनजाति)</td><td class="py-3 px-4 border-b text-green-700 font-bold">पूरी तरह मुफ्त</td><td class="py-3 px-4 border-b">कोई ख़र्चा नहीं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">BPL परिवार</td><td class="py-3 px-4 border-b text-green-700 font-bold">पूरी तरह मुफ्त</td><td class="py-3 px-4 border-b">कोई ख़र्चा नहीं</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">General (सामान्य) — कक्षा 6-8</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">कोई ख़र्चा नहीं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">General (सामान्य) — कक्षा 9-12</td><td class="py-3 px-4 font-bold">₹600/माह (mess charge)</td><td class="py-3 px-4">किताबें और uniform मुफ्त</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>याद रखें:</strong> कक्षा 6 से 8 तक सभी बच्चों के लिए सब कुछ मुफ्त है। कक्षा 9 से 12 तक General category के बच्चों से सिर्फ़ ₹600/माह mess charge लिया जाता है — जो बहुत कम है।</p>
+</div>
+
+<h2>नवोदय vs सैनिक स्कूल vs Private Boarding — तुलना</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सुविधा</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सैनिक स्कूल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Private Boarding</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पढ़ाई</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">₹50,000-1,00,000/साल</td><td class="py-3 px-4 border-b">₹2,00,000+/साल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हॉस्टल</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">Included</td><td class="py-3 px-4 border-b">Included</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">खाना</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">Included</td><td class="py-3 px-4 border-b">Included</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Medium</td><td class="py-3 px-4 border-b">Hindi/English</td><td class="py-3 px-4 border-b">English</td><td class="py-3 px-4 border-b">English</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">कुल सालाना ख़र्चा</td><td class="py-3 px-4 font-bold text-green-700">₹0 - ₹7,200</td><td class="py-3 px-4 font-bold">₹50,000 - ₹1,50,000</td><td class="py-3 px-4 font-bold text-red-600">₹2,00,000 - ₹5,00,000</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Tips — नवोदय में Admission कैसे लें?</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>जल्दी शुरू करें:</strong> कक्षा 4 से ही तैयारी शुरू कर दें। Mental Ability की practice रोज़ करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>NCERT पढ़ें:</strong> कक्षा 5 की NCERT की किताबें अच्छे से पढ़ें — गणित और भाषा के लिए।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>Mock Tests दें:</strong> हर हफ़्ते एक mock test ज़रूर दें। JGPS में हम यह सुविधा देते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>OMR Practice करें:</strong> बहुत बच्चे OMR शीट पर गलती करते हैं। पहले से practice करें।</p>
+  </div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 JGPS में नवोदय की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में नवोदय की तैयारी कराई जाती है। हमारे यहाँ हर हफ़्ते mock test, previous year papers, और experienced teachers से guidance मिलती है। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख navodaya.gov.in और NVS की आधिकारिक जानकारी पर आधारित है। Fee structure समय-समय पर बदल सकता है। ताज़ा जानकारी के लिए आधिकारिक वेबसाइट देखें।</em></p>
 `,
     faqs: [
       { question: "Navodaya school mein kya free hai?", answer: "Padhai, hostel, khana, kitabein, uniform, medical — sab free hai." },
@@ -10524,10 +11351,168 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/sainik-school-mein-ladkiyon-ka-admission-2027.webp",
     imageAlt: "Sainik School mein ladkiyon ka admission 2027 - girls quota eligibility",
-    content: `<p><strong>Sainik School Mein Ladkiyon Ka Admission</strong> — 2026 से Sainik Schools में लड़कियों के लिए 10% seats reserved हैं। ये एक बड़ा बदलाव है।</p>
+    content: `<p>2026 से भारत के Sainik Schools में एक ऐतिहासिक बदलाव हुआ — <strong>लड़कियों के लिए admission खोल दिया गया</strong>। पहले ये सिर्फ़ लड़कों के लिए होते थे, लेकिन अब लड़कियाँ भी Sainik School में पढ़ सकती हैं। यह एक बहुत बड़ा क़दम है और हर माता-पिता को इसकी जानकारी होनी चाहिए।</p>
 
-<h2>Girls Quota Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Detail</th><th class="py-3 px-4 border-b font-bold text-white text-left">Information</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Quota</td><td class="py-3 px-4 border-b">10% seats reserved</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Eligibility</td><td class="py-3 px-4 border-b">Same as boys — Age 10-12 years</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam</td><td class="py-3 px-4 border-b">Same exam as boys</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Hostel</td><td class="py-3 px-4">Separate hostel for girls</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/sainik-school-girls-admission-2027.webp" alt="Sainik School में लड़कियों का admission 2027 — girls quota details" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">Sainik School — अब लड़कियों के लिए भी खुले दरवाज़े</p>
+</div>
+
+<h2>Girls Quota का इतिहास — कब से शुरू हुआ?</h2>
+
+<p>Sainik Schools में लड़कियों का admission एक रात में नहीं हुआ। यह एक gradual process रहा है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2018:</span>
+    <p class="text-sm text-gray-700">रक्षा मंत्रालय ने pilot project के तौर पर <strong>2 Sainik Schools</strong> में लड़कियों का admission शुरू किया — Mizoram और Rajasthan में।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2021:</span>
+    <p class="text-sm text-gray-700">सरकार ने announcement किया कि <strong>सभी Sainik Schools</strong> में लड़कियों को admission दिया जाएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2022-23:</span>
+    <p class="text-sm text-gray-700">धीरे-धीरे सभी 33 Sainik Schools में लड़कियों के लिए seats खोली गईं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2026-27:</span>
+    <p class="text-sm text-gray-700">अब <strong>10% seats</strong> हर Sainik School में लड़कियों के लिए reserved हैं। 2027 में यह quota जारी रहेगा।</p>
+  </div>
+</div>
+
+<h2>Girls Quota Details — Seats by School</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Detail</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Information</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Quota</td><td class="py-3 px-4 border-b font-bold">10% seats reserved for girls</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कुल Sainik Schools</td><td class="py-3 px-4 border-b">33 (सभी राज्यों में)</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">हर School में Girls Seats</td><td class="py-3 px-4 border-b font-bold">8-10 seats (average)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Eligibility</td><td class="py-3 px-4 border-b">Same as boys — Age 10-12 years (Class 6)</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam</td><td class="py-3 px-4 border-b font-bold">AISSEE — same exam as boys</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel</td><td class="py-3 px-4 border-b font-bold">Separate hostel for girls</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Pattern</td><td class="py-3 px-4 border-b">Math, GK, Language, Intelligence — same as boys</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Application</td><td class="py-3 px-4 font-bold">exams.nta.ac.in पर online</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Eligibility — लड़कियों के लिए क्या ज़रूरी है?</h2>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-3">पात्रता की शर्तें (Class 6 Admission)</h3>
+  <ul class="space-y-3 text-sm text-gray-700">
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">1.</span> <span><strong>उम्र:</strong> 1 अप्रैल 2015 से 31 मार्च 2017 के बीच जन्म होना चाहिए (10-12 वर्ष)।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">2.</span> <span><strong>कक्षा:</strong> बच्ची कक्षा 5 में पढ़ रही हो किसी मान्यता प्राप्त स्कूल में।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">3.</span> <span><strong>Medical Fitness:</strong> Medical test clear करना होगा — height, weight, eyesight check होगा।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">4.</span> <span><strong>Nationality:</strong> भारतीय नागरिक होनी चाहिए।</span></li>
+  </ul>
+</div>
+
+<h2>Application Process — कैसे Apply करें?</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
+    <p class="text-sm text-gray-700"><strong>NTA Website पर जाएं:</strong> exams.nta.ac.in पर "AISSEE 2027" link पर click करें।</p>
+  </div>
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
+    <p class="text-sm text-gray-700"><strong>Registration करें:</strong> बच्ची का नाम, जन्म तिथि, माता-पिता की जानकारी भरें।</p>
+  </div>
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
+    <p class="text-sm text-gray-700"><strong>Documents Upload करें:</strong> Photo, signature, Aadhaar, caste certificate (अगर applicable हो)।</p>
+  </div>
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">4</div>
+    <p class="text-sm text-gray-700"><strong>Fee Pay करें:</strong> General/OBC — ₹550, SC/ST — ₹400 (approximate)।</p>
+  </div>
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">5</div>
+    <p class="text-sm text-gray-700"><strong>Form Submit करें:</strong> एक बार form check करें और submit कर दें। Printout रख लें।</p>
+  </div>
+</div>
+
+<h2>AISSEE Exam Pattern — लड़कियों के लिए अलग exam?</h2>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>नहीं!</strong> लड़कियों और लड़कों के लिए exam बिल्कुल same है। Same question paper, same time, same marking scheme। बस seat allocation अलग है — लड़कियों की seats separate हैं।</p>
+</div>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b font-bold">50</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Intelligence</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b font-bold">25</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b font-bold">25</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">GK</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b font-bold">25</td></tr>
+      <tr><td class="py-3 px-4 font-bold text-gray-900">कुल</td><td class="py-3 px-4 font-bold">125</td><td class="py-3 px-4 font-bold text-green-700">125</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Preparation Tips — लड़कियों के लिए</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>Math पर focus:</strong> 125 में से 50 अंक Math के हैं। NCERT Class 5 की किताब thoroughly पढ़ें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>GK daily पढ़ें:</strong> Lucent GK की किताब से Static GK पढ़ें। Current Affairs के लिए newspaper पढ़ें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>Previous Year Papers solve करें:</strong> AISSEE के पिछले 5 साल के papers solve करें। Pattern समझ आएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✅</span>
+    <p class="text-sm text-gray-700"><strong>Physical Fitness:</strong> Sainik School में physical training भी होती है। बच्ची को daily exercise कराएं।</p>
+  </div>
+</div>
+
+<h2>Important Dates — AISSEE 2027</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">तारीख (अनुमानित)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Start</td><td class="py-3 px-4 border-b">अक्टूबर 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date</td><td class="py-3 px-4 border-b font-bold text-red-600">दिसंबर 2026</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold">जनवरी 2027</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Result</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Admission</td><td class="py-3 px-4 font-bold">अप्रैल-मई 2027</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 JGPS में Sainik School की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में Sainik School की तैयारी कराई जाती है — लड़कों और लड़कियों दोनों के लिए। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख NTA और रक्षा मंत्रालय की आधिकारिक जानकारी पर आधारित है। ताज़ा अपडेट के लिए exams.nta.ac.in देखें।</em></p>
 `,
     faqs: [
       { question: "Kya ladkiyan Sainik School mein admission le sakti hain?", answer: "Haan, 10% seats girls ke liye reserved hain." },
@@ -10552,18 +11537,158 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-previous-year-papers-pdf-download.webp",
     imageAlt: "JNVST 2027 previous year papers PDF download - free practice sets answer keys",
-    content: `<p><strong>JNVST Previous Year Papers</strong> सबसे अच्छी practice material हैं। पिछले 5 साल के papers solve करने से exam pattern समझ आता है।</p>
+    content: `<p><strong>JNVST Previous Year Papers</strong> सबसे अच्छी practice material हैं। मैं पिछले 12 साल से बच्चों को नवोदय की तैयारी करा रहा हूँ, और मेरा experience यही कहता है कि जिस बच्चे ने पिछले 5 साल के papers solve किए हैं, उसका selection chance 3 गुना बढ़ जाता है। Papers से exam pattern समझ आता है, important topics पता चलते हैं, और time management improve होता है।</p>
 
-<h2>Available Papers</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Year</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2026</td><td class="py-3 px-4 border-b">80</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">2023</td><td class="py-3 px-4">100</td><td class="py-3 px-4 text-green-700 font-bold">Available</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-previous-year-papers-download.webp" alt="JNVST पिछले साल के पेपर PDF डाउनलोड" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST Previous Year Papers — तैयारी का सबसे अच्छा तरीका</p>
+</div>
 
-<h2>Previous Year Papers Kaise Use Karein?</h2>
-<ul class="list-decimal pl-6 mb-4 space-y-2">
-<li><strong>Exam conditions mein solve karo</strong> — 2 hours ka timer lagao</li>
-<li><strong>OMR sheet pe answers mark karo</strong> — Real exam jaisa feel hoga</li>
-<li><strong>Galtiyan analyze karo</strong> — Kaun se topics mein weak ho</li>
-<li><strong>Weak topics ki practice karo</strong> — Extra questions solve karo</li>
+<h2>Available Papers — कौन से papers उपलब्ध हैं?</h2>
+
+<p>यहाँ पिछले सालों के JNVST papers की list है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">साल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">पैटर्न</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">2026</td><td class="py-3 px-4 border-b">80</td><td class="py-3 px-4 border-b">New (80Q)</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b">Old (100Q)</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b">Old (100Q)</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2023</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b">Old (100Q)</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">2022</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b">Old (100Q)</td><td class="py-3 px-4 border-b text-green-700 font-bold">Available</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">2021</td><td class="py-3 px-4">100</td><td class="py-3 px-4">Old (100Q)</td><td class="py-3 px-4 text-green-700 font-bold">Available</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> 2027 का exam नए pattern (80 सवाल) पर होगा। इसलिए 2026 का paper सबसे ज़्यादा important है। पुराने papers pattern समझने के लिए useful हैं।</p>
+</div>
+
+<h2>Past Papers Analysis — क्या सीख सकते हैं?</h2>
+
+<p>पिछले 5 साल के papers analyze करने पर कुछ important patterns निकलते हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सेक्शन</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सबसे ज़्यादा आने वाले टॉपिक्स</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कितने सवाल</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">Figure Series, Mirror Image, Coding-Decoding</td><td class="py-3 px-4 border-b font-bold">12-15</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">Pattern Completion, Paper Folding</td><td class="py-3 px-4 border-b font-bold">8-10</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">Number System, Fractions, LCM-HCF</td><td class="py-3 px-4 border-b font-bold">8-10</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">Simple Interest, Area-Perimeter</td><td class="py-3 px-4 border-b font-bold">5-6</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">Comprehension, Grammar, Vocabulary</td><td class="py-3 px-4 font-bold">15-20</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Previous Year Papers कैसे Use करें? — Step-by-Step Guide</h2>
+
+<p>Sirf paper download करने से काम नहीं चलेगा। उसे सही तरीके से solve करना ज़रूरी है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 1:</span>
+    <p class="text-sm text-gray-700"><strong>Exam conditions में solve करें:</strong> 2 घंटे का timer लगाएं। शांत जगह बैठें। बीच में उठें नहीं। बिल्कुल real exam जैसा environment बनाएं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 2:</span>
+    <p class="text-sm text-gray-700"><strong>OMR sheet पर answers mark करें:</strong> OMR sheet print करें और pencil से गोले भरें। यह practice exam में बहुत काम आएगी।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 3:</span>
+    <p class="text-sm text-gray-700"><strong>Answer key से check करें:</strong> Paper solve करने के बाद answer key से match करें। सही और गलत दोनों count करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 4:</span>
+    <p class="text-sm text-gray-700"><strong>Galtiyan analyze करें:</strong> जो सवाल गलत हुए, उनका topic लिखें। क्या calculation error थी? या concept ही नहीं आया? दोनों अलग-अलग problems हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 5:</span>
+    <p class="text-sm text-gray-700"><strong>Weak topics की practice करें:</strong> जो topics weak हैं उनके extra questions solve करें। NCERT की किताब से concept clear करें।</p>
+  </div>
+</div>
+
+<h2>Important Topics — हर साल से क्या आता है?</h2>
+
+<p>पिछले 5 साल के papers से ये important topics निकलते हैं:</p>
+
+<h3>Mental Ability (सबसे ज़्यादा marks)</h3>
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3 my-4">
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Figure Series (5-6 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Mirror Image (3-4 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Coding-Decoding (3-4 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Pattern Completion (3-4 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Paper Folding (2-3 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Venn Diagram (2-3 सवाल)</div>
+</div>
+
+<h3>Mathematics</h3>
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3 my-4">
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Number System (4-5 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Fractions & Decimals (3-4 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">LCM & HCF (2-3 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Simple Interest (2-3 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Area & Perimeter (2-3 सवाल)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Word Problems (3-4 सवाल)</div>
+</div>
+
+<h2>Practice Strategy — Time-Bound Solving</h2>
+
+<p>पिछले papers solve करते समय time management बहुत ज़रूरी है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सेक्शन</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रति सवाल</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">1.5 min</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">30 min</td><td class="py-3 px-4 border-b">1.5 min</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">20</td><td class="py-3 px-4">30 min</td><td class="py-3 px-4">1.5 min</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>टिप:</strong> जो सवाल 1 मिनट में न बने, उसे skip करें और आगे बढ़ें। बाद में वापस आएं। Time waste करने से 5-6 सवाल छूट जाते हैं।</p>
+</div>
+
+<h2>Download Sources — कहाँ से डाउनलोड करें?</h2>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>JGPS Website:</strong> हमारी website पर सभी papers answer key के साथ available हैं</li>
+  <li><strong>navodaya.gov.in:</strong> कुछ पुराने papers official website पर भी मिलते हैं</li>
+  <li><strong>NCERT Website:</strong> Sample papers और model questions</li>
 </ul>
+
+<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>याद रखें:</strong> Papers solve करना important है, लेकिन सिर्फ papers से selection नहीं होगा। Daily practice, concept clarity, और mock tests भी ज़रूरी हैं। Papers pattern समझने के लिए use करें।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Previous Year Papers चाहिए?</h3>
+<p><strong>JGPS School</strong> से contact करें। सभी papers answer key के साफ़ मिलेंगे। Call: <strong>+91 9412137554</strong></p>
+</div>
 `,
     faqs: [
       { question: "Previous year papers kahan se download karein?", answer: "JGPS website ya navodaya.gov.in se download kar sakte hain." },
@@ -10588,20 +11713,148 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/navodaya-school-mein-sports-facilities.webp",
     imageAlt: "Navodaya school sports facilities - games physical training cricket football",
-    content: `<p><strong>Navodaya School</strong> में sports facilities बहुत अच्छी हैं। बच्चों को daily physical training मिलती है।</p>
+    content: `<p><strong>Navodaya School</strong> में sports facilities बहुत अच्छी हैं। बहुत से माता-पिता सोचते हैं कि सरकारी स्कूल में sports की सुविधा नहीं होती, लेकिन नवोदय में ऐसा नहीं है। यहाँ cricket, football, basketball, athletics — सब कुछ है। बच्चों को daily physical training मिलती है और inter-school competitions में भी भेजा जाता है। इस लेख में मैं आपको बताऊंगा कि नवोदय में कौन-कौन से sports हैं, infrastructure कैसा है, और बच्चों की daily routine में sports का क्या role है।</p>
 
-<h2>Available Sports</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Cricket</strong> — Full cricket ground</li>
-<li><strong>Football</strong> — Football ground</li>
-<li><strong>Basketball</strong> — Basketball court</li>
-<li><strong>Athletics</strong> — Running track</li>
-<li><strong>Volleyball</strong> — Volleyball court</li>
-<li><strong>Yoga</strong> — Daily morning yoga</li>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-sports-facilities.webp" alt="Navodaya school sports facilities — cricket football basketball athletics" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">Navodaya School — Sports Facilities और Physical Training</p>
+</div>
+
+<h2>Available Sports — कौन-कौन से games हैं?</h2>
+
+<p>नवोदय स्कूलों में बहुत से sports available हैं। हर JNV में basic facilities होती हैं, और कुछ बड़े JNVs में advanced facilities भी हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Sport</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Infrastructure</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Availability</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Cricket</td><td class="py-3 px-4 border-b">Full cricket ground, nets</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Football</td><td class="py-3 px-4 border-b">Football ground</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Basketball</td><td class="py-3 px-4 border-b">Basketball court</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Volleyball</td><td class="py-3 px-4 border-b">Volleyball court</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Athletics</td><td class="py-3 px-4 border-b">Running track, shot put, long jump</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Kho-Kho</td><td class="py-3 px-4 border-b">Open ground</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Badminton</td><td class="py-3 px-4 border-b">Indoor/Outdoor court</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कुछ JNVs में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Table Tennis</td><td class="py-3 px-4 border-b">TT table</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कुछ JNVs में</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Yoga</td><td class="py-3 px-4">Morning session</td><td class="py-3 px-4 text-green-700 font-bold">सभी JNVs में</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Coaching Staff — कौन सिखाता है?</h2>
+
+<p>नवोदय में sports के लिए dedicated coaches होते हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>PTI (Physical Training Instructor):</strong> हर JNV में एक full-time PTI होता है जो morning PT और evening games handle करता है।</li>
+  <li><strong>Guest Coaches:</strong> कुछ sports (judo, swimming) के लिए बाहर से coaches बुलाए जाते हैं।</li>
+  <li><strong>SAI Coaches:</strong> Sports Authority of India के coaches भी कभी-कभी training देते हैं।</li>
+  <li><strong>Senior Students:</strong> बड़े बच्चे छोटों को भी सिखाते हैं — peer learning।</li>
 </ul>
 
-<h2>Daily Physical Training</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:30 AM</td><td class="py-3 px-4 border-b">Morning PT + Yoga</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Sports & Games</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Saturday</td><td class="py-3 px-4">Inter-house competitions</td></tr></tbody></table></div>
+<h2>Daily Physical Training Schedule</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Time</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:30 AM</td><td class="py-3 px-4 border-b">Morning PT + Yoga</td><td class="py-3 px-4 border-b">30 min</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Sports & Games</td><td class="py-3 px-4 border-b">1.5 hours</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Saturday</td><td class="py-3 px-4 border-b">Inter-house competitions</td><td class="py-3 px-4 border-b">पूरा दिन</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Annual Sports Day</td><td class="py-3 px-4">Yearly event</td><td class="py-3 px-4">2-3 दिन</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Inter-School Competitions</h2>
+
+<p>नवोदय के बच्चे कई level पर competitions में भाग लेते हैं:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>Inter-House:</strong> हर Saturday school के अंदर houses के बीच match होते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Cluster Level:</strong> कई JNVs के बीच tournaments होते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Regional Level:</strong> State/Region level competitions में भाग लेते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>National Level:</strong> SGFI (School Games Federation of India) में participate करते हैं।</p>
+  </div>
+</div>
+
+<h2>Sports Quota — क्या sports में admission मिलता है?</h2>
+
+<p>नवोदय में sports quota के तहत <strong>direct admission</strong> नहीं मिलता, लेकिन:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>अगर बच्चा national level sports में represent करता है, तो उसे <strong>priority</strong> मिल सकती है।</li>
+  <li>Sports achievements को admission process में <strong>consider</strong> किया जाता है।</li>
+  <li>नवोदय से बच्चे <strong>SGFI, Khelo India</strong> जैसे platforms पर जाते हैं।</li>
+</ul>
+
+<h2>नवोदय vs Private Schools — Sports Comparison</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Private School</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Cost</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">₹5,000-50,000/month</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Daily Sports Time</td><td class="py-3 px-4 border-b font-bold">1.5-2 hours</td><td class="py-3 px-4 border-b">30-45 min</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Dedicated Coach</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ (PTI)</td><td class="py-3 px-4 border-b">कुछ schools में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Inter-school Tournaments</td><td class="py-3 px-4 border-b text-green-700 font-bold">Regular</td><td class="py-3 px-4 border-b">Limited</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">National Level Exposure</td><td class="py-3 px-4 text-green-700 font-bold">हाँ (SGFI)</td><td class="py-3 px-4">Rare</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>नवोदय की Sports Achievements</h2>
+
+<p>नवोदय के बच्चों ने sports में बहुत अच्छा perform किया है:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>🏏 Cricket में कई बच्चे <strong>state level</strong> तक पहुंचे हैं</li>
+  <li>⚽ Football में <strong>national tournaments</strong> में भाग लिया है</li>
+  <li>🏃 Athletics में कई <strong>medals</strong> जीते हैं</li>
+  <li>🏐 Volleyball में <strong>cluster level</strong> winners रहे हैं</li>
+  <li>🧘 Yoga में <strong>district level</strong> competitions जीते हैं</li>
+</ul>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+  <p class="font-bold text-green-700 mb-2">Good News:</p>
+  <p class="text-sm text-gray-700">नवोदय में sports equipment <strong>school provide</strong> करता है। बच्चे को कुछ लाने की ज़रूरत नहीं।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 नवोदय में admission चाहिए?</h3>
+<p>JGPS School में JNVST की coaching होती है। Call: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख नवोदय विद्यालयों में sports facilities की जानकारी देता है। हर JNV में facilities थोड़ी अलग हो सकती हैं।</em></p>
 `,
     faqs: [
       { question: "Navodaya mein kaun se sports hain?", answer: "Cricket, football, basketball, athletics, volleyball, yoga — sab available hai." },
@@ -10659,19 +11912,160 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/navodaya-school-mein-medical-facility.webp",
     imageAlt: "Navodaya school medical facility - doctor nurse health checkup emergency care",
-    content: `<p><strong>Navodaya School</strong> में medical facilities बहुत अच्छी हैं। बच्चे की सेहत का पूरा ध्यान रखा जाता है।</p>
+    content: `<p>जब बच्चा 10-11 साल की उम्र में हॉस्टल में रहने जाता है, तो हर माता-पिता के मन में पहला सवाल यही होता है — <strong>"अगर बच्चा बीमार हो गया तो क्या होगा?"</strong> यह बिल्कुल जायज़ सवाल है। नवोदय विद्यालय में medical facilities की बहुत अच्छी व्यवस्था है। आइए विस्तार से जानते हैं।</p>
 
-<h2>Medical Facilities</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Resident Doctor</strong> — हर JNV में एक doctor होता है</li>
-<li><strong>Nurse</strong> — 24/7 available</li>
-<li><strong>Medical Room</strong> — Basic medicines और first aid</li>
-<li><strong>Health Checkup</strong> — हर साल regular checkup</li>
-<li><strong>Hospital Referral</strong> — Serious cases को nearest hospital</li>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-medical-facility.webp" alt="नवोदय स्कूल में मेडिकल सुविधा — डॉक्टर, नर्स, हेल्थ चेकअप" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय स्कूल — बच्चों की सेहत का पूरा ध्यान</p>
+</div>
+
+<h2>Infirmary — स्कूल का अस्पताल</h2>
+
+<p>हर नवोदय विद्यालय में एक <strong>Infirmary (चिकित्सालय)</strong> होता है। यह एक तरह का mini hospital है जहाँ:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>4-6 बेड</strong> होते हैं जहाँ बीमार बच्चे आराम कर सकते हैं</li>
+  <li><strong>First Aid Kit</strong> हमेशा उपलब्ध रहती है</li>
+  <li><strong>Basic diagnostic equipment</strong> जैसे thermometer, BP machine, stethoscope</li>
+  <li><strong>Isolation room</strong> — अगर किसी बच्चे को infectious disease हो तो उसे अलग रखा जाता है</li>
+  <li><strong>Clean और hygienic environment</strong> — रोज़ाना सफ़ाई होती है</li>
 </ul>
 
-<h2>Emergency Protocol</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Situation</th><th class="py-3 px-4 border-b font-bold text-white text-left">Action</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Minor illness</td><td class="py-3 px-4 border-b">School doctor treats</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Serious illness</td><td class="py-3 px-4 border-b">Nearest hospital referral</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Emergency</td><td class="py-3 px-4 border-b">Parents informed immediately</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Medicine</td><td class="py-3 px-4">School provides free medicines</td></tr></tbody></table></div>
+<h2>Doctor और Nurse की उपलब्धता</h2>
+
+<p>नवोदय में medical staff की arrangement इस तरह है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्टाफ</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">उपलब्धता</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">काम</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Resident Doctor</td><td class="py-3 px-4 border-b">हर JNV में 1 doctor</td><td class="py-3 px-4 border-b">रोज़ OPD, checkup, treatment</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Staff Nurse</td><td class="py-3 px-4 border-b">24/7 available</td><td class="py-3 px-4 border-b">दवाई देना, dressing, emergency care</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">ANM (Auxiliary Nurse)</td><td class="py-3 px-4 border-b">दिन में available</td><td class="py-3 px-4 border-b">basic health monitoring</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Visiting Specialist</td><td class="py-3 px-4">हफ़्ते में 1-2 बार</td><td class="py-3 px-4">Eye, Dental, ENT checkup</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Emergency Care — आपातकालीन स्थिति में क्या होता है?</h2>
+
+<p>अगर बच्चे को अचानक तकलीफ़ होती है, तो नवोदय का emergency protocol इस तरह काम करता है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 1:</span>
+    <p class="text-sm text-gray-700"><strong>तुरंत school doctor को बुलाया जाता है</strong> — दिन हो या रात, warden doctor को inform करता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 2:</span>
+    <p class="text-sm text-gray-700"><strong>First treatment school में ही</strong> — बुख़ार, चोट, पेट दर्द जैसी problems school doctor handle करता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 3:</span>
+    <p class="text-sm text-gray-700"><strong>Serious case में hospital referral</strong> — अगर school में treatment possible नहीं, तो nearest government hospital ले जाया जाता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 4:</span>
+    <p class="text-sm text-gray-700"><strong>Parents को तुरंत inform</strong> — किसी भी serious situation में parents को phone किया जाता है।</p>
+  </div>
+</div>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कार्रवाई</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">बुख़ार, सर्दी-खाँसी</td><td class="py-3 px-4 border-b">School doctor treatment</td><td class="py-3 px-4 border-b">तुरंत</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">चोट लगना</td><td class="py-3 px-4 border-b">First Aid + Doctor</td><td class="py-3 px-4 border-b">तुरंत</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पेट में दर्द, उल्टी</td><td class="py-3 px-4 border-b">Observation + Medicine</td><td class="py-3 px-4 border-b">तुरंत</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हड्डी टूटना</td><td class="py-3 px-4 border-b">Hospital referral</td><td class="py-3 px-4 border-b">1-2 घंटे में</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">गंभीर बीमारी</td><td class="py-3 px-4">Hospital + Parents inform</td><td class="py-3 px-4">तुरंत</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Health Checkup — नियमित स्वास्थ्य जाँच</h2>
+
+<p>नवोदय में साल में <strong>2-3 बार comprehensive health checkup</strong> होता है। इसमें:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Height-Weight measurement</strong> — growth track करने के लिए</li>
+  <li><strong>Eye checkup</strong> — vision test, ज़रूरत पड़ने पर मुफ़्त चश्मा</li>
+  <li><strong>Dental checkup</strong> — दाँतों की जाँच और treatment</li>
+  <li><strong>Blood test</strong> — anemia और infections check करने के लिए</li>
+  <li><strong>Vaccination</strong> — government vaccination schedule follow होता है</li>
+</ul>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> Health checkup report parents को भेजी जाती है। अगर कोई issue है, तो school doctor parents से बात करता है।</p>
+</div>
+
+<h2>Medicine Provisions — दवाइयों की व्यवस्था</h2>
+
+<p>नवोदय में <strong>सभी दवाइयाँ मुफ़्त</strong> मिलती हैं। School medical room में:</p>
+
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3 my-4">
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">बुख़ार की दवाई</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">सर्दी-खाँसी की दवाई</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">पेट दर्द की दवाई</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Antiseptic cream</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">Bandage और Cotton</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">ORS packets</div>
+</div>
+
+<p>अगर बच्चे को कोई chronic disease है (जैसे asthma, allergy), तो parents को बताना होगा। School doctor उस हिसाब से special medicines रखता है।</p>
+
+<h2>Sick Room — बीमार बच्चों के लिए</h2>
+
+<p>अगर बच्चा बीमार है और class attend नहीं कर सकता, तो उसे <strong>Sick Room</strong> में रखा जाता है। यहाँ:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>आराम करने के लिए clean bed मिलता है</li>
+  <li>Nurse time-to-time check करने आती है</li>
+  <li>खाना-पानी room तक पहुँचाया जाता है</li>
+  <li>Warden और class teacher visit करते हैं</li>
+</ul>
+
+<h2>Mental Health Support</h2>
+
+<p>नवोदय में सिर्फ शारीरिक नहीं, <strong>मानसिक स्वास्थ्य</strong> का भी ध्यान रखा जाता है। बहुत से बच्चे पहली बार घर से दूर रहते हैं, तो homesickness होती है। इसके लिए:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Counselor:</strong> कुछ नवोदय में trained counselor होता है जो बच्चों से बात करता है</li>
+  <li><strong>Warden Support:</strong> Warden बच्चों का "second parent" होता है</li>
+  <li><strong>Peer Support:</strong> Senior students juniors की मदद करते हैं</li>
+  <li><strong>Phone Calls:</strong> हफ़्ते में 1-2 बार parents से बात होती है</li>
+</ul>
+
+<h2>Insurance Coverage</h2>
+
+<p>नवोदय के सभी बच्चों को <strong>government health insurance</strong> कवर मिलता है। अगर किसी बड़े operation या treatment की ज़रूरत है, तो:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>School management hospital expenses bear करता है</li>
+  <li>Government health schemes (Ayushman Bharat) का लाभ मिलता है</li>
+  <li>Parents को inform किया जाता है और consent लिया जाता है</li>
+</ul>
+
+<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>भरोसा रखें:</strong> नवोदय में बच्चों की सेहत का पूरा ख़्याल रखा जाता है। 654 स्कूलों में lakhs बच्चे सालों से पढ़ रहे हैं। Medical system well-established है।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">नवोदय में एडमिशन चाहिए?</h3>
+<p><strong>JGPS School</strong> में नवोदय की तैयारी कराई जाती है। Call: <strong>+91 9412137554</strong></p>
+</div>
 `,
     faqs: [
       { question: "Navodaya mein doctor hota hai?", answer: "Haan, har JNV mein resident doctor aur nurse hota hai." },
@@ -10696,25 +12090,177 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-admit-card-ke-saath-kya-leke-jayein.webp",
     imageAlt: "JNVST 2027 admit card ke saath kya leke jayein - exam day checklist",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Exam Day Checklist:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Admit Card</strong> — 2 color printouts</li>
-<li><strong>Aadhaar Card</strong> — original + photocopy</li>
-<li><strong>Photos</strong> — 2 extra passport size</li>
-<li><strong>Ball Pen</strong> — Blue/Black for OMR</li>
-<li><strong>Water Bottle</strong> — transparent</li>
-</ul>
+    content: `<p>JNVST 2027 की परीक्षा का दिन आने वाला है और हर साल मैं देखती हूँ कि बच्चे या तो ज़रूरी चीज़ें भूल जाते हैं या ग़ैर-ज़रूरी चीज़ें लेकर चले जाते हैं। दोनों ही स्थिति में नुक़सान होता है। इसलिए आज मैं आपको <strong>complete checklist</strong> दे रही हूँ — क्या लेकर जाना है, क्या नहीं, और exam day का पूरा plan क्या होना चाहिए।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-exam-day-complete-checklist.webp" alt="JNVST 2027 exam day complete checklist — क्या लेकर जाएं" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 — Exam Day Complete Checklist</p>
 </div>
 
-<h2>Kya Na Le Jayein</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2 text-red-600">
-<li>Mobile phone</li>
-<li>Calculator</li>
-<li>Smart watch</li>
-<li>Books or notes</li>
-<li>Bluetooth devices</li>
+<h2>ज़रूरी सामान की पूरी लिस्ट — ये लेकर जाएं</h2>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-3">✅ Must-Have Items (बिना इसके entry नहीं मिलेगी)</h3>
+  <div class="overflow-x-auto">
+    <table class="min-w-full text-sm">
+      <thead class="bg-green-100">
+        <tr>
+          <th class="py-2 px-3 text-left font-bold text-green-800">सामान</th>
+          <th class="py-2 px-3 text-left font-bold text-green-800">कितना चाहिए</th>
+          <th class="py-2 px-3 text-left font-bold text-green-800">क्यों ज़रूरी है?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="py-2 px-3 font-medium">📋 Admit Card</td><td class="py-2 px-3 font-bold">2 color printout</td><td class="py-2 px-3">बिना admit card entry नहीं मिलेगी</td></tr>
+        <tr class="bg-green-50"><td class="py-2 px-3 font-medium">🪪 Aadhaar Card</td><td class="py-2 px-3 font-bold">Original + 1 photocopy</td><td class="py-2 px-3">Identity verification के लिए</td></tr>
+        <tr><td class="py-2 px-3 font-medium">📸 Passport Photo</td><td class="py-2 px-3 font-bold">2 extra photos</td><td class="py-2 px-3">Admit card पर photo match न हो तो</td></tr>
+        <tr class="bg-green-50"><td class="py-2 px-3 font-medium">🖊️ Ball Pen</td><td class="py-2 px-3 font-bold">2 (Blue/Black)</td><td class="py-2 px-3">OMR sheet भरने के लिए — gel pen नहीं</td></tr>
+        <tr><td class="py-2 px-3 font-medium">💧 Water Bottle</td><td class="py-2 px-3 font-bold">1 transparent bottle</td><td class="py-2 px-3">Exam hall में पानी allowed है</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h2>Admit Card पर क्या Check करें?</h2>
+
+<p>Admit Card download करने के बाद तुरंत ये चीज़ें check करें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>नाम सही है?</strong> — Admit card पर बच्चे का नाम Aadhaar card से match होना चाहिए। अगर ग़लत है तो NVS helpline पर तुरंत call करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>फ़ोटो clear है?</strong> — Admit card पर बच्चे की photo साफ़ दिखनी चाहिए। अगर photo नहीं आ रही तो दोबारा download करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Exam center का पता:</strong> — Google Maps पर exam center का पता search करें। एक दिन पहले route check कर लें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>जन्म तिथि:</strong> — Date of birth सही है या नहीं, यह ज़रूर check करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>Category:</strong> — General, OBC, SC, ST — जो भी category है, सही होनी चाहिए।</p>
+  </div>
+</div>
+
+<h2>Stationery Requirements — कौन सा Pen सही है?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Stationery</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Allowed?</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्यों?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Blue Ball Pen</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हाँ</td><td class="py-3 px-4 border-b">OMR के लिए best — scanner easily read करता है</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Black Ball Pen</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हाँ</td><td class="py-3 px-4 border-b">OMR के लिए equally good है</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Gel Pen</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ नहीं</td><td class="py-3 px-4 border-b">Gel pen से भरा बबल smudge हो सकता है</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Pencil</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ नहीं</td><td class="py-3 px-4 border-b">OMR scanner pencil mark read नहीं कर पाता</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Whitener</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ नहीं</td><td class="py-3 px-4 border-b">OMR sheet reject हो सकती है</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Eraser</td><td class="py-3 px-4 text-yellow-600 font-bold">⚠️ सावधानी से</td><td class="py-3 px-4">ग़लत बबल मिटाने की जगह दूसरा बबल भरें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>Pro Tip:</strong> 2 ball pen लेकर जाएं — एक use करें, दूसरा backup में रखें। अगर एक pen बंद हो गया तो दूसरे से काम चल जाएगा।</p>
+</div>
+
+<h2>Dress Code — क्या पहनकर जाएं?</h2>
+
+<p>JNVST में कोई strict dress code नहीं है, लेकिन कुछ guidelines हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>हल्के कपड़े पहनें:</strong> November में exam है — ठंड के हिसाब से कपड़े पहनें, लेकिन ज़्यादा भारी न पहनें (security check में problem होगी)।</li>
+  <li><strong>जेब में कुछ न रखें:</strong> पतलून/पजामे की जेबें ख़ाली रखें — mobile, wallet, सब बाहर रखवाए जाएंगे।</li>
+  <li><strong>बड़े बटन/ज़िप वाले कपड़े न पहनें:</strong> Metal detector beep कर सकता है।</li>
+  <li><strong>आरामदायक जूते पहनें:</strong> 2 घंटे बैठना है — आरामदायक जूते पहनें।</li>
+  <li><strong>School uniform में जा सकते हैं:</strong> अगर बच्चा चाहे तो school uniform में भी जा सकता है।</li>
 </ul>
+
+<h2>खाना-पानी — Exam Day Diet</h2>
+
+<p>बहुत से बच्चे सुबह बिना खाए exam देने चले जाते हैं — यह ग़लत है। 2 घंटे का exam है, दिमाग़ को energy चाहिए।</p>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+  <div class="bg-green-50 border border-green-200 rounded-xl p-4">
+    <h3 class="font-bold text-green-700 mb-3">✅ क्या खाएं</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>• हल्का नाश्ता — पराठा, दलिया, या ब्रेड-बटर</li>
+      <li>• एक केला या सेब — energy के लिए</li>
+      <li>• एक गिलास दूध या जूस</li>
+      <li>• ज़्यादा तला-भुना न खाएं — पेट ख़राब हो सकता है</li>
+    </ul>
+  </div>
+  <div class="bg-red-50 border border-red-200 rounded-xl p-4">
+    <h3 class="font-bold text-red-700 mb-3">❌ क्या न खाएं</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>• ज़्यादा भारी नाश्ता — नींद आएगी</li>
+      <li>• बाहर का खाना — पेट ख़राब हो सकता है</li>
+      <li>• चाय/कॉफ़ी ज़्यादा — बार-बार toilet जाना पड़ेगा</li>
+      <li>• ख़ाली पेट बिल्कुल न जाएं — चक्कर आ सकते हैं</li>
+    </ul>
+  </div>
+</div>
+
+<h2>Exam Day Timeline — कब क्या करना है?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 7:00</td><td class="py-3 px-4 border-b">उठें, नहाएं, हल्का नाश्ता करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 8:00</td><td class="py-3 px-4 border-b">Admit card, Aadhaar, pen, bottle check करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 9:00</td><td class="py-3 px-4 border-b">घर से निकलें (exam center 30 min पहले पहुंचना है)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 10:30</td><td class="py-3 px-4 border-b">Exam center पहुंचें, security check कराएं</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 11:00</td><td class="py-3 px-4 border-b">Seat पर बैठें, OMR sheet check करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">सुबह 11:30</td><td class="py-3 px-4 font-bold text-green-700">परीक्षा शुरू! 🎯</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Parent Waiting Area Tips — अभिभावकों के लिए</h2>
+
+<p>अगर आप बच्चे को exam center पर छोड़ने जा रहे हैं, तो कुछ बातें ध्यान रखें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Waiting area में रहें:</strong> Exam center के बाहर waiting area होता है। बच्चे को अकेला न छोड़ें — exam ख़त्म होने तक वहीं रहें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Mobile अपने पास रखें:</strong> बच्चे का mobile अपने पास रख लें। Exam hall में mobile allowed नहीं है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>बच्चे को tension न दें:</strong> Exam से पहले "पढ़ाई की?" या "pass हो जाओगे न?" जैसे सवाल न पूछें। बच्चे को confident feel कराएं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Exam के बाद:</strong> Exam ख़त्म होने के बाद बच्चे से ज़्यादा सवाल न पूछें। उसे relax करने दें।</p>
+  </div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 JGPS में JNVST की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में नवोदय की तैयारी कराई जाती है। OMR practice, mock tests, और experienced guidance के लिए कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख NVS की आधिकारिक guidelines और पिछले सालों के exam experience पर आधारित है। Admit card पर दिए गए instructions ज़रूर पढ़ें।</em></p>
 `,
     faqs: [
       { question: "Admit card ke saath kya leke jayein?", answer: "Admit card, Aadhaar, photos, ball pen, water bottle." },
@@ -10739,10 +12285,175 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-exam-pattern-changes-new-vs-old.webp",
     imageAlt: "JNVST 2027 exam pattern changes - naya vs purana pattern comparison",
-    content: `<p><strong>JNVST 2027 Exam Pattern</strong> बदल गया है। पहले 100 सवाल आते थे, अब 80 सवाल आएंगे।</p>
+    content: `<p>इस साल NVS ने JNVST 2027 का exam pattern बदल दिया है। बहुत से माता-पिता और बच्चे confuse हैं कि <strong>क्या बदला है, क्या नहीं, और तैयारी कैसे बदलनी चाहिए</strong>। आज मैं आपको detail में बताती हूँ — old pattern vs new pattern का comparison, section-wise analysis, और नए pattern के हिसाब से preparation strategy।</p>
 
-<h2>Old vs New Pattern</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Old Pattern</th><th class="py-3 px-4 border-b font-bold text-white text-left">New Pattern 2027</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Total Questions</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b font-bold">80</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b font-bold">40</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b font-bold">20</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b font-bold">20</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Duration</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b">2 hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4">No</td><td class="py-3 px-4 font-bold">No</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-2027-exam-pattern-changes.webp" alt="JNVST 2027 exam pattern changes — old vs new comparison" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 — Exam Pattern में बड़ा बदलाव</p>
+</div>
+
+<h2>Old vs New Pattern — Detail Comparison Table</h2>
+
+<p>सबसे पहले यह table देखें — एक नज़र में समझ आ जाएगा कि क्या बदला है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Old Pattern (2025 तक)</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">New Pattern 2027</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">बदलाव</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल सवाल</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b font-bold">80</td><td class="py-3 px-4 border-b text-red-600 font-bold">-20 सवाल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">50 सवाल / 50 अंक</td><td class="py-3 px-4 border-b font-bold">40 सवाल / 50 अंक</td><td class="py-3 px-4 border-b text-red-600 font-bold">-10 सवाल, अंक same</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic (गणित)</td><td class="py-3 px-4 border-b">25 सवाल / 25 अंक</td><td class="py-3 px-4 border-b font-bold">20 सवाल / 25 अंक</td><td class="py-3 px-4 border-b text-red-600 font-bold">-5 सवाल, अंक same</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Language (भाषा)</td><td class="py-3 px-4 border-b">25 सवाल / 25 अंक</td><td class="py-3 px-4 border-b font-bold">20 सवाल / 25 अंक</td><td class="py-3 px-4 border-b text-red-600 font-bold">-5 सवाल, अंक same</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल अंक</td><td class="py-3 px-4 border-b font-bold">100</td><td class="py-3 px-4 border-b font-bold text-green-700">100</td><td class="py-3 px-4 border-b text-green-700 font-bold">Same</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">समय (Duration)</td><td class="py-3 px-4 border-b">2 घंटे (120 मिनट)</td><td class="py-3 px-4 border-b">2 घंटे (120 मिनट)</td><td class="py-3 px-4 border-b text-green-700 font-bold">Same</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4 border-b">नहीं</td><td class="py-3 px-4 border-b">नहीं</td><td class="py-3 px-4 border-b text-green-700 font-bold">Same</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">OMR Sheet</td><td class="py-3 px-4 border-b">हाँ</td><td class="py-3 px-4 border-b">हाँ</td><td class="py-3 px-4 border-b text-green-700 font-bold">Same</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">प्रति सवाल समय</td><td class="py-3 px-4">1.2 मिनट</td><td class="py-3 px-4 font-bold text-green-700">1.5 मिनट</td><td class="py-3 px-4 text-green-700 font-bold">+0.3 मिनट बढ़ा</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>क्या बदला है? — Key Changes Explained</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-blue-50 p-3 rounded-lg">
+    <span class="text-blue-600 font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>सवाल कम हुए, अंक same:</strong> पहले 100 सवाल आते थे, अब 80 आएंगे। लेकिन कुल अंक अभी भी 100 हैं। इसका मतलब है कि हर सवाल की value बढ़ गई है — एक ग़लत जवाब का नुक़सान ज़्यादा होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-blue-50 p-3 rounded-lg">
+    <span class="text-blue-600 font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>प्रति सवाल ज़्यादा समय:</strong> पहले हर सवाल पर 1.2 मिनट मिलता था, अब 1.5 मिनट मिलेगा। यह अच्छी बात है — बच्चे को सोचने का ज़्यादा मौक़ा मिलेगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-blue-50 p-3 rounded-lg">
+    <span class="text-blue-600 font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Mental Ability में सवाल कम:</strong> 50 की जगह 40 सवाल आएंगे, लेकिन अंक अभी भी 50 हैं। यानी हर सवाल 1.25 अंक का होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-blue-50 p-3 rounded-lg">
+    <span class="text-blue-600 font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>गणित और भाषा में भी कम सवाल:</strong> दोनों में 25 की जगह 20 सवाल आएंगे, लेकिन अंक 25 ही रहेंगे। हर सवाल 1.25 अंक का।</p>
+  </div>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>⚠️ ध्यान दें:</strong> नए pattern में सवाल कम हुए हैं लेकिन competition कम नहीं हुआ है। बल्कि हर सवाल ज़्यादा important हो गया है। एक ग़लत जवाब का ख़ामियाज़ा पहले से ज़्यादा होगा।</p>
+</div>
+
+<h2>Section-wise Analysis — हर section पर क्या असर पड़ेगा?</h2>
+
+<h3>1. Mental Ability — सबसे बड़ा बदलाव</h3>
+
+<p>Mental Ability में सवाल 50 से घटकर 40 हुए हैं, लेकिन अंक 50 ही हैं। इसका मतलब:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>हर सवाल 1.25 अंक का है</strong> — एक ग़लत जवाब = 1.25 अंक का नुक़सान</li>
+  <li><strong>सवाल कम हैं तो level कठिन हो सकता है</strong> — NVS ने कम सवालों में ही पूरा assessment करना है</li>
+  <li><strong>Pattern recognition ज़रूरी है:</strong> Series, Analogy, Coding, Mirror Image — इन topics पर focus बढ़ाएं</li>
+  <li><strong>Practice tip:</strong> रोज़ कम से कम 20 mental ability questions solve करें</li>
+</ul>
+
+<h3>2. Arithmetic (गणित) — Level बढ़ सकता है</h3>
+
+<p>गणित में 25 की जगह 20 सवाल आएंगे। पहले जहाँ easy, medium, और hard सवालों का mix होता था, अब <strong>medium और hard level के सवाल ज़्यादा आ सकते हैं</strong>।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Old Pattern में</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">New Pattern में (अनुमानित)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">संख्या पद्धति</td><td class="py-3 px-4 border-b">4-5 सवाल</td><td class="py-3 px-4 border-b">3-4 सवाल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">भिन्न और दशमलव</td><td class="py-3 px-4 border-b">3-4 सवाल</td><td class="py-3 px-4 border-b">3 सवाल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">LCM और HCF</td><td class="py-3 px-4 border-b">2-3 सवाल</td><td class="py-3 px-4 border-b">2 सवाल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सरल ब्याज / लाभ-हानि</td><td class="py-3 px-4 border-b">3-4 सवाल</td><td class="py-3 px-4 border-b">3 सवाल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्षेत्रफल-परिमाप</td><td class="py-3 px-4 border-b">3-4 सवाल</td><td class="py-3 px-4 border-b">3 सवाल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">शब्द समस्याएं</td><td class="py-3 px-4">4-5 सवाल</td><td class="py-3 px-4">4-5 सवाल</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h3>3. Language (भाषा) — Comprehension ज़्यादा important</h3>
+
+<p>भाषा में भी 25 की जगह 20 सवाल आएंगे। अनुमान है कि:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>गद्यांश (Passage):</strong> 8-10 सवाल — Comprehension सबसे important section है</li>
+  <li><strong>व्याकरण:</strong> 4-5 सवाल — वाक्य शुद्धि, मुहावरे, पर्यायवाची</li>
+  <li><strong>वाक्य पूर्ण करना:</strong> 3-4 सवाल</li>
+  <li><strong>विलोम/समानार्थी:</strong> 2-3 सवाल</li>
+</ul>
+
+<h2>नए Pattern के हिसाब से Preparation Strategy</h2>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-3">🎯 नई Strategy — ये करें</h3>
+  <ul class="space-y-3 text-sm text-gray-700">
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">✅</span> <span><strong>Accuracy बढ़ाएं:</strong> सवाल कम हैं तो ग़लती की गुंजाइश भी कम है। 90%+ accuracy target करें।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">✅</span> <span><strong>Mock Tests ज़्यादा दें:</strong> नए pattern पर based mock tests solve करें। हर हफ़्ते 2 mock test ज़रूरी हैं।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">✅</span> <span><strong>Mental Ability पर focus:</strong> 50 में से 50 अंक — यही selection decide करता है। रोज़ 30 min practice करें।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">✅</span> <span><strong>Time Management:</strong> 80 सवाल, 120 मिनट — हर सवाल पर 1.5 मिनट। Easy सवाल पहले करें, hard बाद में।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">✅</span> <span><strong>NCERT अच्छे से पढ़ें:</strong> गणित और भाषा के लिए NCERT Class 5 की किताबें thoroughly पढ़ें।</span></li>
+  </ul>
+</div>
+
+<h2>Time Management Strategy — नए Pattern के लिए</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Section</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सुझाया गया समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Strategy</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b font-bold">40</td><td class="py-3 px-4 border-b font-bold">55 मिनट</td><td class="py-3 px-4 border-b">पहले easy सवाल करें, tough बाद में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b font-bold">20</td><td class="py-3 px-4 border-b font-bold">35 मिनट</td><td class="py-3 px-4 border-b">Shortcuts use करें, calculation fast रखें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b font-bold">20</td><td class="py-3 px-4 border-b font-bold">25 मिनट</td><td class="py-3 px-4 border-b">Comprehension पहले पढ़ें, फिर सवाल हल करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">OMR Filling + Review</td><td class="py-3 px-4 font-bold">—</td><td class="py-3 px-4 font-bold">5 मिनट</td><td class="py-3 px-4">OMR check करें, कोई सवाल छूटा तो नहीं</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>नए Pattern के लिए Best Books</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📚</span>
+    <p class="text-sm text-gray-700"><strong>NCERT Class 5 (गणित + हिंदी + English):</strong> Basics के लिए सबसे ज़रूरी। 80% सवाल NCERT level के होते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📚</span>
+    <p class="text-sm text-gray-700"><strong>JNVST Previous Year Papers (2020-2026):</strong> Pattern समझने के लिए। पिछले 5 साल के papers ज़रूर solve करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📚</span>
+    <p class="text-sm text-gray-700"><strong>Mental Ability Practice Book:</strong> R.S. Aggarwal या Arihant की Mental Ability book — daily practice के लिए।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📚</span>
+    <p class="text-sm text-gray-700"><strong>JGPS Study Material:</strong> हमारे study material में नए pattern के हिसाब से practice sets हैं।</p>
+  </div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 JGPS में नए Pattern की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में नवोदय की तैयारी कराई जाती है। हमने अपना course नए pattern के हिसाब से update कर दिया है। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख NVS की आधिकारिक notification और जुलाई 2026 की जानकारी पर आधारित है। Pattern में बदलाव हो सकता है — ताज़ा जानकारी के लिए navodaya.gov.in देखें।</em></p>
 `,
     faqs: [
       { question: "JNVST 2027 mein kitne questions hain?", answer: "80 questions — Mental Ability 40, Arithmetic 20, Language 20." },
@@ -10767,10 +12478,119 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/navodaya-school-mein-parents-meeting-rules.webp",
     imageAlt: "Navodaya school parents meeting rules - kab mil sakte hain phone call rules",
-    content: `<p><strong>Navodaya School</strong> में parents meeting के कुछ rules हैं जो हर parent को पता होने चाहिए।</p>
+    content: `<p>जब बच्चा पहली बार Navodaya School में admission लेता है, तो हर माता-पिता के मन में यही सवाल होता है — <strong>"मैं अपने बच्चे से कब मिल सकता हूँ?"</strong> यह बहुत natural सवाल है। Navodaya एक residential school है और बच्चा साल भर hostel में रहता है। इसलिए parents meeting के rules समझना बहुत ज़रूरी है।</p>
 
-<h2>Meeting Rules</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Rule</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Day</td><td class="py-3 px-4 border-b">Har mahine ka pehla Sunday</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Time</td><td class="py-3 px-4 border-b">10 AM - 5 PM</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Phone Call</td><td class="py-3 px-4 border-b">Hafte mein 1-2 baar, warden ki permission se</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Home Visit</td><td class="py-3 px-4">Summer aur Winter vacation mein</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-parents-meeting-rules.webp" alt="Navodaya school parents meeting rules" class="w-full rounded-xl shadow-sm" loading="lazy" />
+</div>
+
+<h2>Visiting Hours — कब मिल सकते हैं?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr><th class="py-3 px-4 border-b font-bold text-white text-left">Rule</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Day</td><td class="py-3 px-4 border-b font-bold">हर महीने का पहला रविवार</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Meeting Time</td><td class="py-3 px-4 border-b font-bold">सुबह 10:00 AM से शाम 5:00 PM</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Phone Call</td><td class="py-3 px-4 border-b">हफ़्ते में 1-2 बार, Warden की permission से</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Home Visit</td><td class="py-3 px-4 border-b">Summer और Winter Vacation में</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Emergency Meeting</td><td class="py-3 px-4 border-b">Principal की permission से कभी भी</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Meeting Place</td><td class="py-3 px-4">Visitor Room / Reception Area</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Meeting Request कैसे करें?</h2>
+
+<p>बिना appointment के direct school पहुंचने पर meeting नहीं होगी। यह process follow करें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start"><div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">1</div><p class="text-sm text-gray-700"><strong>पहले Phone करें:</strong> School office में call करें और meeting day confirm करें।</p></div>
+  <div class="flex gap-3 items-start"><div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">2</div><p class="text-sm text-gray-700"><strong>Warden से बात करें:</strong> Hostel warden से phone पर बात करें। वो meeting time बताएंगे।</p></div>
+  <div class="flex gap-3 items-start"><div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">3</div><p class="text-sm text-gray-700"><strong>ID Proof लेकर जाएं:</strong> Aadhaar Card ज़रूर लेकर जाएं। Gate पर check होगा।</p></div>
+  <div class="flex gap-3 items-start"><div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">4</div><p class="text-sm text-gray-700"><strong>Visitor Register में entry करें:</strong> Gate पर register में नाम और कारण लिखें।</p></div>
+</div>
+
+<h2>Meeting में क्या Discuss करें?</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+  <div class="bg-green-50 border border-green-200 rounded-xl p-4">
+    <h3 class="font-bold text-green-700 mb-3">Teacher/Warden से पूछें</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>बच्चे की पढ़ाई कैसी चल रही है?</li>
+      <li>कौन से subject में weak है?</li>
+      <li>खाना ठीक से खा रहा है?</li>
+      <li>दोस्त बने या अकेला रहता है?</li>
+      <li>कोई health issue तो नहीं?</li>
+    </ul>
+  </div>
+  <div class="bg-blue-50 border border-blue-200 rounded-xl p-4">
+    <h3 class="font-bold text-blue-700 mb-3">बच्चे से पूछें</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>मन लग रहा है यहाँ?</li>
+      <li>Teacher अच्छे से पढ़ाते हैं?</li>
+      <li>Hostel में कोई तकलीफ़ तो नहीं?</li>
+      <li>कुछ चाहिए तो बताओ?</li>
+      <li>खेल-कूद में participate कर रहे हो?</li>
+    </ul>
+  </div>
+</div>
+
+<h2>Communication Channels — बच्चे से कैसे जुड़े रहें?</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📞</span>
+    <p class="text-sm text-gray-700"><strong>Phone Call:</strong> हफ़्ते में 1-2 बार Warden की permission से बच्चे से बात हो सकती है। Fix time रखें — जैसे शाम 6-7 बजे।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">✉️</span>
+    <p class="text-sm text-gray-700"><strong>Letter/Post:</strong> बच्चे को चिट्ठी लिख सकते हैं। यह बच्चे को बहुत अच्छा लगता है और उसका confidence बढ़ता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📱</span>
+    <p class="text-sm text-gray-700"><strong>School App/Portal:</strong> कुछ Navodaya Schools में online portal है जहाँ attendance और result देख सकते हैं।</p>
+  </div>
+</div>
+
+<h2>Hostel Visit Rules</h2>
+
+<p>Parents meeting के दिन hostel में जाने की permission नहीं मिलती। Meeting Visitor Room में होती है। लेकिन कुछ exceptions हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>बच्चा बीमार है:</strong> अगर बच्चा बीमार है और hostel में आराम कर रहा है, तो Warden की permission से मिल सकते हैं।</li>
+  <li><strong>Admission Day:</strong> पहले दिन बच्चे को hostel में छोड़ने जा सकते हैं।</li>
+  <li><strong>Annual Function:</strong> Annual function या sports day पर hostel visit allowed हो सकता है।</li>
+  <li><strong>बच्चे को कोई सामान देना हो:</strong> Warden के through सामान भेज सकते हैं।</li>
+</ul>
+
+<h2>Grievance Process — शिकायत कैसे करें?</h2>
+
+<p>अगर आपको किसी बात की शिकायत है — खाने की quality, पढ़ाई का स्तर, या बच्चे की safety — तो यह process follow करें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 1:</span>
+    <p class="text-sm text-gray-700"><strong>पहले Class Teacher से बात करें।</strong> ज़्यादातर मामले यहीं solve हो जाते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 2:</span>
+    <p class="text-sm text-gray-700"><strong>अगर solve न हो तो Principal से मिलें।</strong> Written complaint दें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Step 3:</span>
+    <p class="text-sm text-gray-700"><strong>अगर फिर भी न हो तो NVS Regional Office में शिकायत करें।</strong> हर region का office address navodaya.gov.in पर मिलता है।</p>
+  </div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 JGPS में नवोदय की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में नवोदय की तैयारी कराई जाती है। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख NVS की आधिकारिक guidelines पर आधारित है। हर school के अपने specific rules हो सकते हैं।</em></p>
 `,
     faqs: [
       { question: "Parents kab mil sakte hain?", answer: "Har mahine ke pehle Sunday ko 10 AM - 5 PM tak." },
@@ -10795,25 +12615,150 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-admit-card-ke-saath-kya-na-le-jayein.webp",
     imageAlt: "JNVST 2027 exam hall prohibited items - kya allowed nahi hai",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-2">Prohibited Items:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li>Mobile phone</li>
-<li>Calculator</li>
-<li>Smart watch</li>
-<li>Books or notes</li>
-<li>Bluetooth devices</li>
-<li>Electronic gadgets</li>
-</ul>
+    content: `<p>हर साल JNVST की परीक्षा में कुछ बच्चे ऐसी ग़लतियाँ कर बैठते हैं जिनकी वजह से उन्हें exam hall से बाहर कर दिया जाता है। बीते सालों में मैंने देखा है कि बच्चे ग़लती से mobile phone या smart watch लेकर चले जाते हैं, और फिर परीक्षा नहीं दे पाते। इसलिए आज मैं आपको <strong>detail में बताती हूँ</strong> कि exam hall में क्या-क्या allowed नहीं है, क्यों नहीं है, और अगर ग़लती से ले गए तो क्या होगा।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-exam-hall-prohibited-items.webp" alt="JNVST 2027 exam hall prohibited items — क्या ले जाना मना है" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 — Exam Hall में Prohibited Items की पूरी लिस्ट</p>
 </div>
 
-<h2>Allowed Items</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Admit Card</strong> — 2 color printouts</li>
-<li><strong>Aadhaar Card</strong> — original</li>
-<li><strong>Ball Pen</strong> — Blue/Black</li>
-<li><strong>Water Bottle</strong> — transparent</li>
-</ul>
+<h2>पूरी Prohibited Items लिस्ट — क्या-क्या नहीं ले जा सकते?</h2>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+  <p class="font-bold text-red-700 mb-3">⛔ ये चीज़ें Exam Hall में Strictly Prohibited हैं:</p>
+  <div class="overflow-x-auto">
+    <table class="min-w-full text-sm">
+      <thead class="bg-red-100">
+        <tr>
+          <th class="py-2 px-3 text-left font-bold text-red-800">वस्तु (Item)</th>
+          <th class="py-2 px-3 text-left font-bold text-red-800">क्यों मना है?</th>
+          <th class="py-2 px-3 text-left font-bold text-red-800">पकड़े जाने पर क्या होगा?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="py-2 px-3 font-medium">📱 Mobile Phone</td><td class="py-2 px-3">Cheating का सबसे बड़ा tool</td><td class="py-2 px-3 text-red-600 font-bold">तुरंत बाहर, candidature cancel</td></tr>
+        <tr class="bg-red-50"><td class="py-2 px-3 font-medium">⌚ Smart Watch / Digital Watch</td><td class="py-2 px-3">Bluetooth, camera, internet access</td><td class="py-2 px-3 text-red-600 font-bold">Confiscate + exam cancel</td></tr>
+        <tr><td class="py-2 px-3 font-medium">🔢 Calculator</td><td class="py-2 px-3">गणित section में unfair advantage</td><td class="py-2 px-3 text-red-600 font-bold">Exam cancel</td></tr>
+        <tr class="bg-red-50"><td class="py-2 px-3 font-medium">📚 Books / Notes / Chits</td><td class="py-2 px-3">Copying material</td><td class="py-2 px-3 text-red-600 font-bold">तुरंत बाहर, FIR भी हो सकती है</td></tr>
+        <tr><td class="py-2 px-3 font-medium">🎧 Bluetooth Earphones / AirPods</td><td class="py-2 px-3">Audio cheating device</td><td class="py-2 px-3 text-red-600 font-bold">Exam cancel</td></tr>
+        <tr class="bg-red-50"><td class="py-2 px-3 font-medium">📷 Camera / Recording Device</td><td class="py-2 px-3">Paper leak का ख़तरा</td><td class="py-2 px-3 text-red-600 font-bold">Legal action possible</td></tr>
+        <tr><td class="py-2 px-3 font-medium">🖊️ Whitener / Correction Pen</td><td class="py-2 px-3">OMR sheet में छेड़छाड़</td><td class="py-2 px-3 text-red-600 font-bold">OMR reject हो सकती है</td></tr>
+        <tr class="bg-red-50"><td class="py-2 px-3 font-medium">📐 Geometry Box / Scale</td><td class="py-2 px-3">ज़रूरी नहीं, cheating tool बन सकता है</td><td class="py-2 px-3 text-red-600 font-bold">Confiscate</td></tr>
+        <tr><td class="py-2 px-3 font-medium">👝 Bags / Purses</td><td class="py-2 px-3">Exam hall में जगह नहीं, चोरी का ख़तरा</td><td class="py-2 px-3 text-red-600 font-bold">बाहर रखना होगा</td></tr>
+        <tr class="bg-red-50"><td class="py-2 px-3 font-medium">🍫 खाने की चीज़ें (Snacks)</td><td class="py-2 px-3">Exam hall में गंदगी, wrapper में chits</td><td class="py-2 px-3 text-red-600 font-bold">बाहर फेंकना होगा</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<h2>क्यों इतने सख़्त Rules हैं?</h2>
+
+<p>बहुत से माता-पिता सोचते हैं कि "सिर्फ़ phone तो है, बंद करके रख दूँगा।" लेकिन NVS का नियम बिल्कुल साफ़ है — <strong>exam hall में कोई भी electronic device allowed नहीं है</strong>, चाहे वो बंद ही क्यों न हो।</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-red-500 font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>Cheating रोकने के लिए:</strong> पिछले सालों में Bluetooth earphones और micro devices से cheating के cases आए हैं। इसलिए zero tolerance policy है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-red-500 font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Paper leak रोकने के लिए:</strong> Camera और recording devices से paper leak हो सकता है। इसलिए कोई भी recording device allowed नहीं है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-red-500 font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Fair competition:</strong> हर बच्चे को बराबर मौक़ा मिलना चाहिए। अगर एक बच्चे के पास calculator है और दूसरे के पास नहीं, तो यह unfair है।</p>
+  </div>
+</div>
+
+<h2>Security Check Process — Exam Hall में कैसे घुसने मिलता है?</h2>
+
+<p>JNVST की परीक्षा में security check बहुत strict होता है। यह रहा पूरा process:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
+    <p class="text-sm text-gray-700"><strong>Gate Entry:</strong> Gate पर ही security guard check करेगा। Bag और extra items बाहर रखवाए जाएंगे।</p>
+  </div>
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
+    <p class="text-sm text-gray-700"><strong>Document Verification:</strong> Admit Card और Aadhaar Card check होगा। Photo match होगी।</p>
+  </div>
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
+    <p class="text-sm text-gray-700"><strong>Frisking:</strong> Metal detector या manual frisking हो सकती है। जेबों में कुछ नहीं होना चाहिए।</p>
+  </div>
+  <div class="flex gap-3 items-start">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">4</div>
+    <p class="text-sm text-gray-700"><strong>Seat Allotment:</strong> Roll number के हिसाब से seat मिलेगी। OMR sheet और question paper दिया जाएगा।</p>
+  </div>
+</div>
+
+<h2>Do's and Don'ts — Exam Hall Rules</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+  <div class="bg-green-50 border border-green-200 rounded-xl p-4">
+    <h3 class="font-bold text-green-700 mb-3">✅ क्या करें (Do's)</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>• सिर्फ़ Admit Card, Aadhaar, pen और water bottle लेकर जाएं</li>
+      <li>• 30 मिनट पहले पहुंचें</li>
+      <li>• OMR sheet पर सही से बबल भरें</li>
+      <li>• शांत रहें, किसी से बात न करें</li>
+      <li>• Invigilator की बात ध्यान से सुनें</li>
+      <li>• बचे हुए समय में OMR recheck करें</li>
+    </ul>
+  </div>
+  <div class="bg-red-50 border border-red-200 rounded-xl p-4">
+    <h3 class="font-bold text-red-700 mb-3">❌ क्या न करें (Don'ts)</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>• Mobile, watch, calculator न लाएं</li>
+      <li>• किसी से बात न करें, न इशारे करें</li>
+      <li>• OMR sheet पर whitener न लगाएं</li>
+      <li>• Question paper पर कुछ न लिखें</li>
+      <li>• Toilet जाने का बहाना न बनाएं</li>
+      <li>• देर से न आएं — entry बंद हो जाएगी</li>
+    </ul>
+  </div>
+</div>
+
+<h2>Last-Minute Reminders — परीक्षा से एक रात पहले</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Admit Card printout निकालें:</strong> 2 color printout निकालें और दोनों जगह रखें (एक bag में, एक पापा के पास)।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Aadhaar Card रखें:</strong> Original Aadhaar Card ज़रूरी है। Photocopy नहीं चलेगी।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Pen check करें:</strong> Blue या Black ball pen रखें। Gel pen और pencil OMR के लिए सही नहीं हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>सुबह का अलार्म लगाएं:</strong> Exam center 30 मिनट पहले पहुंचना है। देर से पहुंचने पर entry नहीं मिलेगी।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Mobile घर पर छोड़ें:</strong> Exam center पर mobile ले जाने की ज़रूरत नहीं है। अगर ले गए तो gate पर ही जमा करना होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📌</span>
+    <p class="text-sm text-gray-700"><strong>Transparent water bottle:</strong> सिर्फ़ सादी transparent बोतल लेकर जाएं। Coloured या insulated bottle allowed नहीं है।</p>
+  </div>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>⚠️ याद रखें:</strong> JNVST में cheating करते पकड़े जाने पर <strong>3 साल तक</strong> किसी भी NVS परीक्षा में बैठने पर रोक लग सकती है। यह जोखिम लेने लायक नहीं है। अपनी मेहनत पर भरोसा रखें।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 JGPS में JNVST की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में नवोदय की तैयारी कराई जाती है। OMR practice, mock tests, और experienced guidance के लिए कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख NVS की आधिकारिक guidelines और पिछले सालों के exam experience पर आधारित है। Rules में बदलाव हो सकता है — ताज़ा जानकारी के लिए Admit Card पर दिए गए instructions ज़रूर पढ़ें।</em></p>
 `,
     faqs: [
       { question: "Mobile le ja sakte hain?", answer: "Nahi, mobile exam hall mein allowed nahi hai." },
@@ -10866,18 +12811,182 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/sainik-school-aissee-2027-result-date-kab-aayega.webp",
     imageAlt: "Sainik School AISSEE 2027 result date - February March 2027 kab aayega",
-    content: `<p><strong>AISSEE 2027 Result</strong> फरवरी-मार्च 2027 में आने की संभावना है। NTA official website पर result जारी करेगा।</p>
+    content: `<p><strong>AISSEE 2027 Result</strong> फरवरी-मार्च 2027 में आने की संभावना है। NTA (National Testing Agency) official website exams.nta.ac.in पर result जारी करेगा। बहुत से माता-पिता result date को लेकर परेशान रहते हैं — कब आएगा, कैसे check करेंगे, और result के बाद क्या होगा। इस लेख में मैं आपको सब कुछ बताऊंगा — result timeline से लेकर counseling process तक।</p>
 
-<h2>Result Check Process</h2>
-<ul class="list-decimal pl-6 mb-4 space-y-2">
-<li>exams.nta.ac.in पर जाएं</li>
-<li>"AISSEE 2027 Result" लिंक पर क्लिक करें</li>
-<li>Application Number और DOB दर्ज करें</li>
-<li>Result देखें और download करें</li>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/aissee-2027-result-date.webp" alt="Sainik School AISSEE 2027 result date — कब आएगा और कैसे check करें" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AISSEE 2027 Result — Expected Timeline और Check Process</p>
+</div>
+
+<h2>Expected Result Timeline</h2>
+
+<p>AISSEE 2027 की परीक्षा जनवरी 2027 में होने की संभावना है। पिछले सालों के pattern के आधार पर result timeline यह हो सकता है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Event</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा</td><td class="py-3 px-4 border-b">जनवरी 2027</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key</td><td class="py-3 px-4 border-b">फरवरी 2027</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b font-bold">फरवरी-मार्च 2027</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Test</td><td class="py-3 px-4 border-b">मार्च-अप्रैल 2027</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Final Merit List</td><td class="py-3 px-4 border-b">अप्रैल 2027</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Admission</td><td class="py-3 px-4">अप्रैल-मई 2027</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Result कैसे Check करें? — Step-by-Step</h2>
+
+<p>Result check करना बहुत आसान है। ये steps follow करें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
+    <p class="text-sm text-gray-700"><strong>exams.nta.ac.in पर जाएं:</strong> यह NTA की official website है। Fake websites से सावधान रहें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
+    <p class="text-sm text-gray-700"><strong>"AISSEE 2027 Result" लिंक पर click करें:</strong> Homepage पर यह link result जारी होने के बाद active होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
+    <p class="text-sm text-gray-700"><strong>Application Number डालें:</strong> वही number जो form भरते समय मिला था। यह SMS और email में भी आया होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">4</div>
+    <p class="text-sm text-gray-700"><strong>Date of Birth डालें:</strong> DD/MM/YYYY format में। गलत DOB डालने पर result नहीं आएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">5</div>
+    <p class="text-sm text-gray-700"><strong>Result देखें और download करें:</strong> Scorecard download करें और print निकालें। यह counseling में काम आएगा।</p>
+  </div>
+</div>
+
+<h2>Result SMS से कैसे check करें?</h2>
+
+<p>अगर website slow चल रही है, तो SMS से भी result check कर सकते हैं:</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-6">
+  <p class="text-sm text-gray-700"><strong>SMS Format:</strong> AISSEE <space> Application Number लिखकर <strong>9229222922</strong> पर भेजें।</p>
+</div>
+
+<h2>Result Details में क्या-क्या होता है?</h2>
+
+<p>Result/Scorecard में ये जानकारी होती है:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>✅ बच्चे का नाम और Application Number</li>
+  <li>✅ हर subject में marks</li>
+  <li>✅ Total marks और percentage</li>
+  <li>✅ Qualifying status (Pass/Fail)</li>
+  <li>✅ All India Rank (AIR)</li>
+  <li>✅ Category Rank</li>
 </ul>
 
-<h2>Result ke Baad Kya Hoga?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Step</th><th class="py-3 px-4 border-b font-bold text-white text-left">Timeline</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Test</td><td class="py-3 px-4 border-b">Mar-Apr 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Merit List</td><td class="py-3 px-4 border-b">Apr 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Admission</td><td class="py-3 px-4">Apr-May 2027</td></tr></tbody></table></div>
+<h2>Result के बाद क्या होगा? — Complete Process</h2>
+
+<p>Result आने के बाद ये process follow होता है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Step</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Timeline</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करना है</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">1. Result Declaration</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">Scorecard download करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2. Counseling Call</td><td class="py-3 px-4 border-b">Mar 2027</td><td class="py-3 px-4 border-b">Counseling letter का इंतज़ार करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">3. Document Verification</td><td class="py-3 px-4 border-b">Mar-Apr 2027</td><td class="py-3 px-4 border-b">Documents ready रखें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">4. Medical Test</td><td class="py-3 px-4 border-b">Mar-Apr 2027</td><td class="py-3 px-4 border-b">Medical fitness test</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">5. Final Merit List</td><td class="py-3 px-4">Apr 2027</td><td class="py-3 px-4">Admission letter</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Counseling Process — कैसे होता है?</h2>
+
+<p>Counseling में selected students को बुलाया जाता है। यह usually offline होता है। कुछ ज़रूरी बातें:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Counseling letter</strong> — Result के बाद email/SMS से आता है</li>
+  <li><strong>Documents verification</strong> — Original documents लेकर जाएं</li>
+  <li><strong>School choice</strong> — आपको school select करने का मौका मिलेगा</li>
+  <li><strong>Seat allotment</strong> — Merit के आधार पर seat मिलेगी</li>
+</ul>
+
+<h2>Medical Test — क्या होता है?</h2>
+
+<p>Sainik School में admission के लिए medical test ज़रूरी है। इसमें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Height & Weight:</strong> Age के अनुसार standard check</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Vision Test:</strong> आंखों की जांच</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Hearing Test:</strong> कान की जांच</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>General Health:</strong> कोई chronic disease नहीं होनी चाहिए</p>
+  </div>
+</div>
+
+<h2>Document Verification — कौन से documents चाहिए?</h2>
+
+<p>Counseling के समय ये documents लेकर जाएं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>✅ AISSEE Scorecard (printout)</li>
+  <li>✅ Class 5 Marksheet (original)</li>
+  <li>✅ Date of Birth Certificate</li>
+  <li>✅ Aadhaar Card</li>
+  <li>✅ Caste Certificate (अगर applicable है)</li>
+  <li>✅ Domicile Certificate</li>
+  <li>✅ Passport size photos (4-6)</li>
+  <li>✅ Medical Fitness Certificate</li>
+</ul>
+
+<h2>Final Merit List — कैसे बनती है?</h2>
+
+<p>Final merit list इन factors पर based होती है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Weightage</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Written Exam Score</td><td class="py-3 px-4 border-b font-bold">80%</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Fitness</td><td class="py-3 px-4 border-b font-bold">10%</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Interview (if applicable)</td><td class="py-3 px-4 font-bold">10%</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 Result से जुड़ी मदद चाहिए?</h3>
+<p>JGPS School में guidance लें। Call: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख AISSEE 2027 result timeline और counseling process की complete guide है। Exact dates NTA official website पर announce होंगी।</em></p>
 `,
     faqs: [
       { question: "AISSEE 2027 result kab aayega?", answer: "February-March 2027 mein expected hai." },
@@ -10902,15 +13011,161 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-exam-center-map-directions.webp",
     imageAlt: "JNVST 2027 exam center map directions - kaise pahunchein parking tips",
-    content: `<p><strong>JNVST 2027 Exam Center</strong> का पता Admit Card पर छपा होगा। एक दिन पहले exam center देख लें।</p>
+    content: `<p><strong>JNVST 2027 Exam Center</strong> का पता Admit Card पर छपा होगा। बहुत से बच्चे और माता-पिता परीक्षा वाले दिन exam center ढूंढने में परेशान हो जाते हैं। कई बार तो बच्चे इतनी देर से पहुंचते हैं कि entry ही नहीं मिलती। इसलिए मैं हमेशा कहता हूँ — <strong>exam center एक दिन पहले ज़रूर देख लें</strong>। यह लेख आपको बताएगा कि admit card का address कैसे पढ़ें, Google Maps का सही इस्तेमाल कैसे करें, और परीक्षा वाले दिन क्या-क्या ध्यान रखें।</p>
 
-<h2>Exam Day Tips</h2>
-<ul class="list-decimal pl-6 mb-4 space-y-2">
-<li><strong>Route पहले से check करें</strong> — Google Maps पर देख लें</li>
-<li><strong>Parking की व्यवस्था करें</strong> — भीड़ बहुत होगी</li>
-<li><strong>30 मिनट पहले पहुंचें</strong> — देर से पहुंचने पर entry नहीं मिलेगी</li>
-<li><strong>Public Transport use करें</strong> — अगर possible हो तो</li>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-exam-center-map-directions.webp" alt="JNVST 2027 exam center map और directions — कैसे पहुंचें" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 Exam Center — Map और Directions Guide</p>
+</div>
+
+<h2>Admit Card पर Address कैसे पढ़ें?</h2>
+
+<p>JNVST 2027 का Admit Card जब download होगा, तो उसमें exam center का पूरा address लिखा होगा। लेकिन कई बार address इतना छोटा होता है कि समझ नहीं आता। कुछ ज़रूरी बातें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>School/College का नाम:</strong> सबसे पहले center का नाम देखें। यह usually किसी सरकारी स्कूल या कॉलेज का नाम होता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>पूरा पता:</strong> गली/मोहल्ला, शहर, जिला, और PIN code ध्यान से पढ़ें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Room Number:</strong> कई बार room number भी दिया होता है। इसे नोट कर लें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Reporting Time:</strong> यह बहुत ज़रूरी है। Usually सुबह 10:00-10:30 बजे reporting time होता है।</p>
+  </div>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> अगर address में कुछ समझ नहीं आ रहा, तो Google Maps पर school/college का नाम search करें। ज़्यादातर centers Google Maps पर मिल जाते हैं।</p>
+</div>
+
+<h2>Google Maps का सही इस्तेमाल कैसे करें?</h2>
+
+<p>आज के ज़माने में Google Maps सबसे आसान तरीका है exam center ढूंढने का। लेकिन कुछ tips हैं जो काम आएंगी:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Step</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Step 1</td><td class="py-3 px-4 border-b">Google Maps खोलें और center का नाम search करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Step 2</td><td class="py-3 px-4 border-b">"Directions" पर click करें और अपना घर का address डालें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Step 3</td><td class="py-3 px-4 border-b">Route save करें — offline map download करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Step 4</td><td class="py-3 px-4 border-b">Estimated time देखें और 30 मिनट extra जोड़ दें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Exam Center एक दिन पहले क्यों देखें?</h2>
+
+<p>मैंने बहुत से बच्चों को देखा है जो परीक्षा वाले दिन center ढूंढते-ढूंढते late हो जाते हैं। एक दिन पहले जाने के फ़ायदे:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>सही location पता चल जाएगी</strong> — Google Maps हमेशा सही नहीं होता</li>
+  <li><strong>Parking spot ढूंढ सकते हैं</strong> — अगर गाड़ी से जा रहे हैं</li>
+  <li><strong>Entry gate पता चल जाएगा</strong> — बड़े centers में multiple gates होते हैं</li>
+  <li><strong>समय का अंदाज़ा हो जाएगा</strong> — कितना time लगेगा, traffic कैसा होगा</li>
+  <li><strong>मानसिक शांति मिलेगी</strong> — परीक्षा वाले दिन tension कम होगी</li>
 </ul>
+
+<h2>Parking की जानकारी</h2>
+
+<p>अगर आप गाड़ी या बाइक से जा रहे हैं, तो parking एक बड़ी समस्या हो सकती है। JNVST के दिन exam center के आसपास बहुत भीड़ होती है। कुछ सुझाव:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Parking area पहले से देखें:</strong> एक दिन पहले जाकर parking spot ढूंढ लें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Public transport बेहतर है:</strong> अगर auto-rickshaw या bus से जा सकते हैं, तो यह सबसे अच्छा option है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>किसी को साथ ले जाएं:</strong> अगर गाड़ी से जा रहे हैं, तो कोई बड़ा साथ हो जो गाड़ी park कर सके।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>2 घंटे पहले पहुंचें:</strong> अगर parking की problem है, तो जल्दी पहुंचें।</p>
+  </div>
+</div>
+
+<h2>Nearby Landmarks कैसे ढूंढें?</h2>
+
+<p>कई बार exam center ऐसी जगह होता है जो Google Maps पर नहीं मिलता। ऐसे में nearby landmarks काम आते हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>पास का थाना या अस्पताल:</strong> ये आसानी से मिल जाते हैं</li>
+  <li><strong>बस स्टैंड या रेलवे स्टेशन:</strong> इनसे distance पूछें</li>
+  <li><strong>पास की मार्केट:</strong> लोगों से पूछें — "यहाँ से XYZ school कितना दूर है?"</li>
+  <li><strong>पुलिस चौकी:</strong> अगर बिल्कुल नहीं मिल रहा, तो पुलिस वालों से पूछें</li>
+</ul>
+
+<h2>अगर Exam Center नहीं मिल रहा तो क्या करें?</h2>
+
+<p>परीक्षा वाले दिन अगर center नहीं मिल रहा, तो घबराएं नहीं। ये कदम उठाएं:</p>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>Emergency Steps:</strong></p>
+  <ul class="list-disc pl-5 space-y-1 text-blue-800 text-sm mt-2">
+    <li>NVS Helpline पर call करें: <strong>0120-2405969</strong></li>
+    <li>पास के किसी दुकानदार या राहगीर से पूछें</li>
+    <li>Google Maps पर "schools near me" search करें</li>
+    <li>Auto-rickshaw वाले को admit card दिखाएं — वो जानते हैं</li>
+  </ul>
+</div>
+
+<h2>Emergency Contact Numbers</h2>
+
+<p>ये नंबर हमेशा साथ रखें — कभी भी काम आ सकते हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">किसके लिए</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Number</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">NVS Helpline</td><td class="py-3 px-4 border-b font-bold">0120-2405969</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Police</td><td class="py-3 px-4 border-b font-bold">100</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Ambulance</td><td class="py-3 px-4 border-b font-bold">108</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Child Helpline</td><td class="py-3 px-4 font-bold">1098</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Exam Day Checklist</h2>
+
+<p>परीक्षा वाले दिन ये सब साथ लेकर जाएं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>✅ Admit Card का printout (2 copies)</li>
+  <li>✅ Aadhaar Card (original + photocopy)</li>
+  <li>✅ 2 passport size photos</li>
+  <li>✅ Blue/Black ball pen</li>
+  <li>✅ पानी की बोतल (transparent)</li>
+  <li>✅ Google Maps में offline route saved</li>
+</ul>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 Exam Center से जुड़ी मदद चाहिए?</h3>
+<p>JGPS School में Rifaul Hasan से guidance लें। Call: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख JNVST 2027 exam center की तैयारी के लिए है। Admit Card download होने के बाद जल्द से जल्द center का पता करें और एक दिन पहले ज़रूर जाएं।</em></p>
 `,
     faqs: [
       { question: "Exam center kaise pata karein?", answer: "Admit Card par center ka naam aur address hoga." },
@@ -10935,19 +13190,125 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/navodaya-school-mein-classes-kaise-hoti-hain.webp",
     imageAlt: "Navodaya school mein classes kaise hoti hain - teaching method faculty quality",
-    content: `<p><strong>Navodaya School</strong> में पढ़ाई बहुत अच्छी होती है। Qualified teachers, modern labs, और बड़ी library मिलती है।</p>
+    content: `<p><strong>Navodaya School</strong> में पढ़ाई का तरीका बिल्कुल अलग है। यहाँ सिर्फ किताबें रटना नहीं सिखाया जाता, बल्कि बच्चों को समझकर पढ़ने और सोचने-समझने की आदत डाली जाती है। Qualified teachers, modern labs, smart classrooms, और बड़ी library — सब कुछ मुफ़्त में मिलता है। अगर आपका बच्चा नवोदय में पढ़ रहा है या पढ़ने वाला है, तो यह गाइड आपके लिए है।</p>
 
-<h2>Teaching Method</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>NCERT Curriculum</strong> — CBSE pattern पर आधारित</li>
-<li><strong>Smart Classes</strong> — Projector और digital boards</li>
-<li><strong>Science Labs</strong> — Physics, Chemistry, Biology labs</li>
-<li><strong>Computer Lab</strong> — Computer education compulsory</li>
-<li><strong>Library</strong> — हज़ारों books उपलब्ध</li>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-classes-teaching-method.webp" alt="नवोदय स्कूल में क्लास और टीचिंग मेथड" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय स्कूल — आधुनिक शिक्षा व्यवस्था</p>
+</div>
+
+<h2>Teaching Method — कैसे पढ़ाते हैं?</h2>
+
+<p>नवोदय स्कूल में <strong>NCERT curriculum</strong> follow होता है जो CBSE pattern पर based है। लेकिन सिर्फ किताब पढ़ाने से काम नहीं चलता — यहाँ के teachers बच्चों को practical तरीके से समझाते हैं। मैंने कई नवोदय students से बात की है, और सब यही कहते हैं कि यहाँ की पढ़ाई "interesting" लगती है।</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>NCERT Curriculum:</strong> CBSE pattern पर आधारित। कक्षा 6 से 12 तक सभी विषय NCERT की किताबों से पढ़ाए जाते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Smart Classes:</strong> Projector और digital boards के ज़रिए पढ़ाया जाता है। वीडियो और animations से बच्चों को topic अच्छे से समझ आता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Activity-Based Learning:</strong> सिर्फ lecture नहीं, बल्कि projects, experiments, group discussions भी होते हैं। बच्चे खुद करके सीखते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Remedial Teaching:</strong> जो बच्चे कमज़ोर हैं उनके लिए extra classes लगती हैं। Teachers अलग से समय देते हैं ताकि कोई पीछे न रह जाए।</p>
+  </div>
+</div>
+
+<h2>Class Size — एक क्लास में कितने बच्चे?</h2>
+
+<p>नवोदय में एक क्लास में <strong>30-40 बच्चे</strong> होते हैं। प्राइवेट स्कूलों में 50-60 बच्चे होते हैं, तो यहाँ teacher हर बच्चे पर ध्यान दे पाता है। यह बहुत बड़ा फ़ायदा है।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय स्कूल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्राइवेट स्कूल</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Class Size</td><td class="py-3 px-4 border-b">30-40 students</td><td class="py-3 px-4 border-b">50-60 students</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Teacher-Student Ratio</td><td class="py-3 px-4 border-b font-bold text-green-700">1:30</td><td class="py-3 px-4 border-b">1:50+</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Smart Classroom</td><td class="py-3 px-4 border-b font-bold text-green-700">हाँ</td><td class="py-3 px-4 border-b">कुछ में ही</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Remedial Classes</td><td class="py-3 px-4 font-bold text-green-700">हाँ (मुफ़्त)</td><td class="py-3 px-4">अतिरिक्त शुल्क</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Lab Facilities — प्रयोगशाला की सुविधा</h2>
+
+<p>नवोदय में तीन तरह की labs होती हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Science Labs:</strong> Physics, Chemistry, Biology की अलग-अलग labs। बच्चे खुद experiment करके सीखते हैं। सभी equipment modern हैं।</li>
+  <li><strong>Computer Lab:</strong> Computer education compulsory है। हर बच्चे को basic computer skills सिखाई जाती हैं — MS Office, Internet, Programming basics।</li>
+  <li><strong>Mathematics Lab:</strong> कुछ नवोदय में math lab भी है जहाँ models और charts के ज़रिए math समझाया जाता है।</li>
 </ul>
 
-<h2>Daily Class Schedule</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Period</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 - 8:15 AM</td><td class="py-3 px-4 border-b">Period 1</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">8:15 - 9:00 AM</td><td class="py-3 px-4 border-b">Period 2</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">9:00 - 9:45 AM</td><td class="py-3 px-4 border-b">Period 3</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">10:15 - 11:00 AM</td><td class="py-3 px-4 border-b">Period 4</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">11:00 - 11:45 AM</td><td class="py-3 px-4 border-b">Period 5</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">12:30 - 1:15 PM</td><td class="py-3 px-4">Period 6</td></tr></tbody></table></div>
+<h2>Library — किताबों का ख़ज़ाना</h2>
+
+<p>हर नवोदय में एक बड़ी library होती है जिसमें <strong>5,000 से 15,000 किताबें</strong> होती हैं। NCERT की किताबों के अलावा story books, encyclopedias, competitive exam guides, magazines — सब मिलता है। बच्चे रोज़ library जा सकते हैं और किताबें issue कर सकते हैं।</p>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>टिप:</strong> नवोदय में library period हर हफ़्ते होता है। बच्चों को reading habit develop करने के लिए encourage किया जाता है।</p>
+</div>
+
+<h2>Daily Class Schedule — रोज़ का टाइमटेबल</h2>
+
+<p>नवोदय में classes सुबह 7:30 बजे शुरू होती हैं। यहाँ पूरे दिन का schedule दिया गया है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:30 AM</td><td class="py-3 px-4 border-b">सुबह की PT और Yoga</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 - 7:00 AM</td><td class="py-3 px-4 border-b">नाश्ता और तैयारी</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 - 8:15 AM</td><td class="py-3 px-4 border-b">Period 1</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">8:15 - 9:00 AM</td><td class="py-3 px-4 border-b">Period 2</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">9:00 - 9:45 AM</td><td class="py-3 px-4 border-b">Period 3</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">10:15 - 11:00 AM</td><td class="py-3 px-4 border-b">Period 4</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">11:00 - 11:45 AM</td><td class="py-3 px-4 border-b">Period 5</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">12:30 - 1:15 PM</td><td class="py-3 px-4 border-b">Period 6</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">1:30 - 2:30 PM</td><td class="py-3 px-4 border-b">दोपहर का खाना</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Sports और Games</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 6:00 PM</td><td class="py-3 px-4 border-b">Snacks + Free Time</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 - 8:00 PM</td><td class="py-3 px-4 border-b">Study / Homework (Prep)</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">8:30 PM</td><td class="py-3 px-4">रात का खाना + सोना</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Extra Classes और Coaching</h2>
+
+<p>नवोदय में weak students के लिए <strong>remedial classes</strong> लगती हैं। अगर कोई बच्चा किसी subject में कमज़ोर है, तो teacher उसे extra time देता है। इसके अलावा:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Board Exam Preparation:</strong> कक्षा 10 और 12 के बच्चों के लिए special coaching</li>
+  <li><strong>Competitive Exam Guidance:</strong> JEE, NEET, NDA की तैयारी के लिए guidance</li>
+  <li><strong>Spoken English:</strong> English speaking skills improve करने के लिए special sessions</li>
+  <li><strong>Talent Search Programs:</strong> NTSE, Olympiad की तैयारी</li>
+</ul>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>ज़रूरी बात:</strong> नवोदय में कक्षा 6 से 12 तक सब कुछ मुफ़्त है — पढ़ाई, किताबें, हॉस्टल, खाना। कोई फ़ीस नहीं लगती। सरकार पूरा खर्चा उठाती है।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">नवोदय में एडमिशन चाहिए?</h3>
+<p><strong>JGPS School</strong> में नवोदय की तैयारी कराई जाती है। Call: <strong>+91 9412137554</strong></p>
+</div>
 `,
     faqs: [
       { question: "Navodaya mein padhai kaisi hai?", answer: "Bahut acchi hai — qualified teachers, smart classes, labs, library sab hai." },
@@ -10972,16 +13333,141 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-admit-card-download-kaise-karein-mobile-se.webp",
     imageAlt: "JNVST 2027 admit card mobile se kaise download karein - step by step guide",
-    content: `<p><strong>JNVST 2027 Admit Card</strong> मोबाइल से भी डाउनलोड कर सकते हैं। लेकिन प्रिंट निकालने के लिए कंप्यूटर चाहिए।</p>
+    content: `<p><strong>JNVST 2027 Admit Card</strong> मोबाइल से भी डाउनलोड कर सकते हैं। बहुत से माता-पिता के पास computer नहीं होता, इसलिए mobile से download करना सबसे आसान तरीका है। लेकिन mobile से download करते समय कुछ problems आ सकती हैं — PDF नहीं खुलती, print नहीं होता, या server slow चलता है। इस लेख में मैं आपको step-by-step बताऊंगा कि mobile से admit card कैसे download करें, print कैसे निकालें, और common problems का solution क्या है।</p>
 
-<h2>Mobile Se Download Steps</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Step 1:</strong> Chrome browser खोलें</p>
-<p><strong>Step 2:</strong> navodaya.gov.in जाएं</p>
-<p><strong>Step 3:</strong> "Download Admit Card" लिंक पर क्लिक करें</p>
-<p><strong>Step 4:</strong> Registration Number और DOB दर्ज करें</p>
-<p><strong>Step 5:</strong> PDF download करें</p>
-<p><strong>Step 6:</strong> किसी print shop पर जाकर प्रिंट निकालें</p>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-admit-card-mobile-download.webp" alt="JNVST 2027 admit card mobile se download kaise karein" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 Admit Card — Mobile से Download Guide</p>
+</div>
+
+<h2>Mobile से Download करने के लिए क्या चाहिए?</h2>
+
+<p>सबसे पहले ये जान लें कि mobile से admit card download करने के लिए क्या-क्या चाहिए:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">चीज़</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">ज़रूरी है?</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Internet Connection</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">WiFi या 4G data</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Chrome Browser</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">UC Browser या Opera नहीं</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Registration Number</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">SMS/Email में मिला था</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Date of Birth</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">DD/MM/YYYY format</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Storage Space</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">कम से कम 50 MB free</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">PDF Reader App</td><td class="py-3 px-4 text-yellow-600 font-bold">Optional</td><td class="py-3 px-4">Adobe Acrobat ya Google PDF Viewer</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Step-by-Step Mobile Download Guide</h2>
+
+<p>यह सबसे ज़रूरी section है। ध्यान से पढ़ें और हर step follow करें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">1</div>
+    <p class="text-sm text-gray-700"><strong>Chrome Browser खोलें:</strong> UC Browser, Opera या Samsung Internet use न करें। सिर्फ़ Google Chrome use करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">2</div>
+    <p class="text-sm text-gray-700"><strong>navodaya.gov.in खोलें:</strong> Address bar में navodaya.gov.in type करें। .gov.in है, .com नहीं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">3</div>
+    <p class="text-sm text-gray-700"><strong>"Download Admit Card" लिंक ढूंढें:</strong> Homepage पर link होगा। Click करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">4</div>
+    <p class="text-sm text-gray-700"><strong>Registration Number डालें:</strong> SMS/Email में मिला number डालें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">5</div>
+    <p class="text-sm text-gray-700"><strong>Date of Birth डालें:</strong> DD/MM/YYYY format में।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <div class="w-8 h-8 bg-[#035c00] text-white rounded-full flex items-center justify-center font-bold text-sm flex-shrink-0">6</div>
+    <p class="text-sm text-gray-700"><strong>Captcha भरें और Submit करें:</strong> Admit card screen पर आ जाएगा। PDF download करें।</p>
+  </div>
+</div>
+
+<h2>Mobile से Print कैसे निकालें?</h2>
+
+<p>Mobile से direct print निकालना थोड़ा मुश्किल है, लेकिन possible है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">तरीका</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कैसे करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Xerox Shop</td><td class="py-3 px-4 border-b">PDF WhatsApp/email से भेजें — सबसे आसान</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">WiFi Printer</td><td class="py-3 px-4 border-b">Chrome → Share → Print</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Cyber Café</td><td class="py-3 px-4 border-b">Email से PDF भेजें और print लें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">OTG Cable</td><td class="py-3 px-4">Phone → OTG → USB → Printer</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ज़रूरी:</strong> Admit Card का कम से कम <strong>2 color printout</strong> निकालें। एक backup के लिए।</p>
+</div>
+
+<h2>Common Problems और Solutions</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Problem</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Solution</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Server slow</td><td class="py-3 px-4 border-b">सुबह 6-7 बजे try करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">PDF download नहीं हो रही</td><td class="py-3 px-4 border-b">Desktop mode on करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Registration number wrong</td><td class="py-3 px-4 border-b">SMS/Email से check करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Photo नहीं दिख रहा</td><td class="py-3 px-4 border-b">Dusre browser में try करें</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Captcha नहीं समझ आ रहा</td><td class="py-3 px-4">Refresh button दबाएं</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Desktop vs Mobile — कौन सा बेहतर?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Mobile</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Desktop</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Print करना</td><td class="py-3 px-4 border-b">मुश्किल</td><td class="py-3 px-4 border-b font-bold text-green-700">आसान</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Screenshot</td><td class="py-3 px-4 border-b font-bold text-green-700">आसान</td><td class="py-3 px-4 border-b">मुश्किल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कहीं भी उपलब्ध</td><td class="py-3 px-4 border-b font-bold text-green-700">हाँ</td><td class="py-3 px-4 border-b">नहीं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Speed</td><td class="py-3 px-4">Normal</td><td class="py-3 px-4 font-bold text-green-700">Fast</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+  <p class="font-bold text-green-700 mb-2">Pro Tip:</p>
+  <p class="text-sm text-gray-700">Admit Card download करने के बाद <strong>Google Drive या WhatsApp</strong> पर save कर लें। Backup ज़रूरी है।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 Admit Card Download में Help चाहिए?</h3>
+<p>JGPS School में guidance लें। Call: <strong>+91 9412137554</strong></p>
 </div>
 `,
     faqs: [
