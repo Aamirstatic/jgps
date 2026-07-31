@@ -1,25 +1,15 @@
-# SEO METADATA
-
-**SEO Title (59 chars):** Boarding School vs Day School: Which Is Better for Kids?
-
-**Meta Description (158 chars):** Boarding School vs Day School — compare academics, fees, discipline & social life. Expert guide for UP, Bihar & Uttarakhand parents. Call JGPS for advice!
-
-**URL Slug:** `/blog/boarding-school-vs-day-school-comparison`
-
-**Primary Keywords:**
-- boarding school vs day school
-- boarding school or day school which is better
-- residential school vs day school India
-
-**Secondary Keywords:**
-- boarding school advantages disadvantages
-- day school benefits for children
-- best school type for kids India
-- boarding school fees India
-- day school vs boarding school pros cons
-
-**Schema Type:** Article + FAQPage
-
+---
+title: "Boarding School vs Day School: Which Is Better for Kids?"
+description: "Boarding School vs Day School — compare academics, fees, discipline & social life. Expert guide for UP, Bihar & Uttarakhand parents. Call JGPS for advice!"
+slug: "boarding-school-vs-day-school-comparison"
+date: "2026-07-11"
+author: "JGPS Education Team"
+category: "Education"
+keywords: "boarding school vs day school, boarding school or day school which is better, residential school vs day school India, boarding school advantages disadvantages, day school benefits for children, best school type for kids India, boarding school fees India"
+image: "https://img.jgps.in/blog/boarding-vs-day-school-comparison.webp"
+imageAlt: "Boarding school vs day school comparison infographic for Indian parents"
+schemaType: "Article + FAQPage"
+lang: "en"
 ---
 
 # FULL ARTICLE (HTML FORMATTED)
@@ -193,8 +183,8 @@
 <li><a href="https://jgps.in" target="_blank" rel="noopener">JGPS Official Website — Jai Govind Public School, Joya Amroha</a></li>
 <li><a href="https://jgps.in/coaching" target="_blank" rel="noopener">JGPS Entrance Exam Coaching Programs</a></li>
 <li><a href="https://jgps.in/admission" target="_blank" rel="noopener">JGPS Admission Enquiry 2026-27</a></li>
-<li><a href="https://jgps.in/blog/jnvst-2027-exam-pattern" target="_blank" rel="noopener">JNVST 2027 Exam Pattern: What Parents Must Know</a></li>
-<li><a href="https://jgps.in/blog/sainik-school-admission-guide" target="_blank" rel="noopener">Sainik School Admission 2027-28: Complete Guide</a></li>
+<li><a href="https://jgps.in/coaching/navodaya-vidyalaya/syllabus" target="_blank" rel="noopener">JNVST 2027 Exam Pattern: What Parents Must Know</a></li>
+<li><a href="https://jgps.in/coaching/sainik-school" target="_blank" rel="noopener">Sainik School Admission 2027-28: Complete Guide</a></li>
 </ul>
 
 <h2 id="faq">Frequently Asked Questions (FAQ)</h2>
@@ -334,11 +324,11 @@
 
 # INTERNAL LINKING SUGGESTIONS
 
-1. **Link to:** `/blog/jnvst-2027-exam-pattern` — **Anchor text:** "JNVST 2027 exam pattern" — Context: When discussing competitive entrance exams and Navodaya preparation in the boarding school section.
+1. **Link to:** `/coaching/navodaya-vidyalaya/syllabus` — **Anchor text:** "JNVST 2027 exam pattern" — Context: When discussing competitive entrance exams and Navodaya preparation in the boarding school section.
 
-2. **Link to:** `/blog/sainik-school-admission-guide` — **Anchor text:** "Sainik School Admission 2027-28" — Context: When discussing AISSEE coaching and competitive exam-focused boarding/day schools.
+2. **Link to:** `/coaching/sainik-school` — **Anchor text:** "Sainik School Admission 2027-28" — Context: When discussing AISSEE coaching and competitive exam-focused boarding/day schools.
 
-3. **Link to:** `/blog/how-to-crack-jnvst-2027` — **Anchor text:** "how to crack JNVST in 3 months" — Context: In the section about JGPS coaching and integrated exam preparation.
+3. **Link to:** `/coaching/navodaya-vidyalaya` — **Anchor text:** "how to crack JNVST in 3 months" — Context: In the section about JGPS coaching and integrated exam preparation.
 
 4. **Link to:** `/coaching` — **Anchor text:** "JGPS coaching programs" — Context: In the CTA boxes and the JGPS perspective section.
 

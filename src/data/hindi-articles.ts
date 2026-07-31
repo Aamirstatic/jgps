@@ -10990,6 +10990,445 @@ export const hindiArticles: HindiArticle[] = [
       { question: "Mobile se form bhar sakte hain?", answer: "Haan, lekin computer se better hai." },
       { question: "Kitne printout nikalne hain?", answer: "2 color printout nikalne hain." }
     ]
+  },
+  {
+    slug: "sainik-school-girls-quota-2027-hindi",
+    title: "Sainik School Girls Quota 2027: लड़कियों के लिए पूरी गाइड",
+    description: "Sainik School Girls Quota 2027 — लड़कियों के लिए सीटें, पात्रता, आवेदन प्रक्रिया और तैयारी के टिप्स। UP, Bihar और Uttarakhand के parents के लिए पूरी गाइड।",
+    keywords: "Sainik School Girls Quota 2027, सैनिक स्कूल लड़कियों के लिए, AISSEE 2027 girls seats, Sainik School girls admission 2027, सैनिक स्कूल गर्ल्स कोटा",
+    date: "30 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
+    readTime: "12 मिनट",
+    author: "JGPS Content Team",
+    authorName: "JGPS Content Team",
+    authorSlug: "jgps-content-team",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "JGPS Content Team जय गोविंद पब्लिक स्कूल की शिक्षा सामग्री टीम है जो नवोदय, सैनिक स्कूल और अन्य प्रवेश परीक्षाओं पर गाइड बनाती है।",
+    category: "Admissions & Test Prep",
+    image: "https://img.jgps.in/blog/sainik-school-girls-quota-2027-hindi.webp",
+    imageAlt: "Sainik School Girls Quota 2027 — लड़कियों के लिए पूरी गाइड",
+    content: `<p>Sainik School me ab ladkiyan bhi padh sakti hain. Yeh badlav 2021 me hua jab Modi sarkar ne sabhi Sainik Schools me girls admission shuru kiya. 2027 tak yeh policy permanent ho chuki hai. Agar aap UP, Bihar ya Uttarakhand ke parent hain aur aapki beti defence forces me jaana chahti hai, toh yeh guide aapke liye hai.</p>
+
+<h2>Sainik School Girls Quota Kya Hai?</h2>
+
+<p>2021 se pehle Sainik School sirf ladkon ke liye tha. 1961 me shuru hua tha yeh system. Lekin 17 September 2020 ko Modi sarkar ne announcement kiya ki sabhi 33 Sainik Schools me girls ko admission milega. Pilot project Mizoram ke Chhingchhip Sainik School me shuru hua tha.</p>
+
+<p>Ab har Sainik School me Class 6 me kam se kam 10% seats girls ke liye reserved hain. Kuch schools me yeh sankhya 10 seats hai, kuch me zyada.</p>
+
+<h2>Kitni Seats Hain Girls Ke Liye?</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Sainik School</th><th class="py-3 px-4 border-b font-bold text-white text-left">State</th><th class="py-3 px-4 border-b font-bold text-white text-left">Girls Seats (Class 6)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School Amethi</td><td class="py-3 px-4 border-b">UP</td><td class="py-3 px-4 border-b">10</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School Lucknow</td><td class="py-3 px-4 border-b">UP</td><td class="py-3 px-4 border-b">10</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School Gopalganj</td><td class="py-3 px-4 border-b">Bihar</td><td class="py-3 px-4 border-b">10</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School Nalanda</td><td class="py-3 px-4 border-b">Bihar</td><td class="py-3 px-4 border-b">10</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School Chittorgarh</td><td class="py-3 px-4 border-b">Rajasthan</td><td class="py-3 px-4 border-b">10</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School Rewa</td><td class="py-3 px-4 border-b">MP</td><td class="py-3 px-4 border-b">10</td></tr><tr><td class="py-3 px-4 font-bold text-gray-900">Total (All 33 Schools)</td><td class="py-3 px-4 font-bold">Pan India</td><td class="py-3 px-4 font-bold">~330 seats</td></tr></tbody></table></div>
+
+<p>Yeh seats limited hain. Har saal hazaaron ladkiyan apply karti hain. Competition tough hai. Isliye jaldi tayyari shuru karni chahiye.</p>
+
+<h2>Eligibility — Kaun Apply Kar Sakti Hai?</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Parameter</th><th class="py-3 px-4 border-b font-bold text-white text-left">Requirement</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Class</td><td class="py-3 px-4 border-b">Class 5 me padh rahi ho</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Age</td><td class="py-3 px-4 border-b">10-12 years (as on March 31, 2027)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Nationality</td><td class="py-3 px-4 border-b">Indian citizen</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Gender</td><td class="py-3 px-4 border-b">Female</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School</td><td class="py-3 px-4 border-b">Recognized school me padh rahi ho</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Attempt</td><td class="py-3 px-4">Sirf ek baar apply kar sakti hain</td></tr></tbody></table></div>
+
+<h2>Application Process</h2>
+
+<ul>
+<li><strong>NTA portal</strong> pe jao: exams.nta.nic.in</li>
+<li><strong>Register karo</strong> — naam, date of birth, school details</li>
+<li><strong>Documents upload</strong> karo — photo, signature, marksheet</li>
+<li><strong>Fee pay</strong> karo — General: Rs 400, SC/ST: Rs 250</li>
+<li><strong>Submit</strong> karo aur confirmation page save karo</li>
+</ul>
+
+<h2>AISSEE 2027 Exam Pattern (Girls Ke Liye Same)</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Math</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">60 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Intelligence</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">30 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">English</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">30 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">GK (Sc/SS)</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">25</td><td class="py-3 px-4 border-b">30 min</td></tr><tr><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4 font-bold">125</td><td class="py-3 px-4 font-bold">125</td><td class="py-3 px-4 font-bold">2.5 hours</td></tr></tbody></table></div>
+
+<p>Negative marking: -0.5 for wrong answer. Isliye guess mat karo.</p>
+
+<h2>Taiyari Kaise Karein?</h2>
+
+<p><strong>Math:</strong> NCERT Class 4-5 ki books padho. Daily 10 questions solve karo. Speed badhao.</p>
+<p><strong>Intelligence:</strong> Reasoning ke questions practice karo. Series, analogy, coding-decoding. Roz 30 minutes do.</p>
+<p><strong>English:</strong> Roz ek story padho. Vocabulary badhao. Grammar rules yaad karo.</p>
+<p><strong>GK:</strong> Newspaper padho. Current affairs notes banao. History, Geography, Science basics yaad karo.</p>
+
+<h2>5 Galtiyan Jo Parents Karte Hain</h2>
+
+<ul>
+<li><strong>Deri se shuru karna</strong> — 6 mahine pehle se tayyari shuru karo</li>
+<li><strong>Sirf math padhna</strong> — sab sections important hain</li>
+<li><strong>Mock test na dena</strong> — har Sunday mock test do</li>
+<li><strong>Physical fitness ignore karna</strong> — Sainik School me physical test bhi hota hai</li>
+<li><strong>Form me galti karna</strong> — double check karo submit karne se pehle</li>
+</ul>
+
+<h2>Kya Sainik School Me Ladkiyon Ke Liye Alag Coaching Chahiye?</h2>
+
+<p>Nahi. Syllabus aur exam pattern ladkon aur ladkiyon ke liye same hai. Lekin kuch parents chahte hain ki unki beti ko female teachers padhayein. JGPS me humne girls ke liye alag batches shuru kiye hain. Weekly mock tests, physical fitness guidance, aur one-on-one doubt sessions milte hain.</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Shuru Karna Hai?</h3>
+<p>Call karo <strong>+91 9412137554</strong> pe free counseling ke liye. Hum aapki beti ki readiness check karenge aur sahi batch recommend karenge. Limited seats — jaldi enroll karo AISSEE 2027 ke liye.</p>
+</div>`,
+    faqs: [
+      { question: "Kya Sainik School me ladkiyan Class 6 aur Class 9 dono ke liye apply kar sakti hain?", answer: "Haan. Girls Class 6 ke liye fully eligible hain dedicated quota ke saath. Class 9 ke liye apply kar sakti hain lekin admission seat availability par depend karta hai." },
+      { question: "Sainik School me girls ke liye 2027 me kitni seats hain?", answer: "Har Sainik School me Class 6 ki total seats ka 10% ya 10 seats — jo bhi zyada ho — girls ke liye reserved hai. Poore India me 33 Sainik Schools me total ~330 girls seats hain." },
+      { question: "Kya AISSEE 2027 me girls ke liye age relaxation hai?", answer: "Nahi. Age limit ladkon aur ladkiyon ke liye same hai — Class 6 ke liye 10-12 years aur Class 9 ke liye 13-15 years (as on March 31, 2027). Kisi category ke liye bhi relaxation nahi hai." },
+      { question: "Kya Bihar ki ladki Sainik School Lucknow (UP) ke liye apply kar sakti hai?", answer: "Haan, lekin 33% Other State quota me consider hogi jisme seats kam aur competition zyada hai. Bihar ki student ke liye Sainik School Nalanda (Bihar) me 67% home-state quota me chances zyada hain." },
+      { question: "Agar ladki ka score general seat ke liye kaafi ho toh kya hoga?", answer: "Agar ladki ka AISSEE merit score general seat ke liye qualify karta hai, toh use woh seat mil sakti hai. Isse uski girls quota seat next eligible candidate ko mil jaati hai." }
+    ]
+  },
+  {
+    slug: "navodaya-class-9-admission-2027-hindi",
+    title: "Navodaya Class 9 Admission 2027: Lateral Entry पूरी जानकारी हिंदी में",
+    description: "Navodaya Class 9 Admission 2027 Lateral Entry — पात्रता, परीक्षा पैटर्न, तारीखें और आवेदन प्रक्रिया। navodaya.gov.in पर अभी अप्लाई करें।",
+    keywords: "Navodaya Class 9 Admission 2027 Hindi, JNVST Class 9 Lateral Entry 2027, नवोदय कक्षा 9 प्रवेश, Navodaya LEST 2027, JNV Class 9 eligibility Hindi",
+    date: "30 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
+    readTime: "14 मिनट",
+    author: "JGPS Content Team",
+    authorName: "JGPS Content Team",
+    authorSlug: "jgps-content-team",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "JGPS Content Team जय गोविंद पब्लिक स्कूल की शिक्षा सामग्री टीम है जो नवोदय, सैनिक स्कूल और अन्य प्रवेश परीक्षाओं पर गाइड बनाती है।",
+    category: "Admissions & Test Prep",
+    image: "https://img.jgps.in/blog/navodaya-class-9-admission-2027-hindi.webp",
+    imageAlt: "Navodaya Class 9 Admission 2027 Lateral Entry — पूरी जानकारी हिंदी में",
+    content: `<p>क्या आपका बच्चा Class 6 में Navodaya में नहीं आ पाया? चिंता मत कीजिए — अभी भी मौका है। <strong>Navodaya Class 9 Admission 2027</strong> के ज़रिए Lateral Entry Selection Test (LEST) से आपके बच्चे को भारत के सबसे बेहतरीन फ्री रेजिडेंशियल स्कूल नेटवर्क में दाखिले का दूसरा मौका मिलता है। Application <strong>July 2026</strong> में खुलेगी, परीक्षा <strong>February 2027</strong> में होगी, और पूरी प्रक्रिया बिल्कुल फ्री है।</p>
+
+<h2>JNVST Class 9 Lateral Entry क्या है?</h2>
+
+<p>Jawahar Navodaya Vidyalaya (JNV) Class 9 lateral entry, Navodaya Vidyalaya Samiti (NVS) द्वारा चलाई जाने वाली एक selection process है जो उन बच्चों के लिए है जो Class 6 में दाखिला नहीं ले पाए। हर साल NVS पूरे भारत के 661 JNVs में Class 9 की खाली सीटों को भरने के लिए <strong>Lateral Entry Selection Test (LEST)</strong> आयोजित करता है।</p>
+
+<p>Class 9 का LEST, Class 6 के JNVST से अलग है। इसमें Mental Ability की जगह <strong>English, Hindi, Mathematics और Science</strong> पूछा जाता है — सब कुछ Class 8 के NCERT syllabus पर आधारित। चुने हुए बच्चों को Class 9 से Class 12 तक CBSE curriculum के तहत फ्री education, boarding, meals, books और uniforms मिलती हैं।</p>
+
+<h2>Navodaya Class 9 Admission 2027 — मुख्य जानकारी</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का नाम</td><td class="py-3 px-4 border-b">Lateral Entry Selection Test (LEST) 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आयोजक</td><td class="py-3 px-4 border-b">Navodaya Vidyalaya Samiti (NVS)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">दाखिला किसके लिए</td><td class="py-3 px-4 border-b">Class 9 (Session 2027-28)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन का तरीका</td><td class="py-3 px-4 border-b">Online — navodaya.gov.in</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Fee</td><td class="py-3 px-4 border-b">सभी categories के लिए FREE</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का तरीका</td><td class="py-3 px-4 border-b">Offline (Pen & Paper, OMR based)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल सवाल</td><td class="py-3 px-4 border-b">100 MCQs</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल समय</td><td class="py-3 px-4 border-b">2 घंटे 30 मिनट</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4 border-b">नहीं</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">कुल JNVs</td><td class="py-3 px-4">पूरे भारत में 661</td></tr></tbody></table></div>
+
+<h2>Eligibility Criteria — Navodaya Class 9 Admission 2027</h2>
+
+<p>NVS eligibility को लेकर बहुत strict है। अगर आपका बच्चा एक भी criterion पूरा नहीं करता, तो application document verification stage पर reject हो जाएगी।</p>
+
+<h3>आयु सीमा (Age Limit)</h3>
+<p>उम्मीदवार का जन्म <strong>1 May 2013 से 31 July 2015</strong> के बीच होना चाहिए। SC और ST candidates को upper age limit में 3 महीने की छूट है।</p>
+
+<h3>शैक्षिक योग्यता</h3>
+<p>आपका बच्चा 2026-27 academic session में <strong>Class 8 में पढ़ रहा हो</strong> — government या government-recognized school से।</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Eligibility Parameter</th><th class="py-3 px-4 border-b font-bold text-white text-left">शर्त</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म तारीख</td><td class="py-3 px-4 border-b">1 May 2013 – 31 July 2015</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">SC/ST के लिए जन्म तारीख</td><td class="py-3 px-4 border-b">1 May 2013 – 31 October 2015</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">वर्तमान कक्षा</td><td class="py-3 px-4 border-b">Class 8 में पढ़ रहा हो (2026-27 session)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School का प्रकार</td><td class="py-3 px-4 border-b">Government या recognized private school</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">District</td><td class="py-3 px-4 border-b">उसी district में पढ़ रहा हो जहाँ JNV है</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Class 7 Pass</td><td class="py-3 px-4">उसी district से Class 7 पास हो</td></tr></tbody></table></div>
+
+<h2>महत्वपूर्ण तारीखें — Navodaya Class 9 Admission 2027</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">अनुमानित तारीख</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification</td><td class="py-3 px-4 border-b">July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application शुरू</td><td class="py-3 px-4 border-b">July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Apply करने की आखिरी तारीख</td><td class="py-3 px-4 border-b">October 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Download</td><td class="py-3 px-4 border-b">January 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">LEST परीक्षा</td><td class="py-3 px-4 border-b">February 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result</td><td class="py-3 px-4 border-b">April 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Counseling और Admission</td><td class="py-3 px-4">May 2027</td></tr></tbody></table></div>
+
+<h2>परीक्षा पैटर्न: Navodaya Class 9 LEST 2027</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Weightage</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">English</td><td class="py-3 px-4 border-b">15</td><td class="py-3 px-4 border-b">15</td><td class="py-3 px-4 border-b">15%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Hindi</td><td class="py-3 px-4 border-b">15</td><td class="py-3 px-4 border-b">15</td><td class="py-3 px-4 border-b">15%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">35</td><td class="py-3 px-4 border-b">35</td><td class="py-3 px-4 border-b">35%</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Science</td><td class="py-3 px-4 border-b">35</td><td class="py-3 px-4 border-b">35</td><td class="py-3 px-4 border-b">35%</td></tr><tr><td class="py-3 px-4 font-bold text-gray-900">कुल</td><td class="py-3 px-4 font-bold">100</td><td class="py-3 px-4 font-bold">100</td><td class="py-3 px-4 font-bold">100%</td></tr></tbody></table></div>
+
+<h3>Merit Calculation</h3>
+<p>Final merit list में <strong>Mathematics + Science + English और Hindi में जो ज़्यादा हो</strong> वो count होता है। Total effective marks = 35 + 35 + 15 = 85। Math और Science सबसे ज़्यादा ज़रूरी हैं — merit में इनका weightage 70% है।</p>
+
+<h2>तैयारी की रणनीति</h2>
+
+<h3>महीना 1-2 (August-September 2026): Foundation बनाएँ</h3>
+<p>सभी चार विषयों के <strong>NCERT Class 8 textbooks</strong> पर ध्यान दें। हर chapter पढ़ें, हर exercise solve करें।</p>
+
+<h3>महीना 3-4 (October-November 2026): Practice और Strengthen</h3>
+<p><strong>Previous year LEST papers</strong> solve करना शुरू करें। Time लगाकर solve करें। कमज़ोर areas पहचानें।</p>
+
+<h3>महीना 5-6 (December 2026-January 2027): Mock Tests और Revision</h3>
+<p>हफ्ते में कम से कम 2 full-length mock tests दें। हर गलती analyze करें।</p>
+
+<h2>Fee Structure और JNV की सुविधाएँ</h2>
+
+<ul>
+<li><strong>सभी categories की लड़कियाँ:</strong> बिल्कुल FREE</li>
+<li><strong>SC/ST students:</strong> बिल्कुल FREE</li>
+<li><strong>BPL families:</strong> बिल्कुल FREE</li>
+<li><strong>General/OBC लड़के:</strong> बस ₹600/month — Vidyalaya Vikas Nidhi</li>
+</ul>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">तैयारी शुरू करनी है?</h3>
+<p>JGPS School Navodaya Vidyalaya Class 9 entrance exam के लिए specialized coaching देता है। Call करें <strong>+91 9412137554</strong> free counseling के लिए।</p>
+</div>`,
+    faqs: [
+      { question: "Kya mera bachcha Navodaya Class 9 ke liye apply kar sakta hai agar Class 6 me miss ho gaya?", answer: "Haan, bilkul. Class 9 Lateral Entry Selection Test (LEST) specifically un bachchon ke liye hai jo Class 6 JNVST miss kar gaye. Aapka bachcha abhi Class 8 me hona chahiye." },
+      { question: "Navodaya Class 9 Admission 2027 ke liye koi application fee hai?", answer: "Nahi. Application sabhi categories ke liye bilkul free hai — General, OBC, SC, ST aur EWS. Koi agent fee mat do." },
+      { question: "Navodaya Class 9 Admission 2027 ke liye age limit kya hai?", answer: "Aapke bachche ka janm 1 May 2013 se 31 July 2015 ke beech hona chahiye. SC/ST candidates ke liye upper date 31 October 2015 hai." },
+      { question: "JNV Class 9 entrance exam ke liye kaun si books best hain?", answer: "NCERT Class 8 textbooks sabse zaroori hain — Mathematics, Science, English aur Hindi. Extra practice ke liye Arihant ki guide use karein. Lekin NCERT 80% preparation honi chahiye." },
+      { question: "JNV Class 9 admission ke liye merit list kaise banti hai?", answer: "Merit list Mathematics (35) + Science (35) + English aur Hindi me jo zyada ho (15) par based hai. Maximum effective marks = 85." }
+    ]
+  },
+  {
+    slug: "boarding-vs-day-school-hindi",
+    title: "Boarding School vs Day School: कौन सा बेहतर है आपके बच्चे के लिए?",
+    description: "Boarding School vs Day School — पढ़ाई, फीस, अनुशासन और सामाजिक जीवन की तुलना। UP, Bihar और Uttarakhand के parents के लिए विशेषज्ञ गाइड।",
+    keywords: "boarding school vs day school Hindi, बोर्डिंग स्कूल vs डे स्कूल, residential school vs day school India, boarding school advantages Hindi, day school benefits Hindi",
+    date: "30 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
+    readTime: "12 मिनट",
+    author: "JGPS Content Team",
+    authorName: "JGPS Content Team",
+    authorSlug: "jgps-content-team",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "JGPS Content Team जय गोविंद पब्लिक स्कूल की शिक्षा सामग्री टीम है जो नवोदय, सैनिक स्कूल और अन्य प्रवेश परीक्षाओं पर गाइड बनाती है।",
+    category: "Admissions & Test Prep",
+    image: "https://img.jgps.in/blog/boarding-vs-day-school-hindi.webp",
+    imageAlt: "Boarding School vs Day School — हिंदी में तुलना गाइड",
+    content: `<p>आपके बच्चे का भविष्य आज आप जो स्कूल चुनते हैं, उस पर निर्भर करता है। यह बढ़ा-चढ़ाकर कहना नहीं है — यह हकीकत है जो उत्तर प्रदेश, बिहार और उत्तराखंड का हर माता-पिता बोर्डिंग स्कूल और डे स्कूल के बीच चुनाव करते समय महसूस करता है।</p>
+
+<p>जय गोविंद पब्लिक स्कूल (JGPS), जोया, अमरोहा में हमने 1,000 से ज्यादा परिवारों को इसी सवाल में मदद की है। सच्चाई? दोनों विकल्पों की अपनी-अपनी ताकत है — और सही चुनाव पूरी तरह से आपके बच्चे, आपकी पारिवारिक स्थिति और आपकी प्राथमिकताओं पर निर्भर करता है।</p>
+
+<h2>बोर्डिंग स्कूल vs डे स्कूल: असली फर्क क्या है?</h2>
+
+<p><strong>बोर्डिंग स्कूल</strong> एक आवासीय संस्थान है जहां छात्र सत्र के दौरान कैंपस में ही रहते हैं। वे हॉस्टल में सोते हैं, मेस में खाना खाते हैं, शाम को सुपरवाइज्ड स्टडी करते हैं, और सिर्फ छुट्टियों में घर जाते हैं।</p>
+
+<p><strong>डे स्कूल</strong> वह है जिसमें हममें से ज्यादातर लोग पढ़े हैं। बच्चे सुबह स्कूल जाते हैं, क्लास करते हैं, और दोपहर या शाम तक घर लौट आते हैं।</p>
+
+<h2>मुख्य तुलना: बोर्डिंग vs डे स्कूल</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कारक</th><th class="py-3 px-4 border-b font-bold text-white text-left">बोर्डिंग स्कूल</th><th class="py-3 px-4 border-b font-bold text-white text-left">डे स्कूल</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">दैनिक पढ़ाई के घंटे</td><td class="py-3 px-4 border-b">4–6 घंटे (सुपरवाइज्ड इवनिंग स्टडी)</td><td class="py-3 px-4 border-b">2–3 घंटे (घर के माहौल पर निर्भर)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">अनुशासन</td><td class="py-3 px-4 border-b">सख्त — तय रूटीन, जीरो टॉलरेंस</td><td class="py-3 px-4 border-b">मध्यम — स्कूल के समय तक ही</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">माता-पिता से जुड़ाव</td><td class="py-3 px-4 border-b">सीमित — छुट्टियों और मुलाकातों तक</td><td class="py-3 px-4 border-b">रोजाना — मजबूत भावनात्मक जुड़ाव</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सालाना खर्च (भारत)</td><td class="py-3 px-4 border-b">₹1.5 लाख – ₹5 लाख+</td><td class="py-3 px-4 border-b">₹30,000 – ₹1.5 लाख</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">स्क्रीन टाइम कंट्रोल</td><td class="py-3 px-4 border-b">स्कूल रेगुलेट करता है</td><td class="py-3 px-4 border-b">माता-पिता को खुद मैनेज करना होता है</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">किसके लिए बेहतर</td><td class="py-3 px-4">फोकस्ड, कॉम्पिटिटिव एग्जाम की तैयारी करने वाले छात्र</td><td class="py-3 px-4">छोटे बच्चे; परिवार के साथ रहने की जरूरत वाले बच्चे</td></tr></tbody></table></div>
+
+<h2>बोर्डिंग स्कूल के फायदे और नुकसान</h2>
+
+<h3>फायदे</h3>
+<ul>
+<li><strong>स्ट्रक्चर्ड स्टडी एनवायरनमेंट:</strong> शाम की सुपरवाइज्ड स्टडी का मतलब कम विचलन और बेहतर परीक्षा की तैयारी।</li>
+<li><strong>अनुशासन और रूटीन:</strong> तय समय पर उठना, खाना, पढ़ना, सोना — ये आदतें जिंदगीभर काम आती हैं।</li>
+<li><strong>जल्दी आत्मनिर्भरता:</strong> बच्चे अपना सामान संभालना, झगड़े सुलझाना, और जिम्मेदारी लेना सीखते हैं।</li>
+<li><strong>प्रतियोगी परीक्षा पर फोकस:</strong> सैनिक, नवोदय, मिलिट्री स्कूल में कोचिंग करिकुलम में ही शामिल होती है।</li>
+</ul>
+
+<h3>नुकसान</h3>
+<ul>
+<li><strong>घर की याद और भावनात्मक तनाव:</strong> 10 साल से छोटे बच्चों के लिए अलगाव की चिंता बहुत तीव्र हो सकती है।</li>
+<li><strong>ज्यादा खर्च:</strong> सालाना ₹1.5 लाख से ₹5 लाख+ — एक अच्छे डे स्कूल से 3-5 गुना ज्यादा।</li>
+<li><strong>परिवार के साथ कम समय:</strong> रोज का पारिवारिक माहौल, त्योहार, दादी-नानी की कहानियां — ये सब मिस होता है।</li>
+</ul>
+
+<h2>डे स्कूल के फायदे और नुकसान</h2>
+
+<h3>फायदे</h3>
+<ul>
+<li><strong>रोजाना माता-पिता से जुड़ाव:</strong> बच्चा हर शाम घर आता है। आप उसका मूड देखते हैं, उसकी बात सुनते हैं, होमवर्क में मदद करते हैं।</li>
+<li><strong>कम खर्च:</strong> सालाना ₹30,000 से ₹1.5 लाख — बचाया हुआ पैसा कोचिंग, किताबें, या अन्य शैक्षिक संसाधनों पर खर्च हो सकता है।</li>
+<li><strong>पारिवारिक मूल्य और संस्कृति:</strong> बच्चे परिवार के रीति-रिवाजों, त्योहारों और रोजमर्रा की जिंदगी में हिस्सा लेते हैं।</li>
+<li><strong>लचीला शेड्यूल:</strong> माता-पिता स्कूल के बाद का समय अपने हिसाब से तय कर सकते हैं।</li>
+</ul>
+
+<h3>नुकसान</h3>
+<ul>
+<li><strong>कम सुपरवाइज्ड स्टडी टाइम:</strong> स्कूल के बाद की पढ़ाई पूरी तरह घर के माहौल पर निर्भर।</li>
+<li><strong>स्क्रीन टाइम का लालच:</strong> घर पर फोन, TV, YouTube तक पहुंच — बिना सक्रिय निगरानी के स्क्रीन टाइम आसानी से बढ़ जाता है।</li>
+<li><strong>प्रतियोगी परीक्षा की तैयारी सीमित:</strong> ज्यादातर डे स्कूल सैनिक, नवोदय, AMU की इंटीग्रेटेड कोचिंग नहीं देते।</li>
+</ul>
+
+<h2>JGPS का तरीका: बोर्डिंग जैसा अनुशासन, डे स्कूल की सुविधा</h2>
+
+<p>15 साल से ज्यादा समय से, जोया, अमरोहा में JGPS एक सिद्धांत पर काम करता है: <strong>एक डे स्कूल बोर्डिंग स्कूल जैसा अनुशासन, संरचना और शैक्षणिक फोकस दे सकता है — बिना बच्चों को उनके परिवारों से अलग किए।</strong></p>
+
+<p><strong>25:1 का छोटा क्लास साइज:</strong> हर बच्चे को व्यक्तिगत ध्यान मिलता है। <strong>500+ प्रवेश परीक्षा चयन:</strong> JGPS के छात्रों ने सैनिक स्कूल, नवोदय, AMU, JMI और विद्याज्ञान की प्रवेश परीक्षाएं बार-बार पास की हैं — वो भी डे स्कॉलर रहते हुए।</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">प्रवेश 2026-27 के लिए खुले हैं</h3>
+<p>JGPS नर्सरी से कक्षा 8 तक कक्षाएं प्रदान करता है, साथ ही AMU, JMI, सैनिक स्कूल, मिलिट्री स्कूल और विद्याज्ञान प्रवेश परीक्षाओं के लिए विशेष कोचिंग बैच। Call करें <strong>+91 9412137554</strong>।</p>
+</div>`,
+    faqs: [
+      { question: "बच्चे को किस उम्र में बोर्डिंग स्कूल भेजना चाहिए?", answer: "ज्यादातर शिक्षा विशेषज्ञ कम से कम 10–11 साल (कक्षा 5 या 6) तक इंतजार करने की सलाह देते हैं। कक्षा 5 से छोटे बच्चों के लिए डे स्कूल लगभग हमेशा बेहतर विकल्प है।" },
+      { question: "क्या प्रतियोगी परीक्षा की तैयारी के लिए बोर्डिंग स्कूल बेहतर है?", answer: "बोर्डिंग स्कूल एक केंद्रित माहौल प्रदान करते हैं। लेकिन JGPS जैसा एक अच्छा डे स्कूल जिसमें इंटीग्रेटेड कोचिंग हो, कम खर्च में समान नतीजे देता है।" },
+      { question: "भारत में बोर्डिंग स्कूल की फीस डे स्कूल से कितनी ज्यादा है?", answer: "बोर्डिंग स्कूल की फीस आमतौर पर ₹1.5 लाख से ₹5 लाख+ प्रति वर्ष है। डे स्कूल की फीस ₹30,000 से ₹1.5 लाख प्रति वर्ष है। 8 सालों में बचत ₹8–30 लाख हो सकती है।" },
+      { question: "क्या बोर्डिंग स्कूल न जाने पर बच्चे की सोशल स्किल्स कमजोर रह जाएंगी?", answer: "नहीं। डे स्कूल के बच्चे रोजाना 6–7 घंटे साथियों के साथ बिताते हैं और मोहल्ले में खेलने, पारिवारिक मिलन और कोचिंग से मजबूत सामाजिक कौशल विकसित करते हैं।" },
+      { question: "क्या डे स्कूल सच में बोर्डिंग स्कूल जैसा अनुशासन दे सकता है?", answer: "हां, सही दृष्टिकोण के साथ। JGPS जैसे स्कूल स्ट्रक्चर्ड रूटीन, छोटे क्लास साइज (25:1), नियमित मूल्यांकन और सुपरवाइज्ड कोचिंग सत्रों के माध्यम से बोर्डिंग-स्तर का अनुशासन बनाए रखते हैं।" }
+    ]
+  },
+  {
+    slug: "how-to-crack-jnvst-2027-hindi",
+    title: "JNVST 2027 कैसे क्रैक करें: 3 महीने की तैयारी प्लान हिंदी में",
+    description: "JNVST 2027 कैसे क्रैक करें — 3 महीने की तैयारी प्लान, रोज़ का शेड्यूल, बेस्ट बुक्स और सेक्शन-वाइज टिप्स।",
+    keywords: "JNVST 2027 preparation Hindi, JNVST 2027 कैसे क्रैक करें, नवोदय परीक्षा तैयारी, JNVST 3 month plan Hindi, Navodaya exam preparation Hindi",
+    date: "30 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
+    readTime: "13 मिनट",
+    author: "JGPS Content Team",
+    authorName: "JGPS Content Team",
+    authorSlug: "jgps-content-team",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "JGPS Content Team जय गोविंद पब्लिक स्कूल की शिक्षा सामग्री टीम है जो नवोदय, सैनिक स्कूल और अन्य प्रवेश परीक्षाओं पर गाइड बनाती है।",
+    category: "Admissions & Test Prep",
+    image: "https://img.jgps.in/blog/how-to-crack-jnvst-2027-hindi.webp",
+    imageAlt: "JNVST 2027 कैसे क्रैक करें — 3 महीने की तैयारी प्लान हिंदी में",
+    content: `<p>Aap apne bachche ko desk par baithke dekh rahe hain. Books khuli hain. Lekin aankhen thaki hain. Aap soch rahe hain — kya mera bachcha sahi tarike se padh raha hai? JNVST exam January 2027 mein hai. Bas 3 mahine baaki hain. Kya abhi bhi time hai?</p>
+
+<p>Yeh ek achhi khabar hai. Haan, 3 mahine kaafi hain JNVST 2027 crack karne ke liye. Har saal hazaron students sirf 90 din ki focused study se yeh exam clear karte hain. Aapka bachcha bhi kar sakta hai. Lekin sahi plan ke saath.</p>
+
+<p>Har saal 30 lakh se zyada students JNVST ke liye apply karte hain. Sirf lagbhag 80,000 ka selection hota hai. Yeh roughly 2.5% hai. Lekin jo students structured plan follow karte hain, unka selection rate 20% se upar chala jaata hai.</p>
+
+<h2>Kya 3 Mahine Mein JNVST 2027 Crack Ho Sakta Hai?</h2>
+
+<p>Haan. Lekin aapke bachche ko 4 cheezein chahiye:</p>
+<ul>
+<li><strong>Roz 3-4 ghante padhai</strong> (zyada nahi, kam nahi)</li>
+<li><strong>Sahi books</strong> (sirf 2027 pattern wali)</li>
+<li><strong>Weekly mock tests</strong> (har bina fail Sunday ko)</li>
+<li><strong>Aapka support</strong> (parent ka involvement coaching se zyada zaroori hai)</li>
+</ul>
+
+<h2>Month-by-Month Preparation Plan</h2>
+
+<h3>Month 1 (October 2026) — Foundation Banao</h3>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Kya Karna Hai</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1</td><td class="py-3 px-4 border-b">Mental Ability basics</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">Question types seekho</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 2</td><td class="py-3 px-4 border-b">Mental Ability practice</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">Roz 30 MAT questions solve karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3</td><td class="py-3 px-4 border-b">Arithmetic fundamentals</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">Class 4-5 math revise karo</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Week 4</td><td class="py-3 px-4">Arithmetic + Language</td><td class="py-3 px-4">2 ghante</td><td class="py-3 px-4">Reading comprehension practice shuru karo</td></tr></tbody></table></div>
+
+<h3>Month 2 (November 2026) — Practice aur Improve</h3>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Kya Karna Hai</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1</td><td class="py-3 px-4 border-b">Advanced MAT</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Roz 50 MAT questions solve karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 2</td><td class="py-3 px-4 border-b">Arithmetic speed</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Timed math practice — 30 min mein 20 questions</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3</td><td class="py-3 px-4 border-b">Language + Comprehension</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Roz passages padho, 5 naye words seekho</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Week 4</td><td class="py-3 px-4">Previous year papers</td><td class="py-3 px-4">3 ghante</td><td class="py-3 px-4">JNVST 2025 aur 2026 ke papers solve karo</td></tr></tbody></table></div>
+
+<h3>Month 3 (December 2026) — Mock Tests aur Revision</h3>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Kya Karna Hai</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1</td><td class="py-3 px-4 border-b">Full mock tests</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Roz ek full test, galtiyan analyze karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 2</td><td class="py-3 px-4 border-b">Sirf weak areas</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Jis topic mein score low hai uspar focus</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3</td><td class="py-3 px-4 border-b">Speed building</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">100 minute mein 80 questions solve karo</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Week 4</td><td class="py-3 px-4">Sirf halka revision</td><td class="py-3 px-4">1.5 ghante</td><td class="py-3 px-4">Naye topics nahi. Sirf notes revise karo</td></tr></tbody></table></div>
+
+<h2>Roz Ka Study Schedule</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 AM</td><td class="py-3 px-4 border-b">Uthna + taiyar hona</td><td class="py-3 px-4 border-b">30 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 AM</td><td class="py-3 px-4 border-b">Mental Ability practice</td><td class="py-3 px-4 border-b">1 ghanta</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">8:00 AM - 3:00 PM</td><td class="py-3 px-4 border-b">School</td><td class="py-3 px-4 border-b">7 ghante</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 PM</td><td class="py-3 px-4 border-b">Arithmetic practice</td><td class="py-3 px-4 border-b">1 ghanta</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:30 PM</td><td class="py-3 px-4 border-b">Language practice</td><td class="py-3 px-4 border-b">45 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 PM</td><td class="py-3 px-4 border-b">Din ka revision</td><td class="py-3 px-4 border-b">45 min</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">8:30 PM</td><td class="py-3 px-4">Neend</td><td class="py-3 px-4">9.5 ghante</td></tr></tbody></table></div>
+
+<p><strong>Zaroori:</strong> Neend optional nahi hai. Thaka hua dimaag Mental Ability puzzles solve nahi kar sakta. Aapke bachche ko roz 8-9 ghante neend chahiye.</p>
+
+<h2>Section-Wise Preparation Tips</h2>
+
+<h3>Mental Ability (40 Questions — Sabse Zaroori)</h3>
+<ul>
+<li>Roz 30-50 questions practice karo pehle din se</li>
+<li>Easy questions se shuru karo. 2 hafta baad mushkil par jao</li>
+<li>High-frequency topics: Series (8 questions), Analogy (8 questions), Pattern Completion (6 questions)</li>
+<li>Time target: 1.5 minute per question</li>
+</ul>
+
+<h3>Arithmetic (20 Questions)</h3>
+<ul>
+<li>NCERT Class 4 aur 5 ke math chapters revise karo</li>
+<li>Focus: Number System, Fractions, Geometry, Measurement</li>
+<li>Roz word problems practice karo (kam se kam 5)</li>
+<li>20 tak multiplication tables seekho</li>
+</ul>
+
+<h3>Language (20 Questions)</h3>
+<ul>
+<li>Roz ek Hindi aur ek English passage padho</li>
+<li>Roz 5 naye vocabulary words seekho</li>
+<li>Reading speed par focus karo — 200 words per minute</li>
+</ul>
+
+<h2>5 Galtiyan Jo Parents Ko Karni Nahi Chahiye</h2>
+
+<ul>
+<li><strong>Galti 1: Timetable Nahi Banana</strong> — Random padhai se kaam nahi banta. Fixed schedule banao.</li>
+<li><strong>Galti 2: Mental Ability Section Ignore Karna</strong> — MAT ke 50% marks hain. Roz kam se kam 1 ghanta do.</li>
+<li><strong>Galti 3: Purane Pattern Ki Books Use Karna</strong> — Sirf 2027 edition books kharido. Naye pattern mein 80 questions hain.</li>
+<li><strong>Galti 4: Mock Test Practice Na Karna</strong> — Kam se kam 8 hafta pehle mock tests shuru karo.</li>
+<li><strong>Galti 5: Bachche Par Zyada Dabav Dalna</strong> — 3-4 ghante ki focused study, 8 ghante ki zabardasti se behtar hai.</li>
+</ul>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Coaching Chahiye?</h3>
+<p>Jai Govind Public School, Joya, Amroha mein experienced teachers ke saath dedicated JNVST coaching milti hai. Free counseling ke liye <strong>+91 9997161490</strong> par call karo.</p>
+</div>`,
+    faqs: [
+      { question: "Kya main 3 mahine mein JNVST crack kar sakta hoon?", answer: "Haan. Structured plan, roz 3-4 ghante padhai, aur weekly mock tests ke saath aapka bachcha 3 mahine mein JNVST crack kar sakta hai. Har saal hazaron students karte hain." },
+      { question: "JNVST ke liye mere bachche ko kitne ghante padhna chahiye?", answer: "Roz 3 se 4 ghante kaafi hain. Time divide karo: 1 ghanta MAT, 1 ghanta Arithmetic, 45 minute Language, aur 45 minute revision." },
+      { question: "JNVST mein sabse easy section kaun sa hai?", answer: "Zyadatar bachchon ke liye Language section sabse easy hai. Isme reading comprehension aur grammar par 20 questions hain. Roz reading practice se 15+ aasani se aa sakte hain." },
+      { question: "Kya JNVST preparation ke liye coaching zaroori hai?", answer: "Coaching madad karti hai lekin zaroori nahi hai. NCERT books, previous year papers, aur ek achhe preparation plan se self-study se bhi ho sakta hai." },
+      { question: "JNVST 2027 ka pass mark kya hai?", answer: "Koi fixed pass mark nahi hai. Selection district-wise merit par hota hai. Generally, 80 mein se 50-60 marks lana achha chance deta hai." }
+    ]
+  },
+  {
+    slug: "navodaya-admission-2027-last-date-hindi",
+    title: "Navodaya Admission 2027 Last Date: 31 जुलाई — अभी अप्लाई करें",
+    description: "Navodaya admission 2027 last date 31 July 2026 है। JNVST Class 6 के लिए पात्रता, आयु सीमा और आवेदन प्रक्रिया जानें। 661 JNVs में फ्री शिक्षा।",
+    keywords: "Navodaya admission 2027 last date Hindi, JNVST 2027 last date, नवोदय एडमिशन 2027, Navodaya Vidyalaya admission Hindi, JNV Class 6 admission 2027 Hindi",
+    date: "30 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
+    readTime: "11 मिनट",
+    author: "JGPS Content Team",
+    authorName: "JGPS Content Team",
+    authorSlug: "jgps-content-team",
+    authorRole: "शिक्षा सामग्री विशेषज्ञ",
+    authorBio: "JGPS Content Team जय गोविंद पब्लिक स्कूल की शिक्षा सामग्री टीम है जो नवोदय, सैनिक स्कूल और अन्य प्रवेश परीक्षाओं पर गाइड बनाती है।",
+    category: "Admissions & Test Prep",
+    image: "https://img.jgps.in/blog/navodaya-admission-2027-last-date-hindi.webp",
+    imageAlt: "Navodaya Admission 2027 Last Date — 31 जुलाई, अभी अप्लाई करें",
+    content: `<p>Aap dinner ke baad kitchen table pe baithe hain. Aapka bachcha Class 5 me padh raha hai. Padosi ne abhi Navodaya Vidyalaya ke baare me bataya. Free education. Boarding. English medium. Koi fees nahi. Aap apply karna chahte hain. Lekin time kam hai.</p>
+
+<p>Navodaya admission 2027 ki last date <strong>31 July 2026</strong> hai. Yeh sirf kuch din door hai. Har saal 30 lakh se zyada bacche JNVST ke liye apply karte hain. Sirf 80,000 select hote hain. Aapke bachche ka real chance hai. Lekin sirf tab jab aap abhi action lein.</p>
+
+<h2>Navodaya Vidyalaya Kya Hai?</h2>
+
+<p>Jawahar Navodaya Vidyalaya (JNV) Bharat sarkar ke schools ka ek system hai. Navodaya Vidyalaya Samiti (NVS) poore desh me 661 schools chalata hai. Yeh residential schools hain. Yani aapka bachcha school me rehta hai. Khana, kitabein, uniforms, hostel — sab kuch free hai.</p>
+
+<p>Maksad simple hai. Gaon aur chhote sheher ke talented bacchon ko wahi quality education do jo bade sheher ke bacchon ko milti hai. English medium. CBSE board. Modern facilities. Aur ek bhi paisa nahi lagna.</p>
+
+<h2>JNV Kyon Hai Parents Ka Sapna</h2>
+
+<p>UP, Bihar aur Uttarakhand ke parents ke liye JNV ek sapna hai. Aapke bachche ko lakhon ki boarding school education free me milti hai. Schools me ache teachers, science labs, computer rooms, aur sports grounds hain. Bahut se JNV students baad me IIT, NEET aur bade exams crack karte hain.</p>
+
+<h2>Zaruri Dates</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Form Aaya</td><td class="py-3 px-4 border-b">6 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b">31 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">December 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date (Expected)</td><td class="py-3 px-4 border-b">January 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">March-April 2027</td></tr></tbody></table></div>
+
+<p>Hamesha official website pe final dates check karo: <strong>navodaya.gov.in</strong></p>
+
+<h2>Kaun Apply Kar Sakta Hai?</h2>
+
+<ul>
+<li>Class 5 me padh raha ho recognized school me</li>
+<li>Age 10-12 years (as on March 31, 2027)</li>
+<li>Wahi district ka school ho jahan JNV hai</li>
+<li>Indian citizen</li>
+<li>Sirf ek baar apply kar sakta hai (dobaara nahi)</li>
+</ul>
+
+<h2>Rural Quota — 75% Seats Gaon Ke Bacchon Ke Liye</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Rural Students</th><th class="py-3 px-4 border-b font-bold text-white text-left">Urban Students</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Seats Reserved</td><td class="py-3 px-4 border-b">75% (60 out of 80)</td><td class="py-3 px-4 border-b">25% (20 out of 80)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School Required</td><td class="py-3 px-4 border-b">Gaon/Gram Panchayat school</td><td class="py-3 px-4 border-b">Koi bhi recognized school</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Competition Level</td><td class="py-3 px-4">Kam</td><td class="py-3 px-4">Zyada</td></tr></tbody></table></div>
+
+<h2>Kaise Apply Karein — Step by Step</h2>
+
+<ul>
+<li><strong>Step 1:</strong> Official website pe jao: navodaya.gov.in</li>
+<li><strong>Step 2:</strong> Register karo — bachcha ka naam, date of birth, school details</li>
+<li><strong>Step 3:</strong> Documents upload karo — photo, signature, marksheet</li>
+<li><strong>Step 4:</strong> JNV select karo — apne district ke 2 JNV choose karo</li>
+<li><strong>Step 5:</strong> Fee pay karo — SC/ST/BPL ke liye free</li>
+<li><strong>Step 6:</strong> Submit karo aur confirmation page print karo</li>
+</ul>
+
+<h3>Zaruri Documents</h3>
+<ul>
+<li>Passport-size photo (recent)</li>
+<li>Bachche ka signature</li>
+<li>Class 5 marksheet</li>
+<li>Date of birth certificate</li>
+<li>Residence certificate (rural quota ke liye)</li>
+<li>Caste certificate (agar applicable hai)</li>
+</ul>
+
+<h2>JNV vs Private School: Quick Comparison</h2>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Navodaya Vidyalaya</th><th class="py-3 px-4 border-b font-bold text-white text-left">Private School</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Annual Fee</td><td class="py-3 px-4 border-b">Free (Rs 600/month mess for boys)</td><td class="py-3 px-4 border-b">Rs 50,000 - Rs 2,00,000</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Board</td><td class="py-3 px-4 border-b">CBSE</td><td class="py-3 px-4 border-b">CBSE/ICSE/State</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel</td><td class="py-3 px-4 border-b">Free boarding</td><td class="py-3 px-4 border-b">Rs 1,00,000+ extra</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Food</td><td class="py-3 px-4 border-b">Free meals</td><td class="py-3 px-4 border-b">Extra or not available</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Books & Uniform</td><td class="py-3 px-4 border-b">Free</td><td class="py-3 px-4 border-b">Rs 5,000 - Rs 10,000 extra</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Teachers</td><td class="py-3 px-4">Central government recruited</td><td class="py-3 px-4">Varies widely</td></tr></tbody></table></div>
+
+<h2>5 Galtiyan Jo Parents Karte Hain</h2>
+
+<ul>
+<li><strong>Last day pe form bharna</strong> — Website crash hoti hai. 20 July tak bhar do.</li>
+<li><strong>Galat date of birth</strong> — Birth certificate se match hona chahiye.</li>
+<li><strong>District check na karna</strong> — Bachcha wahi district me padhna chahiye.</li>
+<li><strong>Rural quota miss karna</strong> — Gaon ke school me padhta hai toh rural quota se apply karo.</li>
+<li><strong>Form ke baad tayyari na karna</strong> — Form toh pehla step hai. Asli kaam baad me shuru hota hai.</li>
+</ul>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">Madad Chahiye?</h3>
+<p>JGPS School JNVST coaching deta hai. Call karo <strong>+91 9997161490</strong>. Aapke bachche ki future ke liye yeh effort zaroori hai.</p>
+</div>`,
+    faqs: [
+      { question: "Navodaya admission 2027 ki last date kya hai?", answer: "JNVST 2027 Class 6 ke liye apply karne ki last date 31 July 2026 hai. Application form 6 July 2026 ko aaya tha. navodaya.gov.in par deadline se pehle apply karein." },
+      { question: "Kya Navodaya Vidyalaya sach me free hai?", answer: "Haan, bilkul free. Sarkar sab kuch pay karti hai — education, hostel, khana, kitabein, uniforms aur medical care. General/OBC boys ko sirf ₹600 monthly mess charge dena hota hai. Girls, SC aur ST students ko kuch nahi dena." },
+      { question: "Kya rural students JNVST 2027 ke liye apply kar sakte hain?", answer: "Haan. 75% seats rural students ke liye reserved hain. Agar aapka bachcha gaon ya gram panchayat area ke school me padhta hai, toh selection ke chances zyada hain." },
+      { question: "JNVST Class 6 ke liye age limit kya hai?", answer: "Aapke bachche ki umr March 31, 2027 ko 10 se 12 saal ke beech honi chahiye. SC aur ST students ke liye 2 saal ki relaxation hai (14 saal tak)." },
+      { question: "Navodaya Vidyalaya me kitni seats hain?", answer: "Har JNV me Class 6 ke liye 80 seats hain. Poore India me 661 JNVs hain. Yani Class 6 admission 2027-28 ke liye total lagbhag 52,880 seats hain." }
+    ]
   }
 ];
 

@@ -4987,6 +4987,18 @@ export const articles: Article[] = [
 
 <p><strong>Mistake 5: No Preparation After Filling Form</strong><br>Filling the form is just step one. Your child needs 3-4 months of focused practice to crack JNVST. Start preparation the same day you submit the form.</p>
 
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Happens After You Submit the Form</h2>
+<p>Many parents think filling the form is the hard part. It is not. Here is what happens next:</p>
+<p><strong>August-September 2026:</strong> NVS verifies all applications. If there is any mistake, you may get a correction window.</p>
+<p><strong>October-November 2026:</strong> NVS finalizes the list of eligible candidates. Admit cards are prepared.</p>
+<p><strong>December 2026:</strong> Admit cards are uploaded on navodaya.gov.in. Download and print 2 copies.</p>
+<p><strong>January 2027:</strong> Exam day. Your child needs the admit card, a valid ID proof, and basic stationery.</p>
+<p><strong>March-April 2027:</strong> Results are declared. Check on navodaya.gov.in using your child's roll number.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNV vs Private School: Quick Comparison</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Navodaya Vidyalaya</th><th class="py-3 px-4 border-b font-bold text-white text-left">Private School (Average)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Annual Fee</td><td class="py-3 px-4 border-b font-bold text-green-700">Free (Rs 600/month mess)</td><td class="py-3 px-4 border-b">Rs 50,000 - Rs 2,00,000</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Board</td><td class="py-3 px-4 border-b">CBSE</td><td class="py-3 px-4 border-b">CBSE/ICSE/State</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel</td><td class="py-3 px-4 border-b font-bold text-green-700">Free boarding</td><td class="py-3 px-4 border-b">Rs 1,00,000+ extra</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Food</td><td class="py-3 px-4 border-b font-bold text-green-700">Free meals</td><td class="py-3 px-4 border-b">Extra or not available</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Books & Uniform</td><td class="py-3 px-4 border-b font-bold text-green-700">Free</td><td class="py-3 px-4 border-b">Rs 5,000 - Rs 10,000</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Teachers</td><td class="py-3 px-4">Central government recruited</td><td class="py-3 px-4">Varies widely</td></tr></tbody></table></div>
+<p>For families in UP, Bihar, and Uttarakhand, JNV is the best free education option available.</p>
+
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for JNVST entrance exam. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
@@ -5044,6 +5056,21 @@ export const articles: Article[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Old Pattern</th><th class="py-3 px-4 border-b font-bold text-white text-left">New Pattern 2027</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">50 questions</td><td class="py-3 px-4 border-b font-bold text-green-700">40 questions</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">25 questions</td><td class="py-3 px-4 border-b font-bold text-green-700">20 questions</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b">25 questions</td><td class="py-3 px-4 border-b font-bold text-green-700">20 questions</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Total Questions</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b font-bold text-green-700">80</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Total Time</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b font-bold">2 hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4">No</td><td class="py-3 px-4 font-bold text-green-700">No</td></tr></tbody></table></div>
 
 <p>The good news? No negative marking. Your child can attempt every question without fear.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Month-by-Month Preparation Timeline</h2>
+<p>If the exam is in January 2027, here is a clear month-by-month plan:</p>
+<p><strong>October 2026 — Foundation:</strong> Focus on understanding the new pattern. Buy 2027 edition books. Start with 2 hours daily. Spend 1 hour on MAT basics, 30 minutes on Arithmetic, 30 minutes on reading practice.</p>
+<p><strong>November 2026 — Practice:</strong> Increase to 3 hours daily. Solve topic-wise questions. Focus on weak areas. Take one mock test every Sunday.</p>
+<p><strong>December 2026 — Mock Tests:</strong> Take 2 full mock tests per week. Solve previous year papers. Time every session. Review every mistake.</p>
+<p><strong>January 2027 — Revision:</strong> Do not start new topics. Revise formulas, shortcuts, and weak areas. Rest well the night before.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What If Already Preparing with Old Pattern?</h2>
+<p>Many parents bought 2026 edition books months ago. Do not throw them away. The core topics are the same. Only the number of questions changed.</p>
+<ul class="list-disc pl-6 space-y-2 text-gray-700">
+<li>Old books have 100-question sets. Use them but attempt only 80 questions in 2 hours.</li>
+<li>Old books may not cover new MAT topics like Direction Sense or Paper Folding. Buy one 2027 MAT-specific book.</li>
+<li>Arithmetic and Language sections are almost identical. Old books work fine.</li>
+</ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Section-Wise JNVST 2027 Syllabus</h2>
 <h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mental Ability Test (MAT) — 40 Questions</h3>
@@ -5219,6 +5246,13 @@ export const articles: Article[] = [
 <p><strong>Mistake 4: No Mock Test Practice</strong><br>Your child may know the answers. But can they solve 80 questions in 2 hours under pressure? Start mock tests 8 weeks before the exam.</p>
 
 <p><strong>Mistake 5: Too Much Pressure on Child</strong><br>Some parents make children study 6-8 hours daily. This backfires. 3-4 hours of focused study beats 8 hours of forced study every time.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What If My Child Falls Behind Schedule?</h2>
+<p>Life happens. Your child gets sick. There is a family function. School exams come up. Do not panic. Here is how to recover:</p>
+<p><strong>If behind by 1 week:</strong> Skip the revision part. Focus only on new topics. Add 30 minutes to daily study time.</p>
+<p><strong>If behind by 2 weeks:</strong> Combine Month 1 and Month 2. Focus only on high-weightage topics. In MAT, prioritize Series, Analogy, and Pattern Completion.</p>
+<p><strong>If behind by 1 month or more:</strong> Focus on MAT only. It carries 50% marks. A strong MAT score alone can get your child selected.</p>
+<p>The worst thing you can do is give up. Even 30 days of focused study can make a difference.</p>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Expert Guidance?</h3><p>Jai Govind Public School in Joya, Amroha offers dedicated JNVST coaching with experienced teachers. Our students have cracked JNVST every year. Visit <strong>jgps.in</strong> or call <strong>+91 9412137554</strong> for a free counseling session.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
