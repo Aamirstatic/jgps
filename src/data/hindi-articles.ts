@@ -16195,99 +16195,261 @@ export const hindiArticles: HindiArticle[] = [
     ]
   },
   {
-    slug: "navodaya-admission-2027-last-date-hindi",
-    title: "Navodaya Admission 2027 Last Date: 31 जुलाई — अभी अप्लाई करें",
-    description: "Navodaya admission 2027 last date 7 August 2026 है। JNVST Class 6 के लिए पात्रता, आयु सीमा और आवेदन प्रक्रिया जानें। 661 JNVs में फ्री शिक्षा।",
-    keywords: "Navodaya admission 2027 last date Hindi, JNVST 2027 last date, नवोदय एडमिशन 2027, Navodaya Vidyalaya admission Hindi, JNV Class 6 admission 2027 Hindi",
+    slug: "navodaya-admission-2027-last-date-7-august-2026",
+    title: "Navodaya Admission 2027 Last Date: 7 August 2026 — अभी अप्लाई करें | NVS Form Update",
+    description: "Navodaya Admission 2027 Last Date 7 August 2026 है। JNVST Class 6 आवेदन फॉर्म, पात्रता, आयु सीमा, दस्तावेज़ और cbseitms.rcil.gov.in पर ऑनलाइन आवेदन की पूरी जानकारी।",
+    keywords: "Navodaya Admission 2027 Last Date 7 August 2026, JNVST Class 6 application form last date 7 August, Navodaya registration extended date official notice, How to apply for Navodaya Class 6 admission online, cbseitms.rcil.gov.in portal login, navodaya.gov.in official website, Headmaster study certificate format PDF, Rural quota eligibility rules, Age limit criteria for JNVST 2027",
     date: "1 अगस्त 2026, दोपहर 2 बजकर 15 मिनट",
-    readTime: "11 मिनट",
-    author: "JGPS Content Team",
-    authorName: "JGPS Content Team",
-    authorSlug: "jgps-content-team",
-    authorRole: "शिक्षा सामग्री विशेषज्ञ",
-    authorBio: "JGPS Content Team जय गोविंद पब्लिक स्कूल की शिक्षा सामग्री टीम है जो नवोदय, सैनिक स्कूल और अन्य प्रवेश परीक्षाओं पर गाइड बनाती है।",
-    category: "Admissions & Test Prep",
-    image: "https://img.jgps.in/blog/navodaya-admission-2027-last-date-hindi.webp",
-    imageAlt: "Navodaya Admission 2027 Last Date — 31 जुलाई, अभी अप्लाई करें",
-    content: `<p>आप रात के खाने के बाद किचन टेबल पर बैठे हैं। आपका बच्चा कक्षा 5 में पढ़ रहा है। पड़ोसी ने अभी नवोदय विद्यालय के बारे में बताया। मुफ़्त शिक्षा। बोर्डिंग। अंग्रेज़ी माध्यम। कोई फ़ीस नहीं। आप आवेदन करना चाहते हैं। लेकिन समय कम है।</p>
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "22 मिनट",
+    author: "Rifaul Hasan",
+    authorName: "Rifaul Hasan",
+    authorSlug: "rifaul-hasan",
+    authorRole: "वरिष्ठ शिक्षा सामग्री संपादक और शिक्षा पत्रकार",
+    authorBio: "Rifaul Hasan जी जय गोविंद पब्लिक स्कूल, जोया (अमरोहा) के प्रधानाचार्य हैं। पिछले 15 वर्षों से वे नवोदय विद्यालय प्रवेश परीक्षा (JNVST) के क्षेत्र में अभिभावकों और छात्रों को मार्गदर्शन दे रहे हैं।",
+    category: "प्रवेश और परीक्षा तैयारी",
+    image: "https://img.jgps.in/blog/navodaya-admission-2027-last-date-7-august-2026.webp",
+    imageAlt: "Navodaya Admission 2027 Last Date 7 August 2026 — JNVST Class 6 आवेदन फॉर्म अभी भरें",
+    content: `<p><strong>Navodaya Admission 2027 Last Date 7 August 2026</strong> — यह वह तारीख है जो हर उस अभिभावक को याद रखनी चाहिए जिसका बच्चा कक्षा 5 में पढ़ रहा है। नवोदय विद्यालय समिति (NVS) ने JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए ऑनलाइन आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> तक बढ़ा दी है। यह आपके बच्चे के लिए भारत के सबसे बेहतरीन सरकारी आवासीय स्कूलों में मुफ़्त शिक्षा पाने का सुनहरा अवसर है।</p>
 
-<p>नवोदय प्रवेश 2027 की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। यह सिर्फ कुछ दिन दूर है। हर साल 30 लाख से ज़्यादा बच्चे JNVST के लिए आवेदन करते हैं। सिर्फ 80,000 चुने जाते हैं। आपके बच्चे का असली मौका है। लेकिन सिर्फ तब जब आप अभी कार्रवाई करें।</p>
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+  <h3 class="font-bold text-red-700 mb-2">तत्काल अलर्ट — अंतिम तिथि स्नैपशॉट</h3>
+  <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
+    <li><strong>अंतिम तिथि:</strong> 7 अगस्त 2026 (बढ़ाई गई)</li>
+    <li><strong>आधिकारिक पोर्टल:</strong> cbseitms.rcil.gov.in/nvs/Index</li>
+    <li><strong>आधिकारिक वेबसाइट:</strong> navodaya.gov.in</li>
+    <li><strong>NVS हेल्पलाइन:</strong> 0120-2405969</li>
+    <li><strong>परीक्षा तिथि:</strong> 28 नवंबर 2026 (पुष्टि)</li>
+    <li><strong>कुल JNVs:</strong> 661 (पूरे भारत में)</li>
+    <li><strong>हर JNV में सीटें:</strong> अधिकतम 80</li>
+  </ul>
+</div>
 
-<h2>नवोदय विद्यालय क्या है?</h2>
+<h2>NVS ने तिथि क्यों बढ़ाई? — अभिभावकों के लिए संदेश</h2>
 
-<p>जवाहर नवोदय विद्यालय (JNV) भारत सरकार के स्कूलों की एक प्रणाली है। नवोदय विद्यालय समिति (NVS) पूरे देश में 661 स्कूल चलाता है। ये आवासीय स्कूल हैं। यानी आपका बच्चा स्कूल में रहता है। खाना, किताबें, यूनिफ़ॉर्म, हॉस्टल — सब कुछ मुफ़्त है।</p>
+<p>नवोदय विद्यालय समिति (NVS) हर साल आवेदन की अंतिम तिथि में 7-10 दिनों का विस्तार देता है। इसके दो मुख्य कारण हैं:</p>
 
-<p>मकसद सरल है। गाँव और छोटे शहर के प्रतिभाशाली बच्चों को वही गुणवत्तापूर्ण शिक्षा दो जो बड़े शहर के बच्चों को मिलती है। अंग्रेज़ी माध्यम। CBSE बोर्ड। आधुनिक सुविधाएं। और एक भी पैसा नहीं लगना।</p>
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>सर्वर समस्याएं:</strong> अंतिम दिनों में cbseitms.rcil.gov.in पर भारी ट्रैफिक आता है। 504 Gateway Timeout, OTP न आना, फॉर्म सबमिट न होना — ये सामान्य समस्याएं हैं। NVS इन समस्याओं को देखते हुए तिथि बढ़ाता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>ग्रामीण क्षेत्रों तक पहुंच:</strong> बहुत से ग्रामीण अभिभावकों को समय पर जानकारी नहीं मिल पाती। तिथि बढ़ाने से उन्हें भी मौका मिलता है।</p>
+  </div>
+</div>
 
-<h2>नवोदय क्यों है अभिभावकों का सपना</h2>
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>चेतावनी:</strong> 7 अगस्त 2026 के बाद पोर्टल बंद हो जाएगा। कोई भी विलंब आवेदन स्वीकार नहीं किया जाएगा। अंतिम दिन सर्वर क्रैश होने का खतरा रहता है — आज ही फॉर्म भर दें।</p>
+</div>
 
-<p>UP, Bihar और Uttarakhand के अभिभावकों के लिए JNV एक सपना है। आपके बच्चे को लाखों की बोर्डिंग स्कूल शिक्षा मुफ़्त में मिलती है। स्कूलों में अच्छे शिक्षक, विज्ञान प्रयोगशालाएं, कंप्यूटर कक्षाएं, और खेल के मैदान हैं। बहुत से JNV छात्र बाद में IIT, NEET और बड़ी परीक्षाएं पास करते हैं।</p>
+<h2>JNVST कक्षा 6 प्रवेश 2027-28 — महत्वपूर्ण तारीखें और समय-सारणी</h2>
 
-<h2>ज़रूरी तारीखें</h2>
+<p>JNVST 2027 की पूरी समय-सारणी नीचे दी गई है। इन तारीखों को कहीं लिखकर रख लें:</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन फॉर्म आया</td><td class="py-3 px-4 border-b">6 जुलाई 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b">7 अगस्त 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b">दिसंबर 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि (अनुमानित)</td><td class="py-3 px-4 border-b">जनवरी 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">परिणाम</td><td class="py-3 px-4">मार्च-अप्रैल 2027</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कार्रवाई</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">अधिसूचना और आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">6 जुलाई 2026</td><td class="py-3 px-4 border-b">ऑनलाइन फॉर्म भरना शुरू करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold text-red-600">7 अगस्त 2026</td><td class="py-3 px-4 border-b">फॉर्म भरने की अंतिम तारीख</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार विंडो</td><td class="py-3 px-4 border-b font-bold">अगस्त 2026 (अपेक्षित)</td><td class="py-3 px-4 border-b">गलतियाँ सुधारने का मौका</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b font-bold">अक्टूबर 2026</td><td class="py-3 px-4 border-b">डाउनलोड करें + 2 प्रिंटआउट</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold text-green-700">28 नवंबर 2026</td><td class="py-3 px-4 border-b">परीक्षा केंद्र पर उपस्थित हों</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">उत्तर कुंजी</td><td class="py-3 px-4 border-b">दिसंबर 2026</td><td class="py-3 px-4 border-b">उत्तर मिलाएं</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">परिणाम</td><td class="py-3 px-4 font-bold">मार्च-अप्रैल 2027</td><td class="py-3 px-4">परिणाम जांचें</td></tr>
+    </tbody>
+  </table>
+</div>
 
-<p>हमेशा आधिकारिक वेबसाइट पर अंतिम तारीखें जांचें: <strong>navodaya.gov.in</strong></p>
+<h2>पात्रता मानदंड — Navodaya Admission 2027 के लिए कौन पात्र है?</h2>
 
-<h2>कौन आवेदन कर सकता है?</h2>
+<p>NVS ने JNVST 2027 के लिए स्पष्ट पात्रता मानदंड निर्धारित किए हैं। अगर आपका बच्चा इनमें से एक भी शर्त पूरी नहीं करता, तो आवेदन अस्वीकार हो जाएगा:</p>
 
-<ul>
-<li>कक्षा 5 में पढ़ रहा हो मान्यता प्राप्त स्कूल में</li>
-<li>आयु 10-12 वर्ष (31 मार्च 2027 को)</li>
-<li>वही जिले का स्कूल हो जहाँ JNV है</li>
-<li>भारतीय नागरिक</li>
-<li>सिर्फ एक बार आवेदन कर सकता है (दोबारा नहीं)</li>
-</ul>
+<h3>आयु सीमा (Age Limit)</h3>
+<p>बच्चे का जन्म <strong>1 मई 2015 से 31 जुलाई 2017</strong> के बीच होना चाहिए (दोनों तिथियाँ सम्मिलित)। SC और ST छात्रों के लिए ऊपरी आयु सीमा में 3 महीने की छूट है — उनकी जन्म तिथि 31 अक्टूबर 2017 तक हो सकती है।</p>
 
-<h2>ग्रामीण कोटा — 75% सीटें गाँव के बच्चों के लिए</h2>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">पात्रता मानदंड</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">वर्तमान कक्षा</td><td class="py-3 px-4 border-b">2026-27 सत्र में कक्षा 5 में अध्ययनरत</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म तिथि (General/OBC)</td><td class="py-3 px-4 border-b">1 मई 2015 – 31 जुलाई 2017</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म तिथि (SC/ST)</td><td class="py-3 px-4 border-b">1 मई 2015 – 31 अक्टूबर 2017</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">स्कूल का प्रकार</td><td class="py-3 px-4 border-b">सरकारी या मान्यता प्राप्त स्कूल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">जिला नियम</td><td class="py-3 px-4 border-b">बच्चा जिस जिले में पढ़ रहा है, उसी जिले के JNV में आवेदन</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दोहरा प्रयास</td><td class="py-3 px-4 border-b">अनुमति नहीं — सिर्फ एक बार आवेदन</td></tr>
+    </tbody>
+  </table>
+</div>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th><th class="py-3 px-4 border-b font-bold text-white text-left">ग्रामीण छात्र</th><th class="py-3 px-4 border-b font-bold text-white text-left">शहरी छात्र</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आरक्षित सीटें</td><td class="py-3 px-4 border-b">75% (80 में से 60)</td><td class="py-3 px-4 border-b">25% (80 में से 20)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवश्यक स्कूल</td><td class="py-3 px-4 border-b">गाँव/ग्राम पंचायत स्कूल</td><td class="py-3 px-4 border-b">कोई भी मान्यता प्राप्त स्कूल</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">प्रतिस्पर्धा स्तर</td><td class="py-3 px-4">कम</td><td class="py-3 px-4">ज़्यादा</td></tr></tbody></table></div>
+<h3>ग्रामीण कोटा बनाम शहरी कोटा — विस्तृत विश्लेषण</h3>
 
-<h2>कैसे आवेदन करें — कदम-दर-कदम</h2>
+<p>JNVST में 75% सीटें ग्रामीण क्षेत्र के बच्चों के लिए आरक्षित हैं। ग्रामीण कोटे के लिए बच्चे ने कक्षा 3, 4 और 5 ग्रामीण क्षेत्र के स्कूल में पढ़ी हो और उत्तीर्ण की हो।</p>
 
-<ul>
-<li><strong>कदम 1:</strong> आधिकारिक वेबसाइट पर जाएं: navodaya.gov.in</li>
-<li><strong>Step 2:</strong> Register karo — bachcha ka naam, date of birth, school details</li>
-<li><strong>Step 3:</strong> Documents upload karo — photo, signature, marksheet</li>
-<li><strong>Step 4:</strong> JNV select karo — apne district ke 2 JNV choose karo</li>
-<li><strong>Step 5:</strong> Fee pay karo — SC/ST/BPL ke liye free</li>
-<li><strong>Step 6:</strong> Submit karo aur confirmation page print karo</li>
-</ul>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">ग्रामीण छात्र</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">शहरी छात्र</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">आरक्षित सीटें</td><td class="py-3 px-4 border-b font-bold">75% (80 में से 60)</td><td class="py-3 px-4 border-b">25% (80 में से 20)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवश्यक स्कूल</td><td class="py-3 px-4 border-b">गाँव/ग्राम पंचायत क्षेत्र का स्कूल</td><td class="py-3 px-4 border-b">कोई भी मान्यता प्राप्त स्कूल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रतिस्पर्धा स्तर</td><td class="py-3 px-4 border-b text-green-700 font-bold">कम</td><td class="py-3 px-4 border-b text-red-600 font-bold">ज़्यादा</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">चयन की संभावना</td><td class="py-3 px-4 text-green-700 font-bold">अधिक</td><td class="py-3 px-4">कम</td></tr>
+    </tbody>
+  </table>
+</div>
 
-<h3>Zaruri Documents</h3>
-<ul>
-<li>Passport-size photo (recent)</li>
-<li>Bachche ka signature</li>
-<li>Class 5 marksheet</li>
-<li>Date of birth certificate</li>
-<li>Residence certificate (rural quota ke liye)</li>
-<li>Caste certificate (agar applicable hai)</li>
-</ul>
+<h2>cbseitms.rcil.gov.in पर ऑनलाइन आवेदन प्रक्रिया — कदम-दर-कदम गाइड</h2>
 
-<h2>JNV vs Private School: Quick Comparison</h2>
+<p>JNVST 2027 का आवेदन पूरी तरह ऑनलाइन है। यह प्रक्रिया cbseitms.rcil.gov.in पोर्टल पर पूरी होती है। नीचे दिए गए 7 कदमों का पालन करें:</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Navodaya Vidyalaya</th><th class="py-3 px-4 border-b font-bold text-white text-left">Private School</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Annual Fee</td><td class="py-3 px-4 border-b">Free (Rs 600/month mess for boys)</td><td class="py-3 px-4 border-b">Rs 50,000 - Rs 2,00,000</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Board</td><td class="py-3 px-4 border-b">CBSE</td><td class="py-3 px-4 border-b">CBSE/ICSE/State</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Hostel</td><td class="py-3 px-4 border-b">Free boarding</td><td class="py-3 px-4 border-b">Rs 1,00,000+ extra</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Food</td><td class="py-3 px-4 border-b">Free meals</td><td class="py-3 px-4 border-b">Extra or not available</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Books & Uniform</td><td class="py-3 px-4 border-b">Free</td><td class="py-3 px-4 border-b">Rs 5,000 - Rs 10,000 extra</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Teachers</td><td class="py-3 px-4">Central government recruited</td><td class="py-3 px-4">Varies widely</td></tr></tbody></table></div>
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">कदम 1:</span>
+    <p class="text-sm text-gray-700"><strong>पोर्टल पर जाएं:</strong> cbseitms.rcil.gov.in/nvs/Index पर जाएं। navodaya.gov.in से भी लिंक मिल जाएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">कदम 2:</span>
+    <p class="text-sm text-gray-700"><strong>रजिस्ट्रेशन करें:</strong> "Fresh Registration" पर क्लिक करें। बच्चे का नाम, जन्म तिथि, राज्य, जिला भरें। एक पासवर्ड बनाएं। रजिस्ट्रेशन नंबर नोट करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">कदम 3:</span>
+    <p class="text-sm text-gray-700"><strong>लॉगिन करें:</strong> रजिस्ट्रेशन नंबर और पासवर्ड से लॉगिन करें। आवेदन फॉर्म खुल जाएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">कदम 4:</span>
+    <p class="text-sm text-gray-700"><strong>व्यक्तिगत जानकारी भरें:</strong> बच्चे का पूरा नाम, पिता का नाम, माता का नाम, पता, मोबाइल नंबर, ईमेल। सब कुछ आधार कार्ड से मिलाएं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">कदम 5:</span>
+    <p class="text-sm text-gray-700"><strong>दस्तावेज़ अपलोड करें:</strong> फ़ोटो (10-100 KB), हस्ताक्षर (10-50 KB), जन्म प्रमाण पत्र, मार्कशीट। सभी फ़ाइलें JPEG/PNG प्रारूप में होनी चाहिए।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">कदम 6:</span>
+    <p class="text-sm text-gray-700"><strong>JNV चुनें:</strong> अपने जिले के 2 JNV चुनें। पहली प्राथमिकता और दूसरी प्राथमिकता दें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">कदम 7:</span>
+    <p class="text-sm text-gray-700"><strong>सबमिट करें और PDF डाउनलोड करें:</strong> सभी जानकारी जांचें। "Submit" पर क्लिक करें। confirmation page की PDF डाउनलोड करें। 2 प्रिंटआउट निकालें।</p>
+  </div>
+</div>
 
-<h2>5 Galtiyan Jo Parents Karte Hain</h2>
+<h2>अनिवार्य दस्तावेज़ चेकलिस्ट और फ़ाइल आकार विनिर्देश</h2>
 
-<ul>
-<li><strong>Last day pe form bharna</strong> — Website crash hoti hai. 20 July tak bhar do.</li>
-<li><strong>Galat date of birth</strong> — Birth certificate se match hona chahiye.</li>
-<li><strong>District check na karna</strong> — Bachcha wahi district me padhna chahiye.</li>
-<li><strong>Rural quota miss karna</strong> — Gaon ke school me padhta hai toh rural quota se apply karo.</li>
-<li><strong>Form ke baad tayyari na karna</strong> — Form toh pehla step hai. Asli kaam baad me shuru hota hai.</li>
-</ul>
+<p>आवेदन के लिए ये दस्तावेज़ तैयार रखें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">दस्तावेज़</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जारीकर्ता प्राधिकारी</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">आकार</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रारूप</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पासपोर्ट फ़ोटो</td><td class="py-3 px-4 border-b">—</td><td class="py-3 px-4 border-b">10-100 KB</td><td class="py-3 px-4 border-b">JPEG/PNG</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हस्ताक्षर</td><td class="py-3 px-4 border-b">—</td><td class="py-3 px-4 border-b">10-50 KB</td><td class="py-3 px-4 border-b">JPEG/PNG</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म प्रमाण पत्र</td><td class="py-3 px-4 border-b">नगर निगम/ग्राम पंचायत</td><td class="py-3 px-4 border-b">50-200 KB</td><td class="py-3 px-4 border-b">JPEG/PNG/PDF</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कक्षा 5 मार्कशीट</td><td class="py-3 px-4 border-b">स्कूल</td><td class="py-3 px-4 border-b">50-200 KB</td><td class="py-3 px-4 border-b">JPEG/PNG/PDF</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">जाति प्रमाण पत्र</td><td class="py-3 px-4 border-b">तहसील/SDM</td><td class="py-3 px-4 border-b">50-200 KB</td><td class="py-3 px-4 border-b">JPEG/PNG/PDF</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">निवास प्रमाण पत्र</td><td class="py-3 px-4">तहसील/SDM</td><td class="py-3 px-4">50-200 KB</td><td class="py-3 px-4">JPEG/PNG/PDF</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>प्रधानाध्यापक अध्ययन प्रमाण पत्र — फॉर्म अस्वीकृति से बचें</h2>
+
+<p>JNVST आवेदन में सबसे महत्वपूर्ण दस्तावेज़ <strong>प्रधानाध्यापक अध्ययन प्रमाण पत्र</strong> (Headmaster Study Certificate) है। इसमें गलती होने पर फॉर्म अस्वीकार हो जाता है।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg my-4">
+  <p class="text-red-800 text-sm"><strong>महत्वपूर्ण:</strong> प्रमाण पत्र पर प्रधानाध्यापक के हस्ताक्षर, स्कूल की मुहर, और ग्रामीण/शहरी स्थिति का स्पष्ट उल्लेख होना चाहिए। अगर बच्चा ग्रामीण कोटे से आवेदन कर रहा है, तो प्रमाण पत्र पर "ग्रामीण क्षेत्र का स्कूल" स्पष्ट लिखा होना चाहिए।</p>
+</div>
+
+<h2>सर्वर डाउन या पोर्टल त्रुटि समाधान</h2>
+
+<p>अंतिम दिनों में cbseitms.rcil.gov.in पर भारी ट्रैफिक आता है। ये समस्याएं आ सकती हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समस्या</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समाधान</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">504 Gateway Timeout</td><td class="py-3 px-4 border-b">सुबह 6-7 बजे या रात 10 बजे बाद try करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">OTP नहीं आ रहा</td><td class="py-3 px-4 border-b">5 मिनट प्रतीक्षा करें, फिर "Resend" करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">फ़ाइल अपलोड नहीं हो रही</td><td class="py-3 px-4 border-b">iloveimg.com पर compress करें (50 KB से कम)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">फॉर्म सबमिट नहीं हो रहा</td><td class="py-3 px-4">Incognito/Private mode में try करें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>एक्सपर्ट टिप:</strong> फ़ोटो को iloveimg.com पर 50 KB से कम compress करें। हस्ताक्षर को 30 KB से कम रखें। यह सबसे आम कारण है फॉर्म अस्वीकृति का।</p>
+</div>
+
+<h2>7 अगस्त को फॉर्म अस्वीकृति के शीर्ष 5 कारण</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>गलत जन्म तिथि:</strong> जन्म प्रमाण पत्र से मेल नहीं खा रही। हमेशा birth certificate से check करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>प्रधानाध्यापक प्रमाण पत्र में गलती:</strong> हस्ताक्षर, मुहर, या ग्रामीण/शहरी स्थिति का उल्लेख नहीं है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>फ़ाइल आकार बड़ा:</strong> फ़ोटो 100 KB से बड़ी है। compress करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>गलत जिला:</strong> बच्चा जिस जिले में पढ़ रहा है, उसी जिले के JNV में आवेदन करना है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>अंतिम दिन सर्वर क्रैश:</strong> 7 अगस्त को सर्वर बहुत धीमा हो जाता है। आज ही फॉर्म भरें।</p>
+  </div>
+</div>
+
+<h2>निष्कर्ष — अभी कार्रवाई करें</h2>
+
+<p><strong>Navodaya Admission 2027 Last Date 7 August 2026</strong> निकट आ रही है। हर साल 30 लाख से ज़्यादा बच्चे JNVST के लिए आवेदन करते हैं, लेकिन सिर्फ 80,000 का चयन होता है। आपके बच्चे को भारत के सबसे बेहतरीन सरकारी स्कूल में मुफ़्त शिक्षा मिल सकती है — लेकिन सिर्फ तब जब आप अभी फॉर्म भरें। आज ही cbseitms.rcil.gov.in पर जाएं और आवेदन पूरा करें।</p>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Madad Chahiye?</h3>
-<p>JGPS School JNVST coaching deta hai. Call karo <strong>+91 9997161490</strong>. Aapke bachche ki future ke liye yeh effort zaroori hai.</p>
-</div>`,
+  <h3 class="font-bold text-gray-900 mb-2">JGPS में JNVST की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में JNVST की तैयारी कराई जाती है। हमारे यहाँ हर हफ़्ते mock test, previous year papers, और experienced teachers से guidance मिलती है। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+`,
     faqs: [
-      { question: "Navodaya admission 2027 ki last date kya hai?", answer: "JNVST 2027 Class 6 ke liye apply karne ki last date 7 August 2026 hai. Application form 6 July 2026 ko aaya tha. navodaya.gov.in par deadline se pehle apply karein." },
-      { question: "Kya Navodaya Vidyalaya sach me free hai?", answer: "Haan, bilkul free. Sarkar sab kuch pay karti hai — education, hostel, khana, kitabein, uniforms aur medical care. General/OBC boys ko sirf ₹600 monthly mess charge dena hota hai. Girls, SC aur ST students ko kuch nahi dena." },
-      { question: "Kya rural students JNVST 2027 ke liye apply kar sakte hain?", answer: "Haan. 75% seats rural students ke liye reserved hain. Agar aapka bachcha gaon ya gram panchayat area ke school me padhta hai, toh selection ke chances zyada hain." },
-      { question: "JNVST Class 6 ke liye age limit kya hai?", answer: "Aapke bachche ki umr March 31, 2027 ko 10 se 12 saal ke beech honi chahiye. SC aur ST students ke liye 2 saal ki relaxation hai (14 saal tak)." },
-      { question: "Navodaya Vidyalaya me kitni seats hain?", answer: "Har JNV me Class 6 ke liye 80 seats hain. Poore India me 661 JNVs hain. Yani Class 6 admission 2027-28 ke liye total lagbhag 52,880 seats hain." }
+      { question: "Navodaya Admission 2027 की अंतिम तिथि क्या है?", answer: "JNVST 2027 Class 6 के लिए आवेदन की अंतिम तिथि 7 अगस्त 2026 है। आवेदन फॉर्म 6 जुलाई 2026 को जारी हुआ था। navodaya.gov.in पर अंतिम तिथि से पहले आवेदन करें।" },
+      { question: "क्या नवोदय विद्यालय सच में मुफ़्त है?", answer: "हाँ, बिल्कुल मुफ़्त। सरकार सब कुछ वहन करती है — शिक्षा, हॉस्टल, खाना, किताबें, यूनिफ़ॉर्म और चिकित्सा सुविधा। General/OBC लड़कों को सिर्फ ₹600 मासिक मेस चार्ज देना होता है। लड़कियों, SC और ST छात्रों को कुछ नहीं देना।" },
+      { question: "क्या ग्रामीण छात्र JNVST 2027 के लिए आवेदन कर सकते हैं?", answer: "हाँ। 75% सीटें ग्रामीण छात्रों के लिए आरक्षित हैं। अगर आपका बच्चा गाँव या ग्राम पंचायत क्षेत्र के स्कूल में पढ़ता है, तो चयन की संभावना ज़्यादा है।" },
+      { question: "JNVST Class 6 के लिए आयु सीमा क्या है?", answer: "आपके बच्चे की उम्र 31 मार्च 2027 को 10 से 12 साल के बीच होनी चाहिए। SC और ST छात्रों के लिए 2 साल की छूट है (14 साल तक)।" },
+      { question: "नवोदय विद्यालय में कितनी सीटें हैं?", answer: "हर JNV में Class 6 के लिए 80 सीटें हैं। पूरे भारत में 661 JNVs हैं। यानी Class 6 प्रवेश 2027-28 के लिए कुल लगभग 52,880 सीटें हैं।" }
     ]
   }
 ];
