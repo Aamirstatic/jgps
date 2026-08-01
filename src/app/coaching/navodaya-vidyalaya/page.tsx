@@ -148,8 +148,8 @@ export default function NavodayaHubPage() {
                 <div className="text-xs text-white/70">आवेदन शुरू</div>
               </div>
               <div>
-                <div className="text-red-400 font-bold text-lg">31 जुलाई</div>
-                <div className="text-xs text-white/70">अंतिम तिथि</div>
+                <div className="text-red-400 font-bold text-lg">7 अगस्त</div>
+                <div className="text-xs text-white/70">अंतिम तिथि (बढ़ी हुई)</div>
               </div>
               <div>
                 <div className="text-blue-300 font-bold text-lg">28 नवंबर</div>
