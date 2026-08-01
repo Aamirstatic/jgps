@@ -3278,84 +3278,84 @@ export const hindiArticles: HindiArticle[] = [
   },
   {
     slug: "cbse-class-10-do-board-exam-2026",
-    title: "CBSE Class 10 Board Exam Ab Do Baar Hoga: 2026 Se Naya Rule — Puri Jankari",
-    description: "CBSE ne 2026 se Class 10 ke liye do board exams ka rule lagu kiya hai. Jaaniye pehla aur dusra exam kab hoga, kaun de sakta hai, aur best of two kaise kaam karega.",
-    keywords: "CBSE do board exam Class 10, CBSE dual board exam 2026, CBSE Class 10 do exam NEP 2020, CBSE board exam saal mein do baar, CBSE dusra board exam Class 10",
+    title: "CBSE कक्षा 10 बोर्ड परीक्षा अब दो बार होगी: 2026 से नया नियम — पूरी जानकारी",
+    description: "CBSE ने 2026 से कक्षा 10 के लिए दो बोर्ड परीक्षाओं का नियम लागू किया है। जानें पहली और दूसरी परीक्षा कब होगी, कौन दे सकता है, और बेस्ट ऑफ टू कैसे काम करेगा।",
+    keywords: "CBSE दो बोर्ड परीक्षा कक्षा 10, CBSE डुअल बोर्ड परीक्षा 2026, CBSE कक्षा 10 दो परीक्षा NEP 2020, CBSE बोर्ड परीक्षा साल में दो बार, CBSE दूसरी बोर्ड परीक्षा कक्षा 10",
     date: "1 अगस्त 2026, सुबह 8 बजकर 10 मिनट",
     modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "JGPS Content Team",
     authorName: "JGPS Content Team",
     authorSlug: "jgps-content-team",
-    authorRole: "Education Content Writer",
-    authorBio: "Jai Govind Public School ki expert education content team, school admissions aur exam preparation guides mein visheshagya.",
+    authorRole: "शिक्षा सामग्री लेखक",
+    authorBio: "जय गोविंद पब्लिक स्कूल की विशेषज्ञ शिक्षा सामग्री टीम, स्कूल प्रवेश और परीक्षा तैयारी गाइड में विशेषज्ञ।",
     readTime: "20 मिनट",
-    category: "Academic Planning",
+    category: "शैक्षणिक योजना",
     image: "https://img.jgps.in/blog/cbse-class-10-do-board-exam-2026.webp",
-    imageAlt: "CBSE Class 10 board exam ki tayyari karte student",
-    content: `<p>Aapne suna hoga. CBSE Class 10 board exam ab saal mein do baar hoga. Aapka bachcha abhi Class 9 ya 10 mein hai. Aap confused hain. Kya iska matlab hai zyada pressure? Ya ye actually achhi baat hai?</p>
+    imageAlt: "CBSE कक्षा 10 बोर्ड परीक्षा की तैयारी करते छात्र",
+    content: `<p>आपने सुना होगा। CBSE कक्षा 10 बोर्ड परीक्षा अब साल में दो बार होगी। आपका बच्चा अभी कक्षा 9 या 10 में है। आप भ्रमित हैं। क्या इसका मतलब है ज़्यादा दबाव? या यह वास्तव में अच्छी बात है?</p>
 
-<p>Sach ye hai. CBSE ne ye badlaav 25 June 2025 ko announce kiya tha. 2025-26 session se har Class 10 student ko board exam dene ke do mauke milenge. Pehla exam zaroori hai. Doosra exam optional hai. Agar aapka bachcha doosre attempt mein zyada number laata hai, to wahi score count hoga. India mein <strong>2 crore se zyada students</strong> CBSE schools mein padhte hain. Ye rule un sab par laagu hota hai.</p>
+<p>सच यह है। CBSE ने यह बदलाव 25 जून 2025 को घोषित किया था। 2025-26 सत्र से हर कक्षा 10 के छात्र को बोर्ड परीक्षा देने के दो मौके मिलेंगे। पहली परीक्षा अनिवार्य है। दूसरी परीक्षा वैकल्पिक है। अगर आपका बच्चा दूसरे प्रयास में ज़्यादा अंक लाता है, तो वही स्कोर गिना जाएगा। भारत में <strong>2 करोड़ से ज़्यादा छात्र</strong> CBSE स्कूलों में पढ़ते हैं। यह नियम उन सब पर लागू होता है।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">CBSE Class 10 Board Exam Mein Kya Badla?</h2>
-<p>2026 se pehle, aapke bachche ke paas ek hi mauka tha. Ek exam. Ek result. Agar bachcha exam ke din beemar tha ya kharab din tha, to koi doosra mauka nahi tha. Wahi ek exam sab kuch decide karta tha.</p>
+<h2>CBSE कक्षा 10 बोर्ड परीक्षा में क्या बदला?</h2>
+<p>2026 से पहले, आपके बच्चे के पास एक ही मौका था। एक परीक्षा। एक परिणाम। अगर बच्चा परीक्षा के दिन बीमार था या खराब दिन था, तो कोई दूसरा मौका नहीं था। वही एक परीक्षा सब कुछ तय करती थी।</p>
 
-<p>Ab CBSE ne ye badal diya hai. Rashtriya Shiksha Niti (NEP) 2020 ke aadhaar par, students ek saal mein do baar board exam de sakte hain. Maqsad simple hai: "ek exam tumhari poori zindagi decide kare" wala stress kam karna.</p>
+<p>अब CBSE ने यह बदल दिया है। राष्ट्रीय शिक्षा नीति (NEP) 2020 के आधार पर, छात्र एक साल में दो बार बोर्ड परीक्षा दे सकते हैं। मकसद सरल है: "एक परीक्षा तुम्हारी पूरी ज़िंदगी तय करे" वाला तनाव कम करना।</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Purana System</th><th class="py-3 px-4 border-b font-bold text-white text-left">Naya System (2026)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam ki sankhya</td><td class="py-3 px-4 border-b">Saal mein 1 exam</td><td class="py-3 px-4 border-b font-bold text-green-700">Saal mein 2 exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Pehla exam</td><td class="py-3 px-4 border-b">February-March</td><td class="py-3 px-4 border-b font-bold">February-March (zaroori)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Doosra exam</td><td class="py-3 px-4 border-b">Nahi tha</td><td class="py-3 px-4 border-b font-bold">May-June (optional)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Doosra exam kaun de sakta hai</td><td class="py-3 px-4 border-b">N/A</td><td class="py-3 px-4 border-b">Compartment + improvement students</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Best score count hoga</td><td class="py-3 px-4">Sirf ek attempt</td><td class="py-3 px-4 font-bold text-green-700">Dono mein se best</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th><th class="py-3 px-4 border-b font-bold text-white text-left">पुरानी व्यवस्था</th><th class="py-3 px-4 border-b font-bold text-white text-left">नई व्यवस्था (2026)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा की संख्या</td><td class="py-3 px-4 border-b">साल में 1 परीक्षा</td><td class="py-3 px-4 border-b font-bold text-green-700">साल में 2 परीक्षाएं</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">पहली परीक्षा</td><td class="py-3 px-4 border-b">फरवरी-मार्च</td><td class="py-3 px-4 border-b font-bold">फरवरी-मार्च (अनिवार्य)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरी परीक्षा</td><td class="py-3 px-4 border-b">नहीं थी</td><td class="py-3 px-4 border-b font-bold">मई-जून (वैकल्पिक)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरी परीक्षा कौन दे सकता है</td><td class="py-3 px-4 border-b">लागू नहीं</td><td class="py-3 px-4 border-b">कम्पार्टमेंट + सुधार छात्र</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">सर्वश्रेष्ठ स्कोर गिना जाएगा</td><td class="py-3 px-4">सिर्फ एक प्रयास</td><td class="py-3 px-4 font-bold text-green-700">दोनों में से सर्वश्रेष्ठ</td></tr></tbody></table></div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Pehla Exam vs Doosra Exam: Kya Fark Hai?</h2>
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Pehla Board Exam (February-March)</h3>
+<h2>पहली परीक्षा बनाम दूसरी परीक्षा: क्या फ़र्क है?</h2>
+<h3>पहली बोर्ड परीक्षा (फरवरी-मार्च)</h3>
 <ul class="list-disc pl-6 space-y-2 text-gray-700">
-<li>Ye <strong>zaroori</strong> hai har Class 10 student ke liye</li>
-<li>Sabhi students ko dena padega, chahe tayyari kaisi bhi ho</li>
-<li>Schools ko Pariksha Sangam portal par List of Candidates (LOC) submit karni hogi</li>
-<li>Poore saal ka syllabus ismein aayega</li>
+<li>यह <strong>अनिवार्य</strong> है हर कक्षा 10 के छात्र के लिए</li>
+<li>सभी छात्रों को देना होगा, चाहे तैयारी कैसी भी हो</li>
+<li>स्कूलों को परीक्षा संगम पोर्टल पर उम्मीदवारों की सूची (LOC) जमा करनी होगी</li>
+<li>पूरे साल का पाठ्यक्रम इसमें आएगा</li>
 </ul>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Doosra Board Exam (May-June)</h3>
+<h3>दूसरी बोर्ड परीक्षा (मई-जून)</h3>
 <ul class="list-disc pl-6 space-y-2 text-gray-700">
-<li>Ye <strong>optional</strong> hai — sabko dena zaroori nahi</li>
-<li>Jo students apna score <strong>sudharna</strong> chahte hain, wo dobara de sakte hain</li>
-<li>Jo students <strong>compartment</strong> mein aaye hain (1-2 subject mein fail), wo wo subjects dobara de sakte hain</li>
-<li>Schools ko doosre exam ke liye LOC <strong>8 July 2026</strong> tak submit karni hogi</li>
-<li>Dono attempts mein se <strong>zyada achha score</strong> final result mein count hoga</li>
+<li>यह <strong>वैकल्पिक</strong> है — सबको देना ज़रूरी नहीं</li>
+<li>जो छात्र अपना स्कोर <strong>सुधारना</strong> चाहते हैं, वे दोबारा दे सकते हैं</li>
+<li>जो छात्र <strong>कम्पार्टमेंट</strong> में आए हैं (1-2 विषय में फेल), वे वे विषय दोबारा दे सकते हैं</li>
+<li>स्कूलों को दूसरी परीक्षा के लिए LOC <strong>8 जुलाई 2026</strong> तक जमा करनी होगी</li>
+<li>दोनों प्रयासों में से <strong>ज़्यादा अच्छा स्कोर</strong> अंतिम परिणाम में गिना जाएगा</li>
 </ul>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Doosra Exam Kaun De?</h2>
-<p>Har student ko doosra exam dene ki zaroorat nahi hai. Ye simple tareeke se samjhein:</p>
+<h2>दूसरी परीक्षा कौन दे?</h2>
+<p>हर छात्र को दूसरी परीक्षा देने की ज़रूरत नहीं है। यह सरल तरीके से समझें:</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Situation</th><th class="py-3 px-4 border-b font-bold text-white text-left">Doosra Exam Dein?</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Pehle attempt mein achhe number aaye</td><td class="py-3 px-4 border-b text-green-700 font-bold">Zaroorat nahi. Class 11 ki tayyari karein.</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">1-2 subject mein compartment aayi</td><td class="py-3 px-4 border-b font-bold text-red-600">Haan. Pass hone ke liye dobara dena padega.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Number theek hain par aur achhe ho sakte hain</td><td class="py-3 px-4 border-b font-bold">Aapki marzi. Agar 2-3 mahine ki extra padhai se 10-15% sudhaar ho sakta hai, to de sakte hain.</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Pehle exam ke din beemar the</td><td class="py-3 px-4 border-b font-bold text-red-600">Haan. Doosra exam aapka doosra mauka hai.</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Stream selection ke liye zyada number chahiye</td><td class="py-3 px-4 font-bold">Haan. Zyada number = Class 11 mein behtar stream options.</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th><th class="py-3 px-4 border-b font-bold text-white text-left">दूसरी परीक्षा दें?</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">पहले प्रयास में अच्छे अंक आए</td><td class="py-3 px-4 border-b text-green-700 font-bold">ज़रूरत नहीं। कक्षा 11 की तैयारी करें।</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">1-2 विषय में कम्पार्टमेंट आई</td><td class="py-3 px-4 border-b font-bold text-red-600">हाँ। पास होने के लिए दोबारा देना होगा।</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">अंक ठीक हैं पर और अच्छे हो सकते हैं</td><td class="py-3 px-4 border-b font-bold">आपकी मर्ज़ी। अगर 2-3 महीने की अतिरिक्त पढ़ाई से 10-15% सुधार हो सकता है, तो दे सकते हैं।</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">पहली परीक्षा के दिन बीमार थे</td><td class="py-3 px-4 border-b font-bold text-red-600">हाँ। दूसरी परीक्षा आपका दूसरा मौका है।</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">स्ट्रीम चयन के लिए ज़्यादा अंक चाहिए</td><td class="py-3 px-4 font-bold">हाँ। ज़्यादा अंक = कक्षा 11 में बेहतर स्ट्रीम विकल्प।</td></tr></tbody></table></div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">"Best of Two" Kaise Kaam Karta Hai?</h2>
-<p>Ye sabse achhi baat hai. CBSE dono attempts mein se <strong>zyada number wala score</strong> lega. Ek example se samjhein:</p>
+<h2>"बेस्ट ऑफ टू" कैसे काम करता है?</h2>
+<p>यह सबसे अच्छी बात है। CBSE दोनों प्रयासों में से <strong>ज़्यादा अंक वाला स्कोर</strong> लेगा। एक उदाहरण से समझें:</p>
 
-<p>Aapke bachche ne pehle exam (February-March) mein <strong>72%</strong> score kiya. Bura nahi, par bachcha jaanta hai ki wo aur achha kar sakta hai. Wo May-June mein doosra exam deta hai aur <strong>81%</strong> laata hai. CBSE <strong>81%</strong> ko final score ke roop mein use karega. Pehle attempt ka kam score matter nahi karega.</p>
+<p>आपके बच्चे ने पहली परीक्षा (फरवरी-मार्च) में <strong>72%</strong> स्कोर किया। बुरा नहीं, पर बच्चा जानता है कि वो और अच्छा कर सकता है। वो मई-जून में दूसरी परीक्षा देता है और <strong>81%</strong> लाता है। CBSE <strong>81%</strong> को अंतिम स्कोर के रूप में इस्तेमाल करेगा। पहले प्रयास का कम स्कोर मायने नहीं रखेगा।</p>
 
-<p>Par agar bachcha pehle attempt mein <strong>78%</strong> aur doosre mein <strong>74%</strong> laata hai, to CBSE phir bhi <strong>78%</strong> hi use karega. System hamesha behtar score chunta hai.</p>
+<p>पर अगर बच्चा पहले प्रयास में <strong>78%</strong> और दूसरे में <strong>74%</strong> लाता है, तो CBSE फिर भी <strong>78%</strong> ही इस्तेमाल करेगा। व्यवस्था हमेशा बेहतर स्कोर चुनती है।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Baatein Jo Har Parent Ko Pata Honi Chahiye</h2>
-<p><strong>1. Pehla exam abhi bhi zaroori hai.</strong><br>Aapka bachcha pehla exam skip karke sirf doosra exam nahi de sakta. Har student ko February-March mein dena padega.</p>
+<h2>5 बातें जो हर अभिभावक को पता होनी चाहिए</h2>
+<p><strong>1. पहली परीक्षा अभी भी अनिवार्य है।</strong><br>आपका बच्चा पहली परीक्षा छोड़कर सिर्फ दूसरी परीक्षा नहीं दे सकता। हर छात्र को फरवरी-मार्च में देना होगा।</p>
 
-<p><strong>2. Doosra exam "re-exam" nahi hai.</strong><br>Ye ek improvement ka mauka hai. Jo students pehle exam mein pass ho gaye hain wo apna score sudhaar sakte hain. Jo compartment mein aaye hain wo apne subjects clear kar sakte hain.</p>
+<p><strong>2. दूसरी परीक्षा "री-एग्जाम" नहीं है।</strong><br>यह एक सुधार का मौका है। जो छात्र पहली परीक्षा में पास हो गए हैं वो अपना स्कोर सुधार सकते हैं। जो कम्पार्टमेंट में आए हैं वो अपने विषय साफ़ कर सकते हैं।</p>
 
-<p><strong>3. Doosre exam ke liye extra fee nahi hai.</strong><br>CBSE ne doosre attempt ke liye koi alag fee announce nahi ki hai. Regular exam fee dono attempts cover karti hai.</p>
+<p><strong>3. दूसरी परीक्षा के लिए अतिरिक्त शुल्क नहीं है।</strong><br>CBSE ने दूसरे प्रयास के लिए कोई अलग शुल्क घोषित नहीं किया है। नियमित परीक्षा शुल्क दोनों प्रयासों को कवर करता है।</p>
 
-<p><strong>4. Class 12 mein abhi ye rule nahi hai.</strong><br>Filhaal sirf Class 10 ke liye do exam ka option hai. Class 12 mein abhi bhi saal mein ek hi board exam hota hai. Aage jaakar ye badal sakta hai.</p>
+<p><strong>4. कक्षा 12 में अभी यह नियम नहीं है।</strong><br>फ़िलहाल सिर्फ कक्षा 10 के लिए दो परीक्षाओं का विकल्प है। कक्षा 12 में अभी भी साल में एक ही बोर्ड परीक्षा होती है। आगे जाकर यह बदल सकता है।</p>
 
-<p><strong>5. Iska matlab ye nahi ki exam "aasan" ho gaya hai.</strong><br>Dono attempts ka syllabus, difficulty level aur marking scheme same hai. Do mauke milne ka matlab ye nahi ki level neeche gir gaya hai.</p>
+<p><strong>5. इसका मतलब यह नहीं कि परीक्षा "आसान" हो गई है।</strong><br>दोनों प्रयासों का पाठ्यक्रम, कठिनाई स्तर और मूल्यांकन योजना समान है। दो मौके मिलने का मतलब यह नहीं कि स्तर नीचे गिर गया है।</p>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Guidance Chahiye?</h3><p><strong>JGPS School</strong> CBSE board exam ki tayyari structured coaching se karata hai. Call karein: <strong>+91 9412137554</strong> free counseling ke liye.</p></div>
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">मार्गदर्शन चाहिए?</h3><p><strong>JGPS स्कूल</strong> CBSE बोर्ड परीक्षा की तैयारी संरचित कोचिंग से कराता है। कॉल करें: <strong>+91 9412137554</strong> मुफ़्त परामर्श के लिए।</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
+<h3 class="font-bold text-gray-900 mb-2">📢 अगस्त 2026 अपडेट</h3>
 <p>CBSE ने <strong>18 जुलाई 2026</strong> को कक्षा X द्वितीय बोर्ड परीक्षा परिणाम 2026 घोषित किए (स्रोत: cbse.gov.in)। कक्षा XII की पूरक/कम्पार्टमेंट परीक्षाएं <strong>28 जुलाई 2026</strong> से शुरू होने वाली हैं। CBSE ने 2026-27 सत्र के लिए LOC प्रक्रिया में भी बदलाव की घोषणा की है। स्रोत: CBSE आधिकारिक वेबसाइट (18 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
-      { question: "Kya CBSE sach mein Class 10 ke liye do board exam le raha hai 2026 se?", answer: "Haan. CBSE ne 25 June 2025 ko officially announce kiya tha. 2025-26 session se Class 10 students saal mein do baar board exam de sakte hain. Pehla exam zaroori hai, doosra improvement ya compartment ke liye optional hai." },
-      { question: "Pehle aur doosre CBSE board exam mein kya fark hai?", answer: "Pehla exam (February-March) sabhi students ke liye zaroori hai. Doosra exam (May-June) optional hai. Jo students apna score sudharna chahte hain ya compartment clear karna chahte hain, wo doosra exam de sakte hain." },
-      { question: "Kya CBSE dono board exams mein se best score leta hai?", answer: "Haan. CBSE dono attempts mein se zyada number wala score leta hai. Agar aapke bachche ne pehle exam mein 72% aur doosre mein 81% liya, to final result mein 81% dikhega." },
-      { question: "Kya doosre CBSE board exam ke liye extra fee lagti hai?", answer: "CBSE ne doosre attempt ke liye koi alag fee announce nahi ki hai. Regular exam fee dono attempts cover karti hai. Latest fee ke liye official CBSE notification dekhein." },
-      { question: "Kya ye do exam ka rule Class 12 CBSE students ke liye bhi hai?", answer: "Nahi. Filhaal sirf Class 10 ke liye do exam ka option hai. Class 12 mein abhi bhi saal mein ek hi board exam hota hai. Aage jaakar NEP 2020 ke tahat ye badal sakta hai." }
+      { question: "क्या CBSE सच में कक्षा 10 के लिए दो बोर्ड परीक्षा ले रहा है 2026 से?", answer: "हाँ। CBSE ने 25 जून 2025 को आधिकारिक रूप से घोषित किया था। 2025-26 सत्र से कक्षा 10 के छात्र साल में दो बार बोर्ड परीक्षा दे सकते हैं। पहली परीक्षा अनिवार्य है, दूसरी सुधार या कम्पार्टमेंट के लिए वैकल्पिक है।" },
+      { question: "पहली और दूसरी CBSE बोर्ड परीक्षा में क्या फ़र्क है?", answer: "पहली परीक्षा (फरवरी-मार्च) सभी छात्रों के लिए अनिवार्य है। दूसरी परीक्षा (मई-जून) वैकल्पिक है। जो छात्र अपना स्कोर सुधारना चाहते हैं या कम्पार्टमेंट साफ़ करना चाहते हैं, वे दूसरी परीक्षा दे सकते हैं।" },
+      { question: "क्या CBSE दोनों बोर्ड परीक्षाओं में से सर्वश्रेष्ठ स्कोर लेता है?", answer: "हाँ। CBSE दोनों प्रयासों में से ज़्यादा अंक वाला स्कोर लेता है। अगर आपके बच्चे ने पहली परीक्षा में 72% और दूसरी में 81% लिया, तो अंतिम परिणाम में 81% दिखेगा।" },
+      { question: "क्या दूसरी CBSE बोर्ड परीक्षा के लिए अतिरिक्त शुल्क लगता है?", answer: "CBSE ने दूसरे प्रयास के लिए कोई अलग शुल्क घोषित नहीं किया है। नियमित परीक्षा शुल्क दोनों प्रयासों को कवर करता है। नवीनतम शुल्क के लिए आधिकारिक CBSE अधिसूचना देखें।" },
+      { question: "क्या यह दो परीक्षाओं का नियम कक्षा 12 CBSE छात्रों के लिए भी है?", answer: "नहीं। फ़िलहाल सिर्फ कक्षा 10 के लिए दो परीक्षाओं का विकल्प है। कक्षा 12 में अभी भी साल में एक ही बोर्ड परीक्षा होती है। आगे जाकर NEP 2020 के तहत यह बदल सकता है।" }
     ]
   },
   {
@@ -11743,12 +11743,12 @@ export const hindiArticles: HindiArticle[] = [
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
-    authorRole: "Student Counselor",
-    authorBio: "Priya Verma child psychology और digital wellness में specialist हैं।",
+    authorRole: "छात्र परामर्शदाता",
+    authorBio: "प्रिया वर्मा बाल मनोविज्ञान और डिजिटल कल्याण में विशेषज्ञ हैं।",
     category: "पेरेंटिंग और काउंसलिंग",
     image: "https://img.jgps.in/blog/jnvst-post-form-study-routine-screen-time-control.webp",
-    imageAlt: "JNVST post form study routine screen time control - reduce child mobile addiction offline study",
-    content: `<p><strong>JNVST Form Submit</strong> ho gaya? बहुत अच्छा! अब online form bharna band. Ab <strong>offline study</strong> ka time hai। लेकिन problem ये है — form bharne ke liye bacche ne phone/laptop use kiya। Ab wo screen se door nahi ho raha। YouTube dekh raha है, games खेल रहा है, reels scroll कर रहा है। Parents परेशान हैं — "पढ़ाई कैसे होगी?"</p>
+    imageAlt: "JNVST फॉर्म के बाद पढ़ाई का रूटीन और स्क्रीन टाइम नियंत्रण",
+    content: `<p><strong>JNVST फॉर्म सबमिट</strong> हो गया? बहुत अच्छा! अब ऑनलाइन फॉर्म भरना बंद। अब <strong>ऑफलाइन पढ़ाई</strong> का समय है। लेकिन समस्या यह है — फॉर्म भरने के लिए बच्चे ने फ़ोन/लैपटॉप इस्तेमाल किया। अब वो स्क्रीन से दूर नहीं हो रहा। YouTube देख रहा है, गेम्स खेल रहा है, रील्स स्क्रॉल कर रहा है। अभिभावक परेशान हैं — "पढ़ाई कैसे होगी?"</p>
 
 <p>यह article आपको बताएगा कि <strong>screen time 50% कैसे कम करें</strong> — बिना fight के, बिना रोए-धोए, practical तरीके से।</p>
 
@@ -15866,7 +15866,7 @@ export const hindiArticles: HindiArticle[] = [
     category: "Admissions & Test Prep",
     image: "https://img.jgps.in/blog/sainik-school-girls-quota-2027-hindi.webp",
     imageAlt: "Sainik School Girls Quota 2027 — लड़कियों के लिए पूरी गाइड",
-    content: `<p>Sainik School me ab ladkiyan bhi padh sakti hain. Yeh badlav 2021 me hua jab Modi sarkar ne sabhi Sainik Schools me girls admission shuru kiya. 2027 tak yeh policy permanent ho chuki hai. Agar aap UP, Bihar ya Uttarakhand ke parent hain aur aapki beti defence forces me jaana chahti hai, toh yeh guide aapke liye hai.</p>
+    content: `<p>क्या आपका बच्चा कक्षा 5 में पढ़ रहा है? क्या आप चाहते हैं कि उसे देश के प्रतिष्ठित <strong>सैनिक स्कूल</strong> में प्रवेश मिले? 2021 से सैनिक स्कूलों में लड़कियों के लिए भी प्रवेश खुल गया है। यह बदलाव तब हुआ जब मोदी सरकार ने सभी सैनिक स्कूलों में लड़कियों का प्रवेश शुरू किया। 2027 तक यह नीति स्थायी हो चुकी है। अगर आप UP, Bihar या Uttarakhand के अभिभावक हैं और आपकी बेटी रक्षा बलों में जाना चाहती है, तो यह गाइड आपके लिए है।</p>
 
 <h2>Sainik School Girls Quota Kya Hai?</h2>
 
@@ -16111,41 +16111,41 @@ export const hindiArticles: HindiArticle[] = [
     category: "Admissions & Test Prep",
     image: "https://img.jgps.in/blog/how-to-crack-jnvst-2027-hindi.webp",
     imageAlt: "JNVST 2027 कैसे क्रैक करें — 3 महीने की तैयारी प्लान हिंदी में",
-    content: `<p>Aap apne bachche ko desk par baithke dekh rahe hain. Books khuli hain. Lekin aankhen thaki hain. Aap soch rahe hain — kya mera bachcha sahi tarike se padh raha hai? JNVST exam January 2027 mein hai. Bas 3 mahine baaki hain. Kya abhi bhi time hai?</p>
+    content: `<p>आप अपने बच्चे को डेस्क पर बैठे देख रहे हैं। किताबें खुली हैं। लेकिन आँखें थकी हैं। आप सोच रहे हैं — क्या मेरा बच्चा सही तरीके से पढ़ रहा है? JNVST परीक्षा जनवरी 2027 में है। बस 3 महीने बाकी हैं। क्या अभी भी समय है?</p>
 
-<p>Yeh ek achhi khabar hai. Haan, 3 mahine kaafi hain JNVST 2027 crack karne ke liye. Har saal hazaron students sirf 90 din ki focused study se yeh exam clear karte hain. Aapka bachcha bhi kar sakta hai. Lekin sahi plan ke saath.</p>
+<p>यह एक अच्छी खबर है। हाँ, 3 महीने काफ़ी हैं JNVST 2027 क्रैक करने के लिए। हर साल हज़ारों छात्र सिर्फ 90 दिन की केंद्रित पढ़ाई से यह परीक्षा पास करते हैं। आपका बच्चा भी कर सकता है। लेकिन सही योजना के साथ।</p>
 
-<p>Har saal 30 lakh se zyada students JNVST ke liye apply karte hain. Sirf lagbhag 80,000 ka selection hota hai. Yeh roughly 2.5% hai. Lekin jo students structured plan follow karte hain, unka selection rate 20% se upar chala jaata hai.</p>
+<p>हर साल 30 लाख से ज़्यादा छात्र JNVST के लिए आवेदन करते हैं। सिर्फ लगभग 80,000 का चयन होता है। यह लगभग 2.5% है। लेकिन जो छात्र संरचित योजना का पालन करते हैं, उनका चयन दर 20% से ऊपर चला जाता है।</p>
 
-<h2>Kya 3 Mahine Mein JNVST 2027 Crack Ho Sakta Hai?</h2>
+<h2>क्या 3 महीने में JNVST 2027 क्रैक हो सकता है?</h2>
 
-<p>Haan. Lekin aapke bachche ko 4 cheezein chahiye:</p>
+<p>हाँ। लेकिन आपके बच्चे को 4 चीज़ें चाहिए:</p>
 <ul>
-<li><strong>Roz 3-4 ghante padhai</strong> (zyada nahi, kam nahi)</li>
-<li><strong>Sahi books</strong> (sirf 2027 pattern wali)</li>
-<li><strong>Weekly mock tests</strong> (har bina fail Sunday ko)</li>
-<li><strong>Aapka support</strong> (parent ka involvement coaching se zyada zaroori hai)</li>
+<li><strong>रोज़ 3-4 घंटे पढ़ाई</strong> (ज़्यादा नहीं, कम नहीं)</li>
+<li><strong>सही किताबें</strong> (सिर्फ 2027 पैटर्न वाली)</li>
+<li><strong>साप्ताहिक मॉक टेस्ट</strong> (हर बिना फेल रविवार को)</li>
+<li><strong>आपका सहयोग</strong> (अभिभावक की भागीदारी कोचिंग से ज़्यादा ज़रूरी है)</li>
 </ul>
 
-<h2>Month-by-Month Preparation Plan</h2>
+<h2>महीने-दर-महीने तैयारी योजना</h2>
 
-<h3>Month 1 (October 2026) — Foundation Banao</h3>
+<h3>महीना 1 (अक्टूबर 2026) — नींव बनाएं</h3>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Kya Karna Hai</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1</td><td class="py-3 px-4 border-b">Mental Ability basics</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">Question types seekho</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 2</td><td class="py-3 px-4 border-b">Mental Ability practice</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">Roz 30 MAT questions solve karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3</td><td class="py-3 px-4 border-b">Arithmetic fundamentals</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">Class 4-5 math revise karo</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Week 4</td><td class="py-3 px-4">Arithmetic + Language</td><td class="py-3 px-4">2 ghante</td><td class="py-3 px-4">Reading comprehension practice shuru karo</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">सप्ताह</th><th class="py-3 px-4 border-b font-bold text-white text-left">फ़ोकस क्षेत्र</th><th class="py-3 px-4 border-b font-bold text-white text-left">दैनिक घंटे</th><th class="py-3 px-4 border-b font-bold text-white text-left">क्या करना है</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 1</td><td class="py-3 px-4 border-b">मानसिक योग्यता बुनियादी</td><td class="py-3 px-4 border-b">2 घंटे</td><td class="py-3 px-4 border-b">प्रश्न प्रकार सीखें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 2</td><td class="py-3 px-4 border-b">मानसिक योग्यता अभ्यास</td><td class="py-3 px-4 border-b">2 घंटे</td><td class="py-3 px-4 border-b">रोज़ 30 MAT प्रश्न हल करें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 3</td><td class="py-3 px-4 border-b">गणित बुनियादी</td><td class="py-3 px-4 border-b">2 घंटे</td><td class="py-3 px-4 border-b">कक्षा 4-5 गणित दोहराएं</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">सप्ताह 4</td><td class="py-3 px-4">गणित + भाषा</td><td class="py-3 px-4">2 घंटे</td><td class="py-3 px-4">पठन बोध अभ्यास शुरू करें</td></tr></tbody></table></div>
 
-<h3>Month 2 (November 2026) — Practice aur Improve</h3>
+<h3>महीना 2 (नवंबर 2026) — अभ्यास और सुधार</h3>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Kya Karna Hai</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1</td><td class="py-3 px-4 border-b">Advanced MAT</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Roz 50 MAT questions solve karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 2</td><td class="py-3 px-4 border-b">Arithmetic speed</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Timed math practice — 30 min mein 20 questions</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3</td><td class="py-3 px-4 border-b">Language + Comprehension</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Roz passages padho, 5 naye words seekho</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Week 4</td><td class="py-3 px-4">Previous year papers</td><td class="py-3 px-4">3 ghante</td><td class="py-3 px-4">JNVST 2025 aur 2026 ke papers solve karo</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">सप्ताह</th><th class="py-3 px-4 border-b font-bold text-white text-left">फ़ोकस क्षेत्र</th><th class="py-3 px-4 border-b font-bold text-white text-left">दैनिक घंटे</th><th class="py-3 px-4 border-b font-bold text-white text-left">क्या करना है</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 1</td><td class="py-3 px-4 border-b">उन्नत MAT</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">रोज़ 50 MAT प्रश्न हल करें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 2</td><td class="py-3 px-4 border-b">गणित गति</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">समयबद्ध गणित अभ्यास — 30 मिनट में 20 प्रश्न</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 3</td><td class="py-3 px-4 border-b">भाषा + बोध</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">रोज़ गद्यांश पढ़ें, 5 नए शब्द सीखें</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">सप्ताह 4</td><td class="py-3 px-4">पिछले वर्ष के पेपर</td><td class="py-3 px-4">3 घंटे</td><td class="py-3 px-4">JNVST 2025 और 2026 के पेपर हल करें</td></tr></tbody></table></div>
 
-<h3>Month 3 (December 2026) — Mock Tests aur Revision</h3>
+<h3>महीना 3 (दिसंबर 2026) — मॉक टेस्ट और दोहराव</h3>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Area</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Kya Karna Hai</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1</td><td class="py-3 px-4 border-b">Full mock tests</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Roz ek full test, galtiyan analyze karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 2</td><td class="py-3 px-4 border-b">Sirf weak areas</td><td class="py-3 px-4 border-b">3 ghante</td><td class="py-3 px-4 border-b">Jis topic mein score low hai uspar focus</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3</td><td class="py-3 px-4 border-b">Speed building</td><td class="py-3 px-4 border-b">2 ghante</td><td class="py-3 px-4 border-b">100 minute mein 80 questions solve karo</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Week 4</td><td class="py-3 px-4">Sirf halka revision</td><td class="py-3 px-4">1.5 ghante</td><td class="py-3 px-4">Naye topics nahi. Sirf notes revise karo</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">सप्ताह</th><th class="py-3 px-4 border-b font-bold text-white text-left">फ़ोकस क्षेत्र</th><th class="py-3 px-4 border-b font-bold text-white text-left">दैनिक घंटे</th><th class="py-3 px-4 border-b font-bold text-white text-left">क्या करना है</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 1</td><td class="py-3 px-4 border-b">पूर्ण मॉक टेस्ट</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">रोज़ एक पूर्ण टेस्ट, गलतियाँ विश्लेषण करें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 2</td><td class="py-3 px-4 border-b">सिर्फ कमज़ोर क्षेत्र</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">जिस विषय में स्कोर कम है उस पर ध्यान</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 3</td><td class="py-3 px-4 border-b">गति निर्माण</td><td class="py-3 px-4 border-b">2 घंटे</td><td class="py-3 px-4 border-b">100 मिनट में 80 प्रश्न हल करें</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">सप्ताह 4</td><td class="py-3 px-4">सिर्फ हल्का दोहराव</td><td class="py-3 px-4">1.5 घंटे</td><td class="py-3 px-4">नए विषय नहीं। सिर्फ नोट्स दोहराएं</td></tr></tbody></table></div>
 
-<h2>Roz Ka Study Schedule</h2>
+<h2>रोज़ का अध्ययन कार्यक्रम</h2>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 AM</td><td class="py-3 px-4 border-b">Uthna + taiyar hona</td><td class="py-3 px-4 border-b">30 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 AM</td><td class="py-3 px-4 border-b">Mental Ability practice</td><td class="py-3 px-4 border-b">1 ghanta</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">8:00 AM - 3:00 PM</td><td class="py-3 px-4 border-b">School</td><td class="py-3 px-4 border-b">7 ghante</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 PM</td><td class="py-3 px-4 border-b">Arithmetic practice</td><td class="py-3 px-4 border-b">1 ghanta</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:30 PM</td><td class="py-3 px-4 border-b">Language practice</td><td class="py-3 px-4 border-b">45 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 PM</td><td class="py-3 px-4 border-b">Din ka revision</td><td class="py-3 px-4 border-b">45 min</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">8:30 PM</td><td class="py-3 px-4">Neend</td><td class="py-3 px-4">9.5 ghante</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">समय</th><th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th><th class="py-3 px-4 border-b font-bold text-white text-left">अवधि</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 6:00</td><td class="py-3 px-4 border-b">उठना + तैयार होना</td><td class="py-3 px-4 border-b">30 मिनट</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 6:30</td><td class="py-3 px-4 border-b">मानसिक योग्यता अभ्यास</td><td class="py-3 px-4 border-b">1 घंटा</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 8:00 - दोपहर 3:00</td><td class="py-3 px-4 border-b">स्कूल</td><td class="py-3 px-4 border-b">7 घंटे</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 4:00</td><td class="py-3 px-4 border-b">गणित अभ्यास</td><td class="py-3 px-4 border-b">1 घंटा</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 5:30</td><td class="py-3 px-4 border-b">भाषा अभ्यास</td><td class="py-3 px-4 border-b">45 मिनट</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 6:15</td><td class="py-3 px-4 border-b">दिन का दोहराव</td><td class="py-3 px-4 border-b">45 मिनट</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">रात 8:30</td><td class="py-3 px-4">नींद</td><td class="py-3 px-4">9.5 घंटे</td></tr></tbody></table></div>
 
-<p><strong>Zaroori:</strong> Neend optional nahi hai. Thaka hua dimaag Mental Ability puzzles solve nahi kar sakta. Aapke bachche ko roz 8-9 ghante neend chahiye.</p>
+<p><strong>ज़रूरी:</strong> नींद वैकल्पिक नहीं है। थका हुआ दिमाग़ मानसिक योग्यता की पहेलियाँ हल नहीं कर सकता। आपके बच्चे को रोज़ 8-9 घंटे नींद चाहिए।</p>
 
 <h2>Section-Wise Preparation Tips</h2>
 
@@ -16209,44 +16209,44 @@ export const hindiArticles: HindiArticle[] = [
     category: "Admissions & Test Prep",
     image: "https://img.jgps.in/blog/navodaya-admission-2027-last-date-hindi.webp",
     imageAlt: "Navodaya Admission 2027 Last Date — 31 जुलाई, अभी अप्लाई करें",
-    content: `<p>Aap dinner ke baad kitchen table pe baithe hain. Aapka bachcha Class 5 me padh raha hai. Padosi ne abhi Navodaya Vidyalaya ke baare me bataya. Free education. Boarding. English medium. Koi fees nahi. Aap apply karna chahte hain. Lekin time kam hai.</p>
+    content: `<p>आप रात के खाने के बाद किचन टेबल पर बैठे हैं। आपका बच्चा कक्षा 5 में पढ़ रहा है। पड़ोसी ने अभी नवोदय विद्यालय के बारे में बताया। मुफ़्त शिक्षा। बोर्डिंग। अंग्रेज़ी माध्यम। कोई फ़ीस नहीं। आप आवेदन करना चाहते हैं। लेकिन समय कम है।</p>
 
-<p>Navodaya admission 2027 ki last date <strong>7 August 2026</strong> hai. Yeh sirf kuch din door hai. Har saal 30 lakh se zyada bacche JNVST ke liye apply karte hain. Sirf 80,000 select hote hain. Aapke bachche ka real chance hai. Lekin sirf tab jab aap abhi action lein.</p>
+<p>नवोदय प्रवेश 2027 की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। यह सिर्फ कुछ दिन दूर है। हर साल 30 लाख से ज़्यादा बच्चे JNVST के लिए आवेदन करते हैं। सिर्फ 80,000 चुने जाते हैं। आपके बच्चे का असली मौका है। लेकिन सिर्फ तब जब आप अभी कार्रवाई करें।</p>
 
-<h2>Navodaya Vidyalaya Kya Hai?</h2>
+<h2>नवोदय विद्यालय क्या है?</h2>
 
-<p>Jawahar Navodaya Vidyalaya (JNV) Bharat sarkar ke schools ka ek system hai. Navodaya Vidyalaya Samiti (NVS) poore desh me 661 schools chalata hai. Yeh residential schools hain. Yani aapka bachcha school me rehta hai. Khana, kitabein, uniforms, hostel — sab kuch free hai.</p>
+<p>जवाहर नवोदय विद्यालय (JNV) भारत सरकार के स्कूलों की एक प्रणाली है। नवोदय विद्यालय समिति (NVS) पूरे देश में 661 स्कूल चलाता है। ये आवासीय स्कूल हैं। यानी आपका बच्चा स्कूल में रहता है। खाना, किताबें, यूनिफ़ॉर्म, हॉस्टल — सब कुछ मुफ़्त है।</p>
 
-<p>Maksad simple hai. Gaon aur chhote sheher ke talented bacchon ko wahi quality education do jo bade sheher ke bacchon ko milti hai. English medium. CBSE board. Modern facilities. Aur ek bhi paisa nahi lagna.</p>
+<p>मकसद सरल है। गाँव और छोटे शहर के प्रतिभाशाली बच्चों को वही गुणवत्तापूर्ण शिक्षा दो जो बड़े शहर के बच्चों को मिलती है। अंग्रेज़ी माध्यम। CBSE बोर्ड। आधुनिक सुविधाएं। और एक भी पैसा नहीं लगना।</p>
 
-<h2>JNV Kyon Hai Parents Ka Sapna</h2>
+<h2>नवोदय क्यों है अभिभावकों का सपना</h2>
 
-<p>UP, Bihar aur Uttarakhand ke parents ke liye JNV ek sapna hai. Aapke bachche ko lakhon ki boarding school education free me milti hai. Schools me ache teachers, science labs, computer rooms, aur sports grounds hain. Bahut se JNV students baad me IIT, NEET aur bade exams crack karte hain.</p>
+<p>UP, Bihar और Uttarakhand के अभिभावकों के लिए JNV एक सपना है। आपके बच्चे को लाखों की बोर्डिंग स्कूल शिक्षा मुफ़्त में मिलती है। स्कूलों में अच्छे शिक्षक, विज्ञान प्रयोगशालाएं, कंप्यूटर कक्षाएं, और खेल के मैदान हैं। बहुत से JNV छात्र बाद में IIT, NEET और बड़ी परीक्षाएं पास करते हैं।</p>
 
-<h2>Zaruri Dates</h2>
+<h2>ज़रूरी तारीखें</h2>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Form Aaya</td><td class="py-3 px-4 border-b">6 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b">7 August 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">December 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date (Expected)</td><td class="py-3 px-4 border-b">January 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">March-April 2027</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन फॉर्म आया</td><td class="py-3 px-4 border-b">6 जुलाई 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b">7 अगस्त 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b">दिसंबर 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि (अनुमानित)</td><td class="py-3 px-4 border-b">जनवरी 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">परिणाम</td><td class="py-3 px-4">मार्च-अप्रैल 2027</td></tr></tbody></table></div>
 
-<p>Hamesha official website pe final dates check karo: <strong>navodaya.gov.in</strong></p>
+<p>हमेशा आधिकारिक वेबसाइट पर अंतिम तारीखें जांचें: <strong>navodaya.gov.in</strong></p>
 
-<h2>Kaun Apply Kar Sakta Hai?</h2>
+<h2>कौन आवेदन कर सकता है?</h2>
 
 <ul>
-<li>Class 5 me padh raha ho recognized school me</li>
-<li>Age 10-12 years (as on March 31, 2027)</li>
-<li>Wahi district ka school ho jahan JNV hai</li>
-<li>Indian citizen</li>
-<li>Sirf ek baar apply kar sakta hai (dobaara nahi)</li>
+<li>कक्षा 5 में पढ़ रहा हो मान्यता प्राप्त स्कूल में</li>
+<li>आयु 10-12 वर्ष (31 मार्च 2027 को)</li>
+<li>वही जिले का स्कूल हो जहाँ JNV है</li>
+<li>भारतीय नागरिक</li>
+<li>सिर्फ एक बार आवेदन कर सकता है (दोबारा नहीं)</li>
 </ul>
 
-<h2>Rural Quota — 75% Seats Gaon Ke Bacchon Ke Liye</h2>
+<h2>ग्रामीण कोटा — 75% सीटें गाँव के बच्चों के लिए</h2>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th><th class="py-3 px-4 border-b font-bold text-white text-left">Rural Students</th><th class="py-3 px-4 border-b font-bold text-white text-left">Urban Students</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Seats Reserved</td><td class="py-3 px-4 border-b">75% (60 out of 80)</td><td class="py-3 px-4 border-b">25% (20 out of 80)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School Required</td><td class="py-3 px-4 border-b">Gaon/Gram Panchayat school</td><td class="py-3 px-4 border-b">Koi bhi recognized school</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Competition Level</td><td class="py-3 px-4">Kam</td><td class="py-3 px-4">Zyada</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th><th class="py-3 px-4 border-b font-bold text-white text-left">ग्रामीण छात्र</th><th class="py-3 px-4 border-b font-bold text-white text-left">शहरी छात्र</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आरक्षित सीटें</td><td class="py-3 px-4 border-b">75% (80 में से 60)</td><td class="py-3 px-4 border-b">25% (80 में से 20)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवश्यक स्कूल</td><td class="py-3 px-4 border-b">गाँव/ग्राम पंचायत स्कूल</td><td class="py-3 px-4 border-b">कोई भी मान्यता प्राप्त स्कूल</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">प्रतिस्पर्धा स्तर</td><td class="py-3 px-4">कम</td><td class="py-3 px-4">ज़्यादा</td></tr></tbody></table></div>
 
-<h2>Kaise Apply Karein — Step by Step</h2>
+<h2>कैसे आवेदन करें — कदम-दर-कदम</h2>
 
 <ul>
-<li><strong>Step 1:</strong> Official website pe jao: navodaya.gov.in</li>
+<li><strong>कदम 1:</strong> आधिकारिक वेबसाइट पर जाएं: navodaya.gov.in</li>
 <li><strong>Step 2:</strong> Register karo — bachcha ka naam, date of birth, school details</li>
 <li><strong>Step 3:</strong> Documents upload karo — photo, signature, marksheet</li>
 <li><strong>Step 4:</strong> JNV select karo — apne district ke 2 JNV choose karo</li>
