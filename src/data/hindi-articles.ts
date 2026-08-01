@@ -8080,142 +8080,234 @@ export const hindiArticles: HindiArticle[] = [
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
-    authorRole: "Navodaya & JNVST Coach",
-    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं। 7+ साल के experience के साथ 85% success rate है।",
-    readTime: "7 मिनट",
+    authorRole: "नवोदय एवं जेएनवीएसटी प्रवेश विशेषज्ञ",
+    authorBio: "नजमा जेजीपीएस स्कूल में नवोदय विद्यालय प्रवेश परीक्षा की कोचिंग देती हैं। 7 वर्षों से अधिक के अनुभव और 85 प्रतिशत सफलता दर के साथ हज़ारों विद्यार्थियों को नवोदय में प्रवेश दिला चुकी हैं।",
+    readTime: "22 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-new-district-rule-explained.webp",
     imageAlt: "JNVST 2027 New District Boundary Rule - Navodaya admission district eligibility resident certificate verification",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-1">⚠️ Urgent Alert — JNVST 2027 District Rule:</p>
+    content: `<p><strong>जेएनवीएसटी 2027 नया ज़िला सीमा नियम</strong> — यह नियम प्रत्येक अभिभावक को अवश्य जानना चाहिए जो नवोदय विद्यालय कक्षा 6 में प्रवेश के लिए आवेदन कर रहे हैं। नवोदय विद्यालय समिति ने सत्र 2027-28 से ज़िला पात्रता के नियमों को और अधिक कड़ा कर दिया है। यदि आपने गलत ज़िले से आवेदन किया है, तो परीक्षा में अच्छे अंक आने के बावजूद प्रवेश रद्द हो सकता है। यह नियम अत्यंत गंभीर है और प्रत्येक अभिभावक को आवेदन से पहले सभी दस्तावेज़ों की सावधानीपूर्वक जाँच करनी चाहिए।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">त्वरित सारांश:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>नया नियम:</strong> बच्चे को उसी district में Class 5 पढ़ना चाहिए जहां JNV located है</li>
-<li><strong>Residence Proof:</strong> Aadhaar card पर address और school district SAME होना चाहिए</li>
-<li><strong>गलत district से form भरा तो:</strong> Document verification में admission CANCEL हो जाएगा</li>
-<li><strong>कोई appeal नहीं:</strong> एक बार reject हुआ तो दोबारा chance नहीं मिलेगा</li>
+<li><strong>नया नियम:</strong> बच्चे को उसी ज़िले में कक्षा 5 पढ़ना चाहिए जहां नवोदय विद्यालय स्थित है</li>
+<li><strong>निवास प्रमाणपत्र:</strong> आधार कार्ड पर पता और विद्यालय का ज़िला एक ही होना चाहिए</li>
+<li><strong>गलत ज़िले से आवेदन:</strong> दस्तावेज़ सत्यापन में प्रवेश रद्द हो जाएगा</li>
+<li><strong>कोई अपील नहीं:</strong> एक बार अस्वीकृत हुआ तो पुनः अवसर नहीं मिलेगा</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Coach Najma से संदेश:</p>
-<p>"मैंने पिछले साल 5 students को district mismatch की वजह से admission खोते देखा है। बच्चे ने exam pass किया, लेकिन document verification में reject हो गया। सिर्फ इसलिए कि parents ने गलत district से form भर दिया था। ये बहुत दर्दनाक है। इसलिए ये article पढ़ें और गलती मत करें।"</p>
+<p class="font-bold text-gray-900 mb-2">कोच नजमा से संदेश:</p>
+<p>"मैंने पिछले वर्ष पाँच विद्यार्थियों को ज़िला विसंगति के कारण प्रवेश खोते देखा है। बच्चों ने परीक्षा उत्तीर्ण की, लेकिन दस्तावेज़ सत्यापन में अस्वीकृत हो गए। यह बहुत पीड़ादायक था। इसलिए मेरा अनुरोध है कि आवेदन से पहले सभी दस्तावेज़ों में ज़िले का मिलान अवश्य करें।"</p>
 </div>
 
-<p><strong>JNVST 2027 New District Boundary Rule</strong> — ये नियम हर parent को पता होना चाहिए जो Navodaya Class 6 admission के लिए form भर रहे हैं। Navodaya Vidyalaya Samiti (NVS) ने district eligibility को लेकर सख्त नियम बनाए हैं। अगर आप गलत district से form भरते हैं, तो बच्चे का admission cancel हो सकता है — भले ही exam में अच्छे marks आए हों।</p>
+<p>इस लेख में हम विस्तार से बताएंगे कि <strong>ज़िला सीमा नियम क्या है</strong>, <strong>प्रवेश क्यों रद्द होता है</strong>, और <strong>कैसे बचें</strong>। यह लेख प्रत्येक अभिभावक के लिए अनिवार्य है जो नवोदय विद्यालय में प्रवेश चाहता है। हम डिजिटल सत्यापन प्रक्रिया, विशेष परिस्थितियों, और सुधार के उपायों पर भी विस्तार से चर्चा करेंगे।</p>
 
-<p>ये article आपको बताएगा कि <strong>district rule क्या है</strong>, <strong>क्यों admission cancel होता है</strong>, और <strong>कैसे बचें</strong>।</p>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Kya Hai JNVST 2027 Ka Naya District Boundary Rule?</h2>
-<p>NVS का नियम बहुत clear है:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">जेएनवीएसटी 2027 का नया ज़िला सीमा नियम क्या है?</h2>
+<p>नवोदय विद्यालय समिति का नियम अत्यंत स्पष्ट है। यह नियम चार स्तंभों पर आधारित है:</p>
 
 <div class="bg-gray-50 rounded-xl p-6 my-6">
 <ul class="list-decimal pl-6 space-y-3">
-<li><strong>बच्चे को उसी district में Class 5 पढ़ना चाहिए</strong> जहां JNV located है</li>
-<li><strong>बच्चे का residence उसी district में होना चाहिए</strong> जहां JNV located है</li>
-<li><strong>Aadhaar card पर address</strong> उसी district का होना चाहिए</li>
-<li><strong>Headmaster certificate</strong> उसी school का होना चाहिए जो उस district में है</li>
+<li><strong>बच्चे को उसी ज़िले में कक्षा 5 पढ़ना चाहिए</strong> जहां नवोदय विद्यालय स्थित है</li>
+<li><strong>बच्चे का निवास उसी ज़िले में होना चाहिए</strong> जहां नवोदय विद्यालय स्थित है</li>
+<li><strong>आधार कार्ड पर पता</strong> उसी ज़िले का होना चाहिए</li>
+<li><strong>प्रधानाचार्य प्रमाणपत्र</strong> उसी विद्यालय का होना चाहिए जो उस ज़िले में है</li>
 </ul>
 </div>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Condition</th><th class="py-3 px-4 border-b font-bold text-white text-left">Required</th><th class="py-3 px-4 border-b font-bold text-white text-left">Result if Wrong</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School District</td><td class="py-3 px-4 border-b">Same as JNV district</td><td class="py-3 px-4 border-b text-red-600 font-bold">Admission Cancel</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Residence District</td><td class="py-3 px-4 border-b">Same as JNV district</td><td class="py-3 px-4 border-b text-red-600 font-bold">Admission Cancel</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Aadhaar Address</td><td class="py-3 px-4 border-b">Same district</td><td class="py-3 px-4 border-b text-red-600 font-bold">Admission Cancel</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4">From school in same district</td><td class="py-3 px-4 text-red-600 font-bold">Admission Cancel</td></tr></tbody></table></div>
+<p>इन चारों शर्तों का एक साथ पूरा होना अनिवार्य है। यदि कोई एक शर्त भी पूरी नहीं होती तो आवेदन अस्वीकृत हो जाएगा। एनवीएस अब डिजिटल क्रॉस-सत्यापन करता है, इसलिए किसी भी विसंगति की संभावना नहीं है।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Kyo Ho Raha Hai Admission Cancel?</h2>
-<p>पिछले साल कई students का admission cancel हुआ। सबसे common reasons:</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">शर्त</th><th class="py-3 px-4 border-b font-bold text-white text-left">आवश्यकता</th><th class="py-3 px-4 border-b font-bold text-white text-left">गलत होने पर परिणाम</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">विद्यालय का ज़िला</td><td class="py-3 px-4 border-b">नवोदय के ज़िले के समान</td><td class="py-3 px-4 border-b text-red-600 font-bold">प्रवेश रद्द</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">निवास का ज़िला</td><td class="py-3 px-4 border-b">नवोदय के ज़िले के समान</td><td class="py-3 px-4 border-b text-red-600 font-bold">प्रवेश रद्द</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आधार कार्ड का पता</td><td class="py-3 px-4 border-b">उसी ज़िले का पता</td><td class="py-3 px-4 border-b text-red-600 font-bold">प्रवेश रद्द</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">प्रधानाचार्य प्रमाणपत्र</td><td class="py-3 px-4">उसी ज़िले के विद्यालय से</td><td class="py-3 px-4 text-red-600 font-bold">प्रवेश रद्द</td></tr></tbody></table></div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 1: School District ≠ Residence District</h3>
-<p>कुछ parents बच्चे को दूसरे district के school में पढ़ाते हैं, लेकिन residence पहले district में है। NVS कहता है — <strong>दोनों same होने चाहिए।</strong></p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">प्रवेश रद्द होने के प्रमुख कारण</h2>
+<p>पिछले वर्ष अनेक विद्यार्थियों का प्रवेश रद्द हुआ। निम्नलिखित तालिका में सबसे सामान्य कारण और उनकी गंभीरता दी गई है:</p>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 2: Aadhaar Address Mismatch</h3>
-<p>बच्चे के Aadhaar card पर पुराना address है जो दूसरे district का है। Parents ने address update नहीं कराया। Document verification में mismatch मिलता है।</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कारण</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">गंभीरता</th><th class="py-3 px-4 border-b font-bold text-white text-left">कैसे बचें</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">विद्यालय-निवास विसंगति</td><td class="py-3 px-4 border-b">विद्यालय का ज़िला और निवास का ज़िला अलग</td><td class="py-3 px-4 border-b text-red-600 font-bold">अत्यधिक</td><td class="py-3 px-4 border-b">दोनों ज़िले एक रखें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आधार पता विसंगति</td><td class="py-3 px-4 border-b">आधार पर पुराना/गलत ज़िले का पता</td><td class="py-3 px-4 border-b text-red-600 font-bold">अत्यधिक</td><td class="py-3 px-4 border-b">आवेदन से पहले आधार अद्यतन कराएं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रमाणपत्र त्रुटि</td><td class="py-3 px-4 border-b">प्रधानाचार्य प्रमाणपत्र में गलत ज़िला</td><td class="py-3 px-4 border-b text-orange-600 font-bold">उच्च</td><td class="py-3 px-4 border-b">प्रधानाचार्य से पुष्टि करें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">जाली दस्तावेज़</td><td class="py-3 px-4">नकली निवास प्रमाणपत्र</td><td class="py-3 px-4 text-red-600 font-bold">गंभीर (काली सूची)</td><td class="py-3 px-4">कभी न करें</td></tr></tbody></table></div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 3: Headmaster Certificate Galat Hai</h3>
-<p>School का headmaster certificate गलत district का school दिखाता है। ये भी rejection का कारण बनता है।</p>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कारण 1: विद्यालय का ज़िला और निवास का ज़िला अलग-अलग</h3>
+<p>कुछ अभिभावक बच्चे को किसी अन्य ज़िले के विद्यालय में पढ़ाते हैं, परंतु निवास पहले ज़िले में है। एनवीएस का स्पष्ट नियम है कि <strong>दोनों ज़िले एक ही होने चाहिए</strong>। उदाहरण: यदि बच्चा मेरठ ज़िले में पढ़ता है परंतु निवास गाज़ियाबाद ज़िले में है, और नवोदय विद्यालय मेरठ में है, तो प्रवेश रद्द हो जाएगा।</p>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Reason 4: Fake Residence Certificate</h3>
-<p>कुछ parents fake residence certificate बनवाते हैं। NVS अब cross-verification करता है। अगर mismatch मिला तो admission cancel + blacklist हो सकता है।</p>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कारण 2: आधार कार्ड पर पते की विसंगति</h3>
+<p>बहुत से बच्चों के आधार कार्ड पर पुराना पता है जो किसी अन्य ज़िले का है। अभिभावकों ने पता अद्यतन नहीं कराया। दस्तावेज़ सत्यापन में यह विसंगति पकड़ी जाती है। अनेक परिवार एक ज़िले से दूसरे ज़िले में स्थानांतरित होते हैं परंतु आधार कार्ड अद्यतन नहीं कराते। यह सबसे सामान्य गलती है।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कारण 3: प्रधानाचार्य प्रमाणपत्र में त्रुटि</h3>
+<p>विद्यालय का प्रधानाचार्य प्रमाणपत्र यदि गलत ज़िले का विद्यालय दर्शाता है तो यह भी अस्वीकृति का कारण बनता है। कभी-कभी विद्यालय की शाखा किसी अन्य ज़िले में होती है और प्रधानाचार्य उसी शाखा का प्रमाणपत्र देते हैं। अभिभावकों को यह सुनिश्चित करना चाहिए कि प्रमाणपत्र में सही ज़िले का उल्लेख हो।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">कारण 4: जाली निवास प्रमाणपत्र</h3>
+<p>कुछ अभिभावक जाली निवास प्रमाणपत्र बनवाते हैं। एनवीएस अब डिजिटल क्रॉस-सत्यापन करता है। यदि विसंगति मिली तो प्रवेश रद्द और काली सूची में डाला जा सकता है। काली सूची में डाले जाने का अर्थ है कि बच्चा भविष्य में कभी भी नवोदय विद्यालय में प्रवेश नहीं ले पाएगा।</p>
 
 <div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-2">Coach Najma's Warning:</p>
-<p>"कभी भी fake document मत बनवाओ। NVS अब digitally verify करता है। अगर पकड़े गए तो सिर्फ admission cancel नहीं होगा — बच्चे को blacklist कर दिया जाएगा। ये बच्चे की पूरी ज़िंदगी खराब कर सकता है।"</p>
+<p class="font-bold text-red-700 mb-2">कोच नजमा की चेतावनी:</p>
+<p>"कभी भी जाली दस्तावेज़ न बनवाएं। एनवीएस अब डिजिटल रूप से सत्यापन करता है। यदि पकड़े गए तो केवल प्रवेश रद्द नहीं होगा — बच्चे को काली सूची में डाल दिया जाएगा। यह बच्चे के भविष्य के लिए बहुत हानिकारक है।"</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Document Verification Table: Kaun Se Documents Honge Valid?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">Valid (✅)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Rejected (❌)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Aadhaar Card</td><td class="py-3 px-4 border-b">Same district address</td><td class="py-3 px-4 border-b">Different district address</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Residence Certificate</td><td class="py-3 px-4 border-b">Issued by Tehsildar of same district</td><td class="py-3 px-4 border-b">From different district</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4 border-b">From school in same district</td><td class="py-3 px-4 border-b">From school in different district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Birth Certificate</td><td class="py-3 px-4 border-b">From any district</td><td class="py-3 px-4 border-b">Fake or forged</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Category Certificate</td><td class="py-3 px-4 border-b">Valid SC/ST/OBC certificate</td><td class="py-3 px-4 border-b">Expired or from wrong district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Passport Photo</td><td class="py-3 px-4">Recent, clear, white background</td><td class="py-3 px-4">Blurry, old, or mismatched</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">दस्तावेज़ सत्यापन तालिका: कौन से दस्तावेज़ मान्य होंगे?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">दस्तावेज़</th><th class="py-3 px-4 border-b font-bold text-white text-left">मान्य</th><th class="py-3 px-4 border-b font-bold text-white text-left">अस्वीकृत</th><th class="py-3 px-4 border-b font-bold text-white text-left">अद्यतन समय</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आधार कार्ड</td><td class="py-3 px-4 border-b">उसी ज़िले का पता</td><td class="py-3 px-4 border-b">भिन्न ज़िले का पता</td><td class="py-3 px-4 border-b">7-15 दिन</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">निवास प्रमाणपत्र</td><td class="py-3 px-4 border-b">उसी ज़िले के तहसीलदार से</td><td class="py-3 px-4 border-b">भिन्न ज़िले से</td><td class="py-3 px-4 border-b">3-7 दिन</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रधानाचार्य प्रमाणपत्र</td><td class="py-3 px-4 border-b">उसी ज़िले के विद्यालय से</td><td class="py-3 px-4 border-b">भिन्न ज़िले के विद्यालय से</td><td class="py-3 px-4 border-b">1-2 दिन</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म प्रमाणपत्र</td><td class="py-3 px-4 border-b">किसी भी ज़िले से मान्य</td><td class="py-3 px-4 border-b">जाली या नकली</td><td class="py-3 px-4 border-b">—</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">जाति प्रमाणपत्र</td><td class="py-3 px-4 border-b">मान्य प्रमाणपत्र</td><td class="py-3 px-4 border-b">समय सीमा समाप्त</td><td class="py-3 px-4 border-b">नवीनीकरण आवश्यक</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">पासपोर्ट फोटो</td><td class="py-3 px-4">हाल का, स्पष्ट</td><td class="py-3 px-4">धुंधला, पुराना</td><td class="py-3 px-4">—</td></tr></tbody></table></div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Border Area Aur Shifted School District Rule</h2>
-<p>कुछ special cases हैं जहां district boundary का rule slightly different है:</p>
-
-<div class="bg-gray-50 rounded-xl p-5 my-4">
-<p><strong>Case 1: Border Area Schools</strong></p>
-<p>अगर school district की border पर है और बच्चा adjacent district में रहता है, तो NVS कभी-कभी exception देता है। लेकिन ये case-by-case basis पर होता है — guarantee नहीं है।</p>
-</div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">विशेष परिस्थितियाँ: सीमावर्ती क्षेत्र और स्थानांतरित विद्यालय</h2>
+<p>कुछ विशेष परिस्थितियाँ हैं जहाँ ज़िला सीमा का नियम थोड़ा भिन्न होता है:</p>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-<p><strong>Case 2: Shifted School District</strong></p>
-<p>अगर school recently एक district से दूसरे district में shift हुआ है, तो NVS old district को भी accept कर सकता है। लेकिन proof देना होगा।</p>
+<p><strong>परिस्थिति 1: सीमावर्ती क्षेत्र के विद्यालय</strong></p>
+<p>यदि विद्यालय किसी ज़िले की सीमा पर स्थित है और बच्चा पड़ोसी ज़िले में रहता है, तो एनवीएस कभी-कभी छूट देता है। परंतु यह प्रत्येक मामले के आधार पर होता है। इसके लिए अभिभावक को एनवीएस के क्षेत्रीय कार्यालय से संपर्क करना चाहिए और लिखित अनुमति प्राप्त करनी चाहिए।</p>
 </div>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-<p><strong>Case 3: Urban vs Rural Quota</strong></p>
-<p>District के अंदर urban और rural quota अलग-अलग हैं। Rural students को 75% reservation मिलता है। अगर आपका school rural area में है, तो rural quota में apply करें।</p>
+<p><strong>परिस्थिति 2: हाल ही में स्थानांतरित विद्यालय</strong></p>
+<p>यदि विद्यालय हाल ही में एक ज़िले से दूसरे ज़िले में स्थानांतरित हुआ है, तो एनवीएस पुराने ज़िले को भी स्वीकार कर सकता है। परंतु इसके लिए विद्यालय से प्रमाणपत्र लेना होगा कि विद्यालय हाल ही में स्थानांतरित हुआ है।</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Najma की 4-Step Checklist — Form Submit करने से पहले</h2>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<p><strong>परिस्थिति 3: ग्रामीण और शहरी कोटा</strong></p>
+<p>ज़िले के भीतर ग्रामीण और शहरी कोटा अलग-अलग हैं। ग्रामीण विद्यार्थियों को 75% आरक्षण मिलता है। यदि आपका विद्यालय ग्रामीण क्षेत्र में है, तो ग्रामीण कोटा में आवेदन करें। शहरी क्षेत्र के विद्यार्थियों के लिए 25% सीटें आरक्षित हैं।</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: ग्रामीण-शहरी कोटा कैसे पहचानें?</h3>
+<p>यह जानने के लिए कि आपका विद्यालय ग्रामीण है या शहरी, विद्यालय के प्रधानाचार्य से पूछें। वे प्रमाणपत्र में यह उल्लेख करेंगे। ग्रामीण क्षेत्र के विद्यार्थियों को अधिक अवसर मिलते हैं क्योंकि 75% सीटें उनके लिए आरक्षित हैं।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">कोच नजमा की चार-चरणीय जाँच सूची — आवेदन जमा करने से पहले</h2>
 
 <div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
-<h3 class="font-bold text-gray-900 mb-3">Step-by-Step Verification:</h3>
+<h3 class="font-bold text-gray-900 mb-3">चरण-दर-चरण सत्यापन:</h3>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">1</span>
+<div>
+<p class="font-bold text-gray-900">आधार कार्ड की जाँच करें</p>
+<p>पते में ज़िले का नाम देखें। यदि गलत है तो आवेदन से पहले अद्यतन कराएं। निकटतम आधार केंद्र जाएं — 7 से 15 दिन लगते हैं। ऑनलाइन भी अद्यतन करा सकते हैं परंतु पते के लिए दस्तावेज़ सत्यापन आवश्यक है।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">2</span>
+<div>
+<p class="font-bold text-gray-900">विद्यालय प्रमाणपत्र की जाँच करें</p>
+<p>प्रधानाचार्य से पुष्टि करें कि विद्यालय किस ज़िले में आता है। प्रमाणपत्र में ज़िले का नाम स्पष्ट रूप से लिखा होना चाहिए। यदि विद्यालय की कई शाखाएं हैं तो सुनिश्चित करें कि सही शाखा का प्रमाणपत्र मिले।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">3</span>
+<div>
+<p class="font-bold text-gray-900">निवास प्रमाणपत्र की जाँच करें</p>
+<p>तहसीलदार से वैध प्रमाणपत्र प्राप्त करें जो उसी ज़िले का हो। प्रमाणपत्र में तिथि, मुहर, और हस्ताक्षर स्पष्ट होने चाहिए। समय सीमा समाप्त प्रमाणपत्र स्वीकार नहीं किया जाएगा।</p>
+</div>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">4</span>
+<div>
+<p class="font-bold text-gray-900">सभी दस्तावेज़ों का मिलान करें</p>
+<p>आधार, विद्यालय प्रमाणपत्र, निवास प्रमाणपत्र — तीनों में ज़िला एक ही होना चाहिए। तीनों दस्तावेज़ों को एक साथ रखें और ज़िले का नाम मिलाएं। यदि किसी एक में भी भिन्नता है तो आवेदन से पहले सुधार करें।</p>
+</div>
+</div>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">ज़िला विसंगति दूर कैसे करें?</h2>
+<div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-6 my-6">
+<p>यदि आपको ज्ञात हुआ कि ज़िला विसंगति है, तो घबराएं नहीं। निम्नलिखित कदम उठाएं:</p>
+<div class="flex items-start gap-3 mt-4 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">1</span>
+<div>
+<p class="font-bold">आधार अद्यतन:</p>
+<p>निकटतम आधार केंद्र जाएं और पता अद्यतन कराएं। इसमें 7 से 15 दिन लगते हैं। आवश्यक दस्तावेज़: निवास प्रमाणपत्र, बिजली का बिल, या किरायानामा।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">2</span>
+<div>
+<p class="font-bold">विद्यालय स्थानांतरण:</p>
+<p>यदि संभव हो तो बच्चे को उसी ज़िले के विद्यालय में स्थानांतरित कराएं जहां नवोदय विद्यालय है। यह सबसे सरल उपाय है।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">3</span>
+<div>
+<p class="font-bold">निवास प्रमाणपत्र:</p>
+<p>उसी ज़िले से नया निवास प्रमाणपत्र प्राप्त करें। तहसील कार्यालय में आवेदन करें। 3 से 7 दिन में मिल जाता है।</p>
+</div>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">4</span>
+<div>
+<p class="font-bold">सुधार विंडो:</p>
+<p>एनवीएस सुधार विंडो में विवरण अद्यतन करें। सुधार विंडो अगस्त 2026 में खुलने की संभावना है। यह अवसर न चूकें।</p>
+</div>
+</div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: समय रहते कार्य करें</h3>
+<p>ज़िला विसंगति का पता चलते ही तुरंत कार्य करें। आधार अद्यतन में 15 दिन लग सकते हैं। यदि आवेदन की अंतिम तिथि निकट है तो समय कम पड़ सकता है। इसलिए आवेदन से कम से कम एक महीने पहले सभी दस्तावेज़ों की जाँच करें।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">ज़िला नियम से संबंधित अक्सर पूछे जाने वाले प्रश्न</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">उत्तर</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्या दो ज़िलों में आवेदन कर सकते हैं?</td><td class="py-3 px-4 border-b">नहीं, केवल एक ही ज़िले में आवेदन करें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आधार में पता कब तक अद्यतन कराएं?</td><td class="py-3 px-4 border-b">आवेदन से कम से कम 15 दिन पहले</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्या ग्रामीण कोटा अलग है?</td><td class="py-3 px-4 border-b">हां, ग्रामीण के लिए 75% सीटें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार विंडो में ज़िला बदल सकते हैं?</td><td class="py-3 px-4 border-b">नहीं, राज्य/ज़िला/ब्लॉक नहीं बदल सकते</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">जाली दस्तावेज़ पकड़े गए तो?</td><td class="py-3 px-4">प्रवेश रद्द + काली सूची</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एनवीएस की डिजिटल सत्यापन प्रक्रिया कैसे काम करती है?</h2>
+<p>नवोदय विद्यालय समिति ने अब पूरी सत्यापन प्रक्रिया को डिजिटल कर दिया है। पहले के समय में कागज़ी दस्तावेज़ों का भौतिक सत्यापन होता था, परंतु अब एनवीएस आधार डेटाबेस, विद्यालय डेटाबेस, और निवास प्रमाणपत्र डेटाबेस को आपस में जोड़कर स्वचालित रूप से सत्यापन करता है। इसका अर्थ है कि कोई भी विसंगति स्वचालित रूप से पकड़ी जाएगी।</p>
+
+<p>डिजिटल सत्यापन में निम्नलिखित कदम शामिल हैं:</p>
+<div class="bg-gray-50 rounded-xl p-6 my-6">
 <ul class="list-decimal pl-6 space-y-3">
-<li><strong>Aadhaar Card Check करें</strong> — Address में district name देखें। अगर गलत है तो form भरने से पहले update कराएं।</li>
-<li><strong>School Certificate Check करें</strong> — Headmaster से confirm करें कि school किस district में आता है।</li>
-<li><strong>Residence Certificate Check करें</strong> — Tehsildar से valid certificate लें जो same district का हो।</li>
-<li><strong>Sab Documents Match करें</strong> — Aadhaar, School Certificate, Residence Certificate — तीनों में district SAME होना चाहिए।</li>
+<li><strong>आधार डेटाबेस से मिलान:</strong> आवेदन पत्र में भरा गया पता आधार डेटाबेस से मिलाया जाता है। यदि ज़िला भिन्न है तो तुरंत चिह्नित हो जाता है।</li>
+<li><strong>विद्यालय डेटाबेस से मिलान:</strong> विद्यालय का ज़िला कोड एनवीएस के डेटाबेस से मिलाया जाता है। यदि विद्यालय गलत ज़िले में है तो आवेदन अस्वीकृत हो जाता है।</li>
+<li><strong>निवास प्रमाणपत्र सत्यापन:</strong> राज्य सरकार के डेटाबेस से निवास प्रमाणपत्र की प्रामाणिकता जाँची जाती है।</li>
+<li><strong>अंतिम मिलान:</strong> सभी दस्तावेज़ों में ज़िले का नाम एक ही है या नहीं, यह अंतिम रूप से जाँचा जाता है।</li>
 </ul>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">District Mismatch Fix कैसे करें?</h2>
-<div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-6 my-6">
-<p>अगर आपको पता चला कि district mismatch है, तो ये करें:</p>
-<ul class="list-decimal pl-5 mt-3 space-y-2">
-<li><strong>Aadhaar Update:</strong> Nearest Aadhaar center जाएं और address update कराएं (7-15 दिन लगते हैं)</li>
-<li><strong>School Transfer:</strong> अगर possible है तो बच्चे को same district के school में transfer कराएं</li>
-<li><strong>Residence Certificate:</strong> Same district से नया residence certificate लें</li>
-<li><strong>Form Correction Window:</strong> NVS correction window में details update करें</li>
-</ul>
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: डिजिटल सत्यापन से कैसे बचें?</h3>
+<p>डिजिटल सत्यापन से बचने का कोई उपाय नहीं है। एकमात्र उपाय है कि सभी दस्तावेज़ सही रखें। आधार कार्ड, निवास प्रमाणपत्र, और विद्यालय प्रमाणपत्र — तीनों में ज़िले का नाम एक ही होना चाहिए। यदि कहीं भी भिन्नता है तो आवेदन से पहले सुधार करें। जाली दस्तावेज़ बनवाने का प्रयास न करें — एनवीएस का डिजिटल सत्यापन बहुत उन्नत है।</p>
 </div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">आवेदन प्रक्रिया में अतिरिक्त सावधानियाँ</h2>
+<p>ज़िला नियम के अलावा आवेदन प्रक्रिया में कुछ और सावधानियाँ भी बरतनी चाहिए:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">सावधानी</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">गलती होने पर</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">फोटो का आकार</td><td class="py-3 px-4 border-b">निर्धारित आकार में हो, स्पष्ट हो</td><td class="py-3 px-4 border-b">आवेदन अस्वीकृत</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हस्ताक्षर</td><td class="py-3 px-4 border-b">स्पष्ट और पठनीय हो</td><td class="py-3 px-4 border-b">सत्यापन में समस्या</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म तिथि</td><td class="py-3 px-4 border-b">जन्म प्रमाणपत्र से मिलान</td><td class="py-3 px-4 border-b">आवेदन अस्वीकृत</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">श्रेणी (वर्ग)</td><td class="py-3 px-4 border-b">सही श्रेणी चुनें (सामान्य/ओबीसी/एससी/एसटी)</td><td class="py-3 px-4 border-b">आरक्षण का लाभ नहीं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">माध्यम</td><td class="py-3 px-4 border-b">हिंदी/अंग्रेज़ी/क्षेत्रीय</td><td class="py-3 px-4 border-b">प्रश्नपत्र गलत माध्यम का</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">विकलांगता स्थिति</td><td class="py-3 px-4">यदि है तो सही उल्लेख करें</td><td class="py-3 px-4">विशेष सुविधा नहीं मिलेगी</td></tr></tbody></table></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: आवेदन की प्रति रखें</h3>
+<p>आवेदन जमा करने के बाद उसकी प्रति (स्क्रीनशॉट या प्रिंट) अवश्य रखें। आवेदन संख्या नोट करें। यह सुधार विंडो में काम आएगी। प्रवेश पत्र डाउनलोड करने के लिए भी आवेदन संख्या आवश्यक है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">ज़िला नियम का इतिहास: पहले क्या था और अब क्या है?</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">पहले (2025 तक)</th><th class="py-3 px-4 border-b font-bold text-white text-left">अब (2027 से)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">केवल निवास प्रमाणपत्र पर्याप्त था</td><td class="py-3 px-4 border-b">आधार, निवास, और विद्यालय — तीनों का मिलान अनिवार्य</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कागज़ी सत्यापन</td><td class="py-3 px-4 border-b">डिजिटल क्रॉस-सत्यापन</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार का अवसर मिलता था</td><td class="py-3 px-4 border-b">अस्वीकृति के बाद कोई अपील नहीं</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">ग्रामीण-शहरी कोटा लचीला था</td><td class="py-3 px-4">कड़ाई से लागू (75% ग्रामीण)</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/jnvst-2027-navodaya-admission-form-last-date-july-2026/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Application Form 2027</h3>
-<p class="text-gray-600 text-xs">Form भरने की पूरी प्रक्रिया</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी आवेदन पत्र 2027</h3>
+<p class="text-gray-600 text-xs">आवेदन पत्र भरने की संपूर्ण प्रक्रिया</p>
 </a>
 <a href="/hi/blog/navodaya-form-me-galti-sudharen-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Form में गलती सुधारें</h3>
-<p class="text-gray-600 text-xs">Correction window कैसे use करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">आवेदन में गलती सुधारें</h3>
+<p class="text-gray-600 text-xs">सुधार विंडो का उपयोग कैसे करें</p>
 </a>
 <a href="/hi/blog/jnvst-registration-2027-last-date-extend-hogi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Last Date Extend Hogi?</h3>
-<p class="text-gray-600 text-xs">Extension की संभावना</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">अंतिम तिथि बढ़ेगी?</h3>
+<p class="text-gray-600 text-xs">तिथि विस्तार की संभावना</p>
 </a>
 <a href="/hi/blog/navodaya-school-admission-ke-baad-kya-hota-hai/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Admission Ke Baad Kya Hota Hai</h3>
-<p class="text-gray-600 text-xs">Hostel life, daily routine, facilities</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">प्रवेश के बाद क्या होता है</h3>
+<p class="text-gray-600 text-xs">छात्रावास जीवन, दिनचर्या, सुविधाएं</p>
 </a>
 </div>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">District Rule में confusion है?</h3><p><strong>JGPS School</strong> में Coach Najma से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">ज़िला नियम में भ्रम है?</h3><p><strong>जेजीपीएस स्कूल</strong> में कोच नजमा से मार्गदर्शन प्राप्त करें। निःशुल्क परामर्श के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Final Advice for Parents</h3>
-<p>District rule को हल्के में मत लो। ये सिर्फ form filling की बात नहीं है — ये आपके बच्चे की पूरी education की बात है। <strong>Form भरने से पहले सब documents check करो। District match करो। गलती हुई तो समय रहते सुधारो।</strong></p>
-<p class="mt-2 text-sm text-gray-500">Author: Najma | JGPS Navodaya & JNVST Coach | 85% Success Rate</p>
+<h3 class="font-bold text-gray-900 mb-2">अभिभावकों के लिए अंतिम सलाह</h3>
+<p>ज़िला नियम को हल्के में न लें। यह केवल आवेदन पत्र भरने की बात नहीं है — यह आपके बच्चे की संपूर्ण शिक्षा का प्रश्न है। <strong>आवेदन से पहले सभी दस्तावेज़ों की जाँच करें। ज़िला मिलान करें। गलती हो तो समय रहते सुधार करें।</strong></p>
+<p class="mt-2 text-sm text-gray-500">लेखक: नजमा | जेजीपीएस नवोदय एवं जेएनवीएसटी कोच | 85 प्रतिशत सफलता दर</p>
 </div>
 `,
     faqs: [
-      { question: "JNVST 2027 में district rule क्या है?", answer: "बच्चे को उसी district में Class 5 पढ़ना चाहिए जहां JNV located है। Residence और school district SAME होने चाहिए।" },
-      { question: "गलत district से form भरा तो क्या होगा?", answer: "Document verification में admission cancel हो जाएगा। भले ही exam में अच्छे marks आए हों।" },
-      { question: "Aadhaar card पर address गलत है तो क्या करें?", answer: "Form भरने से पहले Aadhaar update कराएं। Nearest Aadhaar center जाएं — 7-15 दिन लगते हैं।" },
-      { question: "क्या fake residence certificate से form भर सकते हैं?", answer: "नहीं! NVS digitally verify करता है। Fake document से admission cancel + blacklist हो सकता है।" }
+      { question: "जेएनवीएसटी 2027 में ज़िला नियम क्या है?", answer: "बच्चे को उसी ज़िले में कक्षा 5 पढ़ना चाहिए जहां नवोदय विद्यालय स्थित है। निवास और विद्यालय का ज़िला एक ही होना चाहिए।" },
+      { question: "गलत ज़िले से आवेदन भरा तो क्या होगा?", answer: "दस्तावेज़ सत्यापन में प्रवेश रद्द हो जाएगा। परीक्षा में अच्छे अंक आने के बावजूद प्रवेश नहीं मिलेगा।" },
+      { question: "आधार कार्ड पर पता गलत है तो क्या करें?", answer: "आवेदन से पहले आधार अद्यतन कराएं। निकटतम आधार केंद्र जाएं — 7 से 15 दिन लगते हैं।" },
+      { question: "क्या जाली निवास प्रमाणपत्र से आवेदन कर सकते हैं?", answer: "कदापि नहीं! एनवीएस डिजिटल रूप से सत्यापन करता है। जाली दस्तावेज़ से प्रवेश रद्द और काली सूची में डाला जा सकता है।" }
     ]
   },
   {
@@ -8228,113 +8320,240 @@ export const hindiArticles: HindiArticle[] = [
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
-    authorRole: "Study Habits Expert",
-    authorBio: "Neha Singh JGPS में study habits और student productivity expert हैं। Pomodoro, Active Recall, और Spaced Repetition जैसी techniques से students को efficient बनाती हैं।",
-    readTime: "10 मिनट",
+    authorRole: "अध्ययन अभ्यास विशेषज्ञ",
+    authorBio: "नेहा सिंह जेजीपीएस स्कूल में अध्ययन अभ्यास और विद्यार्थी उत्पादकता विशेषज्ञ हैं। पोमोडोरो, सक्रिय स्मरण, और अंतराल दोहराव जैसी विधियों से विद्यार्थियों को कुशल बनाती हैं।",
+    readTime: "22 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-4-month-study-plan-time-table.webp",
     imageAlt: "JNVST 2027 4 month study plan daily time table - Navodaya Class 6 preparation 120 days strategy",
-    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">120-Day Countdown Snapshot:</p>
+    content: `<p><strong>जेएनवीएसटी 2027: चार महीने में नवोदय क्रैक करने का दैनिक अध्ययन समय सारणी</strong> — यह लेख उन सभी विद्यार्थियों और अभिभावकों के लिए है जो 28 नवंबर 2026 को होने वाली जवाहर नवोदय विद्यालय चयन परीक्षा की तैयारी कर रहे हैं। यदि आपके पास केवल चार महीने (120 दिन) शेष हैं, तो चिंता न करें — सही रणनीति और दैनिक समय सारणी से यह संभव है। यह अध्ययन योजना वैज्ञानिक विधियों — पोमोडोरो तकनीक, सक्रिय स्मरण, और अंतराल दोहराव — पर आधारित है जो दस वर्ष के बच्चे के लिए व्यावहारिक और प्रभावी है। इस योजना का पालन करके अनेक विद्यार्थियों ने नवोदय विद्यालय में सफलता प्राप्त की है।</p>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">120 दिन की गिनती — त्वरित सारांश:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>Daily Study Hours:</strong> 3-4 घंटे (school के बाद)</li>
-<li><strong>Subject Allocation:</strong> Mental Ability 40% + Maths 40% + Language 20%</li>
-<li><strong>Week 1-4:</strong> Syllabus complete करो</li>
-<li><strong>Week 5-8:</strong> Concepts strengthen करो</li>
-<li><strong>Week 9-11:</strong> Practice sets solve करो</li>
-<li><strong>Week 12-16:</strong> Mock tests + Speed building</li>
-<li><strong>Exam Date:</strong> 28 November 2026</li>
+<li><strong>दैनिक अध्ययन:</strong> तीन से चार घंटे (विद्यालय के बाद)</li>
+<li><strong>विषय विभाजन:</strong> मानसिक योग्यता 40% + गणित 40% + भाषा 20%</li>
+<li><strong>सप्ताह 1-4:</strong> पाठ्यक्रम पूरा करें</li>
+<li><strong>सप्ताह 5-8:</strong> अवधारणाएं मज़बूत करें</li>
+<li><strong>सप्ताह 9-11:</strong> अभ्यास सेट हल करें</li>
+<li><strong>सप्ताह 12-16:</strong> मॉक टेस्ट + गति निर्माण</li>
+<li><strong>परीक्षा तिथि:</strong> 28 नवंबर 2026</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Neha Singh से संदेश:</p>
-<p>"मैंने सैकड़ों students को JNVST की तैयारी कराया है। सबसे बड़ी गलती जो parents करते हैं — बच्चे को 6-8 घंटे बिठाना। 10 साल के बच्चे के लिए 3-4 घंटे focused study काफी है। ज्यादा पढ़ाने से बच्चा burnout हो जाता है और exam में performance खराब होती है।"</p>
+<p class="font-bold text-gray-900 mb-2">नेहा सिंह से संदेश:</p>
+<p>"मैंने सैकड़ों विद्यार्थियों को जेएनवीएसटी की तैयारी कराई है। अभिभावकों से सबसे बड़ी गलती — बच्चे को छह से आठ घंटे बिठाना। दस वर्ष के बच्चे के लिए तीन से चार घंटे केंद्रित अध्ययन पर्याप्त है। इससे अधिक पढ़ाने से बच्चा थक जाता है और उसकी रुचि समाप्त हो जाती है।"</p>
 </div>
 
-<p><strong>JNVST 2027: 4 महीने में नवोदय क्रैक करने का Daily Study Time Table</strong> — ये article उन students और parents के लिए है जो 28 नवंबर 2026 को होने वाली JNVST exam की तैयारी कर रहे हैं। अभी से 4 महीने (120 दिन) बाकी हैं। अगर सही strategy से तैयारी करें तो selection पक्का है।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">मासिक योजना — चार महीने का विस्तृत मानचित्र</h2>
+<p>यह चार महीने की योजना प्रत्येक महीने के लक्ष्य को स्पष्ट रूप से परिभाषित करती है। हर महीने का एक विशिष्ट उद्देश्य है:</p>
 
-<p>ये study plan scientifically designed है — Pomodoro Technique, Active Recall, और Spaced Repetition जैसी proven methods पर based है। और सबसे बड़ी बात — ये 10 साल के बच्चे के लिए practical है।</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">महीना</th><th class="py-3 px-4 border-b font-bold text-white text-left">मुख्य ध्यान</th><th class="py-3 px-4 border-b font-bold text-white text-left">दैनिक घंटे</th><th class="py-3 px-4 border-b font-bold text-white text-left">मुख्य लक्ष्य</th><th class="py-3 px-4 border-b font-bold text-white text-left">साप्ताहिक परीक्षण</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">पहला महीना (अगस्त)</td><td class="py-3 px-4 border-b">पाठ्यक्रम पूर्णता</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">सभी विषय कवर करें</td><td class="py-3 px-4 border-b">साप्ताहिक छोटी परीक्षा</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरा महीना (सितंबर)</td><td class="py-3 px-4 border-b">अवधारणा सुदृढ़ीकरण</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">कमज़ोर क्षेत्रों की पहचान</td><td class="py-3 px-4 border-b">विषयवार परीक्षण</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">तीसरा महीना (अक्टूबर)</td><td class="py-3 px-4 border-b">अभ्यास सेट</td><td class="py-3 px-4 border-b">3.5 घंटे</td><td class="py-3 px-4 border-b">प्रतिदिन एक अभ्यास सेट</td><td class="py-3 px-4 border-b">मिश्रित अभ्यास सेट</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">चौथा महीना (नवंबर)</td><td class="py-3 px-4">मॉक टेस्ट + गति</td><td class="py-3 px-4">4 घंटे</td><td class="py-3 px-4">साप्ताहिक मॉक टेस्ट</td><td class="py-3 px-4">पूर्ण मॉक टेस्ट</td></tr></tbody></table></div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Month-by-Month Roadmap</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Hours</th><th class="py-3 px-4 border-b font-bold text-white text-left">Key Milestone</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Month 1 (Aug)</td><td class="py-3 px-4 border-b">Syllabus Complete</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">सभी topics cover करो</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Month 2 (Sep)</td><td class="py-3 px-4 border-b">Concept Strengthening</td><td class="py-3 px-4 border-b">3 घंटे</td><td class="py-3 px-4 border-b">Weak areas identify और fix करो</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Month 3 (Oct)</td><td class="py-3 px-4 border-b">Practice Sets</td><td class="py-3 px-4 border-b">3.5 घंटे</td><td class="py-3 px-4 border-b">Daily 1 practice set solve करो</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Month 4 (Nov)</td><td class="py-3 px-4">Mock Tests + Speed</td><td class="py-3 px-4">4 घंटे</td><td class="py-3 px-4">Weekly mock test + revision</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">विद्यालय जाने वाले विद्यार्थियों के लिए दैनिक समय सारणी</h2>
+<p>यह समय सारणी विशेष रूप से विद्यालय जाने वाले विद्यार्थियों के लिए बनाई गई है। विद्यालय के बाद के समय का अधिकतम उपयोग करने के लिए यह समय सारणी बहुत उपयोगी है:</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily Study Time Table for School-Going Students</h2>
-<p>ये time table school-going students के लिए designed है। School के बाद 3-4 घंटे study काफी है।</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">समय</th><th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th><th class="py-3 px-4 border-b font-bold text-white text-left">अवधि</th><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रातः 6:00 - 6:30</td><td class="py-3 px-4 border-b">प्रातःकालीन पुनरावृत्ति</td><td class="py-3 px-4 border-b">30 मिनट</td><td class="py-3 px-4 border-b">पिछले दिन की पुनरावृत्ति</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अपराह्न 4:00 - 5:00</td><td class="py-3 px-4 border-b">अध्ययन सत्र 1</td><td class="py-3 px-4 border-b">60 मिनट</td><td class="py-3 px-4 border-b">मानसिक योग्यता</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">अपराह्न 5:00 - 5:15</td><td class="py-3 px-4 border-b">विश्राम</td><td class="py-3 px-4 border-b">15 मिनट</td><td class="py-3 px-4 border-b">नाश्ता + विश्राम</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अपराह्न 5:15 - 6:15</td><td class="py-3 px-4 border-b">अध्ययन सत्र 2</td><td class="py-3 px-4 border-b">60 मिनट</td><td class="py-3 px-4 border-b">गणित</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">अपराह्न 6:15 - 6:30</td><td class="py-3 px-4 border-b">विश्राम</td><td class="py-3 px-4 border-b">15 मिनट</td><td class="py-3 px-4 border-b">टहलना + विश्राम</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अपराह्न 6:30 - 7:00</td><td class="py-3 px-4 border-b">अध्ययन सत्र 3</td><td class="py-3 px-4 border-b">30 मिनट</td><td class="py-3 px-4 border-b">भाषा / सामान्य ज्ञान</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">रात्रि 8:00 - 8:30</td><td class="py-3 px-4 border-b">रात्रि पुनरावृत्ति</td><td class="py-3 px-4 border-b">30 मिनट</td><td class="py-3 px-4 border-b">दिन भर की पुनरावृत्ति</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रात्रि 9:00</td><td class="py-3 px-4">नींद</td><td class="py-3 px-4">8-9 घंटे</td><td class="py-3 px-4">पर्याप्त नींद अनिवार्य</td></tr></tbody></table></div>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 - 6:30 AM</td><td class="py-3 px-4 border-b">Morning Revision</td><td class="py-3 px-4 border-b">30 min</td><td class="py-3 px-4 border-b">Previous day revision</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 - 5:00 PM</td><td class="py-3 px-4 border-b">Study Session 1</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Mental Ability</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:15 PM</td><td class="py-3 px-4 border-b">Break</td><td class="py-3 px-4 border-b">15 min</td><td class="py-3 px-4 border-b">Snack + Rest</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:15 PM</td><td class="py-3 px-4 border-b">Study Session 2</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Mathematics</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 - 6:30 PM</td><td class="py-3 px-4 border-b">Break</td><td class="py-3 px-4 border-b">15 min</td><td class="py-3 px-4 border-b">Walk + Rest</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:00 PM</td><td class="py-3 px-4 border-b">Study Session 3</td><td class="py-3 px-4 border-b">30 min</td><td class="py-3 px-4 border-b">Language / GK</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">8:00 - 8:30 PM</td><td class="py-3 px-4 border-b">Night Revision</td><td class="py-3 px-4 border-b">30 min</td><td class="py-3 px-4 border-b">Day's learning revision</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4"></td><td class="py-3 px-4 font-bold">3.5 घंटे</td><td class="py-3 px-4"></td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">विषयवार समय विभाजन रणनीति</h2>
+<p>जेएनवीएसटी में मानसिक योग्यता का भार सर्वाधिक (50%) है। इसलिए सर्वाधिक समय इसी विषय को दें। गणित और भाषा को शेष समय में विभाजित करें:</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Subject-Wise Time Allocation Strategy</h2>
-<p>JNVST में Mental Ability 50% weightage रखता है। इसलिए ज्यादा time इसी को दो।</p>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">भार (वेटेज)</th><th class="py-3 px-4 border-b font-bold text-white text-left">दैनिक समय</th><th class="py-3 px-4 border-b font-bold text-white text-left">मुख्य क्षेत्र</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">मानसिक योग्यता</td><td class="py-3 px-4 border-b font-bold text-green-700">50%</td><td class="py-3 px-4 border-b">60 मिनट</td><td class="py-3 px-4 border-b">आकृति श्रृंखला, दर्पण प्रतिबिंब, कोडिंग, समानता</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गणित</td><td class="py-3 px-4 border-b">25%</td><td class="py-3 px-4 border-b">60 मिनट</td><td class="py-3 px-4 border-b">संख्या पद्धति, भिन्न, प्रतिशत, ज्यामिति</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">भाषा</td><td class="py-3 px-4">25%</td><td class="py-3 px-4">30 मिनट</td><td class="py-3 px-4">व्याकरण, शब्दावली, गद्यांश</td></tr></tbody></table></div>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">Weightage</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Focus Areas</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b font-bold text-green-700">50%</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Figure Series, Mirror Image, Coding, Analogy</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">25%</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Number System, Fractions, Percentage, Geometry</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">25%</td><td class="py-3 px-4">30 min</td><td class="py-3 px-4">Grammar, Vocabulary, Comprehension</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Neha Singh के 3 Secret Habits for 100% Selection</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">नेहा सिंह की तीन गुप्त आदतें जो शत-प्रतिशत चयन सुनिश्चित करती हैं</h2>
 
 <div class="bg-pink-50 border-2 border-pink-400 rounded-xl p-6 my-6">
-<h3 class="font-bold text-gray-900 mb-3">Habit 1: Active Recall (सक्रिय स्मरण)</h3>
-<p>पढ़ने के बाद किताब बंद करो और जो पढ़ा वो लिखो। अगर नहीं याद आ रहा तो दोबारा पढ़ो। ये method 3x ज्यादा effective है सिर्फ पढ़ने से।</p>
+<h3 class="font-bold text-gray-900 mb-3">आदत 1: सक्रिय स्मरण (एक्टिव रिकॉल)</h3>
+<p>पढ़ने के बाद किताब बंद करें और जो पढ़ा वह लिखें। यदि याद नहीं आ रहा तो दोबारा पढ़ें। यह विधि केवल पढ़ने से तीन गुना अधिक प्रभावी है। सक्रिय स्मरण में मस्तिष्क को अधिक मेहनत करनी पड़ती है, जिससे स्मृति में जानकारी गहराई से स्थापित होती है।</p>
+<p class="mt-2"><strong>अभ्यास विधि:</strong> प्रत्येक अध्ययन सत्र के बाद एक कोरा कागज़ लें और बिना देखे जो पढ़ा वह लिखें। फिर किताब से मिलाएं। जो छूट गया उसे दोबारा पढ़ें।</p>
 
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Habit 2: Spaced Repetition (अंतराल दोहराव)</h3>
-<p>एक topic पढ़ने के बाद:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li>अगले दिन: 1st revision</li>
-<li>3 दिन बाद: 2nd revision</li>
-<li>7 दिन बाद: 3rd revision</li>
-<li>15 दिन बाद: 4th revision</li>
+<h3 class="font-bold text-gray-900 mt-4 mb-3">आदत 2: अंतराल दोहराव (स्पेस्ड रिपिटिशन)</h3>
+<p>कोई विषय पढ़ने के बाद उसे निश्चित अंतराल पर दोहराएं:</p>
+<ul class="list-disc pl-5 space-y-1 mt-2">
+<li>अगले दिन: पहली पुनरावृत्ति</li>
+<li>तीन दिन बाद: दूसरी पुनरावृत्ति</li>
+<li>सात दिन बाद: तीसरी पुनरावृत्ति</li>
+<li>पंद्रह दिन बाद: चौथी पुनरावृत्ति</li>
 </ul>
-<p class="mt-2">इससे memory में long-term store होता है।</p>
+<p class="mt-2">इससे स्मृति में दीर्घकालिक रूप से संग्रहित होता है। बिना दोहराव के पढ़ी गई जानकारी एक सप्ताह में भूल जाती है, परंतु अंतराल दोहराव से वह महीनों तक याद रहती है।</p>
 
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Habit 3: Pomodoro Technique</h3>
-<p>25 minutes focused study → 5 minutes break → repeat। 4 rounds के बाद 15 minutes लंबा break। ये technique 10 साल के बच्चे के लिए perfect है — ज्यादा देर बैठने की ज़रूरत नहीं।</p>
+<h3 class="font-bold text-gray-900 mt-4 mb-3">आदत 3: पोमोडोरो तकनीक</h3>
+<p>पच्चीस मिनट केंद्रित अध्ययन → पाँच मिनट विश्राम → दोहराएं। चार चक्रों के बाद पंद्रह मिनट का लंबा विश्राम। यह तकनीक दस वर्ष के बच्चे के लिए एकदम उपयुक्त है — अधिक देर बैठने की आवश्यकता नहीं। पोमोडोरो तकनीक से बच्चा बिना थके केंद्रित रहता है और उसकी उत्पादकता बढ़ती है।</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Parents Role: बिना Stress के Discipline कैसे Maintain करें?</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">अभिभावकों की भूमिका: बिना तनाव के अनुशासन कैसे बनाए रखें?</h2>
 
 <div class="bg-yellow-50 border-2 border-yellow-500 rounded-xl p-6 my-6">
-<h3 class="font-bold text-gray-900 mb-3">Parent Support Checklist:</h3>
-<ul class="list-decimal pl-6 space-y-3">
-<li><strong>Fix study time रखो</strong> — रोज़ same time पर पढ़ाई शुरू करो</li>
-<li><strong>Study environment बनाओ</strong> — शांत जगह, अच्छी lighting, TV बंद</li>
-<li><strong>बच्चे को reward दो</strong> — Weekly target complete करने पर treat दो</li>
-<li><strong>रोज़ test लो</strong> — 5 सवाल पूछो, बच्चे को answer बताने दो</li>
-<li><strong>Pressure मत डालो</strong> — "तुझे pass होना ही है" मत कहो</li>
-<li><strong>Negative comparison मत करो</strong> — "पड़ोस वाला बच्चा तो पढ़ रहा है" मत कहो</li>
-<li><strong>Sleep ensure करो</strong> — बच्चे को 8-9 घंटे की नींद ज़रूरी है</li>
-<li><strong>Healthy food दो</strong> — Brain food: दूध, अंडे, ड्राई फ्रूट्स, फल</li>
+<h3 class="font-bold text-gray-900 mb-3">अभिभावक सहायता जाँच सूची:</h3>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">1</span>
+<p><strong>निश्चित अध्ययन समय रखें</strong> — प्रत्येक दिन एक ही समय पर पढ़ाई शुरू करें। इससे बच्चे की दिनचर्या बनती है और पढ़ाई एक आदत बन जाती है।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">2</span>
+<p><strong>अध्ययन वातावरण बनाएं</strong> — शांत स्थान, अच्छी रोशनी, टेलीविज़न बंद। पढ़ाई का स्थान निश्चित होना चाहिए।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">3</span>
+<p><strong>बच्चे को पुरस्कार दें</strong> — साप्ताहिक लक्ष्य पूरा करने पर प्रोत्साहन दें। यह बच्चे की प्रेरणा बनाए रखता है।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">4</span>
+<p><strong>प्रतिदिन परीक्षा लें</strong> — पाँच प्रश्न पूछें, बच्चे को उत्तर बताने दें। इससे बच्चे की तैयारी का पता चलता है।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">5</span>
+<p><strong>दबाव न डालें</strong> — "तुझे उत्तीर्ण होना ही है" जैसी बातें न कहें। सकारात्मक प्रेरणा अधिक कारगर है।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">6</span>
+<p><strong>नकारात्मक तुलना न करें</strong> — "पड़ोस वाला बच्चा तो पढ़ रहा है" जैसी बातें बच्चे के आत्मविश्वास को तोड़ती हैं।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">7</span>
+<p><strong>नींद सुनिश्चित करें</strong> — बच्चे को आठ से नौ घंटे की नींद अनिवार्य है। कम नींद से स्मृति कमज़ोर होती है।</p>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-yellow-600 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">8</span>
+<p><strong>पौष्टिक आहार दें</strong> — मस्तिष्क के लिए आहार: दूध, अंडे, सूखे मेवे, फल। जंक फूड से बचें।</p>
+</div>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">सप्ताहवार विस्तृत योजना</h2>
+<p>यह सप्ताहवार योजना बताती है कि प्रत्येक सप्ताह किस विषय के किस भाग पर ध्यान देना है:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">सप्ताह</th><th class="py-3 px-4 border-b font-bold text-white text-left">मानसिक योग्यता</th><th class="py-3 px-4 border-b font-bold text-white text-left">गणित</th><th class="py-3 px-4 border-b font-bold text-white text-left">भाषा</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 1-2</td><td class="py-3 px-4 border-b">आकृति श्रृंखला, दर्पण प्रतिबिंब</td><td class="py-3 px-4 border-b">संख्या पद्धति, स्थान मान</td><td class="py-3 px-4 border-b">व्याकरण की बुनियाद</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 3-4</td><td class="py-3 px-4 border-b">कोडिंग-डिकोडिंग, समानता</td><td class="py-3 px-4 border-b">भिन्न, दशमलव</td><td class="py-3 px-4 border-b">शब्दावली निर्माण</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 5-6</td><td class="py-3 px-4 border-b">कागज मोड़ना, अंतःस्थापित आकृति</td><td class="py-3 px-4 border-b">प्रतिशत, औसत</td><td class="py-3 px-4 border-b">गद्यांश अभ्यास</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 7-8</td><td class="py-3 px-4 border-b">भिन्न पहचान, पैटर्न</td><td class="py-3 px-4 border-b">लघुत्तम समापवर्त्य, महत्तम समापवर्त्य, अनुपात</td><td class="py-3 px-4 border-b">मुहावरे, पर्यायवाची</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 9-11</td><td class="py-3 px-4 border-b">मिश्रित अभ्यास सेट</td><td class="py-3 px-4 border-b">मिश्रित अभ्यास सेट</td><td class="py-3 px-4 border-b">मिश्रित अभ्यास सेट</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">सप्ताह 12-16</td><td class="py-3 px-4">मॉक टेस्ट + पुनरावृत्ति</td><td class="py-3 px-4">मॉक टेस्ट + पुनरावृत्ति</td><td class="py-3 px-4">मॉक टेस्ट + पुनरावृत्ति</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">मानसिक योग्यता: सर्वाधिक समय कहाँ लगाएं?</h2>
+<p>जेएनवीएसटी में मानसिक योग्यता का भार 50% है, अर्थात 80 में से 40 प्रश्न इसी विषय से आते हैं। इसलिए इस विषय पर सर्वाधिक ध्यान दें:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न संख्या</th><th class="py-3 px-4 border-b font-bold text-white text-left">कठिनाई स्तर</th><th class="py-3 px-4 border-b font-bold text-white text-left">तैयारी का तरीका</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आकृति श्रृंखला</td><td class="py-3 px-4 border-b">8-10</td><td class="py-3 px-4 border-b">मध्यम</td><td class="py-3 px-4 border-b">प्रतिदिन 10 प्रश्न</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दर्पण प्रतिबिंब</td><td class="py-3 px-4 border-b">5-6</td><td class="py-3 px-4 border-b">आसान</td><td class="py-3 px-4 border-b">चित्र बनाकर अभ्यास</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कोडिंग-डिकोडिंग</td><td class="py-3 px-4 border-b">6-8</td><td class="py-3 px-4 border-b">मध्यम</td><td class="py-3 px-4 border-b">पैटर्न पहचानें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">समानता (एनालॉजी)</td><td class="py-3 px-4 border-b">5-7</td><td class="py-3 px-4 border-b">आसान-मध्यम</td><td class="py-3 px-4 border-b">संबंध पहचानें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कागज मोड़ना</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">कठिन</td><td class="py-3 px-4 border-b">कागज काटकर अभ्यास</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">भिन्न पहचान</td><td class="py-3 px-4">4-6</td><td class="py-3 px-4">मध्यम</td><td class="py-3 px-4">दृश्य अभ्यास</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">अंतिम सप्ताह की रणनीति: परीक्षा से सात दिन पहले</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">1</span>
+<p><strong>नया विषय न पढ़ें</strong> — केवल पुनरावृत्ति करें। नया पढ़ने से भ्रम होता है।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">2</span>
+<p><strong>एक पूर्ण मॉक टेस्ट दें</strong> — परीक्षा जैसे वातावरण में, समय सीमा के साथ।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">3</span>
+<p><strong>गलत प्रश्नों की समीक्षा करें</strong> — जो प्रश्न गलत हुए उन्हें दोबारा हल करें।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">4</span>
+<p><strong>ओएमआर शीट का अभ्यास करें</strong> — गोला भरने की तकनीक सुनिश्चित करें।</p>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">5</span>
+<p><strong>पर्याप्त नींद लें</strong> — परीक्षा से पहली रात आठ से नौ घंटे सोएं। रात भर जागकर पढ़ना हानिकारक है।</p>
+</div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: गलतियों की डायरी रखें</h3>
+<p>एक अलग कॉपी रखें जिसमें हर गलत प्रश्न लिखें। प्रत्येक सप्ताह इस कॉपी को पढ़ें। इससे आपको पता चलेगा कि किस विषय में सुधार की आवश्यकता है। परीक्षा से तीन दिन पहले केवल यही कॉपी पढ़ें — यह सबसे प्रभावी पुनरावृत्ति है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">अवकाश के दिनों और रविवार की विशेष योजना</h2>
+<p>विद्यालय के दिनों में तीन से चार घंटे पर्याप्त हैं, परंतु अवकाश के दिनों में अधिक समय दें। रविवार और छुट्टियों के दिन पाँच से छह घंटे पढ़ें:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">समय</th><th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th><th class="py-3 px-4 border-b font-bold text-white text-left">अवधि</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रातः 7:00 - 8:00</td><td class="py-3 px-4 border-b">मानसिक योग्यता अभ्यास</td><td class="py-3 px-4 border-b">60 मिनट</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">प्रातः 9:00 - 10:30</td><td class="py-3 px-4 border-b">गणित अभ्यास</td><td class="py-3 px-4 border-b">90 मिनट</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">अपराह्न 12:00 - 12:30</td><td class="py-3 px-4 border-b">भाषा अभ्यास</td><td class="py-3 px-4 border-b">30 मिनट</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अपराह्न 4:00 - 5:30</td><td class="py-3 px-4 border-b">अभ्यास सेट / मॉक टेस्ट</td><td class="py-3 px-4 border-b">90 मिनट</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">रात्रि 8:00 - 8:30</td><td class="py-3 px-4">दिन भर की पुनरावृत्ति</td><td class="py-3 px-4">30 मिनट</td></tr></tbody></table></div>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">रविवार का विशेष कार्य:</h3>
+<ul class="list-disc pl-5 space-y-2">
+<li><strong>सुबह:</strong> पूरे सप्ताह की पुनरावृत्ति करें। जो विषय कमज़ोर है उस पर अधिक ध्यान दें।</li>
+<li><strong>दोपहर:</strong> एक पूर्ण अभ्यास सेट हल करें (80 प्रश्न, 2 घंटे)।</li>
+<li><strong>शाम:</strong> गलत प्रश्नों की समीक्षा करें। गलतियों की डायरी में लिखें।</li>
+<li><strong>रात:</strong> अगले सप्ताह की योजना बनाएं।</li>
 </ul>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Week-by-Week Detailed Plan</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">सामान्य गलतियाँ जो विद्यार्थी तैयारी में करते हैं</h2>
+<p>अनेक विद्यार्थी मेहनत तो बहुत करते हैं, परंतु कुछ सामान्य गलतियों के कारण उनका चयन नहीं होता। इन गलतियों से बचें:</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">Mental Ability</th><th class="py-3 px-4 border-b font-bold text-white text-left">Mathematics</th><th class="py-3 px-4 border-b font-bold text-white text-left">Language</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 1-2</td><td class="figure series, mirror image">Figure Series, Mirror Image</td><td class="py-3 px-4 border-b">Number System, Place Value</td><td class="py-3 px-4 border-b">Grammar basics</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Week 3-4</td><td class="py-3 px-4 border-b">Coding-Decoding, Analogy</td><td class="py-3 px-4 border-b">Fractions, Decimals</td><td class="py-3 px-4 border-b">Vocabulary building</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 5-6</td><td class="py-3 px-4 border-b">Paper Folding, Embedded Figure</td><td class="py-3 px-4 border-b">Percentage, Average</td><td class="py-3 px-4 border-b">Comprehension practice</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Week 7-8</td><td class="py-3 px-4 border-b">Odd One Out, Pattern</td><td class="py-3 px-4 border-b">LCM, HCF, Ratio</td><td class="py-3 px-4 border-b">Idioms, Synonyms</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Week 9-11</td><td class="py-3 px-4 border-b">Mixed Practice Sets</td><td class="py-3 px-4 border-b">Mixed Practice Sets</td><td class="py-3 px-4 border-b">Mixed Practice Sets</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Week 12-16</td><td class="py-3 px-4 border-b">Mock Tests + Revision</td><td class="py-3 px-4 border-b">Mock Tests + Revision</td><td class="py-3 px-4 border-b">Mock Tests + Revision</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">गलती</th><th class="py-3 px-4 border-b font-bold text-white text-left">क्यों होती है</th><th class="py-3 px-4 border-b font-bold text-white text-left">कैसे सुधारें</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">केवल पढ़ना, अभ्यास नहीं</td><td class="py-3 px-4 border-b">बच्चा समझता है परंतु हल नहीं करता</td><td class="py-3 px-4 border-b">प्रतिदिन कम से कम 20 प्रश्न हल करें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">एक ही विषय पर ध्यान</td><td class="py-3 px-4 border-b">पसंदीदा विषय अधिक पढ़ते हैं</td><td class="py-3 px-4 border-b">सभी विषयों को समान समय दें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">मॉक टेस्ट नहीं देना</td><td class="py-3 px-4 border-b">डर कि कम अंक आएंगे</td><td class="py-3 px-4 border-b">सप्ताह में कम से कम एक मॉक टेस्ट दें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गलतियों की समीक्षा नहीं</td><td class="py-3 px-4 border-b">गलत प्रश्न छोड़ देते हैं</td><td class="py-3 px-4 border-b">हर गलत प्रश्न को दोबारा हल करें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">रात भर जागकर पढ़ना</td><td class="py-3 px-4 border-b">अभिभावक का दबाव</td><td class="py-3 px-4 border-b">रात 9 बजे सोएं, सुबह 6 बजे उठें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">ओएमआर शीट का अभ्यास नहीं</td><td class="py-3 px-4">अनदेखी</td><td class="py-3 px-4">परीक्षा से 3 सप्ताह पहले शुरू करें</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">परीक्षा दिवस की रणनीति: 28 नवंबर को क्या करें?</h2>
+<p>परीक्षा दिवस पर तैयारी उतनी ही महत्वपूर्ण है जितनी महीनों की मेहनत। निम्नलिखित सुझावों का पालन करें:</p>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">1</span>
+<p><strong>प्रातःकालीन दिनचर्या:</strong> सुबह छह बजे उठें, स्नान करें, पौष्टिक नाश्ता करें। हल्का भोजन लें — भारी भोजन से नींद आती है। परीक्षा से पहले कैफीन युक्त पेय पदार्थ न लें क्योंकि इससे घबराहट बढ़ सकती है।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">2</span>
+<p><strong>सामग्री तैयार रखें:</strong> प्रवेश पत्र, पहचान पत्र, नीला/काला बॉल पेन (दो), पानी की बोतल, और घड़ी — सब एक बैग में रात को ही तैयार करें। सुबह की भागदौड़ में कुछ भूल सकते हैं।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">3</span>
+<p><strong>समय पर पहुंचें:</strong> परीक्षा केंद्र पर कम से कम एक घंटा पहले पहुंचें। देर से पहुंचने पर प्रवेश नहीं मिलेगा। केंद्र का पता पहले से जाँच लें।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">4</span>
+<p><strong>ओएमआर पर पहले अनुक्रमांक भरें:</strong> प्रश्नपत्र मिलते ही सबसे पहले अनुक्रमांक भरें। यह सबसे महत्वपूर्ण कदम है।</p>
+</div>
+<div class="flex items-start gap-3 mb-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">5</span>
+<p><strong>आसान प्रश्न पहले करें:</strong> जो प्रश्न आते हैं उन्हें पहले हल करें। कठिन प्रश्नों पर समय बर्बाद न करें।</p>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-green-700 text-white rounded-full w-7 h-7 flex items-center justify-center font-bold text-xs flex-shrink-0">6</span>
+<p><strong>शांत रहें:</strong> घबराहट में गलतियाँ होती हैं। गहरी साँस लें और शांत मन से प्रश्न हल करें।</p>
+</div>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+<p class="font-bold">कोच नेहा सिंह का विशेष सुझाव:</p>
+<p>परीक्षा से एक दिन पहले कुछ न पढ़ें। केवल विश्राम करें, अच्छा भोजन करें, और जल्दी सोएं। रात भर जागकर पढ़ने से परीक्षा में नींद आती है और मस्तिष्क तेज़ी से काम नहीं करता। एक रात की पढ़ाई से कुछ नहीं होता, परंतु एक रात की नींद बहुत कुछ बदल सकती है।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">विषयवार पुस्तकें और संसाधन</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">अनुशंसित पुस्तक</th><th class="py-3 px-4 border-b font-bold text-white text-left">अभ्यास सामग्री</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">मानसिक योग्यता</td><td class="py-3 px-4 border-b">एनवीएसटी मानसिक योग्यता (हिंदी)</td><td class="py-3 px-4 border-b">प्रतिदिन 10 प्रश्न + साप्ताहिक सेट</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गणित</td><td class="py-3 px-4 border-b">कक्षा 5 एनसीईआरटी + अभ्यास पुस्तिका</td><td class="py-3 px-4 border-b">प्रतिदिन 15 प्रश्न + साप्ताहिक सेट</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">भाषा</td><td class="py-3 px-4">कक्षा 5 हिंदी व्याकरण</td><td class="py-3 px-4">प्रतिदिन 5 प्रश्न + गद्यांश</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">साप्ताहिक लक्ष्य तालिका: हर सप्ताह क्या हासिल करें</h2>
+<p>प्रत्येक सप्ताह एक निश्चित लक्ष्य रखें। यह तालिका बताती है कि हर सप्ताह कितने प्रश्न हल करने हैं और किस विषय पर कितना समय देना है:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">सप्ताह</th><th class="py-3 px-4 border-b font-bold text-white text-left">मानसिक योग्यता प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">गणित प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">भाषा प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">कुल प्रश्न</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 1-4</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">50</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b font-bold">120</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 5-8</td><td class="py-3 px-4 border-b">70</td><td class="py-3 px-4 border-b">70</td><td class="py-3 px-4 border-b">30</td><td class="py-3 px-4 border-b font-bold">170</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सप्ताह 9-11</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b font-bold">240</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">सप्ताह 12-16</td><td class="py-3 px-4">मॉक टेस्ट</td><td class="py-3 px-4">मॉक टेस्ट</td><td class="py-3 px-4">मॉक टेस्ट</td><td class="py-3 px-4 font-bold">8 मॉक टेस्ट</td></tr></tbody></table></div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: छोटे लक्ष्य बनाएं</h3>
+<p>"जेएनवीएसटी क्रैक करना है" जैसा बड़ा लक्ष्य बच्चे को भयभीत कर सकता है। इसके बजाय छोटे-छोटे लक्ष्य बनाएं: "आज दस प्रश्न हल करने हैं", "इस सप्ताह आकृति श्रृंखला पूरी करनी है", "इस महीने का अभ्यास सेट हल करना है"। छोटे लक्ष्य पूरे करने से बच्चे का आत्मविश्वास बढ़ता है और वह प्रेरित रहता है।</p>
+</div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Amit Kumar के साथ practice करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">मानसिक योग्यता 50 प्रश्न</h3>
+<p class="text-gray-600 text-xs">अमित कुमार के साथ अभ्यास करें</p>
 </a>
 <a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी परीक्षा पैटर्न 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया पैटर्न</p>
 </a>
 <a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी प्रवेश पत्र 2027</h3>
+<p class="text-gray-600 text-xs">प्रवेश पत्र डाउनलोड करें</p>
 </a>
 <a href="/hi/blog/jnvst-2027-model-paper-free-pdf/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Model Paper 2027</h3>
-<p class="text-gray-600 text-xs">Free PDF download — हल सहित</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी मॉडल पेपर 2027</h3>
+<p class="text-gray-600 text-xs">मुफ्त पीडीएफ डाउनलोड — हल सहित</p>
 </a>
 </div>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JNVST 2027 की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> में Neha Singh से study habits सीखें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">जेएनवीएसटी 2027 की तैयारी कर रहे हैं?</h3><p><strong>जेजीपीएस स्कूल</strong> में नेहा सिंह से अध्ययन अभ्यास सीखें। निःशुल्क परामर्श के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Final Motivational Words</h3>
-<p>120 दिन बाकी हैं — ये बहुत time है अगर सही strategy से पढ़ो। <strong>रोज़ 3 घंटे focused study करो, active recall use करो, और mock tests दो।</strong> तुम कर सकते हो!</p>
-<p class="mt-2 text-sm text-gray-500">Author: Neha Singh | JGPS Study Habits Expert | Pomodoro & Active Recall Specialist</p>
+<h3 class="font-bold text-gray-900 mb-2">अंतिम प्रेरणादायक शब्द</h3>
+<p>120 दिन शेष हैं — यह पर्याप्त समय है यदि सही रणनीति से पढ़ें। <strong>प्रतिदिन तीन घंटे केंद्रित अध्ययन करें, सक्रिय स्मरण का प्रयोग करें, और अभ्यास परीक्षा दें।</strong> आप कर सकते हैं!</p>
+<p class="mt-2 text-sm text-gray-500">लेखक: नेहा सिंह | जेजीपीएस अध्ययन अभ्यास विशेषज्ञ | पोमोडोरो एवं सक्रिय स्मरण विशेषज्ञ</p>
 </div>
 `,
     faqs: [
@@ -8354,148 +8573,260 @@ export const hindiArticles: HindiArticle[] = [
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
-    authorRole: "Entrance Exam Specialist",
-    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं। 90% success rate के साथ Mental Ability और Reasoning सिखाते हैं।",
-    readTime: "7 मिनट",
+    authorRole: "प्रवेश परीक्षा विशेषज्ञ",
+    authorBio: "अमित कुमार जेजीपीएस स्कूल में जेएनवीएसटी एवं सैनिक स्कूल प्रवेश परीक्षा के विशेषज्ञ हैं। नब्बे प्रतिशत सफलता दर के साथ मानसिक योग्यता एवं तर्कशक्ति सिखाते हैं।",
+    readTime: "22 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-class-6-omr-sheet-filling-rules-mistakes.webp",
     imageAlt: "JNVST Class 6 OMR Sheet filling rules mistakes - Navodaya admit card OMR sheet correct way to fill",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-1">⚠️ Urgent Warning — OMR Rules at a Glance:</p>
+    content: `<p><strong>जेएनवीएसटी कक्षा 6 ओएमआर शीट भरने के नियम</strong> — यह लेख प्रत्येक विद्यार्थी और अभिभावक के लिए अत्यंत महत्वपूर्ण है जो 28 नवंबर 2026 को जवाहर नवोदय विद्यालय चयन परीक्षा देने वाले हैं। ओएमआर (ऑप्टिकल मार्क रिकग्निशन) शीट पर गलत भरने से परिणाम रद्द हो सकता है — भले ही बच्चे ने सभी प्रश्न सही हल किए हों। हर वर्ष पाँच से दस प्रतिशत विद्यार्थी केवल ओएमआर शीट की गलतियों के कारण असफल हो जाते हैं। यह एक ऐसी त्रुटि है जो पूरी तरह से टाली जा सकती है — बस नियम सीखें और अभ्यास करें।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-red-700 mb-2">त्वरित सारांश — ओएमआर नियम एक नज़र में:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>Ballpoint Pen Only:</strong> केवल नीला या काला ball pen use करें — pencil नहीं</li>
-<li><strong>Complete Darkening:</strong> गोला पूरा भरें — आधा भरा हुआ scan नहीं होगा</li>
-<li><strong>No Whitener/Blade:</strong> कुछ काटें नहीं, whitener न लगाएं, blade न चलाएं</li>
-<li><strong>Single Response:</strong> हर सवाल का सिर्फ एक गोला भरें — दो भरे तो गलत</li>
+<li><strong>केवल बॉल पॉइंट पेन:</strong> नीला या काला गोल नोक वाला कलम प्रयोग करें — पेंसिल नहीं</li>
+<li><strong>पूरा गोला भरें:</strong> आधा भरा हुआ गोला स्कैन नहीं होगा</li>
+<li><strong>कुछ काटें नहीं:</strong> व्हाइटनर, ब्लेड, रबड़ का प्रयोग वर्जित है</li>
+<li><strong>एक ही उत्तर:</strong> हर प्रश्न का केवल एक गोला भरें — दो भरे तो गलत माना जाएगा</li>
+<li><strong>रोल नंबर सावधानी से:</strong> गलत रोल नंबर = परिणाम किसी और को मिलेगा</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Amit Kumar से संदेश:</p>
-<p>"मैंने पिछले 10 साल में कई बच्चों को OMR sheet की गलती की वजह से fail होते देखा है। बच्चे ने सवाल सही किए, लेकिन OMR पर गलत भरा — result रद्द हो गया। ये बहुत दर्दनाक है। इसलिए OMR filling rules ज़रूर सीखो।"</p>
+<p class="font-bold text-gray-900 mb-2">कोच अमित कुमार से संदेश:</p>
+<p>"मैंने पिछले दस वर्षों में अनेक बच्चों को ओएमआर शीट की गलती के कारण असफल होते देखा है। बच्चों ने प्रश्न सही हल किए, लेकिन ओएमआर पर गलत भरा — परिणाम रद्द हो गया। यह बहुत पीड़ादायक है। इसलिए ओएमआर भरने के नियम अवश्य सीखें और परीक्षा से पहले पर्याप्त अभ्यास करें।"</p>
 </div>
 
-<p><strong>JNVST Class 6 OMR Sheet Filling Rules</strong> — ये article हर student और parent को पढ़ना चाहिए जो 28 नवंबर 2026 को JNVST exam देने वाले हैं। OMR (Optical Mark Recognition) sheet पर गलत भरने से result रद्द हो सकता है — भले ही बच्चे ने सवाल सही किए हों।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">ओएमआर शीट क्या है और यह कैसे काम करती है?</h2>
+<p>ओएमआर शीट एक विशेष प्रकार की उत्तर पत्रक है जिसे मशीन पढ़ती है। ओएमआर का पूरा नाम है — ऑप्टिकल मार्क रिकग्निशन। इस तकनीक में एक विशेष स्कैनर प्रकाश की सहायता से गोलों को पढ़ता है। जब आप किसी गोले को पूरा भरते हैं तो स्कैनर उसे अंधेरा (डार्क) पहचानता है और उसे सही उत्तर मानता है। यदि गोला आधा भरा है, लाइन से काटा गया है, या गोले के बाहर कोई निशान है तो मशीन गलत पढ़ सकती है या उस प्रश्न को छोड़ सकती है।</p>
 
-<p>OMR sheet एक machine-readable sheet है। Machine सिर्फ अंधेरे गोले पढ़ती है। अगर गोला आधा भरा है, दो गोले भरे हैं, या गोले के बाहर marks हैं — तो machine गलत read करेगी या skip कर देगी।</p>
+<p>जवाहर नवोदय विद्यालय चयन परीक्षा में ओएमआर शीट का प्रयोग किया जाता है क्योंकि इसमें 80 प्रश्न होते हैं और हज़ारों विद्यार्थी परीक्षा देते हैं। मशीन द्वारा जाँच करने से परिणाम शीघ्र आते हैं और मानवीय त्रुटि की संभावना समाप्त हो जाती है। परंतु इसका दूसरा पहलू यह है कि यदि विद्यार्थी ने गोले सही ढंग से नहीं भरे तो मशीन उन्हें गलत या रिक्त मानेगी।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST OMR Sheet Bharne Ke 5 Basic Rules</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">ओएमआर शीट का घटक</th><th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">क्या सावधानी रखें</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">उत्तर गोले</td><td class="py-3 px-4 border-b">प्रत्येक प्रश्न के लिए चार विकल्प (अ, ब, स, द)</td><td class="py-3 px-4 border-b">पूरा भरें, आधा न छोड़ें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अनुक्रमांक (रोल नंबर)</td><td class="py-3 px-4 border-b">विद्यार्थी का विशिष्ट पहचान नंबर</td><td class="py-3 px-4 border-b">प्रवेश पत्र से मिलाएं, तीन बार जाँचें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">पुस्तिका संख्या</td><td class="py-3 px-4 border-b">प्रश्न पुस्तिका की संख्या</td><td class="py-3 px-4 border-b">पुस्तिका के ऊपर से पढ़कर भरें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हस्ताक्षर स्थान</td><td class="py-3 px-4 border-b">विद्यार्थी और निरीक्षक के हस्ताक्षर</td><td class="py-3 px-4 border-b">निरीक्षक से हस्ताक्षर अवश्य कराएं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">विषय कोड</td><td class="py-3 px-4 border-b">परीक्षा विषय की पहचान</td><td class="py-3 px-4 border-b">सही कोड भरें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">ओएमआर क्षेत्र कोड</td><td class="py-3 px-4">केंद्र की पहचान</td><td class="py-3 px-4">निरीक्षक के निर्देशानुसार भरें</td></tr></tbody></table></div>
 
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Rule 1: सही Pen चुनें</strong></p>
-<p>केवल <strong>नीला या काला ballpoint pen</strong> use करें। Pencil, gel pen, या marker नहीं। Ball pen की ink dark और consistent होती है जो machine आसानी से पढ़ लेती है।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">जेएनवीएसटी ओएमआर शीट भरने के पाँच मूलभूत नियम</h2>
+<p>ये पाँच नियम प्रत्येक विद्यार्थी को कंठस्थ होने चाहिए। इन नियमों का पालन करने से ओएमआर शीट की कोई गलती नहीं होगी:</p>
 
-<p><strong>Rule 2: गोला पूरा भरें</strong></p>
-<p>हर गोले को <strong>पूरा अंधेरा</strong> करें। आधा भरा, लाइन से काटा, या dot लगाया — ये सब machine read नहीं कर पाएगी।</p>
-
-<p><strong>Rule 3: कुछ काटें नहीं</strong></p>
-<p>OMR sheet पर <strong>whitener, blade, eraser, या scratching</strong> का use न करें। अगर गलती हो गई है तो छोड़ दें — काटने से sheet reject हो जाएगी।</p>
-
-<p><strong>Rule 4: एक ही गोला भरें</strong></p>
-<p>हर सवाल का <strong>सिर्फ एक गोला</strong> भरें। अगर दो गोले भरे हैं तो machine उसे "no answer" मानेगी।</p>
-
-<p><strong>Rule 5: Roll Number ध्यान से भरें</strong></p>
-<p>Roll number सबसे important है। अगर roll number गलत भरा है तो <strong>आपका result किसी और को मिलेगा</strong> और आपको कुछ नहीं मिलेगा।</p>
+<div class="bg-gray-50 rounded-xl p-6 my-6">
+<div class="border-l-4 border-[#035c00] pl-4 mb-4">
+<p class="font-bold text-gray-900">नियम 1: सही कलम चुनें</p>
+<p>केवल <strong>नीला या काला बॉल पॉइंट पेन</strong> प्रयोग करें। जेल पेन, पेंसिल, मार्कर, या फाउंटेन पेन का प्रयोग न करें। बॉल पेन की स्याही गहरी और एकसमान होती है जो मशीन आसानी से पढ़ लेती है। जेल पेन की स्याही चमकदार होती है जो स्कैनर को भ्रमित कर सकती है। पेंसिल का निशान हल्का होता है जो मशीन पढ़ नहीं पाती।</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Disqualifying Mistakes That Cancel Your JNVST Result</h2>
+<div class="border-l-4 border-[#035c00] pl-4 mb-4">
+<p class="font-bold text-gray-900">नियम 2: गोला पूरा भरें</p>
+<p>हर गोले को <strong>पूरी तरह से अंधेरा</strong> करें। आधा भरा, केवल एक रेखा से काटा, या बिंदु लगाया — यह सब मशीन नहीं पढ़ पाएगी। गोले को भरते समय कलम को गोले के किनारे तक ले जाएं। बीच में खाली न छोड़ें। पूरा गोला एकसमान अंधेरा दिखना चाहिए।</p>
+</div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 1: Multiple Bubbles (दो गोले भरना)</h3>
-<p>अगर एक सवाल के दो गोले भरे हैं तो machine उसे <strong>"no answer"</strong> मानेगी। कोई marks नहीं मिलेंगे।</p>
+<div class="border-l-4 border-[#035c00] pl-4 mb-4">
+<p class="font-bold text-gray-900">नियम 3: कुछ भी काटें या मिटाएं नहीं</p>
+<p>ओएमआर शीट पर <strong>व्हाइटनर, ब्लेड, रबड़, या खरोंच</strong> का प्रयोग सख्त वर्जित है। यदि गलती हो गई है तो उसे छोड़ दें — काटने से शीट अस्वीकृत हो जाएगी। ओएमआर शीट पर किसी भी प्रकार की छेड़छाड़ न करें। यदि गलत गोला भर दिया है तो दूसरा सही गोला भर दें (परंतु ध्यान रहे कि दो गोले न भरें)।</p>
+</div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 2: Partial Darkening (आधा भरना)</h3>
-<p>गोला पूरा भरें। अगर सिर्फ एक line से काटा है या dot लगाया है तो machine <strong>skip</strong> कर देगी।</p>
+<div class="border-l-4 border-[#035c00] pl-4 mb-4">
+<p class="font-bold text-gray-900">नियम 4: हर प्रश्न का केवल एक गोला भरें</p>
+<p>हर प्रश्न के लिए <strong>केवल एक ही गोला</strong> भरें। यदि दो गोले भरे हैं तो मशीन उसे "कोई उत्तर नहीं" मानेगी और कोई अंक नहीं मिलेगा। इसलिए पहले प्रश्न का उत्तर सोच-समझकर चुनें, फिर एक ही गोला भरें।</p>
+</div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 3: Stray Marks (गोले के बाहर marks)</h3>
-<p>OMR sheet पर गोले के बाहर <strong>कोई mark नहीं</strong> होना चाहिए। अगर pen slip हो गया है या गोले के बाहर line है तो sheet reject हो सकती है।</p>
+<div class="border-l-4 border-[#035c00] pl-4">
+<p class="font-bold text-gray-900">नियम 5: अनुक्रमांक (रोल नंबर) अत्यंत सावधानी से भरें</p>
+<p>अनुक्रमांक सबसे महत्वपूर्ण हिस्सा है। यदि अनुक्रमांक गलत भरा है तो <strong>आपका परिणाम किसी और को मिलेगा</strong> और आपको कुछ नहीं मिलेगा। अनुक्रमांक भरने से पहले प्रवेश पत्र से मिलाएं। हर अंक ध्यान से देखें। तीन बार जाँचें, फिर भरें।</p>
+</div>
+</div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 4: Whitener/Scratching (काटना)</h3>
-<p>OMR sheet पर <strong>whitener, blade, eraser</strong> का use सख्त मना है। अगर गलती हो गई है तो छोड़ दें — काटने से sheet reject हो जाएगी।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">पाँच ऐसी गलतियाँ जो परिणाम रद्द कर सकती हैं</h2>
+<p>प्रत्येक वर्ष अनेक विद्यार्थी इन गलतियों के कारण असफल होते हैं। इन गलतियों को जानें और बचें:</p>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Mistake 5: Wrong Roll Number (गलत Roll Number)</h3>
-<p>अगर roll number गलत भरा है तो <strong>आपका result किसी और को मिलेगा</strong>। ये सबसे बड़ी गलती है — और सबसे common भी।</p>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">गलती 1: एक प्रश्न के दो गोले भरना</h3>
+<p>यह सबसे सामान्य गलती है। यदि किसी एक प्रश्न के दो गोले भरे गए हैं तो मशीन उसे <strong>"कोई उत्तर नहीं"</strong> मानेगी। अर्थात उस प्रश्न के लिए कोई अंक नहीं मिलेगा। यह गलती तब होती है जब विद्यार्थी पहले गलत गोला भरता है और फिर सही गोला भर देता है, परंतु पहले वाला मिटाता नहीं।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">गलती 2: गोला आधा भरना</h3>
+<p>गोले को पूरा भरें। यदि केवल एक रेखा से काटा है, बिंदु लगाया है, या आधा भरा है तो मशीन उसे <strong>पहचान नहीं पाएगी</strong> और उस प्रश्न को छोड़ देगी। अनेक विद्यार्थी जल्दीबाज़ी में गोले को हल्के से काट देते हैं, जो मशीन के लिए पर्याप्त नहीं होता।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">गलती 3: गोले के बाहर निशान बनाना</h3>
+<p>ओएमआर शीट पर गोले के बाहर <strong>कोई भी निशान नहीं</strong> होना चाहिए। यदि कलम फिसल गया है, गोले के बाहर रेखा बन गई है, या स्याही की बूंद गिर गई है तो शीट अस्वीकृत हो सकती है। मशीन गोले के बाहर के निशानों को भी पढ़ सकती है और गलत व्याख्या कर सकती है।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">गलती 4: व्हाइटनर या खरोंच का प्रयोग</h3>
+<p>ओएमआर शीट पर <strong>व्हाइटनर, ब्लेड, रबड़</strong> का प्रयोग सख्त मना है। यदि गलती हो गई है तो उसे छोड़ दें। व्हाइटनर लगाने से शीट की सतह पर अवशेष रह जाता है जो स्कैनर को भ्रमित करता है। ब्लेड से काटने पर शीट फट सकती है या खरोंच पड़ सकती है। ऐसी शीट स्वचालित रूप से अस्वीकृत हो जाती है।</p>
+
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">गलती 5: गलत अनुक्रमांक (रोल नंबर) भरना</h3>
+<p>यह सबसे बड़ी और सबसे दुखद गलती है। यदि अनुक्रमांक गलत भरा है तो <strong>आपका परिणाम किसी और विद्यार्थी को मिलेगा</strong> और आपको कुछ नहीं मिलेगा। हर वर्ष अनेक विद्यार्थी यह गलती करते हैं। अनुक्रमांक भरते समय प्रवेश पत्र बगल में रखें और हर अंक मिलाते हुए भरें।</p>
 
 <div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-2">Amit Kumar's Warning:</p>
-<p>"हर साल 5-10% students OMR sheet की गलती की वजह से fail होते हैं। बच्चे ने सवाल सही किए, लेकिन OMR पर गलत भरा। ये avoidable mistake है — बस rules सीखो और practice करो।"</p>
+<p class="font-bold text-red-700 mb-2">कोच अमित कुमार की चेतावनी:</p>
+<p>"प्रत्येक वर्ष पाँच से दस प्रतिशत विद्यार्थी ओएमआर शीट की गलती के कारण असफल होते हैं। बच्चों ने प्रश्न सही हल किए, लेकिन ओएमआर पर गलत भरा। यह ऐसी गलती है जो पूरी तरह से टाली जा सकती है — बस नियम सीखें और अभ्यास करें।"</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">OMR Filling Comparison Matrix: Sahi vs Galat Tarika</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Element</th><th class="py-3 px-4 border-b font-bold text-white text-left">✅ Correct (Sahi)</th><th class="py-3 px-4 border-b font-bold text-white text-left">❌ Wrong (Galat)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Pen</td><td class="py-3 px-4 border-b">Blue/Black ballpoint pen</td><td class="py-3 px-4 border-b">Pencil, gel pen, marker</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Bubbling</td><td class="py-3 px-4 border-b">पूरा गोला भरा हुआ</td><td class="py-3 px-4 border-b">आधा, dot, line, cross</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction</td><td class="py-3 px-4 border-b">दूसरा गोला भरें (best option: छोड़ दें)</td><td class="py-3 px-4 border-b">Whitener, blade, eraser, scratching</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Roll Number</td><td class="py-3 px-4 border-b">3 बार check करें, फिर भरें</td><td class="py-3 px-4 border-b">जल्दी में भरना, skip करना</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Stray Marks</td><td class="py-3 px-4 border-b">कोई mark नहीं</td><td class="py-3 px-4 border-b">गोले के बाहर pen slip, dots</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Multiple Answers</td><td class="py-3 px-4">सिर्फ एक गोला</td><td class="py-3 px-4">दो या ज्यादा गोले</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">गलती</th><th class="py-3 px-4 border-b font-bold text-white text-left">क्या होता है</th><th class="py-3 px-4 border-b font-bold text-white text-left">कितने विद्यार्थी करते हैं</th><th class="py-3 px-4 border-b font-bold text-white text-left">कैसे बचें</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">दो गोले भरना</td><td class="py-3 px-4 border-b">कोई अंक नहीं</td><td class="py-3 px-4 border-b">3-5%</td><td class="py-3 px-4 border-b">पहले सोचें, फिर भरें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आधा गोला</td><td class="py-3 px-4 border-b">मशीन छोड़ देती है</td><td class="py-3 px-4 border-b">2-3%</td><td class="py-3 px-4 border-b">पूरा गोला भरें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">बाहर निशान</td><td class="py-3 px-4 border-b">शीट अस्वीकृत</td><td class="py-3 px-4 border-b">1-2%</td><td class="py-3 px-4 border-b">सावधानी से भरें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">व्हाइटनर</td><td class="py-3 px-4 border-b">शीट अस्वीकृत</td><td class="py-3 px-4 border-b">1-2%</td><td class="py-3 px-4 border-b">गलती छोड़ दें</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">गलत रोल नंबर</td><td class="py-3 px-4">परिणाम दूसरे को</td><td class="py-3 px-4">2-4%</td><td class="py-3 px-4">तीन बार जाँचें</td></tr></tbody></table></div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Step-by-Step Guide: Roll Number Aur Booklet Number Kaise Bharein?</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">सही और गलत तरीके की तुलनात्मक सारणी</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">घटक</th><th class="py-3 px-4 border-b font-bold text-white text-left">सही तरीका</th><th class="py-3 px-4 border-b font-bold text-white text-left">गलत तरीका</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">कलम</td><td class="py-3 px-4 border-b">नीला/काला बॉल पॉइंट पेन</td><td class="py-3 px-4 border-b">पेंसिल, जेल पेन, मार्कर</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गोला भरना</td><td class="py-3 px-4 border-b">पूरा गोला अंधेरा</td><td class="py-3 px-4 border-b">आधा, बिंदु, रेखा, क्रॉस</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार</td><td class="py-3 px-4 border-b">दूसरा गोला भरें (सर्वोत्तम: छोड़ दें)</td><td class="py-3 px-4 border-b">व्हाइटनर, ब्लेड, रबड़</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अनुक्रमांक</td><td class="py-3 px-4 border-b">तीन बार जाँचें, फिर भरें</td><td class="py-3 px-4 border-b">जल्दी में भरना, छोड़ना</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">बाहर निशान</td><td class="py-3 px-4 border-b">कोई निशान नहीं</td><td class="py-3 px-4 border-b">कलम फिसलना, बूंदें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">बहुउत्तर</td><td class="py-3 px-4">केवल एक गोला</td><td class="py-3 px-4">दो या अधिक गोले</td></tr></tbody></table></div>
 
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Step 1: Roll Number सबसे पहले भरें</strong></p>
-<p>Exam शुरू होते ही सबसे पहले Roll Number भरें। बाद में भरना भूल सकते हैं।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">अनुक्रमांक और पुस्तिका संख्या कैसे भरें — चरणबद्ध मार्गदर्शिका</h2>
+<p>अनुक्रमांक और पुस्तिका संख्या भरना ओएमआर शीट का सबसे महत्वपूर्ण भाग है। इसे अत्यंत सावधानी से भरें:</p>
 
-<p><strong>Step 2: Roll Number 3 बार check करें</strong></p>
-<p>Admit card से match करें। हर digit ध्यान से देखें। एक गलत digit = result रद्द।</p>
-
-<p><strong>Step 3: Booklet Number भरें</strong></p>
-<p>Question booklet के ऊपर Booklet Number लिखा होता है। उसे OMR sheet पर सही जगह भरें।</p>
-
-<p><strong>Step 4: Invigilator Signature Space भरें</strong></p>
-<p>OMR sheet पर Invigilator के signature की जगह होती है। Invigilator से sign कराएं।</p>
-
-<p><strong>Step 5: बच्चे का Signature</strong></p>
-<p>OMR sheet पर बच्चे के signature की जगह होती है। बच्चे से sign कराएं।</p>
+<div class="bg-gray-50 rounded-xl p-6 my-6">
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">1</span>
+<div>
+<p class="font-bold text-gray-900">अनुक्रमांक सबसे पहले भरें</p>
+<p>परीक्षा शुरू होते ही सबसे पहले अनुक्रमांक भरें। बाद में भरना भूल सकते हैं। अनेक विद्यार्थी प्रश्न हल करने में इतने व्यस्त हो जाते हैं कि अनुक्रमांक भरना भूल जाते हैं। ऐसा होने पर उनकी शीट का मूल्यांकन ही नहीं होता।</p>
+</div>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Amit Kumar की 3-Step OMR Practice Strategy</h2>
-
-<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
-<h3 class="font-bold text-gray-900 mb-3">Step 1: OMR Template Print करें</h3>
-<p>Internet से OMR sheet template download करें और print करें। बच्चे को practice करने दें।</p>
-
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Daily 10 Questions OMR पर भरें</h3>
-<p>रोज़ 10 सवाल solve करें और OMR sheet पर भरें। बच्चे को bubbling technique practice करने दें।</p>
-
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Mock Test में OMR Use करें</h3>
-<p>हर mock test में OMR sheet use करें। बच्चे को exam day जैसा feel होना चाहिए।</p>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">2</span>
+<div>
+<p class="font-bold text-gray-900">प्रवेश पत्र से मिलाएं</p>
+<p>अनुक्रमांक भरने से पहले प्रवेश पत्र बगल में रखें। हर अंक ध्यान से देखें और मिलाएं। एक गलत अंक = परिणाम रद्द। उदाहरण: यदि अनुक्रमांक 26001234567 है और आपने 26001234576 भर दिया तो परिणाम किसी और को मिलेगा।</p>
 </div>
+</div>
+
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">3</span>
+<div>
+<p class="font-bold text-gray-900">तीन बार जाँचें</p>
+<p>अनुक्रमांक भरने के बाद तीन बार जाँचें। पहली बार: प्रवेश पत्र से मिलाएं। दूसरी बार: उलटा पढ़ें (दाएं से बाएं)। तीसरी बार: हर अंक को अलग से देखें।</p>
+</div>
+</div>
+
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">4</span>
+<div>
+<p class="font-bold text-gray-900">पुस्तिका संख्या भरें</p>
+<p>प्रश्न पुस्तिका के ऊपर पुस्तिका संख्या लिखी होती है। उसे ओएमआर शीट पर सही स्थान पर भरें। पुस्तिका संख्या गलत भरने से उत्तर कुंजी मेल नहीं खाएगी और परिणाम गलत आ सकता है।</p>
+</div>
+</div>
+
+<div class="flex items-start gap-3">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">5</span>
+<div>
+<p class="font-bold text-gray-900">हस्ताक्षर करें और निरीक्षक से हस्ताक्षर कराएं</p>
+<p>ओएमआर शीट पर विद्यार्थी के हस्ताक्षर का स्थान होता है। विद्यार्थी अपना हस्ताक्षर करें। इसके बाद निरीक्षक से भी हस्ताक्षर कराएं। निरीक्षक के हस्ताक्षर के बिना शीट अमान्य हो सकती है।</p>
+</div>
+</div>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">स्वीकार्य और प्रतिबंधित लेखन सामग्री</h2>
+<p>परीक्षा केंद्र पर कौन सी लेखन सामग्री ले जाएं और कौन सी नहीं, यह जानना अत्यंत आवश्यक है:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">अनुमत सामग्री</th><th class="py-3 px-4 border-b font-bold text-white text-left">प्रतिबंधित सामग्री</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">नीला बॉल पॉइंट पेन</td><td class="py-3 px-4 border-b">पेंसिल (शलाका)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">काला बॉल पॉइंट पेन</td><td class="py-3 px-4 border-b">जेल पेन</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रवेश पत्र</td><td class="py-3 px-4 border-b">मार्कर / हाइलाइटर</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">पहचान पत्र</td><td class="py-3 px-4 border-b">व्हाइटनर / सुधार द्रव</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">—</td><td class="py-3 px-4 border-b">ब्लेड / रबड़</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">—</td><td class="py-3 px-4">फाउंटेन पेन</td></tr></tbody></table></div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
-<p class="font-bold">Amit Kumar's Pro-Tip:</p>
-<p>Exam में OMR sheet <strong>सबसे पहले Roll Number भरो</strong> — बाद में भरना भूल सकते हो। फिर एक-एक सवाल solve करो और तुरंत OMR पर mark करो। सब सवाल solve करके एक साथ OMR मत भरो — time waste होगा और गलती होगी।</p>
+<p class="font-bold">कोच अमित कुमार का विशेष सुझाव:</p>
+<p>परीक्षा में ओएमआर शीट पर <strong>सबसे पहले अनुक्रमांक भरें</strong> — बाद में भरना भूल सकते हैं। फिर एक-एक प्रश्न हल करें और तुरंत ओएमआर पर चिह्नित करें। सभी प्रश्न हल करके एक साथ ओएमआर मत भरें — समय बर्बाद होगा और गलती होगी। प्रत्येक प्रश्न के बाद तुरंत गोला भरने की आदत डालें।</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Acceptable Pens vs Prohibited Stationeries</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">✅ Allowed</th><th class="py-3 px-4 border-b font-bold text-white text-left">❌ Not Allowed</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Blue ballpoint pen</td><td class="py-3 px-4 border-b">Pencil</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Black ballpoint pen</td><td class="py-3 px-4 border-b">Gel pen</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">—</td><td class="py-3 px-4 border-b">Marker / Highlighter</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">—</td><td class="py-3 px-4 border-b">Whitener / Correction fluid</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">—</td><td class="py-3 px-4 border-b">Blade / Eraser</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">—</td><td class="py-3 px-4">Fountain pen</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">कोच अमित कुमार की तीन-चरणीय ओएमआर अभ्यास रणनीति</h2>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">1</span>
+<div>
+<p class="font-bold text-gray-900">ओएमआर नमूना प्रिंट करें</p>
+<p>इंटरनेट से ओएमआर शीट का नमूना डाउनलोड करें और प्रिंट करें। बच्चे को इस पर अभ्यास करने दें। कम से कम दस प्रतियाँ प्रिंट करें ताकि पर्याप्त अभ्यास हो सके। नमूना असली ओएमआर शीट जैसा होना चाहिए।</p>
+</div>
+</div>
+
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">2</span>
+<div>
+<p class="font-bold text-gray-900">प्रतिदिन दस प्रश्न ओएमआर पर भरें</p>
+<p>प्रत्येक दिन दस प्रश्न हल करें और ओएमआर शीट पर भरें। बच्चे को गोला भरने की तकनीक का अभ्यास करने दें। धीरे-धीरे गति बढ़ाएं। पहले सप्ताह में धीमे भरें, दूसरे सप्ताह में गति बढ़ाएं, तीसरे सप्ताह में परीक्षा जैसी गति से भरें।</p>
+</div>
+</div>
+
+<div class="flex items-start gap-3">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">3</span>
+<div>
+<p class="font-bold text-gray-900">अभ्यास परीक्षा में ओएमआर का प्रयोग करें</p>
+<p>हर अभ्यास परीक्षा (मॉक टेस्ट) में ओएमआर शीट का प्रयोग करें। बच्चे को परीक्षा दिवस जैसा अनुभव होना चाहिए। समय सीमा निर्धारित करें और बिना रुके पूरी शीट भरवाएं। इससे बच्चे का आत्मविश्वास बढ़ेगा और परीक्षा के दिन कोई गलती नहीं होगी।</p>
+</div>
+</div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: अभ्यास का सही समय</h3>
+<p>ओएमआर अभ्यास परीक्षा से तीन सप्ताह पहले शुरू करें। पहले सप्ताह में केवल गोला भरने का अभ्यास करें। दूसरे सप्ताह में अनुक्रमांक और पुस्तिका संख्या भरने का अभ्यास करें। तीसरे सप्ताह में पूरी ओएमआर शीट भरने का अभ्यास करें — समय सीमा के साथ।</p>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">परीक्षा केंद्र पर ओएमआर शीट भरने की चरणबद्ध प्रक्रिया</h2>
+<p>परीक्षा केंद्र पर ओएमआर शीट भरते समय निम्नलिखित क्रम का पालन करें। यह क्रम कोच अमित कुमार द्वारा अनुशंसित है:</p>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6">
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">1</span>
+<div>
+<p class="font-bold text-gray-900">ओएमआर शीट प्राप्त करें</p>
+<p>निरीक्षक से ओएमआर शीट प्राप्त करें। शीट को ध्यान से देखें — कहीं फटी या मुड़ी हुई न हो। यदि शीट खराब है तो निरीक्षक से दूसरी शीट मांगें।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">2</span>
+<div>
+<p class="font-bold text-gray-900">अनुक्रमांक भरें</p>
+<p>सबसे पहले अनुक्रमांक (रोल नंबर) भरें। प्रवेश पत्र से मिलाएं। तीन बार जाँचें। यह सबसे महत्वपूर्ण कदम है — गलत अनुक्रमांक का अर्थ है परिणाम किसी और को मिलना।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">3</span>
+<div>
+<p class="font-bold text-gray-900">पुस्तिका संख्या भरें</p>
+<p>प्रश्न पुस्तिका के ऊपर से पुस्तिका संख्या पढ़ें और ओएमआर शीट पर सही स्थान पर भरें। पुस्तिका संख्या गलत भरने से उत्तर कुंजी मेल नहीं खाएगी।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">4</span>
+<div>
+<p class="font-bold text-gray-900">प्रश्न हल करें और तुरंत गोला भरें</p>
+<p>एक प्रश्न हल करें, उत्तर चुनें, और तुरंत ओएमआर पर गोला भरें। सभी प्रश्न हल करके एक साथ ओएमआर मत भरें — इससे समय बर्बाद होगा और गलती होगी।</p>
+</div>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">5</span>
+<div>
+<p class="font-bold text-gray-900">हस्ताक्षर करें और जमा करें</p>
+<p>अंत में अपना हस्ताक्षर करें और निरीक्षक से हस्ताक्षर कराएं। ओएमआर शीट को सावधानी से निरीक्षक को सौंपें — मुड़ें नहीं, काटें नहीं।</p>
+</div>
+</div>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">ओएमआर शीट से संबंधित अक्सर पूछे जाने वाले प्रश्न</h2>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न</th><th class="py-3 px-4 border-b font-bold text-white text-left">उत्तर</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्या पेंसिल से गोला भर सकते हैं?</td><td class="py-3 px-4 border-b">नहीं, केवल बॉल पॉइंट पेन</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गलत गोला भर दिया तो?</td><td class="py-3 px-4 border-b">व्हाइटनर न लगाएं, दूसरा सही गोला भरें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्या ओएमआर शीट मोड़ सकते हैं?</td><td class="py-3 px-4 border-b">नहीं, सीधी रखें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अनुक्रमांक भूल गए तो?</td><td class="py-3 px-4 border-b">प्रवेश पत्र देखें, निरीक्षक से पूछें</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">कितने कलम ले जाएं?</td><td class="py-3 px-4">कम से कम दो बॉल पेन</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/jnvst-2027-exam-pattern-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Exam Pattern 2027</h3>
-<p class="text-gray-600 text-xs">80 प्रश्न, नया pattern</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी परीक्षा पैटर्न 2027</h3>
+<p class="text-gray-600 text-xs">80 प्रश्न, नया पैटर्न</p>
 </a>
 <a href="/hi/blog/jnvst-2027-mental-ability-50-questions-hindi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Mental Ability 50 Questions</h3>
-<p class="text-gray-600 text-xs">Practice questions with answers</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">मानसिक योग्यता 50 प्रश्न</h3>
+<p class="text-gray-600 text-xs">उत्तर सहित अभ्यास प्रश्न</p>
 </a>
 <a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी प्रवेश पत्र 2027</h3>
+<p class="text-gray-600 text-xs">प्रवेश पत्र डाउनलोड करें</p>
 </a>
 <a href="/hi/blog/jnvst-2027-answer-key-download-navodaya-class-6/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Answer Key 2027</h3>
-<p class="text-gray-600 text-xs">Answer Key download और score calculate</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी उत्तर कुंजी 2027</h3>
+<p class="text-gray-600 text-xs">उत्तर कुंजी डाउनलोड और अंक गणना</p>
 </a>
 </div>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">OMR Sheet Practice करना है?</h3><p><strong>JGPS School</strong> में Amit Kumar से OMR filling technique सीखें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">ओएमआर शीट का अभ्यास करना है?</h3><p><strong>जेजीपीएस स्कूल</strong> में कोच अमित कुमार से ओएमआर भरने की तकनीक सीखें। निःशुल्क परामर्श के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Final Advisory for Parents</h3>
-<p>OMR sheet filling एक skill है — practice से सीखी जाती है। <strong>Exam से पहले बच्चे को OMR sheet पर practice कराएं।</strong> Template print करें, daily 10 questions OMR पर भरवाएं। ये simple practice exam day पर 10-20 marks का फर्क ला सकती है।</p>
-<p class="mt-2 text-sm text-gray-500">Author: Amit Kumar | JGPS Entrance Exam Specialist | 90% Success Rate</p>
+<h3 class="font-bold text-gray-900 mb-2">अभिभावकों के लिए अंतिम सलाह</h3>
+<p>ओएमआर शीट भरना एक कौशल है — अभ्यास से सीखा जाता है। <strong>परीक्षा से पहले बच्चे को ओएमआर शीट पर अभ्यास कराएं।</strong> नमूना प्रिंट करें, प्रतिदिन दस प्रश्न ओएमआर पर भरवाएं। यह सरल अभ्यास परीक्षा दिवस पर दस से बीस अंकों का अंतर ला सकता है।</p>
+<p class="mt-2 text-sm text-gray-500">लेखक: अमित कुमार | जेजीपीएस प्रवेश परीक्षा विशेषज्ञ | नब्बे प्रतिशत सफलता दर</p>
 </div>
 `,
-    faqs: [
-      { question: "JNVST OMR sheet पर कौन सा pen use करें?", answer: "केवल नीला या काला ballpoint pen। Pencil, gel pen, marker, या fountain pen use न करें।" },
-      { question: "OMR sheet पर गलती हो गई तो क्या करें?", answer: "Whitener, blade, eraser use न करें। अगर possible है तो दूसरा गोला भरें। लेकिन सबसे अच्छा है गलती छोड़ दें।" },
-      { question: "OMR sheet पर Roll Number गलत भरा तो क्या होगा?", answer: "आपका result किसी और को मिलेगा और आपको कुछ नहीं मिलेगा। Roll Number 3 बार check करें।" },
-      { question: "OMR sheet practice कैसे करें?", answer: "Internet से OMR template download करें, print करें, और रोज़ 10 questions OMR पर भरें। Mock tests में OMR use करें।" }
+                                    faqs: [
+      { question: "जेएनवीएसटी ओएमआर शीट पर कौन सा कलम प्रयोग करें?", answer: "केवल नीला या काला बॉल पॉइंट पेन प्रयोग करें। पेंसिल, जेल पेन, मार्कर, या फाउंटेन पेन का प्रयोग न करें।" },
+      { question: "ओएमआर शीट पर गलती हो गई तो क्या करें?", answer: "व्हाइटनर, ब्लेड, रबड़ का प्रयोग न करें। यदि संभव हो तो दूसरा गोला भरें। परंतु सबसे अच्छा है कि गलती छोड़ दें।" },
+      { question: "ओएमआर शीट पर अनुक्रमांक गलत भरा तो क्या होगा?", answer: "आपका परिणाम किसी और विद्यार्थी को मिलेगा और आपको कुछ नहीं मिलेगा। अनुक्रमांक तीन बार जाँचें।" },
+      { question: "ओएमआर शीट का अभ्यास कैसे करें?", answer: "इंटरनेट से ओएमआर नमूना डाउनलोड करें, प्रिंट करें, और प्रतिदिन दस प्रश्न ओएमआर पर भरें। अभ्यास परीक्षाओं में ओएमआर का प्रयोग करें।" }
     ]
   },
   {
@@ -8508,164 +8839,252 @@ export const hindiArticles: HindiArticle[] = [
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
-    authorRole: "Navodaya & JNVST Coach",
-    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं। 7+ साल के experience के साथ 85% success rate है।",
-    readTime: "7 मिनट",
+    authorRole: "नवोदय एवं जेएनवीएसटी प्रशिक्षक",
+    authorBio: "नजमा जय गोविंद पब्लिक स्कूल में नवोदय विद्यालय प्रवेश परीक्षा की तैयारी कराती हैं। सात वर्षों से अधिक के अनुभव के साथ इनकी सफलता दर पचासी प्रतिशत है।",
+    readTime: "22 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-form-correction-window-edit-details.webp",
     imageAlt: "JNVST 2027 Correction Window - form edit details photo signature correction guide Hindi",
-    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Correction Window Snapshot:</p>
+    content: `<p><strong>जेएनवीएसटी 2027 सुधार विंडो</strong> — क्या आपने नवोदय विद्यालय कक्षा 6 प्रवेश फॉर्म में कोई गलती कर दी है? फोटो गलत लग गई, नाम की वर्तनी गलत हो गई, या जाति वर्ग में चूक हो गई? घबराने की ज़रूरत नहीं है। नवोदय विद्यालय समिति (एनवीएस) हर साल एक सुधार विंडो खोलती है जिसमें आप अपने फॉर्म की कई जानकारियाँ सुधार सकते हैं। इस विस्तृत लेख में हम आपको बताएँगे कि सुधार विंडो कब खुलेगी, कौन-सी जानकारियाँ बदली जा सकती हैं, कौन-सी नहीं, और कदम-दर-कदम पूरी प्रक्रिया क्या है।</p>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">सुधार विंडो की संक्षिप्त जानकारी:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>Correction Window Expected:</strong> अगस्त 2026 का पहला हफ्ता</li>
-<li><strong>Duration:</strong> 3-5 दिन (limited time!)</li>
-<li><strong>Official Login:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
-<li><strong>Fee:</strong> बिल्कुल FREE — कोई charge नहीं</li>
-<li><strong>Edit कर सकते हैं:</strong> Photo, Signature, Category, Gender, Medium</li>
-<li><strong>Edit नहीं कर सकते:</strong> State, District, Block</li>
+<li><strong>सुधार विंडो अपेक्षित:</strong> अगस्त 2026 का पहला सप्ताह</li>
+<li><strong>अवधि:</strong> तीन से पाँच दिन (सीमित समय!)</li>
+<li><strong>आधिकारिक लॉगिन:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
+<li><strong>शुल्क:</strong> बिल्कुल निःशुल्क — कोई शुल्क नहीं</li>
+<li><strong>सुधार कर सकते हैं:</strong> फोटो, हस्ताक्षर, जाति वर्ग, लिंग, माध्यम</li>
+<li><strong>सुधार नहीं कर सकते:</strong> राज्य, ज़िला, विकासखंड</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Coach Najma से संदेश:</p>
-<p>"अगर आपने JNVST 2027 का form भरते समय गलती की है — फोटो गलत upload हो गई, नाम में spelling mistake है, या category गलत select हो गई — तो घबराएं नहीं। NVS correction window देता है। ये article आपको step-by-step बताएगा कि कैसे edit करें।"</p>
+<p class="font-bold text-gray-900 mb-2">प्रशिक्षक नजमा का संदेश:</p>
+<p>"यदि आपने जेएनवीएसटी 2027 का फॉर्म भरते समय कोई गलती की है — फोटो गलत अपलोड हो गई, नाम में वर्तनी की त्रुटि है, अथवा जाति वर्ग गलत चुन गया — तो घबराइए मत। एनवीएस सुधार विंडो देता है।"</p>
 </div>
 
-<p><strong>JNVST 2027 Correction Window</strong> — अगर आपने Navodaya Class 6 admission form भरते समय गलती की है, तो चिंता मत करो। NVS हर साल correction window खोलता है जिसमें आप form में कुछ details edit कर सकते हैं। ये window अगस्त 2026 के पहले हफ्ते में खुलने की संभावना है।</p>
+<p>सुधार विंडो केवल तीन से पाँच दिनों के लिए खुलती है। इसलिए जैसे ही लिंक सक्रिय हो, तुरंत सुधार करें। विलंब न करें — विंडो बंद हो जाएगी और फिर कुछ नहीं हो सकता।</p>
 
-<p>Correction window सिर्फ 3-5 दिन के लिए खुलती है। इसलिए जैसे ही link active हो, तुरंत edit करें। Late मत करो — window बंद हो जाएगी और फिर कुछ नहीं हो सकता।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">जेएनवीएसटी 2027 सुधार विंडो कब खुलेगी?</h2>
+<p>नवोदय विद्यालय समिति प्रत्येक वर्ष फॉर्म भरने की अंतिम तिथि के बाद सुधार विंडो खोलती है। इस वर्ष फॉर्म भरने की अंतिम तिथि सात अगस्त 2026 है। अतः सुधार विंडो अगस्त 2026 के पहले सप्ताह में खुलने की संभावना है।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Correction Window Kab Khulegi?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date (Expected)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Submission Closed</td><td class="py-3 px-4 border-b">7 August 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">6 days left</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Opens</td><td class="py-3 px-4 border-b">1st Week August 2026</td><td class="py-3 px-4 border-b text-gray-500">Expected</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Closes</td><td class="py-3 px-4 border-b">3-5 days after opening</td><td class="py-3 px-4 border-b text-gray-500">Limited time!</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 font-bold">28 November 2026</td><td class="py-3 px-4 text-blue-600 font-bold">Confirmed</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">तिथि (अपेक्षित)</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">फॉर्म भरना बंद</td><td class="py-3 px-4 border-b">सात अगस्त 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">शेष छह दिन</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार विंडो खुलेगी</td><td class="py-3 px-4 border-b">अगस्त 2026 का पहला सप्ताह</td><td class="py-3 px-4 border-b text-gray-500">अपेक्षित</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार विंडो बंद होगी</td><td class="py-3 px-4 border-b">खुलने के तीन से पाँच दिन बाद</td><td class="py-3 px-4 border-b text-gray-500">सीमित समय!</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 font-bold">अट्ठाईस नवंबर 2026</td><td class="py-3 px-4 text-blue-600 font-bold">पुष्ट</td></tr>
+</tbody>
+</table>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Kya-Kya Edit Ho Sakta Hai Aur Kya Nahi?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Field</th><th class="py-3 px-4 border-b font-bold text-white text-left">Edit Possible?</th><th class="py-3 px-4 border-b font-bold text-white text-left">Notes</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Candidate Photo</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload correct photo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Candidate Signature</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload correct signature</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Category (Gen/OBC/SC/ST)</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Select correct category</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Gender</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Male/Female correction</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Medium of Exam</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Hindi/English/Regional</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Disability Status</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Yes/No correction</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload if wrong</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">State</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ No</td><td class="py-3 px-4 border-b">Fixed — cannot change</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">District</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ No</td><td class="py-3 px-4 border-b">Fixed — cannot change</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Block</td><td class="py-3 px-4 text-red-600 font-bold">❌ No</td><td class="py-3 px-4">Fixed — cannot change</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">क्या-क्या सुधार किया जा सकता है और क्या नहीं?</h2>
+<p>सुधार विंडो में सभी जानकारियाँ बदलने की सुविधा नहीं मिलती। नीचे दी गई तालिका में विस्तार से देखें:</p>
+
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">सुधार संभव?</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">टिप्पणी</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">अभ्यर्थी का फोटो</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">सही फोटो दोबारा अपलोड करें</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अभ्यर्थी के हस्ताक्षर</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">सही हस्ताक्षर दोबारा अपलोड करें</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">जाति वर्ग</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">सही वर्ग चुनें</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">लिंग</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">पुरुष/महिला सुधार</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का माध्यम</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">हिंदी/अंग्रेज़ी/क्षेत्रीय</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">विकलांगता स्थिति</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">हाँ/नहीं सुधार</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रधानाचार्य प्रमाणपत्र</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ</td><td class="py-3 px-4 border-b">गलत हो तो दोबारा अपलोड करें</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">राज्य</td><td class="py-3 px-4 border-b text-red-600 font-bold">नहीं</td><td class="py-3 px-4 border-b">बदला नहीं जा सकता</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">ज़िला</td><td class="py-3 px-4 border-b text-red-600 font-bold">नहीं</td><td class="py-3 px-4 border-b">बदला नहीं जा सकता</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">विकासखंड</td><td class="py-3 px-4 text-red-600 font-bold">नहीं</td><td class="py-3 px-4">बदला नहीं जा सकता</td></tr>
+</tbody>
+</table>
+</div>
 
 <div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-red-700 mb-2">Coach Najma's Alert: What Cannot Be Changed</p>
-<p><strong>State, District, और Block change नहीं हो सकते।</strong> ये Class 5 school की location पर based है। अगर ये गलत है तो form reject हो सकता है — correction window में भी fix नहीं होगा।</p>
+<p class="font-bold text-red-700 mb-2">प्रशिक्षक नजमा की चेतावनी: जो बदला नहीं जा सकता</p>
+<p><strong>राज्य, ज़िला, और विकासखंड बदले नहीं जा सकते।</strong> ये कक्षा पाँच के विद्यालय के स्थान पर आधारित हैं। यदि ये गलत हैं तो फॉर्म अस्वीकार हो सकता है।</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Step-by-Step Guide: Navodaya Form Online Edit Kaise Karein?</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">कदम-दर-कदम मार्गदर्शिका: नवोदय फॉर्म ऑनलाइन सुधार कैसे करें?</h2>
+
 <div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Step 1:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a> पर जाएं</p>
-<p><strong>Step 2:</strong> "Correction Window" या "Edit Application" लिंक पर क्लिक करें</p>
-<p><strong>Step 3:</strong> Registration Number और Date of Birth दर्ज करें</p>
-<p><strong>Step 4:</strong> Login करें — form खुल जाएगा</p>
-<p><strong>Step 5:</strong> जो fields edit करने हैं उन्हें change करें</p>
-<p><strong>Step 6:</strong> अगर photo/signature change करना है तो नया upload करें</p>
-<p><strong>Step 7:</strong> "Save" या "Submit" बटन दबाएं</p>
-<p><strong>Step 8:</strong> Confirmation page download करें और print निकालें</p>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">1</span>
+<div>
+<p class="font-bold text-gray-900">आधिकारिक वेबसाइट खोलें</p>
+<p><a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a> पर जाएं। सुनिश्चित करें कि आप सही वेबसाइट पर हैं।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">2</span>
+<div>
+<p class="font-bold text-gray-900">सुधार विंडो लिंक खोजें</p>
+<p>होमपेज पर "सुधार विंडो" या "आवेदन संपादित करें" लिंक पर क्लिक करें।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">3</span>
+<div>
+<p class="font-bold text-gray-900">पंजीकरण संख्या और जन्म तिथि दर्ज करें</p>
+<p>अपनी पंजीकरण संख्या और जन्म तिथि दर्ज करें। यदि भूल गए हैं तो एसएमएस या ईमेल देखें।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">4</span>
+<div>
+<p class="font-bold text-gray-900">लॉगिन करें</p>
+<p>लॉगिन करने पर आपका फॉर्म खुल जाएगा।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">5</span>
+<div>
+<p class="font-bold text-gray-900">गलत जानकारियाँ सुधारें</p>
+<p>जिन जानकारियों में गलती है, उन्हें बदलें।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">6</span>
+<div>
+<p class="font-bold text-gray-900">फोटो और हस्ताक्षर दोबारा अपलोड करें</p>
+<p>फोटो दस से सौ किलोबाइट और हस्ताक्षर दस से पचास किलोबाइट का होना चाहिए।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">7</span>
+<div>
+<p class="font-bold text-gray-900">सहेजें और जमा करें</p>
+<p>"सहेजें" या "जमा करें" बटन दबाएं।</p>
+</div>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">8</span>
+<div>
+<p class="font-bold text-gray-900">पुष्टिकरण पृष्ठ डाउनलोड करें</p>
+<p>पुष्टिकरण पृष्ठ डाउनलोड करें और प्रिंट निकालें। इसे सुरक्षित रखें।</p>
+</div>
+</div>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Photo, Signature Aur Headmaster Certificate Galat Upload Ho Gaya Toh?</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">फोटो, हस्ताक्षर और प्रधानाचार्य प्रमाणपत्र की तकनीकी आवश्यकताएँ</h2>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Photo Correction</h3>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">फोटो की आवश्यकताएँ</h3>
 <div class="bg-gray-50 rounded-xl p-5 my-4">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>Size:</strong> 10 KB - 100 KB</li>
-<li><strong>Format:</strong> JPG/JPEG</li>
-<li><strong>Background:</strong> White preferred</li>
-<li><strong>Face:</strong> Clearly visible, no sunglasses</li>
+<li><strong>आकार:</strong> दस किलोबाइट से सौ किलोबाइट</li>
+<li><strong>प्रारूप:</strong> जेपीजी या जेपीईजी</li>
+<li><strong>पृष्ठभूमि:</strong> सफेद पृष्ठभूमि बेहतर</li>
+<li><strong>चेहरा:</strong> स्पष्ट दिखना चाहिए</li>
 </ul>
 </div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Signature Correction</h3>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">हस्ताक्षर की आवश्यकताएँ</h3>
 <div class="bg-gray-50 rounded-xl p-5 my-4">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>Size:</strong> 10 KB - 50 KB</li>
-<li><strong>Format:</strong> JPG/JPEG</li>
-<li><strong>Style:</strong> Clear, readable signature</li>
-<li><strong>Background:</strong> White paper</li>
+<li><strong>आकार:</strong> दस किलोबाइट से पचास किलोबाइट</li>
+<li><strong>प्रारूप:</strong> जेपीजी या जेपीईजी</li>
+<li><strong>शैली:</strong> स्पष्ट और पढ़ने योग्य हस्ताक्षर</li>
 </ul>
 </div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Headmaster Certificate Correction</h3>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">प्रधानाचार्य प्रमाणपत्र की आवश्यकताएँ</h3>
 <div class="bg-gray-50 rounded-xl p-5 my-4">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>Size:</strong> 50 KB - 200 KB</li>
-<li><strong>Format:</strong> JPG/JPEG/PDF</li>
-<li><strong>Content:</strong> School name, district, class clearly visible</li>
-<li><strong>Stamp:</strong> School stamp and headmaster signature required</li>
+<li><strong>आकार:</strong> पचास किलोबाइट से दो सौ किलोबाइट</li>
+<li><strong>प्रारूप:</strong> जेपीजी, जेपीईजी या पीडीएफ</li>
+<li><strong>सामग्री:</strong> विद्यालय का नाम, ज़िला, कक्षा स्पष्ट दिखना चाहिए</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
-<p class="font-bold">How to Re-Crop Photo & Signature Correctly:</p>
-<p><a href="https://www.iloveimg.com/resize-image" class="text-green-700 underline" target="_blank">iloveimg.com</a> पर photo resize करें। Photo: 3.5cm × 4.5cm, Signature: 6cm × 2cm। White background use करें।</p>
+<p class="font-bold">फोटो और हस्ताक्षर सही आकार में कैसे बनाएँ:</p>
+<p><a href="https://www.iloveimg.com/resize-image" class="text-green-700 underline" target="_blank">iloveimg.com</a> पर फोटो का आकार बदलें। सफेद पृष्ठभूमि का प्रयोग करें।</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Coach Najma की 3-Step Verification After Correction</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">प्रशिक्षक नजमा की तीन-चरणीय सत्यापन प्रक्रिया</h2>
 
 <div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
-<h3 class="font-bold text-gray-900 mb-3">Step 1: सभी Details Check करें</h3>
-<ul class="list-disc pl-5 space-y-1">
-<li>नाम spelling check करें</li>
-<li>जन्म तिथि check करें</li>
-<li>Category check करें</li>
-<li>Photo और signature check करें</li>
-</ul>
-
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Confirmation Page Save करें</h3>
-<ul class="list-disc pl-5 space-y-1">
-<li>Confirmation page download करें</li>
-<li>2 copies print निकालें</li>
-<li>एक copy अपने पास रखें</li>
-</ul>
-
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Registration Number Save करें</h3>
-<ul class="list-disc pl-5 space-y-1">
-<li>Registration number लिख कर रखें</li>
-<li>SMS और email में save करें</li>
-<li>Admit card download के लिए ज़रूरी है</li>
-</ul>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">1</span>
+<div>
+<p class="font-bold text-gray-900">सभी जानकारियाँ जाँचें</p>
+<p>नाम की वर्तनी जाँचें। जन्म तिथि जाँचें। जाति वर्ग जाँचें। फोटो और हस्ताक्षर जाँचें।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">2</span>
+<div>
+<p class="font-bold text-gray-900">पुष्टिकरण पृष्ठ सहेजें</p>
+<p>पुष्टिकरण पृष्ठ डाउनलोड करें। दो प्रतियाँ प्रिंट करें।</p>
+</div>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-green-700 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">3</span>
+<div>
+<p class="font-bold text-gray-900">पंजीकरण संख्या सुरक्षित रखें</p>
+<p>पंजीकरण संख्या कागज़ पर लिख कर रखें। एसएमएस और ईमेल में भी सहेजें।</p>
+</div>
+</div>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Common Mistakes to Avoid During Correction Window</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">सुधार विंडो के दौरान बचने योग्य पाँच आम गलतियाँ</h2>
 
 <div class="bg-red-50 border-2 border-red-500 rounded-xl p-6 my-6">
 <ul class="list-decimal pl-6 space-y-3">
-<li><strong>Window miss करना</strong> — Correction window सिर्फ 3-5 दिन खुलती है। रोज़ check करो।</li>
-<li><strong>State/District change करने की कोशिश</strong> — ये fields edit नहीं हो सकते।</li>
-<li><strong>Photo size गलत रखना</strong> — 10-100 KB, JPG format, white background।</li>
-<li><strong>Confirmation page नहीं लेना</strong> — Edit के बाद confirmation page ज़रूर download करो।</li>
-<li><strong>Deadline पर edit करना</strong> — Last day server slow हो सकता है। पहले दिन edit करो।</li>
+<li><strong>विंडो चूकना</strong> — सुधार विंडो केवल तीन से पाँच दिन खुलती है। प्रतिदिन वेबसाइट देखते रहें।</li>
+<li><strong>राज्य या ज़िला बदलने की कोशिश</strong> — ये जानकारियाँ सुधार नहीं हो सकतीं।</li>
+<li><strong>फोटो का आकार गलत रखना</strong> — फोटो दस से सौ किलोबाइट, जेपीजी प्रारूप, सफेद पृष्ठभूमि में होना चाहिए।</li>
+<li><strong>पुष्टिकरण पृष्ठ नहीं लेना</strong> — सुधार के बाद पुष्टिकरण पृष्ठ अवश्य डाउनलोड करें।</li>
+<li><strong>अंतिम दिन सुधार करना</strong> — अंतिम दिन सर्वर धीमा हो सकता है। पहले दिन ही सुधार कर लें।</li>
 </ul>
 </div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/jnvst-2027-navodaya-admission-form-last-date-july-2026/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Application Form 2027</h3>
-<p class="text-gray-600 text-xs">Form भरने की पूरी प्रक्रिया</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी आवेदन फॉर्म 2027</h3>
+<p class="text-gray-600 text-xs">फॉर्म भरने की पूरी प्रक्रिया</p>
 </a>
 <a href="/hi/blog/jnvst-registration-2027-server-down-navodaya-portal/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Server Down Problem</h3>
-<p class="text-gray-600 text-xs">Portal error solutions</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">सर्वर धीमा समस्या</h3>
+<p class="text-gray-600 text-xs">पोर्टल त्रुटि समाधान</p>
 </a>
 <a href="/hi/blog/jnvst-registration-2027-last-date-extend-hogi/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Last Date Extend Hogi?</h3>
-<p class="text-gray-600 text-xs">Extension analysis</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">अंतिम तिथि बढ़ेगी?</h3>
+<p class="text-gray-600 text-xs">विस्तार विश्लेषण</p>
 </a>
 <a href="/hi/blog/jnvst-admit-card-2027-kab-aayega/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JNVST Admit Card 2027</h3>
-<p class="text-gray-600 text-xs">Admit Card download करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">जेएनवीएसटी प्रवेश पत्र 2027</h3>
+<p class="text-gray-600 text-xs">प्रवेश पत्र डाउनलोड करें</p>
 </a>
 </div>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Correction Window में help चाहिए?</h3><p><strong>JGPS School</strong> में Coach Najma से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">सुधार विंडो में सहायता चाहिए?</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में प्रशिक्षक नजमा से मार्गदर्शन लें। निःशुल्क परामर्श के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Final Advisory</h3>
-<p>Correction window बहुत limited time के लिए खुलती है। <strong>जैसे ही link active हो, तुरंत edit करो।</strong> Last day मत रखो — server slow हो सकता है। और याद रखो: State, District, Block change नहीं हो सकते।</p>
-<p class="mt-2 text-sm text-gray-500">Author: Najma | JGPS Navodaya & JNVST Coach | 85% Success Rate</p>
-</div>
-`,
+<h3 class="font-bold text-gray-900 mb-2">अंतिम सलाह</h3>
+<p>सुधार विंडो बहुत सीमित समय के लिए खुलती है। <strong>जैसे ही लिंक सक्रिय हो, तुरंत सुधार करें।</strong> अंतिम दिन न रखें — सर्वर धीमा हो सकता है।</p>
+<p class="mt-2 text-sm text-gray-500">लेखक: नजमा | जय गोविंद पब्लिक स्कूल | नवोदय एवं जेएनवीएसटी प्रशिक्षक | पचासी प्रतिशत सफलता दर</p>
+</div>`,
     faqs: [
-      { question: "JNVST 2027 Correction Window कब खुलेगी?", answer: "अगस्त 2026 के पहले हफ्ते में खुलने की संभावना है। सिर्फ 3-5 दिन के लिए खुलती है। cbseitms.rcil.gov.in पर check करें।" },
-      { question: "Correction Window में edit करने के लिए क्या fee है?", answer: "बिल्कुल FREE है। कोई charge नहीं लगता।" },
-      { question: "क्या State/District change कर सकते हैं?", answer: "नहीं। State, District, Block change नहीं हो सकते। ये Class 5 school की location पर based है।" },
-      { question: "Photo upload reject हो गई तो क्या करें?", answer: "Photo resize करें — 10-100 KB, JPG format, white background। iloveimg.com पर free में resize कर सकते हैं।" }
+      { question: "जेएनवीएसटी 2027 सुधार विंडो कब खुलेगी?", answer: "अगस्त 2026 के पहले सप्ताह में खुलने की संभावना है। केवल तीन से पाँच दिनों के लिए खुलती है।" },
+      { question: "सुधार विंडो में सुधार करने के लिए कितना शुल्क लगता है?", answer: "बिल्कुल निःशुल्क है। कोई शुल्क नहीं लगता।" },
+      { question: "क्या राज्य या ज़िला बदला जा सकता है?", answer: "नहीं। राज्य, ज़िला, विकासखंड बदले नहीं जा सकते।" },
+      { question: "फोटो अपलोड अस्वीकार हो गई तो क्या करें?", answer: "फोटो का आकार बदलें — दस से सौ किलोबाइट, जेपीजी प्रारूप, सफेद पृष्ठभूमि।" }
     ]
   },
   {
@@ -8678,148 +9097,239 @@ export const hindiArticles: HindiArticle[] = [
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
-    authorRole: "Current Affairs & GK Faculty",
-    authorBio: "Ravi Prakash JGPS में Current Affairs और General Knowledge पढ़ाते हैं। Entrance exams के लिए GK materials तैयार करते हैं।",
-    readTime: "8 मिनट",
+    authorRole: "समसामयिकी एवं सामान्य ज्ञान प्राध्यापक",
+    authorBio: "रवि प्रकाश जय गोविंद पब्लिक स्कूल में समसामयिकी और सामान्य ज्ञान पढ़ाते हैं।",
+    readTime: "22 मिनट",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/aissee-2027-sainik-school-essential-documents-list.webp",
     imageAlt: "AISSEE 2027 Sainik School essential documents list - domicile caste certificate birth proof defence quota",
-    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Document Checklist & Timeline:</p>
+    content: `<p><strong>एआईएसईई 2027 सैनिक स्कूल आवश्यक दस्तावेज़ सूची</strong> — यह लेख उन सभी अभिभावकों के लिए है जो अखिल भारतीय सैनिक विद्यालय प्रवेश परीक्षा (एआईएसईई) 2027 के लिए फॉर्म भरना चाहते हैं। राष्ट्रीय परीक्षा एजेंसी (एनटीए) सितंबर-अक्टूबर 2026 में अधिसूचना जारी करेगी। लेकिन फॉर्म भरने से पहले आपके पास कुछ अनिवार्य दस्तावेज़ होने चाहिए। यदि दस्तावेज़ नहीं हैं तो फॉर्म अस्वीकार हो जाएगा।</p>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">दस्तावेज़ जाँचसूची एवं समयसूची:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>Notification Expected:</strong> September-October 2026</li>
-<li><strong>Form Start:</strong> September-October 2026</li>
-<li><strong>Exam Expected:</strong> January 2027</li>
-<li><strong>Conducting Body:</strong> NTA (National Testing Agency)</li>
-<li><strong>4 Critical Documents Needed:</strong> Domicile Certificate, Caste Certificate, Birth Proof, Defence Certificate (if applicable)</li>
-<li><strong>Official Website:</strong> <a href="https://exams.nta.ac.in/sainik-school-society/" class="text-green-700 underline" target="_blank">exams.nta.ac.in</a></li>
+<li><strong>अधिसूचना अपेक्षित:</strong> सितंबर-अक्टूबर 2026</li>
+<li><strong>फॉर्म शुरू:</strong> सितंबर-अक्टूबर 2026</li>
+<li><strong>परीक्षा अपेक्षित:</strong> जनवरी 2027</li>
+<li><strong>आयोजक:</strong> एनटीए (राष्ट्रीय परीक्षा एजेंसी)</li>
+<li><strong>चार अनिवार्य दस्तावेज़:</strong> निवास प्रमाणपत्र, जाति प्रमाणपत्र, जन्म प्रमाण, रक्षा कोटा प्रमाणपत्र</li>
+<li><strong>आधिकारिक वेबसाइट:</strong> <a href="https://exams.nta.ac.in/sainik-school-society/" class="text-green-700 underline" target="_blank">exams.nta.ac.in</a></li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Ravi Prakash से संदेश:</p>
-<p>"हर साल हज़ारों parents last minute में documents बनवाने की कोशिश करते हैं — और fail हो जाते हैं। Domicile certificate बनने में 15-20 दिन लगते हैं। Caste certificate में 10-15 दिन। अगर form सितंबर में आता है और आपके पास documents नहीं हैं, तो form भर नहीं पाओगे। इसलिए अभी से शुरू करो।"</p>
+<p class="font-bold text-gray-900 mb-2">रवि प्रकाश का संदेश:</p>
+<p>"प्रत्येक वर्ष हज़ारों अभिभावक अंतिम समय में दस्तावेज़ बनवाने का प्रयास करते हैं — और असफल हो जाते हैं। निवास प्रमाणपत्र बनने में पंद्रह से बीस दिन लगते हैं। इसलिए अभी से शुरू करें।"</p>
 </div>
 
-<p><strong>AISSEE 2027 Sainik School Essential Documents List</strong> — ये article उन parents के लिए है जो All India Sainik Schools Entrance Examination (AISSEE) 2027 के लिए form भरना चाहते हैं। NTA (National Testing Agency) सितंबर-अक्टूबर 2026 में notification जारी करेगा।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एआईएसईई 2027 समयसूची: फॉर्म कब आएँगे?</h2>
 
-<p>लेकिन form भरने से पहले आपके पास कुछ जरूरी documents होने चाहिए। अगर documents नहीं हैं तो form reject हो जाएगा। इसलिए अभी से तैयारी शुरू करो।</p>
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">अपेक्षित तिथि</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">अधिसूचना जारी</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b text-gray-500">अपेक्षित</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">फॉर्म शुरू</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b text-gray-500">अपेक्षित</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">फॉर्म की अंतिम तिथि</td><td class="py-3 px-4 border-b">नवंबर 2026</td><td class="py-3 px-4 border-b text-gray-500">अपेक्षित</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">प्रवेश पत्र</td><td class="py-3 px-4 border-b">दिसंबर 2026 - जनवरी 2027</td><td class="py-3 px-4 border-b text-gray-500">अपेक्षित</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 font-bold">जनवरी 2027</td><td class="py-3 px-4 text-blue-600 font-bold">अपेक्षित</td></tr>
+</tbody>
+</table>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE 2027 Schedule: Form Kab Aayenge?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification Release</td><td class="py-3 px-4 border-b">September-October 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Form Start</td><td class="py-3 px-4 border-b">September-October 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Last Date</td><td class="py-3 px-4 border-b">November 2026</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">December 2026 - January 2027</td><td class="py-3 px-4 border-b text-gray-500">⏳ Expected</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 font-bold">January 2027</td><td class="py-3 px-4 text-blue-600 font-bold">⏳ Expected</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">चार अनिवार्य दस्तावेज़</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Top 4 Essential Documents Required</h2>
-
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">1. Domicile / Residence Certificate (मूल निवास प्रमाण पत्र)</h3>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">1. निवास प्रमाणपत्र</h3>
 <div class="bg-gray-50 rounded-xl p-5 my-4">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>क्या है:</strong> ये certificate prove करता है कि आपका बच्चा उस राज्य का resident है</li>
-<li><strong>कौन जारी करता है:</strong> Tehsildar / SDM / District Magistrate</li><li><strong>Processing Time:</strong> 15-20 दिन</li>
-<li><strong>Validity:</strong> 6 महीने से 1 साल (state के अनुसार)</li>
-<li><strong>Format:</strong> Original document, digital signature वाला preferred</li>
+<li><strong>क्या है:</strong> यह प्रमाणपत्र सिद्ध करता है कि बच्चा उस राज्य का निवासी है</li>
+<li><strong>जारीकर्ता:</strong> तहसीलदार / उपमंडल मजिस्ट्रेट</li>
+<li><strong>प्रसंस्करण समय:</strong> पंद्रह से बीस दिन</li>
+<li><strong>वैधता:</strong> छह महीने से एक वर्ष</li>
 </ul>
 </div>
 
 <div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-4 my-4">
-<p class="font-bold">Ravi Prakash's Early Alert:</p>
-<p>Domicile certificate बनने में <strong>15-20 दिन</strong> लगते हैं। अगर form सितंबर में आता है, तो अगस्त में ही apply कर दो। Last minute में rush बहुत ज्यादा होता है और office slow काम करता है।</p>
+<p class="font-bold">रवि प्रकाश की प्रारंभिक चेतावनी:</p>
+<p>निवास प्रमाणपत्र बनने में <strong>पंद्रह से बीस दिन</strong> लगते हैं। अगस्त में ही आवेदन कर दें।</p>
 </div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">2. Caste / Category Certificate (जाति प्रमाण पत्र)</h3>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">2. जाति प्रमाणपत्र</h3>
 <div class="bg-gray-50 rounded-xl p-5 my-4">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>क्या है:</strong> ये certificate prove करता है कि बच्चा किस category में आता है (General/OBC/SC/ST/EWS)</li>
-<li><strong>कौन जारी करता है:</strong> Tehsildar / SDM / District Magistrate</li>
-<li><strong>Processing Time:</strong> 10-15 दिन</li>
-<li><strong>Central Format:</strong> OBC-NCL certificate central government के format में होना चाहिए</li>
-<li><strong>EWS Certificate:</strong> Income certificate के साथ जारी होता है</li>
+<li><strong>क्या है:</strong> बच्चा किस वर्ग में आता है यह सिद्ध करता है</li>
+<li><strong>जारीकर्ता:</strong> तहसीलदार / उपमंडल मजिस्ट्रेट</li>
+<li><strong>प्रसंस्करण समय:</strong> दस से पंद्रह दिन</li>
+<li><strong>केंद्रीय प्रारूप:</strong> ओबीसी-एनसीएल केंद्र सरकार के प्रारूप में होना चाहिए</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
-<p class="font-bold">NTA Rejection Prevention Tips:</p>
-<p>OBC-NCL certificate <strong>central government के format</strong> में होना चाहिए। State format accept नहीं होता। अगर आपके पास state format है तो central format में बनवाओ।</p>
+<p class="font-bold">एनटीए अस्वीकृति रोकथाम सुझाव:</p>
+<p>ओबीसी-एनसीएल प्रमाणपत्र <strong>केंद्र सरकार के प्रारूप</strong> में होना चाहिए। राज्य प्रारूप स्वीकार नहीं होता।</p>
 </div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">3. Date of Birth Proof (जन्म प्रमाण पत्र)</h3>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">3. जन्म प्रमाण</h3>
 <div class="bg-gray-50 rounded-xl p-5 my-4">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>क्या है:</strong> बच्चे की जन्म तिथि prove करने वाला document</li>
-<li><strong>Accepted Documents:</strong> Birth Certificate (Municipal Corporation), Aadhaar Card, Passport</li>
-<li><strong>Important:</strong> Aadhaar card पर DOB और Birth Certificate पर DOB <strong>SAME</strong> होनी चाहिए</li>
-<li><strong>Processing Time:</strong> Birth Certificate: 7-15 दिन | Aadhaar Update: 7-15 दिन</li>
+<li><strong>स्वीकृत दस्तावेज़:</strong> जन्म प्रमाणपत्र, आधार कार्ड, पासपोर्ट</li>
+<li><strong>महत्वपूर्ण:</strong> आधार पर जन्म तिथि और जन्म प्रमाणपत्र पर जन्म तिथि एक समान होनी चाहिए</li>
+<li><strong>प्रसंस्करण समय:</strong> सात से पंद्रह दिन</li>
 </ul>
 </div>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">4. Defence Service Certificate (रक्षा कोटा प्रमाण पत्र)</h3>
+<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">4. रक्षा सेवा प्रमाणपत्र</h3>
 <div class="bg-gray-50 rounded-xl p-5 my-4">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>किसके लिए:</strong> जिनके माता-पिता Defence में काम करते हैं या retired हैं</li>
-<li><strong>कौन जारी करता है:</strong> Unit Commanding Officer / Record Office</li>
-<li><strong>Processing Time:</strong> 7-10 दिन</li>
-<li><strong>Quota:</strong> Defence quota के तहत extra seats मिलती हैं</li>
+<li><strong>किसके लिए:</strong> जिनके माता-पिता रक्षा सेवा में हैं</li>
+<li><strong>जारीकर्ता:</strong> इकाई कमान अधिकारी</li>
+<li><strong>प्रसंस्करण समय:</strong> सात से दस दिन</li>
 </ul>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Document Matrix & Verification Table</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">Issuing Authority</th><th class="py-3 px-4 border-b font-bold text-white text-left">Format</th><th class="py-3 px-4 border-b font-bold text-white text-left">Processing Time</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Domicile Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">Original + Digital Signature</td><td class="py-3 px-4 border-b">15-20 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Caste Certificate</td><td class="py-3 px-4 border-b">Tehsildar / SDM</td><td class="py-3 px-4 border-b">Central Format (OBC-NCL)</td><td class="py-3 px-4 border-b">10-15 days</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Birth Certificate</td><td class="py-3 px-4 border-b">Municipal Corporation</td><td class="py-3 px-4 border-b">Original / Digital</td><td class="py-3 px-4 border-b">7-15 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Aadhaar Card</td><td class="py-3 px-4 border-b">UIDAI</td><td class="py-3 px-4 border-b">Original</td><td class="py-3 px-4 border-b">7-15 days (update)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Defence Certificate</td><td class="py-3 px-4 border-b">Unit Commanding Officer</td><td class="py-3 px-4 border-b">Original</td><td class="py-3 px-4 border-b">7-10 days</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">EWS Certificate</td><td class="py-3 px-4">Tehsildar / SDM</td><td class="py-3 px-4">Central Format</td><td class="py-3 px-4">10-15 days</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">दस्तावेज़ सत्यापन तालिका</h2>
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">दस्तावेज़</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">जारीकर्ता</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">प्रारूप</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">निवास प्रमाणपत्र</td><td class="py-3 px-4 border-b">तहसीलदार</td><td class="py-3 px-4 border-b">मूल + डिजिटल हस्ताक्षर</td><td class="py-3 px-4 border-b">15-20 दिन</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">जाति प्रमाणपत्र</td><td class="py-3 px-4 border-b">तहसीलदार</td><td class="py-3 px-4 border-b">केंद्रीय प्रारूप</td><td class="py-3 px-4 border-b">10-15 दिन</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म प्रमाणपत्र</td><td class="py-3 px-4 border-b">नगर निगम</td><td class="py-3 px-4 border-b">मूल / डिजिटल</td><td class="py-3 px-4 border-b">7-15 दिन</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आधार कार्ड</td><td class="py-3 px-4 border-b">यूआईडीएआई</td><td class="py-3 px-4 border-b">मूल</td><td class="py-3 px-4 border-b">7-15 दिन</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">रक्षा प्रमाणपत्र</td><td class="py-3 px-4">कमान अधिकारी</td><td class="py-3 px-4">मूल</td><td class="py-3 px-4">7-10 दिन</td></tr>
+</tbody>
+</table>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Common Mismatch Issues & How to Fix Them</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">दस्तावेज़ों में सामान्य विसंगतियाँ और समाधान</h2>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-<p><strong>Issue 1: Name Spelling Mismatch</strong></p>
-<p>Aadhaar card पर "Mohammad" है लेकिन school record में "Muhammad" है। ये mismatch form reject करवा सकता है।</p>
-<p><strong>Fix:</strong> Aadhaar card update कराएं या school record में name correction कराएं।</p>
+<p><strong>समस्या 1: नाम की वर्तनी में अंतर</strong></p>
+<p>आधार पर "मोहम्मद" है लेकिन विद्यालय अभिलेख में "मुहम्मद" है।</p>
+<p><strong>समाधान:</strong> आधार अपडेट कराएँ अथवा विद्यालय अभिलेख में सुधार कराएँ।</p>
 </div>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-<p><strong>Issue 2: DOB Mismatch</strong></p>
-<p>Aadhaar card पर DOB 15/03/2015 है लेकिन Birth Certificate पर 16/03/2015 है।</p>
-<p><strong>Fix:</strong> Birth Certificate को primary proof माना जाता है। Aadhaar card का DOB update कराएं।</p>
+<p><strong>समस्या 2: जन्म तिथि में अंतर</strong></p>
+<p>आधार पर पंद्रह मार्च 2015 है लेकिन जन्म प्रमाणपत्र पर सोलह मार्च 2015 है।</p>
+<p><strong>समाधान:</strong> जन्म प्रमाणपत्र को प्राथमिक प्रमाण माना जाता है। आधार अपडेट कराएँ।</p>
 </div>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-<p><strong>Issue 3: Father's Name Mismatch</strong></p>
-<p>कुछ documents पर father's name अलग-अलग spelling में है।</p>
-<p><strong>Fix:</strong> सभी documents पर father's name SAME रखें। जो सबसे ज्यादा documents पर है उसे standard बनाओ।</p>
+<p><strong>समस्या 3: पिता के नाम में अंतर</strong></p>
+<p>कुछ दस्तावेज़ों पर पिता का नाम अलग वर्तनी में है।</p>
+<p><strong>समाधान:</strong> सभी दस्तावेज़ों पर एक समान नाम रखें।</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Photo & Signature Scan Specifications</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Item</th><th class="py-3 px-4 border-b font-bold text-white text-left">Specification</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Size</td><td class="py-3 px-4 border-b">10 KB - 200 KB</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Format</td><td class="py-3 px-4 border-b">JPG / JPEG</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Background</td><td class="py-3 px-4 border-b">White preferred</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Photo Dimensions</td><td class="py-3 px-4 border-b">3.5cm × 4.5cm (passport size)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Signature Size</td><td class="py-3 px-4 border-b">10 KB - 50 KB</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Signature Format</td><td class="py-3 px-4 border-b">JPG / JPEG</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Signature Background</td><td class="py-3 px-4">White paper</td></tr></tbody></table></div>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">फोटो और हस्ताक्षर तकनीकी आवश्यकताएँ</h2>
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">आवश्यकता</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">फोटो आकार</td><td class="py-3 px-4 border-b">10-200 किलोबाइट</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">फोटो प्रारूप</td><td class="py-3 px-4 border-b">जेपीजी / जेपीईजी</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">फोटो पृष्ठभूमि</td><td class="py-3 px-4 border-b">सफेद</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">हस्ताक्षर आकार</td><td class="py-3 px-4 border-b">10-50 किलोबाइट</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">हस्ताक्षर प्रारूप</td><td class="py-3 px-4">जेपीजी / जेपीईजी</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">दस्तावेज़ तैयार करने की कदम-दर-कदम प्रक्रिया</h2>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">1</span>
+<div>
+<p class="font-bold text-gray-900">जन्म प्रमाणपत्र बनवाएँ</p>
+<p>नगर निगम से बनता है। सात से पंद्रह दिन लगते हैं।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">2</span>
+<div>
+<p class="font-bold text-gray-900">आधार अपडेट कराएँ</p>
+<p>नाम और जन्म तिथि जाँचें। गलत हो तो सुधार कराएँ।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">3</span>
+<div>
+<p class="font-bold text-gray-900">निवास प्रमाणपत्र बनवाएँ</p>
+<p>तहसील कार्यालय में आवेदन करें। अगस्त में ही आवेदन कर दें।</p>
+</div>
+</div>
+<div class="flex items-start gap-3 mb-4">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">4</span>
+<div>
+<p class="font-bold text-gray-900">जाति प्रमाणपत्र बनवाएँ</p>
+<p>ओबीसी-एनसीएल केंद्रीय प्रारूप में बनवाएँ।</p>
+</div>
+</div>
+<div class="flex items-start gap-3">
+<span class="bg-[#035c00] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold text-sm flex-shrink-0">5</span>
+<div>
+<p class="font-bold text-gray-900">सभी दस्तावेज़ों की छायाप्रति रखें</p>
+<p>हर दस्तावेज़ की दो छायाप्रति और डिजिटल स्कैन रखें।</p>
+</div>
+</div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">विशेषज्ञ सुझाव: दस्तावेज़ सत्यापन</h3>
+<p>सभी दस्तावेज़ों का परस्पर मिलान करें। नाम, पिता का नाम, जन्म तिथि — सब एक समान होना चाहिए।</p>
+</div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AISSEE 2027 Notification Date</h3>
-<p class="text-gray-600 text-xs">Notification date और eligibility</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">एआईएसईई 2027 अधिसूचना तिथि</h3>
+<p class="text-gray-600 text-xs">अधिसूचना तिथि एवं पात्रता</p>
 </a>
 <a href="/hi/blog/sainik-school-admission-kaise-le-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Admission Guide</h3>
-<p class="text-gray-600 text-xs">एडमिशन कैसे लें — पूरी गाइड</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">सैनिक स्कूल प्रवेश मार्गदर्शिका</h3>
+<p class="text-gray-600 text-xs">प्रवेश कैसे लें</p>
 </a>
 <a href="/hi/blog/sainik-school-medical-test-complete-guide-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Medical Test</h3>
-<p class="text-gray-600 text-xs">मेडिकल टेस्ट की पूरी जानकारी</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">सैनिक स्कूल चिकित्सा परीक्षण</h3>
+<p class="text-gray-600 text-xs">चिकित्सा परीक्षण की पूरी जानकारी</p>
 </a>
 <a href="/hi/blog/sainik-school-scholarship-complete-guide-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Scholarship</h3>
-<p class="text-gray-600 text-xs">स्कॉलरशिप की पूरी जानकारी</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">सैनिक स्कूल छात्रवृत्ति</h3>
+<p class="text-gray-600 text-xs">छात्रवृत्ति की पूरी जानकारी</p>
 </a>
 </div>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Sainik School की तैयारी कर रहे हैं?</h3><p><strong>JGPS School</strong> AISSEE entrance exam के लिए specialized coaching देता है। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">सैनिक स्कूल की तैयारी कर रहे हैं?</h3><p><strong>जय गोविंद पब्लिक स्कूल</strong> में निःशुल्क परामर्श के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Final Advisory</h3>
-<p>AISSEE 2027 का form सितंबर-अक्टूबर 2026 में आने की संभावना है। <strong>अभी से documents तैयार करो।</strong> Domicile, Caste Certificate, Birth Proof — ये तीनों documents बनवाने में 15-20 दिन लगते हैं। Last minute में rush में mat पड़ो।</p>
-<p class="mt-2 text-sm text-gray-500">Author: Ravi Prakash | JGPS Current Affairs & GK Faculty</p>
-</div>
-`,
+<h3 class="font-bold text-gray-900 mb-2">अंतिम सलाह</h3>
+<p><strong>अभी से दस्तावेज़ तैयार करें।</strong> निवास, जाति, जन्म प्रमाण — तीनों बनवाने में पंद्रह से बीस दिन लगते हैं।</p>
+<p class="mt-2 text-sm text-gray-500">लेखक: रवि प्रकाश | जय गोविंद पब्लिक स्कूल | समसामयिकी एवं सामान्य ज्ञान प्राध्यापक</p>
+</div>`,
     faqs: [
-      { question: "AISSEE 2027 का form कब आएगा?", answer: "सितंबर-अक्टूबर 2026 में expected है। NTA official website exams.nta.ac.in पर notification जारी करेगा।" },
-      { question: "Sainik School admission के लिए कौन से documents चाहिए?", answer: "Domicile Certificate, Caste Certificate (OBC-NCL/SC/ST/EWS), Birth Proof (Aadhaar + Birth Certificate), और Defence Certificate (अगर applicable है)।" },
-      { question: "Domicile Certificate बनने में कितना समय लगता है?", answer: "15-20 दिन। इसलिए form आने से पहले ही apply कर दें।" },
-      { question: "Aadhaar card पर DOB गलत है तो क्या करें?", answer: "Aadhaar update center जाकर DOB correction कराएं। 7-15 दिन लगते हैं। Birth Certificate को primary proof माना जाता है।" }
+      { question: "एआईएसईई 2027 का फॉर्म कब आएगा?", answer: "सितंबर-अक्टूबर 2026 में अपेक्षित है।" },
+      { question: "सैनिक स्कूल के लिए कौन से दस्तावेज़ चाहिए?", answer: "निवास प्रमाणपत्र, जाति प्रमाणपत्र, जन्म प्रमाण, और रक्षा प्रमाणपत्र (यदि लागू हो)।" },
+      { question: "निवास प्रमाणपत्र बनने में कितना समय लगता है?", answer: "पंद्रह से बीस दिन।" },
+      { question: "आधार पर जन्म तिथि गलत है तो क्या करें?", answer: "आधार अपडेट केंद्र पर जाकर सुधार कराएँ। सात से पंद्रह दिन लगते हैं।" }
     ]
   },
   {
@@ -10729,343 +11239,261 @@ export const hindiArticles: HindiArticle[] = [
     keywords: "JNVST 2027 Last Date Extension Official Notice, Navodaya Class 6 form last date extend hogi ya nahi, JNVST 2027 registration last date 31 July update",
     date: "1 अगस्त 2026, सुबह 11 बजकर 46 मिनट",
     modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
-    readTime: "14 मिनट",
+    readTime: "22 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
-    authorRole: "Entrance Exam Specialist",
-    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    authorRole: "प्रवेश परीक्षा विशेषज्ञ",
+    authorBio: "अमित कुमार जय गोविंद पब्लिक स्कूल में जेएनवीएसटी और सैनिक स्कूल प्रवेश परीक्षा के विशेषज्ञ हैं।",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-last-date-extension-official-notice.webp",
     imageAlt: "JNVST 2027 last date extension official notice - Navodaya form extend hogi ya nahi",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">आधिकारिक स्थिति (30 जुलाई 2026):</p>
+    content: `<p><strong>जेएनवीएसटी 2027 अंतिम तिथि विस्तार</strong> — सात अगस्त 2026 को पंजीकरण विंडो बंद हो रही है। लाखों अभिभावक अभी भी फॉर्म भरने का प्रयास कर रहे हैं। सर्वर धीमा है, ओटीपी नहीं आ रहा, भुगतान विफल हो रहा है। <strong>क्या एनवीएस अंतिम तिथि बढ़ाएगा?</strong> इस लेख में हम पिछले वर्षों के रुझान, एनवीएस की नीति, और विकल्प — सब कुछ विस्तार से समझेंगे।</p>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">आधिकारिक स्थिति (तीस जुलाई 2026):</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>वर्तमान अंतिम तिथि:</strong> 7 अगस्त 2026 — सिर्फ 1 दिन बाकी</li>
-<li><strong>एक्सटेंशन स्थिति:</strong> NVS ने अभी तक कोई आधिकारिक सूचना नहीं दी</li>
-<li><strong>सर्वर स्थिति:</strong> भारी ट्रैफिक — धीमी लोडिंग संभव</li>
+<li><strong>वर्तमान अंतिम तिथि:</strong> सात अगस्त 2026</li>
+<li><strong>विस्तार स्थिति:</strong> एनवीएस ने अभी तक कोई आधिकारिक सूचना नहीं दी</li>
+<li><strong>सर्वर स्थिति:</strong> भारी यातायात — धीमी लोडिंग संभव</li>
 <li><strong>पोर्टल:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
 </ul>
 </div>
 
-<p><strong>JNVST 2027 Last Date Extension</strong> — 7 अगस्त 2026 को रजिस्ट्रेशन विंडो बंद हो रही है। लाखों अभिभावक अभी भी फॉर्म भरने की कोशिश कर रहे हैं। सर्वर धीमा है, OTP नहीं आ रहा, पेमेंट फेल हो रही है। सबसे बड़ा सवाल — <strong>क्या NVS अंतिम तिथि बढ़ाएगा?</strong> इस लेख में हम पिछले सालों के ट्रेंड, NVS की नीति, और आपके पास क्या-क्या विकल्प हैं — सब कुछ विस्तार से समझेंगे।</p>
-
 <div class="my-6">
-  <img src="https://img.jgps.in/blog/jnvst-2027-last-date-extension-official-notice.webp" alt="JNVST 2027 अंतिम तिथि विस्तार आधिकारिक सूचना — नवोदय फॉर्म की तारीख बढ़ेगी या नहीं" class="w-full rounded-xl shadow-sm" loading="lazy" />
-  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 अंतिम तिथि विस्तार — NVS का आधिकारिक अपडेट</p>
+<img src="https://img.jgps.in/blog/jnvst-2027-last-date-extension-official-notice.webp" alt="जेएनवीएसटी 2027 अंतिम तिथि विस्तार" class="w-full rounded-xl shadow-sm" loading="lazy" />
+<p class="text-xs text-gray-500 text-center mt-2">जेएनवीएसटी 2027 अंतिम तिथि विस्तार — एनवीएस का आधिकारिक अपडेट</p>
 </div>
 
-<h2>JNVST 2027 रजिस्ट्रेशन — अब तक क्या हुआ?</h2>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">जेएनवीएसटी 2027 पंजीकरण — अब तक क्या हुआ?</h2>
+<p>जेएनवीएसटी 2027 कक्षा 6 के लिए ऑनलाइन पंजीकरण <strong>जुलाई 2026</strong> में शुरू हुआ। अंतिम तिथि <strong>सात अगस्त 2026</strong> निर्धारित है। लेकिन पोर्टल पर भारी यातायात के कारण कई अभिभावक फॉर्म नहीं भर पा रहे हैं।</p>
 
-<p>JNVST 2027 कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन रजिस्ट्रेशन <strong>जुलाई 2026</strong> में शुरू हुआ था। नवोदय विद्यालय समिति (NVS) ने अंतिम तिथि <strong>7 अगस्त 2026</strong> निर्धारित की है। लेकिन पिछले कुछ दिनों से पोर्टल पर भारी ट्रैफिक के कारण कई अभिभावक फॉर्म नहीं भर पा रहे हैं।</p>
-
-<p>हर साल यही होता है — अंतिम दिनों में सर्वर क्रैश हो जाता है। लेकिन इसका मतलब यह नहीं कि तारीख बढ़ेगी ही। NVS का रिकॉर्ड मिला-जुला रहा है।</p>
-
-<h2>पिछले 5 सालों में NVS ने कब-कब तारीख बढ़ाई?</h2>
-
-<p>यह सबसे ज़रूरी डेटा है। पिछले 5 सालों में NVS ने कब-कब रजिस्ट्रेशन की अंतिम तिथि बढ़ाई, कितने दिन बढ़ाई, और किस कारण से बढ़ाई — सब कुछ यहाँ देखें:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">पिछले पाँच वर्षों में एनवीएस ने कब-कब तारीख बढ़ाई?</h2>
 
 <div class="overflow-x-auto my-6">
-  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
-    <thead class="bg-[#035c00]">
-      <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">वर्ष</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">मूल तिथि</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">बढ़ी हुई तिथि</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">कितने दिन बढ़े</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">कारण</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">2022</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">नहीं बढ़ी</td><td class="py-3 px-4 border-b">—</td><td class="py-3 px-4 border-b">सर्वर सामान्य रहा</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2023</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">7 सितंबर</td><td class="py-3 px-4 border-b font-bold">7 दिन</td><td class="py-3 px-4 border-b">सर्वर समस्या</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">10 सितंबर</td><td class="py-3 px-4 border-b font-bold">10 दिन</td><td class="py-3 px-4 border-b">पोर्टल क्रैश</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">31 जुलाई</td><td class="py-3 px-4 border-b">7 अगस्त</td><td class="py-3 px-4 border-b font-bold">7 दिन</td><td class="py-3 px-4 border-b">सर्वर ओवरलोड</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">2026</td><td class="py-3 px-4 font-bold">31 जुलाई</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 text-orange-600 font-bold">अभी तय नहीं</td></tr>
-    </tbody>
-  </table>
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">वर्ष</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">मूल तिथि</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">बढ़ी हुई तिथि</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">कितने दिन बढ़े</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">कारण</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">2022</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">नहीं बढ़ी</td><td class="py-3 px-4 border-b">—</td><td class="py-3 px-4 border-b">सर्वर सामान्य</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2023</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">7 सितंबर</td><td class="py-3 px-4 border-b font-bold">7 दिन</td><td class="py-3 px-4 border-b">सर्वर समस्या</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">10 सितंबर</td><td class="py-3 px-4 border-b font-bold">10 दिन</td><td class="py-3 px-4 border-b">पोर्टल क्रैश</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">31 जुलाई</td><td class="py-3 px-4 border-b">7 अगस्त</td><td class="py-3 px-4 border-b font-bold">7 दिन</td><td class="py-3 px-4 border-b">सर्वर ओवरलोड</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">2026</td><td class="py-3 px-4 font-bold">7 अगस्त</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 text-orange-600 font-bold">अभी तय नहीं</td></tr>
+</tbody>
+</table>
 </div>
 
 <div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
-  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> 2022 में NVS ने तारीख नहीं बढ़ाई थी। इसका मतलब है कि एक्सटेंशन मिलना 100% पक्का नहीं है। पिछले 3 सालों में ज़रूर मिला है, लेकिन NVS कभी भी अपना फैसला बदल सकता है।</p>
+<p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> 2022 में एनवीएस ने तारीख नहीं बढ़ाई थी। विस्तार मिलना शत-प्रतिशत निश्चित नहीं है।</p>
 </div>
 
-<h2>सर्वर समस्या बनाम आधिकारिक विस्तार — क्या फ़र्क है?</h2>
-
-<p>बहुत से अभिभावक सोचते हैं कि सर्वर धीमा है तो तारीख बढ़ेगी ही। ऐसा नहीं है। सर्वर समस्या और आधिकारिक विस्तार में बहुत फ़र्क है:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">सर्वर समस्या बनाम आधिकारिक विस्तार</h2>
 
 <div class="overflow-x-auto my-6">
-  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
-    <thead class="bg-[#035c00]">
-      <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">कारक</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">सर्वर समस्या (ग्लिच)</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">आधिकारिक विस्तार</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">घोषणा</td><td class="py-3 px-4 border-b">कोई घोषणा नहीं</td><td class="py-3 px-4 border-b">NVS का आधिकारिक नोटिस</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अवधि</td><td class="py-3 px-4 border-b">अस्थायी (कुछ घंटे)</td><td class="py-3 px-4 border-b">7-10 दिन</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पोर्टल स्थिति</td><td class="py-3 px-4 border-b">रुक-रुक कर चलता है</td><td class="py-3 px-4 border-b">नई अंतिम तिथि के साथ पूरी तरह काम करता है</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">SMS/Email सूचना</td><td class="py-3 px-4 border-b">कोई सूचना नहीं</td><td class="py-3 px-4 border-b">सभी पंजीकृत उम्मीदवारों को SMS</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">क्या करें</td><td class="py-3 px-4">इंतज़ार करें + दोबारा try करें</td><td class="py-3 px-4">नई अंतिम तिथि से पहले फॉर्म भरें</td></tr>
-    </tbody>
-  </table>
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">कारक</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">सर्वर समस्या</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">आधिकारिक विस्तार</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">घोषणा</td><td class="py-3 px-4 border-b">कोई घोषणा नहीं</td><td class="py-3 px-4 border-b">एनवीएस का आधिकारिक नोटिस</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अवधि</td><td class="py-3 px-4 border-b">अस्थायी (कुछ घंटे)</td><td class="py-3 px-4 border-b">7-10 दिन</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">पोर्टल स्थिति</td><td class="py-3 px-4 border-b">रुक-रुक कर चलता है</td><td class="py-3 px-4 border-b">नई तिथि के साथ काम करता है</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">एसएमएस सूचना</td><td class="py-3 px-4">कोई सूचना नहीं</td><td class="py-3 px-4">सभी को एसएमएस</td></tr>
+</tbody>
+</table>
 </div>
 
-<h2>NVS एक्सटेंशन की संभावना — कितने प्रतिशत?</h2>
-
-<p>पिछले 3 सालों के डेटा के आधार पर एक्सटेंशन मिलने की संभावना लगभग <strong>70-75%</strong> है। लेकिन इस पर निर्भर न रहें। अगर आपने अभी तक फॉर्म नहीं भरा है, तो आज ही भरें।</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">विस्तार की संभावना — कितने प्रतिशत?</h2>
+<p>पिछले तीन वर्षों के आँकड़ों के आधार पर विस्तार मिलने की संभावना लगभग <strong>सत्तर से पचहत्तर प्रतिशत</strong> है।</p>
 
 <div class="space-y-3 my-6">
-  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
-    <span class="text-green-600 font-bold mt-0.5">✓</span>
-    <p class="text-sm text-gray-700"><strong>एक्सटेंशन मिलने के संकेत:</strong> सर्वर लगातार 48+ घंटे धीमा हो, NVS को शिकायतें बहुत आ रही हों, सोशल मीडिया पर #ExtendJNVST ट्रेंड कर रहा हो।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
-    <span class="text-red-600 font-bold mt-0.5">✗</span>
-    <p class="text-sm text-gray-700"><strong>एक्सटेंशन न मिलने के संकेत:</strong> सर्वर सिर्फ कुछ घंटे धीमा रहा हो, NVS ने कोई बयान नहीं दिया हो, पिछले साल भी नहीं बढ़ाई थी।</p>
-  </div>
+<div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+<span class="text-green-600 font-bold mt-0.5">✓</span>
+<p class="text-sm text-gray-700"><strong>विस्तार मिलने के संकेत:</strong> सर्वर लगातार 48+ घंटे धीमा हो, शिकायतें बहुत आ रही हों।</p>
+</div>
+<div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+<span class="text-red-600 font-bold mt-0.5">✗</span>
+<p class="text-sm text-gray-700"><strong>विस्तार न मिलने के संकेत:</strong> सर्वर केवल कुछ घंटे धीमा रहा हो।</p>
+</div>
 </div>
 
-<div class="my-6">
-  <img src="https://img.jgps.in/blog/jnvst-2027-registration-extension-probability.webp" alt="JNVST 2027 रजिस्ट्रेशन एक्सटेंशन की संभावना — पिछले सालों का विश्लेषण" class="w-full rounded-xl shadow-sm" loading="lazy" />
-  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 एक्सटेंशन संभावना — डेटा आधारित विश्लेषण</p>
-</div>
-
-<h2>अंतिम दिन फॉर्म भरने की रणनीति</h2>
-
-<p>अगर आज (30 जुलाई) और कल (31 जुलाई) को फॉर्म भरना है, तो ये तरीके अपनाएं:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">अंतिम दिन फॉर्म भरने की रणनीति</h2>
 
 <div class="space-y-3 my-6">
-  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
-    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
-    <p class="text-sm text-gray-700"><strong>सुबह 4-5 बजे try करें:</strong> इस समय ट्रैफिक सबसे कम होता है। सर्वर तेज़ी से काम करता है।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
-    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
-    <p class="text-sm text-gray-700"><strong>रात 10 बजे बाद try करें:</strong> दिन भर का ट्रैफिक कम हो जाता है। रात को सर्वर बेहतर चलता है।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
-    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
-    <p class="text-sm text-gray-700"><strong>Chrome ब्राउज़र का उपयोग करें:</strong> Firefox या Safari में कभी-कभी compatibility issues आती हैं।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
-    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
-    <p class="text-sm text-gray-700"><strong>पहले से सारी जानकारी तैयार रखें:</strong> बच्चे का नाम, जन्म तिथि, आधार नंबर, स्कूल का नाम — सब एक कागज़ पर लिख लें।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
-    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
-    <p class="text-sm text-gray-700"><strong>Photo और Signature पहले से स्कैन कर लें:</strong> Photo 50-100 KB और Signature 10-50 KB में रखें।</p>
-  </div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">1.</span>
+<p class="text-sm text-gray-700"><strong>सुबह चार से पाँच बजे प्रयास करें:</strong> इस समय यातायात सबसे कम होता है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">2.</span>
+<p class="text-sm text-gray-700"><strong>रात दस बजे बाद प्रयास करें:</strong> दिन भर का यातायात कम हो जाता है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">3.</span>
+<p class="text-sm text-gray-700"><strong>क्रोम ब्राउज़र का उपयोग करें।</strong></p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">4.</span>
+<p class="text-sm text-gray-700"><strong>पहले से सारी जानकारी तैयार रखें।</strong></p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">5.</span>
+<p class="text-sm text-gray-700"><strong>फोटो और हस्ताक्षर पहले से स्कैन कर लें।</strong></p>
+</div>
 </div>
 
 <div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
-  <p class="text-blue-800 text-sm"><strong>ज़रूरी सलाह:</strong> फॉर्म भरते समय "Save as Draft" ज़रूर करें। अगर बीच में सर्वर बंद हो जाए, तो आपका डेटा सेव रहेगा। दोबारा लॉगिन करके आगे भर सकते हैं।</p>
+<p class="text-blue-800 text-sm"><strong>आवश्यक सलाह:</strong> फॉर्म भरते समय "ड्राफ्ट सहेजें" अवश्य करें।</p>
 </div>
 
-<h2>NVS एक्सटेंशन कहाँ चेक करें?</h2>
-
-<p>अगर NVS तारीख बढ़ाता है, तो यह जानकारी इन जगहों पर मिलेगी:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एनवीएस विस्तार कहाँ जाँचें?</h2>
 
 <ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li><strong>आधिकारिक वेबसाइट:</strong> navodaya.gov.in — यहाँ PDF नोटिस आएगा</li>
-  <li><strong>रजिस्ट्रेशन पोर्टल:</strong> cbseitms.rcil.gov.in — होमपेज पर नोटिस दिखेगा</li>
-  <li><strong>NVS का Twitter/X हैंडल:</strong> @navodaya_vidyal — यहाँ सबसे पहले अपडेट आता है</li>
-  <li><strong>SMS सूचना:</strong> जिन्होंने रजिस्ट्रेशन शुरू किया है लेकिन पूरा नहीं किया, उन्हें SMS आ सकता है</li>
+<li><strong>आधिकारिक वेबसाइट:</strong> navodaya.gov.in</li>
+<li><strong>पंजीकरण पोर्टल:</strong> cbseitms.rcil.gov.in</li>
+<li><strong>एनवीएस का ट्विटर/एक्स:</strong> @navodaya_vidyal</li>
 </ul>
 
 <div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
-  <p class="text-yellow-800 text-sm"><strong>सावधान:</strong> सोशल मीडिया पर फैली अफ़वाहों पर भरोसा न करें। सिर्फ navodaya.gov.in पर जारी नोटिस को ही आधिकारिक मानें। WhatsApp ग्रुप में आने वाली "तारीख बढ़ गई" वाली ख़बरें अक्सर गलत होती हैं।</p>
+<p class="text-yellow-800 text-sm"><strong>सावधान:</strong> सोशल मीडिया पर फैली अफ़वाहों पर भरोसा न करें। केवल navodaya.gov.in पर जारी नोटिस को ही आधिकारिक मानें।</p>
 </div>
 
-<h2>अगर तारीख नहीं बढ़ी तो क्या करें?</h2>
-
-<p>यह सबसे ज़रूरी सवाल है। अगर 31 जुलाई की रात 12 बजे तक फॉर्म सबमिट नहीं हो पाया, तो निराश न हों। आपके पास कई विकल्प हैं:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">यदि तारीख नहीं बढ़ी तो क्या करें?</h2>
 
 <div class="overflow-x-auto my-6">
-  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
-    <thead class="bg-[#035c00]">
-      <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">विकल्प</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">फॉर्म महीना</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">परीक्षा महीना</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">शुल्क (वार्षिक)</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सैनिक स्कूल (AISSEE)</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">₹30,000-50,000</td><td class="py-3 px-4 border-b">सैन्य प्रशिक्षण + शिक्षा</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU कक्षा 6</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">₹5,000-10,000</td><td class="py-3 px-4 border-b">अलीगढ़ मुस्लिम विश्वविद्यालय</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI कक्षा 6</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">₹5,000-8,000</td><td class="py-3 px-4 border-b">जामिया मिलिया इस्लामिया</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">RMS CET</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">₹15,000-25,000</td><td class="py-3 px-4 border-b">राष्ट्रीय मिलिट्री स्कूल</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">JNVST 2028</td><td class="py-3 px-4">जुलाई-अगस्त 2027</td><td class="py-3 px-4">नवंबर-दिसंबर 2027</td><td class="py-3 px-4">निःशुल्क</td><td class="py-3 px-4">अगर उम्र सीमा में हैं</td></tr>
-    </tbody>
-  </table>
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">विकल्प</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">फॉर्म महीना</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">परीक्षा महीना</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">शुल्क (वार्षिक)</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">सैनिक स्कूल (एआईएसईई)</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">₹30,000-50,000</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अलीगढ़ मुस्लिम विश्वविद्यालय</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">₹5,000-10,000</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">जामिया मिलिया इस्लामिया</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">₹5,000-8,000</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">राष्ट्रीय मिलिट्री स्कूल</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">₹15,000-25,000</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">जेएनवीएसटी 2028</td><td class="py-3 px-4">जुलाई-अगस्त 2027</td><td class="py-3 px-4">नवंबर-दिसंबर 2027</td><td class="py-3 px-4">निःशुल्क</td></tr>
+</tbody>
+</table>
 </div>
 
-<div class="my-6">
-  <img src="https://img.jgps.in/blog/alternative-schools-after-jnvst.webp" alt="JNVST के बाद वैकल्पिक स्कूल — सैनिक स्कूल, AMU, JMI, RMS" class="w-full rounded-xl shadow-sm" loading="lazy" />
-  <p class="text-xs text-gray-500 text-center mt-2">JNVST के बाद भी कई अच्छे स्कूलों के विकल्प खुले हैं</p>
-</div>
-
-<h2>JNVST 2028 की तैयारी — अगले साल का मौका</h2>
-
-<p>अगर इस साल फॉर्म नहीं भर पाए, तो JNVST 2028 की तैयारी शुरू कर दें। लेकिन पहले <strong>उम्र सीमा</strong> ज़रूर चेक करें:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">जेएनवीएसटी 2028 — अगले वर्ष का अवसर</h2>
 
 <div class="overflow-x-auto my-6">
-  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
-    <thead class="bg-[#035c00]">
-      <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">कक्षा</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">न्यूनतम आयु</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">अधिकतम आयु</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">जन्म तिथि सीमा</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कक्षा 6</td><td class="py-3 px-4 border-b">10 वर्ष</td><td class="py-3 px-4 border-b">12 वर्ष</td><td class="py-3 px-4 border-b">1 मई 2016 - 30 अप्रैल 2018 (अनुमानित)</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">कक्षा 9</td><td class="py-3 px-4">13 वर्ष</td><td class="py-3 px-4">15 वर्ष</td><td class="py-3 px-4">1 मई 2013 - 30 अप्रैल 2015 (अनुमानित)</td></tr>
-    </tbody>
-  </table>
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">कक्षा</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">न्यूनतम आयु</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">अधिकतम आयु</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">कक्षा 6</td><td class="py-3 px-4 border-b">10 वर्ष</td><td class="py-3 px-4 border-b">12 वर्ष</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">कक्षा 9</td><td class="py-3 px-4">13 वर्ष</td><td class="py-3 px-4">15 वर्ष</td></tr>
+</tbody>
+</table>
 </div>
 
 <div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
-  <p class="text-yellow-800 text-sm"><strong>महत्वपूर्ण:</strong> SC/ST उम्मीदवारों को अधिकतम आयु सीमा में 3 साल की छूट मिलती है। PwD उम्मीदवारों को 5 साल की छूट मिलती है। अगर बच्चा उम्र सीमा में है, तो अगले साल ज़रूर try करें।</p>
+<p class="text-yellow-800 text-sm"><strong>महत्वपूर्ण:</strong> अनुसूचित जाति/जनजाति को तीन वर्ष की छूट। दिव्यांग को पाँच वर्ष की छूट।</p>
 </div>
 
-<h2>सर्वर धीमा है तो ये उपाय करें</h2>
-
-<p>अगर पोर्टल खुल नहीं रहा या बहुत धीमा चल रहा है, तो ये उपाय आज़माएं:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">सर्वर धीमा है तो ये उपाय करें</h2>
 
 <ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li><strong>Wi-Fi का उपयोग करें:</strong> मोबाइल डेटा की जगह Wi-Fi से connect करें। Wi-Fi ज़्यादा स्टेबल होता है।</li>
-  <li><strong>VPN बंद करें:</strong> VPN से पोर्टल की speed और कम हो जाती है।</li>
-  <li><strong>Cache/Cookies clear करें:</strong> ब्राउज़र की cache clear करके दोबारा try करें।</li>
-  <li><strong>Incognito mode में try करें:</strong> Ctrl+Shift+N दबाकर incognito window खोलें।</li>
-  <li><strong>दूसरा डिवाइस try करें:</strong> अगर फ़ोन में नहीं हो रहा, तो लैपटॉप/कंप्यूटर से try करें।</li>
-  <li><strong>OTP समस्या:</strong> OTP 5 मिनट तक wait करें। अगर नहीं आया, तो "Resend OTP" दबाएं। लगातार 3 बार से ज़्यादा try न करें।</li>
+<li><strong>वाई-फ़ाई का उपयोग करें</strong></li>
+<li><strong>वीपीएन बंद करें</strong></li>
+<li><strong>कैश/कुकीज़ साफ़ करें</strong></li>
+<li><strong>गुप्त मोड में प्रयास करें</strong></li>
+<li><strong>दूसरा उपकरण प्रयास करें</strong></li>
 </ul>
 
-<h2>NVS हेल्पलाइन और संपर्क</h2>
-
-<p>अगर कोई technical समस्या आ रही है, तो NVS से संपर्क करें:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">एनवीएस हेल्पलाइन और संपर्क</h2>
 
 <div class="overflow-x-auto my-6">
-  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
-    <thead class="bg-[#035c00]">
-      <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">संपर्क माध्यम</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">हेल्पलाइन नंबर</td><td class="py-3 px-4 border-b">0120-2405969</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">ईमेल</td><td class="py-3 px-4 border-b">navodaya.chn@gmail.com</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">वेबसाइट</td><td class="py-3 px-4 border-b">navodaya.gov.in</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">समय</td><td class="py-3 px-4">सुबह 10 बजे से शाम 5 बजे (कार्यदिवस)</td></tr>
-    </tbody>
-  </table>
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">संपर्क माध्यम</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">हेल्पलाइन नंबर</td><td class="py-3 px-4 border-b">0120-2405969</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">ईमेल</td><td class="py-3 px-4 border-b">navodaya.chn@gmail.com</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">वेबसाइट</td><td class="py-3 px-4 border-b">navodaya.gov.in</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">समय</td><td class="py-3 px-4">सुबह 10 से शाम 5 बजे (कार्यदिवस)</td></tr>
+</tbody>
+</table>
 </div>
 
-<h2>अभिभावकों के लिए चेकलिस्ट</h2>
-
-<p>फॉर्म भरने से पहले ये सब कुछ तैयार रखें:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">अभिभावकों के लिए जाँचसूची</h2>
 
 <ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li>✅ बच्चे का आधार कार्ड (नाम और जन्म तिथि verify करें)</li>
-  <li>✅ बच्चे का पासपोर्ट साइज़ फोटो (50-100 KB, JPEG)</li>
-  <li>✅ बच्चे के हस्ताक्षर का स्कैन (10-50 KB, JPEG)</li>
-  <li>✅ माता-पिता का आधार कार्ड</li>
-  <li>✅ पिछली कक्षा की मार्कशीट</li>
-  <li>✅ जाति प्रमाण पत्र (अगर लागू हो)</li>
-  <li>✅ निवास प्रमाण पत्र</li>
-  <li>✅ बैंक खाता विवरण (पेमेंट के लिए)</li>
-  <li>✅ मोबाइल नंबर (OTP के लिए)</li>
-  <li>✅ ईमेल आईडी (confirmation के लिए)</li>
+<li>बच्चे का आधार कार्ड</li>
+<li>पासपोर्ट आकार का फोटो</li>
+<li>हस्ताक्षर का स्कैन</li>
+<li>माता-पिता का आधार</li>
+<li>पिछली कक्षा की अंकतालिका</li>
+<li>जाति प्रमाणपत्र (यदि लागू हो)</li>
+<li>निवास प्रमाणपत्र</li>
+<li>बैंक खाता विवरण</li>
+<li>मोबाइल नंबर और ईमेल</li>
 </ul>
 
-<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
-  <p class="text-green-800 text-sm"><strong>Pro Tip:</strong> सारे documents की PDF और photocopy दोनों रखें। फॉर्म भरते समय अगर कोई document upload नहीं हो रहा, तो file size चेक करें। ज़्यादातर समस्या file size बड़ा होने से आती है।</p>
-</div>
-
-<h2>एक्सटेंशन मिले तो कैसे पता चलेगा?</h2>
-
-<p>अगर NVS तारीख बढ़ाता है, तो:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">विस्तार मिले तो कैसे पता चलेगा?</h2>
 
 <div class="space-y-3 my-6">
-  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
-    <span class="text-green-600 font-bold mt-0.5">1.</span>
-    <p class="text-sm text-gray-700"><strong>पोर्टल पर नोटिस:</strong> cbseitms.rcil.gov.in के होमपेज पर "Last Date Extended" का बैनर दिखेगा।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
-    <span class="text-green-600 font-bold mt-0.5">2.</span>
-    <p class="text-sm text-gray-700"><strong>NVS वेबसाइट:</strong> navodaya.gov.in पर PDF नोटिस जारी होगा।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
-    <span class="text-green-600 font-bold mt-0.5">3.</span>
-    <p class="text-sm text-gray-700"><strong>SMS सूचना:</strong> जिन्होंने रजिस्ट्रेशन शुरू किया है, उन्हें SMS आ सकता है।</p>
-  </div>
-  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
-    <span class="text-green-600 font-bold mt-0.5">4.</span>
-    <p class="text-sm text-gray-700"><strong>समाचार:</strong> प्रमुख Hindi अख़बारों और न्यूज़ वेबसाइट पर ख़बर आएगी।</p>
-  </div>
+<div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+<span class="text-green-600 font-bold mt-0.5">1.</span>
+<p class="text-sm text-gray-700"><strong>पोर्टल पर नोटिस</strong> दिखेगा।</p>
+</div>
+<div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+<span class="text-green-600 font-bold mt-0.5">2.</span>
+<p class="text-sm text-gray-700"><strong>एनवीएस वेबसाइट</strong> पर पीडीएफ नोटिस जारी होगा।</p>
+</div>
+<div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+<span class="text-green-600 font-bold mt-0.5">3.</span>
+<p class="text-sm text-gray-700"><strong>एसएमएस सूचना</strong> आ सकती है।</p>
+</div>
 </div>
 
-<h2>फॉर्म भरने के बाद क्या करें?</h2>
-
-<p>अगर फॉर्म सफलतापूर्वक सबमिट हो गया है, तो ये काम तुरंत करें:</p>
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">फॉर्म भरने के बाद क्या करें?</h2>
 
 <ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li><strong>Confirmation PDF download करें:</strong> यह PDF admit card download करते समय चाहिए होगी।</li>
-  <li><strong>Registration Number note करें:</strong> SMS, email, और एक कागज़ पर लिख लें।</li>
-  <li><strong>Printout निकालें:</strong> Confirmation page की 2 प्रिंट कॉपी रखें।</li>
-  <li><strong>Screenshot लें:</strong> Confirmation page का screenshot फ़ोन में save करें।</li>
+<li><strong>पुष्टिकरण पीडीएफ डाउनलोड करें</strong></li>
+<li><strong>पंजीकरण संख्या नोट करें</strong></li>
+<li><strong>प्रिंट निकालें (दो प्रति)</strong></li>
+<li><strong>स्क्रीनशॉट लें</strong></li>
 </ul>
-
-<div class="my-6">
-  <img src="https://img.jgps.in/blog/jnvst-form-submission-checklist.webp" alt="JNVST फॉर्म सबमिशन के बाद की चेकलिस्ट — रजिस्ट्रेशन नंबर सेव करें" class="w-full rounded-xl shadow-sm" loading="lazy" />
-  <p class="text-xs text-gray-500 text-center mt-2">JNVST फॉर्म सबमिशन के बाद — ज़रूरी कामों की सूची</p>
-</div>
-
-<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
-</div>
-
-<h2>अक्सर पूछे जाने वाले सवाल</h2>
-
-<div class="space-y-3 my-6">
-  <div class="bg-gray-50 p-4 rounded-lg">
-    <p class="font-bold text-gray-900">सवाल: क्या NVS हर साल तारीख बढ़ाता है?</p>
-    <p class="text-sm text-gray-700 mt-1">जवाब: नहीं, हर साल नहीं बढ़ाता। 2022 में नहीं बढ़ाई थी। पिछले 3 सालों (2023, 2024, 2025) में ज़रूर बढ़ाई है।</p>
-  </div>
-  <div class="bg-gray-50 p-4 rounded-lg">
-    <p class="font-bold text-gray-900">सवाल: एक्सटेंशन मिले तो कितने दिन बढ़ेगा?</p>
-    <p class="text-sm text-gray-700 mt-1">जवाब: पिछले सालों में 7-10 दिन का विस्तार मिला है।</p>
-  </div>
-  <div class="bg-gray-50 p-4 rounded-lg">
-    <p class="font-bold text-gray-900">सवाल: सर्वर धीमा है तो क्या करें?</p>
-    <p class="text-sm text-gray-700 mt-1">जवाब: सुबह 4-5 बजे या रात 10 बजे बाद try करें। Wi-Fi का उपयोग करें। Incognito mode में try करें।</p>
-  </div>
-  <div class="bg-gray-50 p-4 rounded-lg">
-    <p class="font-bold text-gray-900">सवाल: फॉर्म सबमिट नहीं हुआ तो क्या विकल्प हैं?</p>
-    <p class="text-sm text-gray-700 mt-1">जवाब: सैनिक स्कूल (सितंबर-अक्टूबर), AMU/JMI (नवंबर-दिसंबर), RMS, या JNVST 2028 — सब विकल्प खुले हैं।</p>
-  </div>
-</div>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">फॉर्म भरने में मदद चाहिए?</h3>
-<p>अगर फॉर्म भरने में कोई समस्या आ रही है, या वैकल्पिक स्कूलों की तैयारी करना चाहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में Amit Kumar से मार्गदर्शन लें। हम JNVST, सैनिक स्कूल, AMU, JMI — सबकी तैयारी कराते हैं। Call: <strong>+91 9412137554</strong></p>
+<h3 class="font-bold text-gray-900 mb-2">फॉर्म भरने में सहायता चाहिए?</h3>
+<p><strong>जय गोविंद पब्लिक स्कूल</strong> में अमित कुमार से मार्गदर्शन लें। कॉल करें: <strong>+91 9412137554</strong></p>
 </div>
 
-<p><em>यह लेख navodaya.gov.in और अन्य आधिकारिक स्रोतों पर आधारित है। एक्सटेंशन की संभावना अनुमानित है और NVS के निर्णय पर निर्भर करती है। आधिकारिक सूचना के लिए navodaya.gov.in देखें।</em></p>
-`,
+<p><em>यह लेख navodaya.gov.in और अन्य आधिकारिक स्रोतों पर आधारित है।</em></p>`,
     faqs: [
-      { question: "JNVST 2027 की अंतिम तिथि बढ़ेगी?", answer: "पिछले सालों के ट्रेंड के आधार पर 70% संभावना है। लेकिन NVS ने अभी तक कोई आधिकारिक सूचना नहीं दी है।" },
-      { question: "विस्तार हुआ तो कितने दिन बढ़ेगा?", answer: "पिछले 3 सालों में 7-10 दिन का विस्तार मिला है।" },
-      { question: "सर्वर धीमा है तो क्या करें?", answer: "सुबह 4-5 बजे या रात 10 बजे बाद try करें। कम ट्रैफिक वाले समय में सर्वर तेज़ होता है।" },
-      { question: "फॉर्म सबमिट नहीं हुआ तो क्या विकल्प हैं?", answer: "सैनिक स्कूल (सितंबर-अक्टूबर), AMU/JMI (नवंबर-दिसंबर), RMS, या JNVST 2028 — सब विकल्प खुले हैं।" }
+      { question: "जेएनवीएसटी 2027 की अंतिम तिथि बढ़ेगी?", answer: "सत्तर प्रतिशत संभावना है। लेकिन एनवीएस ने अभी तक कोई आधिकारिक सूचना नहीं दी है।" },
+      { question: "विस्तार हुआ तो कितने दिन बढ़ेगा?", answer: "पिछले तीन वर्षों में सात से दस दिन का विस्तार मिला है।" },
+      { question: "सर्वर धीमा है तो क्या करें?", answer: "सुबह चार से पाँच बजे या रात दस बजे बाद प्रयास करें।" },
+      { question: "फॉर्म जमा नहीं हुआ तो क्या विकल्प हैं?", answer: "सैनिक स्कूल, एएमयू/जेएमआई, राष्ट्रीय मिलिट्री स्कूल, या जेएनवीएसटी 2028।" }
     ]
   },
   {
