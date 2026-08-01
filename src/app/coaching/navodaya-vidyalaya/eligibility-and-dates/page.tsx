@@ -156,7 +156,7 @@ export default function NavodayaEligibilityPage() {
                   </tr>
                   <tr className="border-b border-gray-200 bg-gray-50/50">
                     <td className="p-3 font-medium text-red-600 border-r border-gray-200">Last Date to Apply</td>
-                    <td className="p-3 text-red-600 font-bold">31 July 2026</td>
+                    <td className="p-3 text-red-600 font-bold">7 August 2026 (Extended)</td>
                   </tr>
                   <tr className="border-b border-gray-200">
                     <td className="p-3 font-medium text-gray-800 border-r border-gray-200">Application Fee</td>

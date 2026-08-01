@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { schoolData } from "@/data/school-data";
 import { generateFAQSchema } from "@/lib/schema";
@@ -45,10 +45,10 @@ const examTrackerData = [
   {
     name: "Jawahar Navodaya (JNV)",
     badge: "JNVST 2027-28",
-    status: "Apply Now — Last Date 31 July!",
+    status: "Apply Now — Last Date 7 August!",
     statusColor: "bg-red-100 text-red-800 border-red-200",
     openDate: "6 July 2026",
-    closeDate: "31 July 2026",
+    closeDate: "7 August 2026 (Extended)",
     examDate: "28 November 2026",
     resultDate: "March/April 2027",
     link: "/coaching/navodaya-vidyalaya"

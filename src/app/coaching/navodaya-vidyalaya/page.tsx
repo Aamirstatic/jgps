@@ -1,17 +1,17 @@
-﻿import { Metadata } from 'next';
+import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from '@/components/LazyImage';
 
 export const metadata: Metadata = {
   title: 'Navodaya Vidyalaya Coaching 2027-28 | JNVST Class 6 Admission Guide',
-  description: 'JNVST 2027-28 application form is open! Last date 31 July 2026. Exam 28 Nov 2026. Get expert coaching, syllabus, previous papers & eligibility details at JGPS Joya.',
+  description: 'JNVST 2027-28 application form is open! Last date 7 August 2026 (Extended). Exam 28 Nov 2026. Get expert coaching, syllabus, previous papers & eligibility details at JGPS Joya.',
   keywords: 'Navodaya Vidyalaya coaching, JNVST 2027-28, Navodaya admission 2027, JNVST Class 6, Navodaya coaching Joya Amroha, JNVST preparation, Navodaya exam date 2027',
   alternates: {
     canonical: 'https://jgps.in/coaching/navodaya-vidyalaya/',
   },
   openGraph: {
     title: 'Navodaya Vidyalaya Coaching 2027-28 | JGPS Joya',
-    description: 'JNVST 2027-28 form is open. Last date 31 July 2026. Expert coaching for Navodaya Class 6 admission at JGPS Joya, Amroha.',
+    description: 'JNVST 2027-28 form is open. Last date 7 August 2026 (Extended). Expert coaching for Navodaya Class 6 admission at JGPS Joya, Amroha.',
     url: 'https://jgps.in/coaching/navodaya-vidyalaya/',
     siteName: 'Jai Govind Public School',
     images: [{
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Navodaya Vidyalaya Coaching 2027-28 | JGPS Joya',
-    description: 'JNVST 2027-28 form is open. Last date 31 July 2026. Expert coaching at JGPS Joya, Amroha.',
+    description: 'JNVST 2027-28 form is open. Last date 7 August 2026 (Extended). Expert coaching at JGPS Joya, Amroha.',
     images: ['https://jgps.in/images/coaching/navodaya_cluster_hero.avif'],
   },
 };
@@ -39,7 +39,7 @@ const faqSchema = {
       "name": "JNVST 2027-28 की परीक्षा कब होगी?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "JNVST 2027-28 की परीक्षा 28 नवंबर 2026 को होगी। आवेदन 6 जुलाई से 31 जुलाई 2026 तक भरे जा रहे हैं।"
+        "text": "JNVST 2027-28 की परीक्षा 28 नवंबर 2026 को होगी। आवेदन 6 जुलाई से 7 अगस्त 2026 तक भरे जा रहे हैं।"
       }
     },
     {
@@ -133,7 +133,7 @@ export default function NavodayaHubPage() {
         <div className="absolute inset-0 bg-gradient-to-r from-[#035c00]/90 to-[#023b00]/80 flex items-center">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 w-full">
           <span className="bg-red-500 text-white font-bold px-3.5 py-1 rounded-full text-xs uppercase tracking-wider mb-4 inline-block animate-pulse">
-            आवेदन चालू — अंतिम तिथि 31 जुलाई 2026
+            आवेदन चालू — अंतिम तिथि 7 अगस्त 2026
           </span>
           <h1 className="text-3xl md:text-5xl font-extrabold mb-4 text-white">
             नवोदय विद्यालय कोचिंग (JNVST) 2027-28
@@ -365,7 +365,7 @@ export default function NavodayaHubPage() {
             
             <div className="space-y-4 text-gray-700 leading-relaxed mb-6">
               <p>
-                JNVST 2027-28 का आवेदन पूरी तरह <strong>ऑनलाइन</strong> और <strong>नि:शुल्क</strong> है। आवेदन <strong>31 जुलाई 2026</strong> से पहले करना ज़रूरी है।
+                JNVST 2027-28 का आवेदन पूरी तरह <strong>ऑनलाइन</strong> और <strong>नि:शुल्क</strong> है। आवेदन <strong>7 अगस्त 2026</strong> से पहले करना ज़रूरी है।
               </p>
             </div>
 
@@ -546,7 +546,7 @@ export default function NavodayaHubPage() {
             
             <div className="space-y-6">
               {[
-                { q: "JNVST 2027-28 की परीक्षा कब होगी?", a: "JNVST 2027-28 की परीक्षा 28 नवंबर 2026 को होगी। आवेदन 6 जुलाई से 31 जुलाई 2026 तक भरे जा रहे हैं।" },
+                { q: "JNVST 2027-28 की परीक्षा कब होगी?", a: "JNVST 2027-28 की परीक्षा 28 नवंबर 2026 को होगी। आवेदन 6 जुलाई से 7 अगस्त 2026 तक भरे जा रहे हैं।" },
                 { q: "नवोदय स्कूल में फीस कितनी है?", a: "नवोदय स्कूल पूरी तरह मुफ्त है। पढ़ाई, हॉस्टल, खाना, किताबें, यूनिफॉर्म — सब कुछ सरकार देती है। सिर्फ कक्षा 9 से ₹600/माह खाने का शुल्क लगता है। SC/ST, लड़कियाँ और BPL छात्र इससे भी मुक्त हैं।" },
                 { q: "क्या प्राइवेट स्कूल के बच्चे आवेदन कर सकते हैं?", a: "हाँ, बिल्कुल। सरकार से मान्यता प्राप्त किसी भी स्कूल (सरकारी या प्राइवेट) में कक्षा 5 में पढ़ने वाले बच्चे आवेदन कर सकते हैं।" },
                 { q: "एक बच्चा कितनी बार JNVST दे सकता है?", a: "बच्चा सिर्फ एक बार JNVST दे सकता है। कक्षा 5 से कक्षा 6 में एडमिशन के लिए सिर्फ एक मौका मिलता है। रिपीटर (दोबारा पढ़ने वाले) पात्र नहीं हैं।" },
@@ -583,9 +583,9 @@ export default function NavodayaHubPage() {
 
           {/* Final CTA */}
           <section className="bg-gradient-to-r from-yellow-400 to-yellow-300 p-8 rounded-2xl">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">अभी शुरू करें — अंतिम तिथि 31 जुलाई 2026</h2>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">अभी शुरू करें — अंतिम तिथि 7 अगस्त 2026</h2>
             <p className="text-gray-800 mb-6 leading-relaxed">
-              JNVST 2027-28 का आवेदन फॉर्म जारी हो चुका है। अंतिम तिथि <strong>31 जुलाई 2026</strong> है। परीक्षा <strong>28 नवंबर 2026</strong> को होगी। अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो JGPS School में नवोदय की तैयारी कराई जाती है।
+              JNVST 2027-28 का आवेदन फॉर्म जारी हो चुका है। अंतिम तिथि <strong>7 अगस्त 2026</strong> है। परीक्षा <strong>28 नवंबर 2026</strong> को होगी। अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो JGPS School में नवोदय की तैयारी कराई जाती है।
             </p>
             <div className="flex flex-wrap gap-4">
               <Link href="/contact" className="bg-[#035c00] text-white px-6 py-3 rounded-lg font-bold hover:bg-[#024700] transition-colors">
@@ -608,7 +608,7 @@ export default function NavodayaHubPage() {
             </p>
 
             <div className="bg-red-500/20 border border-red-400/30 rounded-lg p-3 mb-4">
-              <p className="text-yellow-400 font-bold text-sm"> अंतिम तिथि: 31 जुलाई 2026</p>
+              <p className="text-yellow-400 font-bold text-sm"> अंतिम तिथि: 7 अगस्त 2026</p>
               <p className="text-xs text-white/80">आवेदन फॉर्म जारी हो चुका है</p>
             </div>
 

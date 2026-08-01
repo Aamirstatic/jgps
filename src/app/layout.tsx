@@ -5,7 +5,6 @@ import { Geist, Geist_Mono } from 'next/font/google';
 import { schoolData } from "@/data/school-data";
 import TopHeader from "@/components/TopHeader";
 import Navbar from "@/components/Navbar";
-import AnnouncementBar from "@/components/AnnouncementBar";
 import Footer from "@/components/Footer";
 import { generateSchemaMarkup } from "@/lib/schema";
 import HtmlLangSetter from "@/components/HtmlLangSetter";
@@ -98,7 +97,6 @@ export default function RootLayout({
         <Suspense fallback={null}>
           <Navbar />
         </Suspense>
-        <AnnouncementBar />
         <main className="flex-grow">{children}</main>
         <Footer />
       </body>

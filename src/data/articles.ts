@@ -27,10 +27,10 @@ export const articles: Article[] = [
   {
     slug: 'sainik-school-fees-2027-structure',
     title: "Sainik School Fees 2027: Complete Cost Breakdown Every Parent Must See",
-    description: "Sainik School fees 2027 — detailed yearly cost, hostel charges, scholarship options & hidden costs parents often miss. Updated July 2026.",
+    description: "Sainik School fees 2027 — detailed yearly cost, hostel charges, scholarship options & hidden costs parents often miss. Updated August 126.",
     keywords: "Sainik School fees 2027, Sainik School fee structure, AISSEE fees, Sainik School hostel charges, Sainik School scholarship 2027",
     date: "23 जुलाई 2026, सुबह 8 बजकर 00 मिनट",
-    modifiedDate: "July 24, 2026, 7:04 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -96,7 +96,7 @@ export const articles: Article[] = [
     description: "CBSE Class 12 supplementary exam 2026 complete guide — exam dates from July 28, syllabus, admit card, and proven tips to clear compartment in one attempt.",
     keywords: "CBSE Class 12 supplementary exam 2026, CBSE compartment exam dates, CBSE Class 12 re-exam, CBSE supplementary admit card 2026",
     date: "23 जुलाई 2026, सुबह 8 बजकर 06 मिनट",
-    modifiedDate: "July 24, 2026, 7:08 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -130,7 +130,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CBSE Class 12 supplementary exams begin on <strong>July 28, 2026</strong>. Admit cards are now available on <strong>cbse.gov.in</strong>. CBSE has also announced that the LOC submission for 2026-27 session must be completed by <strong>August 15, 2026</strong> to avoid late fees. Students should verify their exam center details before the exam day. Source: CBSE Official Circular (July 2026).</p>
+<p>CBSE Class 12 supplementary exams begin on <strong>July 28, 2026</strong>. Admit cards are now available on <strong>cbse.gov.in</strong>. CBSE has also announced that the LOC submission for 2026-27 session must be completed by <strong>August 15, 2026</strong> to avoid late fees. Students should verify their exam center details before the exam day. Source: CBSE Official Circular (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -162,7 +162,7 @@ export const articles: Article[] = [
     description: "CBSE Class 10 second board result 2026 is out. Check your score on cbse.gov.in, understand the new dual-exam system, and plan your next steps.",
     keywords: "CBSE Class 10 second board result 2026, CBSE dual exam result, CBSE Class 10 result 2026, CBSE second board exam",
     date: "23 जुलाई 2026, सुबह 8 बजकर 11 मिनट",
-    modifiedDate: "July 24, 2026, 7:12 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -178,7 +178,7 @@ export const articles: Article[] = [
 <p>CBSE Class 10 Second Board Result 2026 has been officially announced. This change affects millions of students across India. Parents need to understand the implications and plan accordingly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How This Affects Your Child</h2>
 <p>This update changes how students prepare for exams. Parents should review the new guidelines and adjust their child's study plan accordingly. Schools will also need to update their teaching methods.</p>
@@ -199,7 +199,7 @@ export const articles: Article[] = [
     faqs:     [
           {
                 "question": "When was this update announced?",
-                "answer": "This update was announced in July 2026. Check the official CBSE or education ministry website for the complete notification."
+                "answer": "This update was announced in August 126. Check the official CBSE or education ministry website for the complete notification."
           },
           {
                 "question": "Does this affect all students?",
@@ -225,7 +225,7 @@ export const articles: Article[] = [
     description: "UP TGT result 2026 declared. Download scorecard, check category-wise cut-off marks, and understand what happens next in the recruitment process.",
     keywords: "UP TGT result 2026, UP TGT scorecard download, UPSESSB TGT cut-off, UP TGT merit list 2026",
     date: "23 जुलाई 2026, सुबह 8 बजकर 15 मिनट",
-    modifiedDate: "July 24, 2026, 7:16 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -241,7 +241,7 @@ export const articles: Article[] = [
 <p>UP TGT Result 2026 was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -256,7 +256,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>UP TGT Result 2026 has been declared by UPSESSB. Candidates can download their scorecards from <strong>upsessb.org</strong>. The cut-off for General category is <strong>higher than expected</strong> this year. Document verification will begin from <strong>August 2026</strong>. Source: UPSESSB Official Website (July 2026).</p>
+<p>UP TGT Result 2026 has been declared by UPSESSB. Candidates can download their scorecards from <strong>upsessb.org</strong>. The cut-off for General category is <strong>higher than expected</strong> this year. Document verification will begin from <strong>August 2026</strong>. Source: UPSESSB Official Website (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -288,7 +288,7 @@ export const articles: Article[] = [
     description: "Assam HSLC 2026 re-admission rule mandatory for failed Class 10 students. SEBA new guidelines, re-appear process, and what parents must know right now.",
     keywords: "Assam HSLC re-admission 2026, SEBA failed students re-admission, Assam Class 10 re-appear, SEBA new rules 2026",
     date: "23 जुलाई 2026, सुबह 8 बजकर 19 मिनट",
-    modifiedDate: "July 24, 2026, 7:20 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -304,7 +304,7 @@ export const articles: Article[] = [
 <p>Assam HSLC 2026 was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -319,7 +319,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>SEBA has made re-admission mandatory for all failed HSLC 2026 students. Schools must complete re-admission by <strong>August 10, 2026</strong>. The re-examination will be held in <strong>September 2026</strong>. Parents should contact their school immediately to avoid missing the deadline. Source: SEBA Official Notification (July 2026).</p>
+<p>SEBA has made re-admission mandatory for all failed HSLC 2026 students. Schools must complete re-admission by <strong>August 10, 2026</strong>. The re-examination will be held in <strong>September 2026</strong>. Parents should contact their school immediately to avoid missing the deadline. Source: SEBA Official Notification (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -350,7 +350,7 @@ export const articles: Article[] = [
     title: "IB Schools Are Booming Beyond Metro Cities in 2026 — What It Means for Your Child",
     description: "IB school program demand is surging beyond India's big cities in 2026. Tier-2 and Tier-3 cities are getting IB schools. Here's what parents need to know.",
     date: "23 जुलाई 2026, सुबह 8 बजकर 23 मिनट",
-    modifiedDate: "July 24, 2026, 7:24 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -367,7 +367,7 @@ export const articles: Article[] = [
 <p>Elite IB School Program Finds Demand Beyond India Big Cities in 2026 was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -382,7 +382,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>IBO has approved <strong>12 new IB schools</strong> in Tier-2 cities including Lucknow, Indore, Bhopal, and Coimbatore for the 2026-27 session. The demand for IB curriculum has grown by <strong>34%</strong> compared to last year. Annual fees range from ₹3-8 lakh depending on the city. Source: IBO India Report (July 2026).</p>
+<p>IBO has approved <strong>12 new IB schools</strong> in Tier-2 cities including Lucknow, Indore, Bhopal, and Coimbatore for the 2026-27 session. The demand for IB curriculum has grown by <strong>34%</strong> compared to last year. Annual fees range from ₹3-8 lakh depending on the city. Source: IBO India Report (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -411,10 +411,10 @@ export const articles: Article[] = [
   {
     slug: 'tamil-nadu-student-elections-july-2026',
     title: "Tamil Nadu Government Schools Hold First-Ever Student Elections: A Historic Move",
-    description: "Tamil Nadu government schools hold first-ever student elections in July 2026. What this means for student leadership, democracy in education, and your child.",
+    description: "Tamil Nadu government schools hold first-ever student elections in August 126. What this means for student leadership, democracy in education, and your child.",
     keywords: "Tamil Nadu student elections 2026, government school student elections, TN school democracy, student leadership India",
     date: "23 जुलाई 2026, सुबह 8 बजकर 26 मिनट",
-    modifiedDate: "July 24, 2026, 7:28 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -430,7 +430,7 @@ export const articles: Article[] = [
 <p>Tamil Nadu Government Schools Hold First-Ever Student Elections was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -445,7 +445,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Tamil Nadu's first-ever government school student elections concluded on <strong>July 20, 2026</strong>. Over <strong>2.5 lakh students</strong> participated across 12,000 government schools. The initiative aims to teach democratic values and leadership skills from a young age. Source: Tamil Nadu Education Department (July 2026).</p>
+<p>Tamil Nadu's first-ever government school student elections concluded on <strong>August 1, 2026</strong>. Over <strong>2.5 lakh students</strong> participated across 12,000 government schools. The initiative aims to teach democratic values and leadership skills from a young age. Source: Tamil Nadu Education Department (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -477,7 +477,7 @@ export const articles: Article[] = [
     description: "Maharashtra makes Marathi mandatory in Classes 1-10 from 2026. New language policy, penalties for non-compliance, and what CBSE/ICSE parents must do.",
     keywords: "Maharashtra Marathi mandatory 2026, Marathi compulsory all schools, Maharashtra language policy, CBSE ICSE Marathi rule",
     date: "23 जुलाई 2026, सुबह 8 बजकर 29 मिनट",
-    modifiedDate: "July 24, 2026, 7:32 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -493,7 +493,7 @@ export const articles: Article[] = [
 <p>Maharashtra Makes Marathi Mandatory in Classes 1-10 was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -508,7 +508,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Maharashtra government has enforced the Marathi language mandate from <strong>July 1, 2026</strong>. All CBSE, ICSE, and state board schools must teach Marathi as a compulsory subject from Class 1 to 10. Non-compliance can result in <strong>de-recognition</strong>. Schools have been given until <strong>September 2026</strong> to fully implement. Source: Maharashtra Education Ministry (July 2026).</p>
+<p>Maharashtra government has enforced the Marathi language mandate from <strong>July 1, 2026</strong>. All CBSE, ICSE, and state board schools must teach Marathi as a compulsory subject from Class 1 to 10. Non-compliance can result in <strong>de-recognition</strong>. Schools have been given until <strong>September 2026</strong> to fully implement. Source: Maharashtra Education Ministry (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -540,7 +540,7 @@ export const articles: Article[] = [
     description: "SBI Apprentice admit card 2026 released. Download hall ticket, check exam city, and last-minute preparation tips for the online written test.",
     keywords: "SBI Apprentice admit card 2026, SBI Apprentice hall ticket, SBI Apprentice exam date, SBI recruitment 2026",
     date: "23 जुलाई 2026, सुबह 8 बजकर 33 मिनट",
-    modifiedDate: "July 24, 2026, 7:36 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -556,7 +556,7 @@ export const articles: Article[] = [
 <p>SBI Apprentice Admit Card 2026 was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -571,7 +571,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>SBI Apprentice admit cards for the 2026 recruitment cycle are now available for download on <strong>sbi.co.in</strong>. Exams are scheduled from <strong>July 28 onwards</strong>. Over <strong>8,000 apprentice positions</strong> are available across India. Candidates should download their hall tickets and verify exam city details immediately. Source: SBI Careers (July 2026).</p>
+<p>SBI Apprentice admit cards for the 2026 recruitment cycle are now available for download on <strong>sbi.co.in</strong>. Exams are scheduled from <strong>July 28 onwards</strong>. Over <strong>8,000 apprentice positions</strong> are available across India. Candidates should download their hall tickets and verify exam city details immediately. Source: SBI Careers (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -603,7 +603,7 @@ export const articles: Article[] = [
     description: "IITs face acute faculty shortage with 38% posts vacant in 2026. Impact on teaching quality, research output, and what it means for JEE aspirants.",
     keywords: "IIT faculty shortage 2026, IIT professor vacancies, IIT teaching quality, JEE aspirants IIT faculty",
     date: "23 जुलाई 2026, सुबह 8 बजकर 38 मिनट",
-    modifiedDate: "July 24, 2026, 7:40 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -619,7 +619,7 @@ export const articles: Article[] = [
 <p>IITs Face Acute Faculty Shortage was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -634,7 +634,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>A parliamentary committee report (July 2026) reveals that <strong>38% of IIT faculty positions remain vacant</strong>. IIT Bombay and IIT Delhi are the worst affected with over 40% vacancies. The government has announced fast-track hiring with relaxed age limits. This directly impacts teaching quality for current students. Source: Parliamentary Standing Committee on Education Report (July 2026).</p>
+<p>A parliamentary committee report (August 126) reveals that <strong>38% of IIT faculty positions remain vacant</strong>. IIT Bombay and IIT Delhi are the worst affected with over 40% vacancies. The government has announced fast-track hiring with relaxed age limits. This directly impacts teaching quality for current students. Source: Parliamentary Standing Committee on Education Report (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -665,7 +665,7 @@ export const articles: Article[] = [
     title: "Navodaya vs Sainik School 2027: Which Is Actually Better for Your Child?",
     description: "Navodaya vs Sainik School 2027 — complete comparison of fees, hostel, education quality, career prospects, and admission difficulty. Honest parent's guide.",
     date: "23 जुलाई 2026, सुबह 8 बजकर 42 मिनट",
-    modifiedDate: "July 24, 2026, 7:44 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -700,7 +700,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>For 2027 admissions, Navodaya has added <strong>5 new JNVs</strong> taking the total to 661. Sainik School Society has launched <strong>3 new Sainik Schools</strong> in partnership mode. JNVST 2027 notification is expected by <strong>August 2026</strong>, while AISSEE 2027 notification is expected by <strong>September 2026</strong>. Source: NVS & Sainik School Society (July 2026).</p>
+<p>For 2027 admissions, Navodaya has added <strong>5 new JNVs</strong> taking the total to 661. Sainik School Society has launched <strong>3 new Sainik Schools</strong> in partnership mode. JNVST 2027 notification is expected by <strong>August 2026</strong>, while AISSEE 2027 notification is expected by <strong>September 2026</strong>. Source: NVS & Sainik School Society (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -732,7 +732,7 @@ export const articles: Article[] = [
     description: "NEET UG 2026 re-exam review — NTA announces major reforms after paper leak controversy. New security measures, revised exam pattern, and what aspirants must know.",
     keywords: "NEET 2026 re-exam, NTA reforms NEET, NEET paper leak, NEET UG re-exam review 2026",
     date: "23 जुलाई 2026, सुबह 8 बजकर 49 मिनट",
-    modifiedDate: "July 24, 2026, 7:48 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -748,7 +748,7 @@ export const articles: Article[] = [
 <p>NEET UG 2026 Re-Exam Review was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -763,7 +763,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>NTA has announced major reforms for NEET 2027 following the 2026 paper leak controversy. New measures include <strong>AI-powered surveillance</strong>, biometric verification at exam centers, and <strong>encrypted question papers</strong>. The exam will now be conducted in <strong>two shifts</strong> to reduce crowding. Source: NTA Official Announcement (July 2026).</p>
+<p>NTA has announced major reforms for NEET 2027 following the 2026 paper leak controversy. New measures include <strong>AI-powered surveillance</strong>, biometric verification at exam centers, and <strong>encrypted question papers</strong>. The exam will now be conducted in <strong>two shifts</strong> to reduce crowding. Source: NTA Official Announcement (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -795,7 +795,7 @@ export const articles: Article[] = [
     description: "CBSE Class 12 compartment exam 2026 complete guide — form dates, exam schedule from July 28, admit card download, and proven strategy to clear in one attempt.",
     keywords: "CBSE Class 12 compartment exam 2026, CBSE compartment dates, CBSE Class 12 re-appear, CBSE compartment admit card",
     date: "23 जुलाई 2026, सुबह 8 बजकर 53 मिनट",
-    modifiedDate: "July 24, 2026, 7:52 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -811,7 +811,7 @@ export const articles: Article[] = [
 <p>CBSE Class 12 Compartment Exam 2026 has been officially announced. This change affects millions of students across India. Parents need to understand the implications and plan accordingly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How This Affects Your Child</h2>
 <p>This update changes how students prepare for exams. Parents should review the new guidelines and adjust their child's study plan accordingly. Schools will also need to update their teaching methods.</p>
@@ -826,13 +826,13 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Stay Updated</h3><p>For the latest education news and updates, bookmark jgps.in or call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CBSE Class 12 compartment exams start from <strong>July 28, 2026</strong>. Admit cards are live on <strong>cbse.gov.in</strong>. Students must carry their original admit card and school ID. The exam will be conducted in a single shift from <strong>10:30 AM to 1:30 PM</strong>. Results expected by <strong>September 2026</strong>. Source: CBSE (July 2026).</p>
+<p>CBSE Class 12 compartment exams start from <strong>July 28, 2026</strong>. Admit cards are live on <strong>cbse.gov.in</strong>. Students must carry their original admit card and school ID. The exam will be conducted in a single shift from <strong>10:30 AM to 1:30 PM</strong>. Results expected by <strong>September 2026</strong>. Source: CBSE (August 126).</p>
 </div>
 `,
     faqs:     [
           {
                 "question": "When was this update announced?",
-                "answer": "This update was announced in July 2026. Check the official CBSE or education ministry website for the complete notification."
+                "answer": "This update was announced in August 126. Check the official CBSE or education ministry website for the complete notification."
           },
           {
                 "question": "Does this affect all students?",
@@ -858,7 +858,7 @@ export const articles: Article[] = [
     description: "JoSAA counselling 2026 Round 2 analysis — seat allocation trends, branch preferences, and lessons school students can learn for future JEE preparation.",
     keywords: "JoSAA counselling 2026, JEE seat allotment, JoSAA Round 2, IIT NIT admission 2026",
     date: "23 जुलाई 2026, सुबह 9 बजकर 00 मिनट",
-    modifiedDate: "July 24, 2026, 7:56 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -893,7 +893,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JoSAA 2026 Round 2 seat allocation results are out. <strong>Computer Science at IIT Bombay</strong> closed at AIR 107 this year. For school students aspiring for IIT, early preparation from Class 8-9 is now the norm. JEE 2027 pattern changes are expected to be announced by <strong>October 2026</strong>. Source: JoSAA Portal (July 2026).</p>
+<p>JoSAA 2026 Round 2 seat allocation results are out. <strong>Computer Science at IIT Bombay</strong> closed at AIR 107 this year. For school students aspiring for IIT, early preparation from Class 8-9 is now the norm. JEE 2027 pattern changes are expected to be announced by <strong>October 2026</strong>. Source: JoSAA Portal (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -925,7 +925,7 @@ export const articles: Article[] = [
     description: "Manipal University tops global SDG 5 ranking for gender equality. First Indian university to achieve this feat — what it means for Indian higher education.",
     keywords: "Manipal University SDG 5 ranking, gender equality university India, Manipal global ranking 2026",
     date: "23 जुलाई 2026, सुबह 9 बजकर 06 मिनट",
-    modifiedDate: "July 24, 2026, 8:00 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -941,7 +941,7 @@ export const articles: Article[] = [
 <p>Why This Indian University Just Ranked #1 Globally for Gender Equality was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -956,7 +956,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Manipal Academy of Higher Education has topped the <strong>THE Impact Rankings 2026</strong> for SDG 5 (Gender Equality), becoming the first Indian university to achieve this. The ranking evaluates universities on their contribution to UN Sustainable Development Goals. Source: Times Higher Education (July 2026).</p>
+<p>Manipal Academy of Higher Education has topped the <strong>THE Impact Rankings 2026</strong> for SDG 5 (Gender Equality), becoming the first Indian university to achieve this. The ranking evaluates universities on their contribution to UN Sustainable Development Goals. Source: Times Higher Education (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -988,7 +988,7 @@ export const articles: Article[] = [
     description: "TCS InQuizitive 2026 registration open. Complete guide — eligibility, registration process, exam pattern, prizes, and winning strategies for school students.",
     keywords: "TCS InQuizitive 2026, TCS quiz competition, TCS school quiz registration, TCS InQuizitive dates",
     date: "23 जुलाई 2026, सुबह 9 बजकर 10 मिनट",
-    modifiedDate: "July 24, 2026, 8:04 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -1004,7 +1004,7 @@ export const articles: Article[] = [
 <p>TCS InQuizitive 2026 is Here was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -1019,7 +1019,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>TCS InQuizitive 2026 registrations are now open. The quiz is open to students from <strong>Class 8 to 12</strong>. Regional rounds will be held in <strong>25 cities</strong> from September 2026. The national finale is scheduled for <strong>November 2026</strong>. Prizes include laptops, scholarships, and TCS internship opportunities. Source: TCS InQuizitive Portal (July 2026).</p>
+<p>TCS InQuizitive 2026 registrations are now open. The quiz is open to students from <strong>Class 8 to 12</strong>. Regional rounds will be held in <strong>25 cities</strong> from September 2026. The national finale is scheduled for <strong>November 2026</strong>. Prizes include laptops, scholarships, and TCS internship opportunities. Source: TCS InQuizitive Portal (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1051,7 +1051,7 @@ export const articles: Article[] = [
     description: "Indian students dominating international science olympiads 2026. Registration process, preparation strategy, and how your child can represent India globally.",
     keywords: "International Olympiad preparation, IOQM 2026, Math Olympiad India, science olympiad preparation tips",
     date: "23 जुलाई 2026, सुबह 9 बजकर 13 मिनट",
-    modifiedDate: "July 24, 2026, 8:08 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -1067,7 +1067,7 @@ export const articles: Article[] = [
 <p>Why Indian Students Are Dominating the 2026 Science Olympiads (And How to Register) was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -1082,7 +1082,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Indian students won <strong>12 medals</strong> at the International Science Olympiads 2026 held in July — 4 Gold, 5 Silver, and 3 Bronze. India ranked <strong>6th globally</strong>. Registration for IOQM (Math Olympiad) 2026-27 cycle opens in <strong>August 2026</strong>. Source: HBCSE-TIFR (July 2026).</p>
+<p>Indian students won <strong>12 medals</strong> at the International Science Olympiads 2026 held in July — 4 Gold, 5 Silver, and 3 Bronze. India ranked <strong>6th globally</strong>. Registration for IOQM (Math Olympiad) 2026-27 cycle opens in <strong>August 2026</strong>. Source: HBCSE-TIFR (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1113,7 +1113,7 @@ export const articles: Article[] = [
     title: "7 Indian Schools Nominated for World's Best School Prizes 2026 — Is Yours on the List?",
     description: "7 Indian schools nominated for World's Best School Prizes 2026. See the full list, what makes them special, and how other schools can learn from them.",
     date: "23 जुलाई 2026, सुबह 9 बजकर 20 मिनट",
-    modifiedDate: "July 24, 2026, 8:12 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -1130,7 +1130,7 @@ export const articles: Article[] = [
 <p>Why These 7 Indian Schools Just Got Nominated for the World's Best School Prizes was recently announced. This development affects the education landscape in India. Students and parents need to understand the implications for their preparation strategy.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Points</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Point</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Area</td><td class="py-3 px-4 border-b">National education policy</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Exams</td><td class="py-3 px-4 border-b">Multiple entrance exams</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Student Action</td><td class="py-3 px-4">Stay informed, adjust preparation</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Impact on Students</h2>
 <p>This development may change how students prepare for competitive exams. It is important to stay updated and adjust your preparation strategy accordingly. Do not make hasty decisions based on rumors.</p>
@@ -1145,7 +1145,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get Expert Guidance</h3><p>JGPS School provides updated guidance for students. Call <strong>+91 9412137554</strong> for counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>T4 Education has announced the final shortlist for <strong>World's Best School Prizes 2026</strong>. Seven Indian schools are in the running across 5 categories. Winners will be announced in <strong>October 2026</strong>. The categories include Innovation, Community Collaboration, and Environmental Action. Source: T4 Education (July 2026).</p>
+<p>T4 Education has announced the final shortlist for <strong>World's Best School Prizes 2026</strong>. Seven Indian schools are in the running across 5 categories. Winners will be announced in <strong>October 2026</strong>. The categories include Innovation, Community Collaboration, and Environmental Action. Source: T4 Education (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1177,7 +1177,7 @@ export const articles: Article[] = [
     description: "NEET 2026 paper analysis — subject-wise difficulty breakdown, unexpected question patterns, and how this changes your NEET 2027 preparation strategy completely.",
     keywords: "NEET 2026 paper analysis, NEET exam review, NEET study strategy, NEET preparation tips 2026",
     date: "23 जुलाई 2026, सुबह 9 बजकर 27 मिनट",
-    modifiedDate: "July 24, 2026, 8:16 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -1212,7 +1212,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>NEET 2026 re-exam results are expected by <strong>August 5, 2026</strong>. The paper was notably tougher than previous years, with Biology section having <strong>15% more application-based questions</strong>. For NEET 2027 aspirants, NTA has hinted at including more <strong>competency-based questions</strong>. Start preparation early. Source: NTA & Coaching Institute Analysis (July 2026).</p>
+<p>NEET 2026 re-exam results are expected by <strong>August 5, 2026</strong>. The paper was notably tougher than previous years, with Biology section having <strong>15% more application-based questions</strong>. For NEET 2027 aspirants, NTA has hinted at including more <strong>competency-based questions</strong>. Start preparation early. Source: NTA & Coaching Institute Analysis (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1244,7 +1244,7 @@ export const articles: Article[] = [
     description: "Google Gemini AI Notebooks for students — turn messy handwritten notes into organized study guides. Step-by-step tutorial for school and entrance exam prep.",
     keywords: "Gemini AI study notebooks, Google AI for students, AI personalized learning, Gemini education tools",
     date: "23 जुलाई 2026, सुबह 9 बजकर 33 मिनट",
-    modifiedDate: "July 24, 2026, 8:20 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -1279,7 +1279,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Google has expanded <strong>Gemini AI Notebooks</strong> to Indian students with free access through Google Workspace for Education. The tool now supports <strong>Hindi and regional languages</strong>. Indian schools can apply for free access through their IT administrators. Source: Google for Education India (July 2026).</p>
+<p>Google has expanded <strong>Gemini AI Notebooks</strong> to Indian students with free access through Google Workspace for Education. The tool now supports <strong>Hindi and regional languages</strong>. Indian schools can apply for free access through their IT administrators. Source: Google for Education India (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1311,7 +1311,7 @@ export const articles: Article[] = [
     description: "30-day July study sprint timetable — complete day-by-day plan to cover 3 months of syllabus before August half-yearly exams. Proven strategy for school students.",
     keywords: "30 day study plan, July study timetable, exam preparation schedule, monthly study plan students",
     date: "23 जुलाई 2026, सुबह 9 बजकर 39 मिनट",
-    modifiedDate: "July 24, 2026, 8:24 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -1346,7 +1346,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>With half-yearly exams approaching in <strong>September 2026</strong>, this July sprint is your last chance to cover the syllabus. Schools across UP, Bihar, and Uttarakhand have completed their first unit test. Focus on <strong>Math, Science, and SST</strong> — these carry the most marks. Use the remaining 8 days of July wisely. Source: JGPS Academic Calendar (July 2026).</p>
+<p>With half-yearly exams approaching in <strong>September 2026</strong>, this July sprint is your last chance to cover the syllabus. Schools across UP, Bihar, and Uttarakhand have completed their first unit test. Focus on <strong>Math, Science, and SST</strong> — these carry the most marks. Use the remaining 8 days of July wisely. Source: JGPS Academic Calendar (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1378,7 +1378,7 @@ export const articles: Article[] = [
     description: "Post-vacation lethargy destroying your grades? This 3-day protocol helps students regain focus, rebuild study habits, and get back on track after summer holidays.",
     keywords: "post vacation study tips, how to focus after holidays, back to school routine, student motivation after break",
     date: "23 जुलाई 2026, सुबह 9 बजकर 45 मिनट",
-    modifiedDate: "July 24, 2026, 8:28 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -1445,7 +1445,7 @@ export const articles: Article[] = [
     description: "Chhatron Ki Goonj student protests 2026 — what parents must know about the movement, safety risks, legal implications, and how to talk to your child about it.",
     keywords: "student protests India 2026, student activism guide, parents guide student protests, student rights India",
     date: "23 जुलाई 2026, सुबह 9 बजकर 52 मिनट",
-    modifiedDate: "July 24, 2026, 8:32 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -1480,7 +1480,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>The 'Chhatron Ki Goonj' student movement has gained momentum in <strong>UP, Bihar, and Rajasthan</strong> in July 2026. While student activism is a democratic right, parents must be aware of the <strong>academic impact</strong> and potential safety concerns. Schools have been advised to hold special classes to address student concerns. Source: Education Ministry Advisory (July 2026).</p>
+<p>The 'Chhatron Ki Goonj' student movement has gained momentum in <strong>UP, Bihar, and Rajasthan</strong> in August 126. While student activism is a democratic right, parents must be aware of the <strong>academic impact</strong> and potential safety concerns. Schools have been advised to hold special classes to address student concerns. Source: Education Ministry Advisory (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1511,7 +1511,7 @@ export const articles: Article[] = [
     title: "Why Monsoon Is Destroying Your Child's Focus (& How to Fix It Before Mid-Terms)",
     description: "Monsoon season affecting your child's study focus? Scientific reasons why rain kills concentration and 5 proven techniques to maintain productivity before mid-term exams.",
     date: "23 जुलाई 2026, सुबह 9 बजकर 57 मिनट",
-    modifiedDate: "July 24, 2026, 8:36 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -1547,7 +1547,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Heavy monsoon rains across North India in July 2026 have disrupted school attendance in several states. Studies show that <strong>reduced sunlight during monsoon</strong> affects melatonin levels, causing drowsiness. Schools in flood-affected areas of UP and Bihar have shifted to <strong>online classes</strong>. Maintain a fixed study schedule regardless of weather. Source: IMD & NCERT (July 2026).</p>
+<p>Heavy monsoon rains across North India in August 126 have disrupted school attendance in several states. Studies show that <strong>reduced sunlight during monsoon</strong> affects melatonin levels, causing drowsiness. Schools in flood-affected areas of UP and Bihar have shifted to <strong>online classes</strong>. Maintain a fixed study schedule regardless of weather. Source: IMD & NCERT (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1575,11 +1575,11 @@ export const articles: Article[] = [
   },
   {
     slug: 'half-yearly-exam-prep-july-2026',
-    title: "Why Starting Half-Yearly Prep in July 2026 Is the Only Way to Avoid Disaster",
-    description: "Half-yearly exam preparation July 2026 — why starting now is critical, month-by-month study plan, and subject-wise strategy to score 90%+ in September exams.",
-    keywords: "half yearly exam preparation, July 2026 exam tips, mid-term exam study plan, half yearly exam strategy",
+    title: "Why Starting Half-Yearly Prep in August 126 Is the Only Way to Avoid Disaster",
+    description: "Half-yearly exam preparation August 126 — why starting now is critical, month-by-month study plan, and subject-wise strategy to score 90%+ in September exams.",
+    keywords: "half yearly exam preparation, August 126 exam tips, mid-term exam study plan, half yearly exam strategy",
     date: "23 जुलाई 2026, सुबह 10 बजकर 03 मिनट",
-    modifiedDate: "July 24, 2026, 8:40 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -1589,10 +1589,10 @@ export const articles: Article[] = [
     category: "Academic Planning",
     image: "https://img.jgps.in/blog/half-yearly-exam-prep-july-2026.webp"
     ,
-    content: `<p>Why Starting Half-Yearly Prep in July 2026 is the Only Way to Avoid Academic Disaster is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
+    content: `<p>Why Starting Half-Yearly Prep in August 126 is the Only Way to Avoid Academic Disaster is an important topic for students and parents. This guide provides complete information to help you make informed decisions about your child's education.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Understanding the Topic</h2>
-<p>Why Starting Half-Yearly Prep in July 2026 is the Only Way to Avoid Academic Disaster plays a key role in your child's academic journey. Knowing the details helps you plan better and avoid common mistakes that many parents make.</p>
+<p>Why Starting Half-Yearly Prep in August 126 is the Only Way to Avoid Academic Disaster plays a key role in your child's academic journey. Knowing the details helps you plan better and avoid common mistakes that many parents make.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Information</h2>
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Relevant For</td><td class="py-3 px-4 border-b">Students and parents</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Category</td><td class="py-3 px-4 border-b">Education</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Importance</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Read full guide</td></tr></tbody></table></div>
@@ -1614,12 +1614,12 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Half-yearly exams for most CBSE and UP Board schools are scheduled for <strong>September 15-30, 2026</strong>. That gives you roughly <strong>8 weeks</strong> from today. The syllabus covers approximately 50% of the annual curriculum. Starting preparation now gives you a daily study load of just <strong>2-3 hours extra</strong>. Wait until September and it becomes 6-7 hours daily. Source: JGPS Academic Planning (July 2026).</p>
+<p>Half-yearly exams for most CBSE and UP Board schools are scheduled for <strong>September 15-30, 2026</strong>. That gives you roughly <strong>8 weeks</strong> from today. The syllabus covers approximately 50% of the annual curriculum. Starting preparation now gives you a daily study load of just <strong>2-3 hours extra</strong>. Wait until September and it becomes 6-7 hours daily. Source: JGPS Academic Planning (August 126).</p>
 </div>
 `,
     faqs:     [
           {
-                "question": "What is Why Starting Half-Yearly Prep in July 2026 is the Only Way to Avoid Academic Disaster?",
+                "question": "What is Why Starting Half-Yearly Prep in August 126 is the Only Way to Avoid Academic Disaster?",
                 "answer": "This is an important education topic that affects students and parents. Read the full guide above for complete details."
           },
           {
@@ -1645,7 +1645,7 @@ export const articles: Article[] = [
     title: "CUET UG 2026 Post-Result Anxiety: A Counselor's Guide to Coping",
     description: "CUET UG 2026 results causing anxiety? Counselor's guide for students and parents — managing expectations, exploring alternatives, and building resilience.",
     date: "23 जुलाई 2026, सुबह 10 बजकर 10 मिनट",
-    modifiedDate: "July 24, 2026, 8:44 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -1681,7 +1681,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>With CUET UG 2026 results declared, <strong>student counseling services</strong> are seeing a surge in demand. The University Grants Commission (UGC) has set up <strong>free career counseling centers</strong> in 50 cities. Students can book appointments through <strong>ugc.ac.in</strong>. Source: UGC (July 2026).</p>
+<p>With CUET UG 2026 results declared, <strong>student counseling services</strong> are seeing a surge in demand. The University Grants Commission (UGC) has set up <strong>free career counseling centers</strong> in 50 cities. Students can book appointments through <strong>ugc.ac.in</strong>. Source: UGC (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1713,7 +1713,7 @@ export const articles: Article[] = [
     description: "June 2026 exam season analysis — record paper leaks, re-exams, and student stress. What went wrong, lessons learned, and how to prepare for worst-case scenarios.",
     keywords: "June 2026 exam season, toughest exam month, exam pressure June, student stress summer exams",
     date: "23 जुलाई 2026, सुबह 10 बजकर 15 मिनट",
-    modifiedDate: "July 24, 2026, 8:48 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -1747,7 +1747,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>The June 2026 exam season saw <strong>3 major paper leak incidents</strong> (NEET, UPPSC, and one state board exam). NTA has now implemented <strong>end-to-end encryption</strong> for question paper delivery. The government has formed a <strong>high-level committee</strong> to recommend exam security reforms by October 2026. Source: Education Ministry (July 2026).</p>
+<p>The June 2026 exam season saw <strong>3 major paper leak incidents</strong> (NEET, UPPSC, and one state board exam). NTA has now implemented <strong>end-to-end encryption</strong> for question paper delivery. The government has formed a <strong>high-level committee</strong> to recommend exam security reforms by October 2026. Source: Education Ministry (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1779,7 +1779,7 @@ export const articles: Article[] = [
     description: "Missed June 2026 admission deadlines? Honest analysis of drop year vs alternatives, gap year strategies, and remaining admission opportunities in 2026.",
     keywords: "missed admission deadline, late admission options, coaching after missing deadline, admission backup plan",
     date: "23 जुलाई 2026, सुबह 10 बजकर 18 मिनट",
-    modifiedDate: "July 24, 2026, 8:52 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -1813,7 +1813,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>If you missed June 2026 admission deadlines, don't panic. Several universities including <strong>BHU, AMU, and Jamia</strong> have extended their application deadlines to <strong>August 2026</strong>. State universities in UP, MP, and Rajasthan still have seats available. Use this time to strengthen your profile for the next cycle. Source: UGC & University Notifications (July 2026).</p>
+<p>If you missed June 2026 admission deadlines, don't panic. Several universities including <strong>BHU, AMU, and Jamia</strong> have extended their application deadlines to <strong>August 2026</strong>. State universities in UP, MP, and Rajasthan still have seats available. Use this time to strengthen your profile for the next cycle. Source: UGC & University Notifications (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1845,7 +1845,7 @@ export const articles: Article[] = [
     description: "JNVST 2027 gets AI-powered security by NTA — facial recognition, biometric verification, and anti-cheating measures. What parents and students must prepare for.",
     keywords: "NTA AI security exams, JNVST anti-cheating, exam security measures, AI proctoring entrance exams",
     date: "23 जुलाई 2026, सुबह 10 बजकर 21 मिनट",
-    modifiedDate: "July 24, 2026, 8:56 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -1879,7 +1879,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>NTA has confirmed that <strong>AI-powered proctoring</strong> will be used for JNVST 2027 for the first time. Features include <strong>facial recognition</strong>, eye-movement tracking, and automated malpractice detection. Students unfamiliar with computer-based tests should start practicing online mock tests immediately. Source: NTA Technical Advisory (July 2026).</p>
+<p>NTA has confirmed that <strong>AI-powered proctoring</strong> will be used for JNVST 2027 for the first time. Features include <strong>facial recognition</strong>, eye-movement tracking, and automated malpractice detection. Students unfamiliar with computer-based tests should start practicing online mock tests immediately. Source: NTA Technical Advisory (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1910,7 +1910,7 @@ export const articles: Article[] = [
     title: "NEET 2026 Re-Exam Truth: Why 60% Aspirants Are Mathematically Out",
     description: "NEET 2026 re-exam aftermath — harsh reality of revised cut-offs, seat matrix analysis, and survival strategies for students who didn't make the cut.",
     date: "23 जुलाई 2026, सुबह 10 बजकर 26 मिनट",
-    modifiedDate: "July 24, 2026, 9:00 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -1945,7 +1945,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>NEET 2026 re-exam cut-offs are expected to be <strong>5-8 marks higher</strong> than the original exam due to the revised paper difficulty. The All India Quota counselling will begin in <strong>August 2026</strong>. Students who scored below 550 (General) should start planning alternative career paths alongside medical preparation. Source: MCC & NTA (July 2026).</p>
+<p>NEET 2026 re-exam cut-offs are expected to be <strong>5-8 marks higher</strong> than the original exam due to the revised paper difficulty. The All India Quota counselling will begin in <strong>August 2026</strong>. Students who scored below 550 (General) should start planning alternative career paths alongside medical preparation. Source: MCC & NTA (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -1976,7 +1976,7 @@ export const articles: Article[] = [
     title: "National Teachers Awards 2026: A Principal's Insider Guide to Nominations",
     description: "National Teachers Awards 2026 nomination process — eligibility, required documents, selection criteria, and tips from a principal who's been through it.",
     date: "23 जुलाई 2026, सुबह 10 बजकर 31 मिनट",
-    modifiedDate: "July 24, 2026, 9:04 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -2012,7 +2012,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>The nomination window for <strong>National Teachers Awards 2026</strong> closes on <strong>August 15, 2026</strong>. This year, the government has introduced a <strong>new category for digital innovation</strong> in teaching. Nominations can be submitted online through <strong>india.gov.in</strong>. Source: Ministry of Education (July 2026).</p>
+<p>The nomination window for <strong>National Teachers Awards 2026</strong> closes on <strong>August 15, 2026</strong>. This year, the government has introduced a <strong>new category for digital innovation</strong> in teaching. Nominations can be submitted online through <strong>india.gov.in</strong>. Source: Ministry of Education (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2044,7 +2044,7 @@ export const articles: Article[] = [
     description: "NEET 2026 re-exam causing stress to your child? Mental health guide for parents — recognizing burnout signs, supporting your child, and when to seek professional help.",
     keywords: "NEET re-exam stress parents, student mental health NEET, exam anxiety parents guide, NEET emotional impact",
     date: "23 जुलाई 2026, सुबह 10 बजकर 35 मिनट",
-    modifiedDate: "July 24, 2026, 9:08 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -2079,7 +2079,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>With NEET 2026 re-exam completed, <strong>mental health helplines</strong> have reported a <strong>40% increase</strong> in calls from medical aspirants. NIMHANS has launched a dedicated <strong>student helpline (080-46110007)</strong>. Parents should watch for signs of anxiety, sleep disorders, and social withdrawal. Source: NIMHANS & AIIMS Mental Health Report (July 2026).</p>
+<p>With NEET 2026 re-exam completed, <strong>mental health helplines</strong> have reported a <strong>40% increase</strong> in calls from medical aspirants. NIMHANS has launched a dedicated <strong>student helpline (080-46110007)</strong>. Parents should watch for signs of anxiety, sleep disorders, and social withdrawal. Source: NIMHANS & AIIMS Mental Health Report (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2111,7 +2111,7 @@ export const articles: Article[] = [
     description: "Weekly current affairs June 20-26, 2026 — essential GK updates for AISSEE, JNVST, and Sainik School entrance exam preparation. Download-ready format.",
     keywords: "weekly current affairs June 2026, AISSEE GK preparation, entrance exam current affairs, weekly GK update",
     date: "23 जुलाई 2026, सुबह 10 बजकर 38 मिनट",
-    modifiedDate: "July 24, 2026, 9:12 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -2177,7 +2177,7 @@ export const articles: Article[] = [
     title: "CUET Math Normalization 2026 Explained: Deep Dive into Percentile System",
     description: "CUET Math normalization 2026 — how percentile system works, why raw marks don't matter, and strategies to maximize your normalized score for university admissions.",
     date: "23 जुलाई 2026, सुबह 10 बजकर 44 मिनट",
-    modifiedDate: "July 24, 2026, 9:16 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2212,7 +2212,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CUET 2026 Math normalization process has been completed. Students are surprised to see <strong>significant differences</strong> between raw marks and normalized percentiles. The normalization formula uses <strong>equi-percentile method</strong> across different shifts. Delhi University has started accepting applications with CUET scores. Source: NTA CUET Portal (July 2026).</p>
+<p>CUET 2026 Math normalization process has been completed. Students are surprised to see <strong>significant differences</strong> between raw marks and normalized percentiles. The normalization formula uses <strong>equi-percentile method</strong> across different shifts. Delhi University has started accepting applications with CUET scores. Source: NTA CUET Portal (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2244,7 +2244,7 @@ export const articles: Article[] = [
     description: "Google AI tools for students announced at ISTE 2026 — Gemini in Classroom, AI-powered study aids, and how Indian schools can benefit from these free tools.",
     keywords: "Google AI tools students, ISTE 2026 education, AI in education, Google classroom AI tools",
     date: "23 जुलाई 2026, सुबह 10 बजकर 51 मिनट",
-    modifiedDate: "July 24, 2026, 9:20 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -2279,7 +2279,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Google announced at ISTE 2026 that <strong>Gemini AI</strong> will be available free for all Indian schools through Google Workspace for Education. New features include <strong>AI-powered lesson planning</strong> for teachers and <strong>personalized study recommendations</strong> for students. Indian schools can sign up from <strong>August 2026</strong>. Source: Google for Education (July 2026).</p>
+<p>Google announced at ISTE 2026 that <strong>Gemini AI</strong> will be available free for all Indian schools through Google Workspace for Education. New features include <strong>AI-powered lesson planning</strong> for teachers and <strong>personalized study recommendations</strong> for students. Indian schools can sign up from <strong>August 2026</strong>. Source: Google for Education (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2310,7 +2310,7 @@ export const articles: Article[] = [
     title: "CUET UG 2026 Results Declared: Why Low Percentile Doesn't Mean Game Over",
     description: "CUET UG 2026 results declared — counselor's guide on what to do with low percentile, alternative university options, and how to still get into a good college.",
     date: "23 जुलाई 2026, सुबह 10 बजकर 55 मिनट",
-    modifiedDate: "July 24, 2026, 9:24 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -2345,7 +2345,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CUET UG 2026 results were declared on <strong>July 15, 2026</strong>. Over <strong>14 lakh students</strong> appeared for the exam. Delhi University cut-offs for popular courses like B.Com (Hons) are expected to be <strong>higher than last year</strong>. Students with percentiles below 85 should explore alternative universities. Source: NTA CUET Portal (July 2026).</p>
+<p>CUET UG 2026 results were declared on <strong>July 15, 2026</strong>. Over <strong>14 lakh students</strong> appeared for the exam. Delhi University cut-offs for popular courses like B.Com (Hons) are expected to be <strong>higher than last year</strong>. Students with percentiles below 85 should explore alternative universities. Source: NTA CUET Portal (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2377,7 +2377,7 @@ export const articles: Article[] = [
     description: "UP school reopening June 2026 — managing back-to-school stress, anxiety, and adjustment issues in children. Expert tips for a smooth transition.",
     keywords: "school reopening stress, back to school anxiety, post-lockdown school, student adjustment school",
     date: "23 जुलाई 2026, सुबह 11 बजकर 00 मिनट",
-    modifiedDate: "July 24, 2026, 9:28 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -2412,7 +2412,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School offers expert counseling for students. Call <strong>+91 9412137554</strong> for more information.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>UP schools reopened on <strong>June 25, 2026</strong> after the heatwave break. A survey by NCERT shows that <strong>72% of students</strong> experience some form of back-to-school anxiety after long breaks. Schools have been advised to conduct <strong>orientation sessions</strong> in the first week. Source: NCERT Survey (July 2026).</p>
+<p>UP schools reopened on <strong>June 25, 2026</strong> after the heatwave break. A survey by NCERT shows that <strong>72% of students</strong> experience some form of back-to-school anxiety after long breaks. Schools have been advised to conduct <strong>orientation sessions</strong> in the first week. Source: NCERT Survey (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2444,7 +2444,7 @@ export const articles: Article[] = [
     description: "NEET UG 2026 answer key released by NTA — how to download, challenge wrong answers, calculate expected score, and important deadlines.",
     keywords: "NEET 2026 answer key, NEET answer key challenge, NTA NEET answer key, NEET response sheet",
     date: "23 जुलाई 2026, सुबह 11 बजकर 05 मिनट",
-    modifiedDate: "July 24, 2026, 9:32 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2478,7 +2478,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>NEET UG 2026 answer key has been released on <strong>neet.nta.ac.in</strong>. Students can challenge answers until <strong>July 28, 2026</strong> by paying ₹200 per question. The final answer key and results are expected by <strong>August 5, 2026</strong>. Cross-check your responses carefully before challenging. Source: NTA (July 2026).</p>
+<p>NEET UG 2026 answer key has been released on <strong>neet.nta.ac.in</strong>. Students can challenge answers until <strong>July 28, 2026</strong> by paying ₹200 per question. The final answer key and results are expected by <strong>August 5, 2026</strong>. Cross-check your responses carefully before challenging. Source: NTA (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2510,7 +2510,7 @@ export const articles: Article[] = [
     description: "UP schools reopen June 25, 2026 after heatwave break — new safety guidelines, modified timings, hydration rules, and what parents must check.",
     keywords: "UP schools reopen 2026, UP school guidelines, UP education department, schools opening UP June",
     date: "23 जुलाई 2026, सुबह 11 बजकर 12 मिनट",
-    modifiedDate: "July 24, 2026, 9:36 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -2526,7 +2526,7 @@ export const articles: Article[] = [
 <p>UP Schools Reopen Post-Heatwave (June 2026) has been officially announced. This change affects millions of students across India. Parents need to understand the implications and plan accordingly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How This Affects Your Child</h2>
 <p>This update changes how students prepare for exams. Parents should review the new guidelines and adjust their child's study plan accordingly. Schools will also need to update their teaching methods.</p>
@@ -2541,13 +2541,13 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Stay Updated</h3><p>For the latest education news and updates, bookmark jgps.in or call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>UP schools have been open for almost a month now since reopening on June 25. The first unit test is scheduled for <strong>last week of July 2026</strong> in most schools. District education officers have instructed schools to <strong>complete the syllabus on time</strong> despite the delayed start. Source: UP Basic Education Department (July 2026).</p>
+<p>UP schools have been open for almost a month now since reopening on June 25. The first unit test is scheduled for <strong>last week of August 126</strong> in most schools. District education officers have instructed schools to <strong>complete the syllabus on time</strong> despite the delayed start. Source: UP Basic Education Department (August 126).</p>
 </div>
 `,
     faqs:     [
           {
                 "question": "When was this update announced?",
-                "answer": "This update was announced in July 2026. Check the official CBSE or education ministry website for the complete notification."
+                "answer": "This update was announced in August 126. Check the official CBSE or education ministry website for the complete notification."
           },
           {
                 "question": "Does this affect all students?",
@@ -2573,7 +2573,7 @@ export const articles: Article[] = [
     description: "New Education Policy (NEP) 2026 — 5 major changes coming to Indian schools. Board exam reforms, credit system, vocational training, and what parents must prepare for.",
     keywords: "NEP 2026 changes, New Education Policy updates, NEP parents guide, education policy 2026",
     date: "23 जुलाई 2026, सुबह 11 बजकर 16 मिनट",
-    modifiedDate: "July 24, 2026, 9:40 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -2589,7 +2589,7 @@ export const articles: Article[] = [
 <p>New Education Policy (NEP) 2026 has been officially announced. This change affects millions of students across India. Parents need to understand the implications and plan accordingly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How This Affects Your Child</h2>
 <p>This update changes how students prepare for exams. Parents should review the new guidelines and adjust their child's study plan accordingly. Schools will also need to update their teaching methods.</p>
@@ -2604,13 +2604,13 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Stay Updated</h3><p>For the latest education news and updates, bookmark jgps.in or call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>NEP 2026 implementation is progressing rapidly. CBSE has started the <strong>credit system pilot</strong> in 500 schools. The new <strong>semester system for Class 9-10</strong> will be mandatory from 2027-28 session. Parents should understand these changes now to prepare their children. Source: Ministry of Education (July 2026).</p>
+<p>NEP 2026 implementation is progressing rapidly. CBSE has started the <strong>credit system pilot</strong> in 500 schools. The new <strong>semester system for Class 9-10</strong> will be mandatory from 2027-28 session. Parents should understand these changes now to prepare their children. Source: Ministry of Education (August 126).</p>
 </div>
 `,
     faqs:     [
           {
                 "question": "When was this update announced?",
-                "answer": "This update was announced in July 2026. Check the official CBSE or education ministry website for the complete notification."
+                "answer": "This update was announced in August 126. Check the official CBSE or education ministry website for the complete notification."
           },
           {
                 "question": "Does this affect all students?",
@@ -2636,7 +2636,7 @@ export const articles: Article[] = [
     description: "Sainik School admission 2027-28 AISSEE guide — registration dates, eligibility, exam pattern, fees, and step-by-step preparation strategy for Class 6 entry.",
     keywords: "Sainik School admission 2027, AISSEE 2027 guide, Sainik School application, AISSEE exam pattern",
     date: "23 जुलाई 2026, सुबह 11 बजकर 20 मिनट",
-    modifiedDate: "July 24, 2026, 9:44 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2670,7 +2670,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>AISSEE 2027-28 notification is expected in <strong>August-September 2026</strong>. NTA has confirmed that the exam will follow the <strong>updated pattern with AI security</strong>. Start preparation now — the exam is likely in <strong>January 2027</strong>. Keep checking <strong>exams.nta.nic.in</strong> for official notification. Source: NTA & Sainik School Society (July 2026).</p>
+<p>AISSEE 2027-28 notification is expected in <strong>August-September 2026</strong>. NTA has confirmed that the exam will follow the <strong>updated pattern with AI security</strong>. Start preparation now — the exam is likely in <strong>January 2027</strong>. Keep checking <strong>exams.nta.nic.in</strong> for official notification. Source: NTA & Sainik School Society (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2702,7 +2702,7 @@ export const articles: Article[] = [
     description: "Navodaya admission 2027 Class 6 form guide with dates, age rules, documents and step-by-step apply process. Start today.",
     keywords: "JNVST 2027 application form, Navodaya Class 6 admission, JNVST online form, Navodaya Vidyalaya apply",
     date: "23 जुलाई 2026, सुबह 11 बजकर 24 मिनट",
-    modifiedDate: "July 24, 2026, 9:48 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -2735,8 +2735,8 @@ export const articles: Article[] = [
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 2026 Update</h3>
-<p>JNVST 2027 notification has been officially released by Navodaya Vidyalaya Samiti (NVS). Online registration for Class VI admission (session 2027-28) is now open at <strong>navodaya.gov.in</strong>. The last date to apply is <strong>31 July 2026</strong>. This year, JNVST has introduced a new exam pattern with updated question distribution. The exam is scheduled for <strong>28 November 2026</strong>. Source: NVS Official Website & social media updates (July 15, 2026).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 126 Update</h3>
+<p>JNVST 2027 notification has been officially released by Navodaya Vidyalaya Samiti (NVS). Online registration for Class VI admission (session 2027-28) is now open at <strong>navodaya.gov.in</strong>. The last date to apply is <strong>7 August 2026</strong>. This year, JNVST has introduced a new exam pattern with updated question distribution. The exam is scheduled for <strong>28 November 2026</strong>. Source: NVS Official Website & social media updates (July 15, 2026).</p>
 </div>
 `,
     faqs:     [
@@ -2768,7 +2768,7 @@ export const articles: Article[] = [
     description: "Rashtriya Military School admission 2027 Class 6 — CET exam pattern, fees structure, eligibility, hostel life, and how to prepare for RMS entrance.",
     keywords: "Rashtriya Military School admission 2027, RMS entrance exam, military school Class 6, RMS CET 2027",
     date: "23 जुलाई 2026, सुबह 11 बजकर 28 मिनट",
-    modifiedDate: "July 24, 2026, 9:52 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2802,7 +2802,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Rashtriya Military School CET 2027 notification is expected in <strong>September 2026</strong>. The exam will be held in <strong>December 2026</strong>. There are <strong>5 RMS schools</strong> across India with approximately 1,000 seats. Start preparation from now for best results. Source: Directorate of Military Training (July 2026).</p>
+<p>Rashtriya Military School CET 2027 notification is expected in <strong>September 2026</strong>. The exam will be held in <strong>December 2026</strong>. There are <strong>5 RMS schools</strong> across India with approximately 1,000 seats. Start preparation from now for best results. Source: Directorate of Military Training (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2834,7 +2834,7 @@ export const articles: Article[] = [
     description: "5 government schools offering completely free education in 2027 — Navodaya, Vidyagyan, KV, Sainik School, and Eklavya. Admission process and eligibility.",
     keywords: "free government boarding schools India, best sarkari hostel schools, free residential schools Class 6, government school admission 2027",
     date: "23 जुलाई 2026, सुबह 11 बजकर 33 मिनट",
-    modifiedDate: "July 24, 2026, 9:56 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -2868,7 +2868,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>For 2027 admissions, Navodaya has <strong>661 schools</strong> with applications closing <strong>July 31, 2026</strong>. Vidyagyan has expanded to <strong>new districts in UP</strong>. Sainik School Society has added <strong>3 new schools</strong> in partnership mode. Apply to all free schools simultaneously to maximize your child's chances. Source: NVS, Vidyagyan & Sainik School Society (July 2026).</p>
+<p>For 2027 admissions, Navodaya has <strong>661 schools</strong> with applications closing <strong>August 7, 2026</strong>. Vidyagyan has expanded to <strong>new districts in UP</strong>. Sainik School Society has added <strong>3 new schools</strong> in partnership mode. Apply to all free schools simultaneously to maximize your child's chances. Source: NVS, Vidyagyan & Sainik School Society (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -2900,7 +2900,7 @@ export const articles: Article[] = [
     description: "CBSE vs UP Board 2027 — honest comparison for competitive exam preparation. Syllabus alignment, marking pattern, and which board gives your child the real edge.",
     keywords: "CBSE vs UP Board, which board is better, CBSE UP Board comparison, competitive exam board choice",
     date: "23 जुलाई 2026, सुबह 11 बजकर 38 मिनट",
-    modifiedDate: "July 24, 2026, 10:00 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -2916,7 +2916,7 @@ export const articles: Article[] = [
 <p>CBSE vs UP Board 2027 has been officially announced. This change affects millions of students across India. Parents need to understand the implications and plan accordingly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How This Affects Your Child</h2>
 <p>This update changes how students prepare for exams. Parents should review the new guidelines and adjust their child's study plan accordingly. Schools will also need to update their teaching methods.</p>
@@ -2931,13 +2931,13 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Stay Updated</h3><p>For the latest education news and updates, bookmark jgps.in or call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CBSE has introduced <strong>competency-based questions</strong> for 2027 board exams, while UP Board is still transitioning. For JEE/NEET aspirants, CBSE's NCERT-aligned syllabus gives a <strong>15-20% advantage</strong> in preparation overlap. UP Board students should supplement with NCERT books. Source: CBSE & UP Board Circulars (July 2026).</p>
+<p>CBSE has introduced <strong>competency-based questions</strong> for 2027 board exams, while UP Board is still transitioning. For JEE/NEET aspirants, CBSE's NCERT-aligned syllabus gives a <strong>15-20% advantage</strong> in preparation overlap. UP Board students should supplement with NCERT books. Source: CBSE & UP Board Circulars (August 126).</p>
 </div>
 `,
     faqs:     [
           {
                 "question": "When was this update announced?",
-                "answer": "This update was announced in July 2026. Check the official CBSE or education ministry website for the complete notification."
+                "answer": "This update was announced in August 126. Check the official CBSE or education ministry website for the complete notification."
           },
           {
                 "question": "Does this affect all students?",
@@ -2963,7 +2963,7 @@ export const articles: Article[] = [
     description: "Sainik School admission form 2027 — step-by-step online application, eligibility check, fee structure, and common mistakes that get forms rejected.",
     keywords: "Sainik School admission form 2027, AISSEE eligibility, Sainik School fees, Sainik School apply online",
     date: "23 जुलाई 2026, सुबह 11 बजकर 45 मिनट",
-    modifiedDate: "July 24, 2026, 10:04 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2997,7 +2997,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Sainik School admission form 2027 will be available from <strong>August-September 2026</strong>. This year, <strong>3 new Sainik Schools</strong> have been added in partnership mode. The application fee remains <strong>₹550 for General</strong> and <strong>₹400 for SC/ST</strong>. Start gathering documents now. Source: Sainik School Society (July 2026).</p>
+<p>Sainik School admission form 2027 will be available from <strong>August-September 2026</strong>. This year, <strong>3 new Sainik Schools</strong> have been added in partnership mode. The application fee remains <strong>₹550 for General</strong> and <strong>₹400 for SC/ST</strong>. Start gathering documents now. Source: Sainik School Society (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -3029,7 +3029,7 @@ export const articles: Article[] = [
     description: "Navodaya Class 6 preparation 2027 — subject-wise study plan, best books, previous year analysis, and time management strategy from JGPS experts.",
     keywords: "Navodaya preparation strategy, JNVST preparation guide, how to prepare for Navodaya, JNVST study plan",
     date: "23 जुलाई 2026, सुबह 11 बजकर 52 मिनट",
-    modifiedDate: "July 24, 2026, 10:08 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -3063,7 +3063,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JNVST 2027 is expected in <strong>January 2027</strong>. With 6 months left, this is the ideal time to start preparation. Focus on <strong>Mental Ability (50%), Arithmetic (25%), and Language (25%)</strong>. Previous year papers show increasing difficulty in the Mental Ability section. Source: NVS Academic Analysis (July 2026).</p>
+<p>JNVST 2027 is expected in <strong>January 2027</strong>. With 6 months left, this is the ideal time to start preparation. Focus on <strong>Mental Ability (50%), Arithmetic (25%), and Language (25%)</strong>. Previous year papers show increasing difficulty in the Mental Ability section. Source: NVS Academic Analysis (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -3095,7 +3095,7 @@ export const articles: Article[] = [
     description: "5 proven study habits for entrance exam preparation — active recall, spaced repetition, mock tests, and techniques that top scorers use for Sainik, JNVST & AMU.",
     keywords: "best study habits, effective study tips students, how to study better, study habits for success",
     date: "23 जुलाई 2026, सुबह 11 बजकर 56 मिनट",
-    modifiedDate: "July 24, 2026, 10:12 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -3111,7 +3111,7 @@ export const articles: Article[] = [
 <p>5 High-Score Study Habits for Sainik, JNVST & AMU Entrances has been officially announced. This change affects millions of students across India. Parents need to understand the implications and plan accordingly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How This Affects Your Child</h2>
 <p>This update changes how students prepare for exams. Parents should review the new guidelines and adjust their child's study plan accordingly. Schools will also need to update their teaching methods.</p>
@@ -3132,7 +3132,7 @@ export const articles: Article[] = [
     faqs:     [
           {
                 "question": "When was this update announced?",
-                "answer": "This update was announced in July 2026. Check the official CBSE or education ministry website for the complete notification."
+                "answer": "This update was announced in August 126. Check the official CBSE or education ministry website for the complete notification."
           },
           {
                 "question": "Does this affect all students?",
@@ -3158,7 +3158,7 @@ export const articles: Article[] = [
     description: "JNVST 2027-28 notification released. Class 6 admission dates, exam pattern, syllabus PDF download, eligibility criteria, and application guide for Navodaya Vidyalaya.",
     keywords: "JNVST 2027-28 Notification Out Class 6 Admission, Navodaya Class 6 admission form 2027-28, JNVST 2027-28 official notification PDF download, JNVST Class 6 exam pattern and syllabus 2027-28",
     date: "25 जुलाई 2026, शाम 7 बजकर 30 मिनट",
-    modifiedDate: "July 25, 2026, 7:30 PM",
+    modifiedDate: "August 1, 2026, 7:30 PM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3171,9 +3171,9 @@ export const articles: Article[] = [
     content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
 <p class="font-bold text-gray-900 mb-1">Quick Key Highlights:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>Notification Status:</strong> Released (July 2026)</li>
-<li><strong>Application Start:</strong> 7 July 2026</li>
-<li><strong>Last Date to Apply:</strong> 31 July 2026</li>
+<li><strong>Notification Status:</strong> Released (August 126)</li>
+<li><strong>Application Start:</strong> 7 August 126</li>
+<li><strong>Last Date to Apply:</strong> 7 August 2026</li>
 <li><strong>Exam Date:</strong> 28 November 2026</li>
 <li><strong>Total Seats:</strong> ~80,000 across 661 JNVs</li>
 <li><strong>Official Website:</strong> <a href="https://navodaya.gov.in" class="text-green-700 underline" target="_blank">navodaya.gov.in</a></li>
@@ -3183,10 +3183,10 @@ export const articles: Article[] = [
 
 <p><strong>JNVST 2027-28 Notification Out</strong> — Navodaya Vidyalaya Samiti (NVS) has officially released the notification for Class 6 admission to Jawahar Navodaya Vidyalayas for the academic session 2027-28. Over 30 lakh students are expected to compete for approximately 80,000 seats across 661 JNVs nationwide. If your child is currently in Class 5, this is the opportunity to secure a completely free, world-class education.</p>
 
-<p>The <strong>Jawahar Navodaya Vidyalaya Selection Test (JNVST)</strong> is a national-level entrance exam conducted by NVS under the Ministry of Education. Unlike private schools, JNVs provide 100% free education including boarding, meals, uniforms, and textbooks. The last date to apply is <strong>31 July 2026</strong> — act now before the portal closes.</p>
+<p>The <strong>Jawahar Navodaya Vidyalaya Selection Test (JNVST)</strong> is a national-level entrance exam conducted by NVS under the Ministry of Education. Unlike private schools, JNVs provide 100% free education including boarding, meals, uniforms, and textbooks. The last date to apply is <strong>7 August 2026</strong> — act now before the portal closes.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Class 6 Admission 2027-28 Key Dates & Schedule</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification Released</td><td class="py-3 px-4 border-b">July 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">Done</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Start</td><td class="py-3 px-4 border-b">7 July 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">Done</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold">31 July 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">6 days left</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">August 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Release</td><td class="py-3 px-4 border-b">October 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold text-green-700">28 November 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">Confirmed</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key Release</td><td class="py-3 px-4 border-b">December 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4">March-April 2027</td><td class="py-3 px-4 text-gray-500">Pending</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification Released</td><td class="py-3 px-4 border-b">August 126</td><td class="py-3 px-4 border-b text-green-700 font-bold">Done</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Start</td><td class="py-3 px-4 border-b">7 August 126</td><td class="py-3 px-4 border-b text-green-700 font-bold">Done</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold">7 August 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">6 days left</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">August 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Release</td><td class="py-3 px-4 border-b">October 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold text-green-700">28 November 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">Confirmed</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Answer Key Release</td><td class="py-3 px-4 border-b">December 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">Pending</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4">March-April 2027</td><td class="py-3 px-4 text-gray-500">Pending</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027-28 Eligibility Criteria</h2>
 
@@ -3269,21 +3269,21 @@ export const articles: Article[] = [
 </a>
 <a href="/blog/jnvst-2027-application-form-last-date-31-july/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
 <h3 class="font-bold text-green-700 text-sm mb-1">JNVST Application Form Last Date</h3>
-<p class="text-gray-600 text-xs">Apply before 31 July 2026</p>
+<p class="text-gray-600 text-xs">Apply before 7 August 2026</p>
 </a>
 </div>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help with JNVST Preparation?</h3><p><strong>JGPS School</strong> offers specialized coaching for Navodaya entrance exam. Our students have a proven track record of selections. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 25, 2026 Update</h3>
-<p>JNVST 2027-28 application form is live at <strong>cbseitms.rcil.gov.in</strong>. Last date: <strong>31 July 2026</strong> — only 6 days left. The exam will be held on <strong>28 November 2026</strong> (confirmed). This year's pattern has changed: 80 questions instead of 100. Apply immediately if you haven't already. Source: NVS Official Website (navodaya.gov.in).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 1, 2026 Update</h3>
+<p>JNVST 2027-28 application form is live at <strong>cbseitms.rcil.gov.in</strong>. Last date: <strong>7 August 2026</strong> — only 6 days left. The exam will be held on <strong>28 November 2026</strong> (confirmed). This year's pattern has changed: 80 questions instead of 100. Apply immediately if you haven't already. Source: NVS Official Website (navodaya.gov.in).</p>
 </div>
 `,
     faqs: [
       {
         "question": "When is the last date to apply for JNVST 2027-28?",
-        "answer": "The last date to submit the JNVST 2027-28 online application form is 31 July 2026. No extensions have been announced yet. Apply as early as possible to avoid last-day server issues."
+        "answer": "The last date to submit the JNVST 2027-28 online application form is 7 August 2026. No extensions have been announced yet. Apply as early as possible to avoid last-day server issues."
       },
       {
         "question": "What is the age limit for JNVST 2027-28 Class 6 admission?",
@@ -3305,7 +3305,7 @@ export const articles: Article[] = [
     description: "AISSEE 2027-28 Sainik School admission — official notification, registration dates, exam pattern, and preparation strategy for Class 6 and Class 9 entry.",
     keywords: "Sainik School AISSEE 2027, AISSEE complete guide, Sainik School exam preparation, AISSEE syllabus",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 03 मिनट",
-    modifiedDate: "July 24, 2026, 10:20 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -3339,7 +3339,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>AISSEE 2027-28 notification is expected by <strong>September 2026</strong>. NTA has confirmed that the exam will use <strong>AI-based proctoring</strong> for the first time. The exam pattern remains the same — <strong>OMR-based</strong> with 125 questions for Class 6 entry. Start preparation now. Source: NTA (July 2026).</p>
+<p>AISSEE 2027-28 notification is expected by <strong>September 2026</strong>. NTA has confirmed that the exam will use <strong>AI-based proctoring</strong> for the first time. The exam pattern remains the same — <strong>OMR-based</strong> with 125 questions for Class 6 entry. Start preparation now. Source: NTA (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -3371,7 +3371,7 @@ export const articles: Article[] = [
     description: "AMU Class 6 entrance exam preparation 2027 — subject-wise strategy, important topics, previous year paper analysis, and tips from an experienced teacher.",
     keywords: "AMU Class 6 entrance preparation, AMU school admission, Aligarh Muslim University entrance, AMU exam tips",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 06 मिनट",
-    modifiedDate: "July 24, 2026, 10:24 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3405,7 +3405,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>AMU Class 6 entrance exam 2027 is expected in <strong>February 2027</strong>. The application form will be available from <strong>October-November 2026</strong>. AMU has introduced <strong>negative marking (1/4)</strong> from last year. Focus on Mathematics, English, Urdu, and GK. Source: AMU Controller of Examinations (July 2026).</p>
+<p>AMU Class 6 entrance exam 2027 is expected in <strong>February 2027</strong>. The application form will be available from <strong>October-November 2026</strong>. AMU has introduced <strong>negative marking (1/4)</strong> from last year. Focus on Mathematics, English, Urdu, and GK. Source: AMU Controller of Examinations (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -3437,7 +3437,7 @@ export const articles: Article[] = [
     description: "Sainik School Class 6 admission 2027 — complete preparation roadmap with subject-wise tips, daily timetable, mock test strategy, and medical test preparation.",
     keywords: "Sainik School preparation tips, AISSEE Class 6 tips, Sainik School study plan, how to crack AISSEE",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 11 मिनट",
-    modifiedDate: "July 24, 2026, 10:28 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -3471,7 +3471,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>AISSEE 2027 preparation should begin now. The exam is expected in <strong>January 2027</strong>. Focus on <strong>Math (25%), GK (25%), Language (25%), and Intelligence (25%)</strong>. Daily practice of 2-3 hours is sufficient if started now. Last-minute cramming rarely works for entrance exams. Source: Sainik School Expert Analysis (July 2026).</p>
+<p>AISSEE 2027 preparation should begin now. The exam is expected in <strong>January 2027</strong>. Focus on <strong>Math (25%), GK (25%), Language (25%), and Intelligence (25%)</strong>. Daily practice of 2-3 hours is sufficient if started now. Last-minute cramming rarely works for entrance exams. Source: Sainik School Expert Analysis (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -3503,7 +3503,7 @@ export const articles: Article[] = [
     description: "Vidyagyan school admission 2027 — eligibility for rural UP students, scholarship details, entrance exam syllabus, and how to prepare for free boarding school.",
     keywords: "Vidyagyan School admission, Vidyagyan eligibility, Vidyagyan scholarship, Vidyagyan entrance exam",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 14 मिनट",
-    modifiedDate: "July 24, 2026, 10:32 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -3537,7 +3537,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for entrance exams. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Vidyagyan School admission 2027 is expected to open in <strong>October-November 2026</strong>. The school has expanded to cover <strong>new districts in UP</strong>. Eligibility: Rural UP students from families with annual income below ₹2 lakh. The entrance exam tests Math, Hindi, and English. Source: Shiv Nadar Foundation (July 2026).</p>
+<p>Vidyagyan School admission 2027 is expected to open in <strong>October-November 2026</strong>. The school has expanded to cover <strong>new districts in UP</strong>. Eligibility: Rural UP students from families with annual income below ₹2 lakh. The entrance exam tests Math, Hindi, and English. Source: Shiv Nadar Foundation (August 126).</p>
 </div>
 `,
     faqs:     [
@@ -3569,7 +3569,7 @@ export const articles: Article[] = [
     description: "UP summer vacation 2026 — official holiday dates, duration, and productive activities for students. How to use the break for entrance exam preparation.",
     keywords: "UP summer holidays 2025, summer vacation schools UP, UP school holiday calendar, summer break UP",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 20 मिनट",
-    modifiedDate: "July 24, 2026, 10:36 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -3585,7 +3585,7 @@ export const articles: Article[] = [
 <p>UP Summer Vacation 2025 has been officially announced. This change affects millions of students across India. Parents need to understand the implications and plan accordingly.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Key Details</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Aspect</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Effective Date</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Affected Students</td><td class="py-3 px-4 border-b">All CBSE students</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Impact Level</td><td class="py-3 px-4 border-b font-bold text-green-700">High</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Action Required</td><td class="py-3 px-4">Check official notification</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How This Affects Your Child</h2>
 <p>This update changes how students prepare for exams. Parents should review the new guidelines and adjust their child's study plan accordingly. Schools will also need to update their teaching methods.</p>
@@ -3600,13 +3600,13 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Stay Updated</h3><p>For the latest education news and updates, bookmark jgps.in or call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Summer vacation 2026 has ended. UP schools reopened on <strong>July 1, 2026</strong>. The academic session runs until <strong>March 2027</strong>. Half-yearly exams are expected in <strong>September 2026</strong>. Use the post-vacation period to establish a strong study routine. Source: UP Education Calendar (July 2026).</p>
+<p>Summer vacation 2026 has ended. UP schools reopened on <strong>July 1, 2026</strong>. The academic session runs until <strong>March 2027</strong>. Half-yearly exams are expected in <strong>September 2026</strong>. Use the post-vacation period to establish a strong study routine. Source: UP Education Calendar (August 126).</p>
 </div>
 `,
     faqs:     [
           {
                 "question": "When was this update announced?",
-                "answer": "This update was announced in July 2026. Check the official CBSE or education ministry website for the complete notification."
+                "answer": "This update was announced in August 126. Check the official CBSE or education ministry website for the complete notification."
           },
           {
                 "question": "Does this affect all students?",
@@ -3632,7 +3632,7 @@ export const articles: Article[] = [
     description: 'Sainik School vs JNVST 2027 — honest comparison of fees, career prospects, hostel life, education quality, and admission difficulty. Which should your child choose?',
     keywords: "Sainik School vs JNVST, AISSEE vs JNVST comparison, which is better Sainik or Navodaya, entrance exam comparison",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 23 मिनट",
-    modifiedDate: "July 24, 2026, 10:40 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -3653,7 +3653,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Apply to Both</h3><p>Both exams have similar syllabus. JGPS School offers coaching for both. Call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>For 2027 admissions, both JNVST and AISSEE are expected between <strong>January-February 2027</strong>. Navodaya applications close <strong>July 31, 2026</strong>. Sainik School applications open in <strong>August-September 2026</strong>. Apply to both — the preparation overlaps significantly. Source: NVS & NTA (July 2026).</p>
+<p>For 2027 admissions, both JNVST and AISSEE are expected between <strong>January-February 2027</strong>. Navodaya applications close <strong>August 7, 2026</strong>. Sainik School applications open in <strong>August-September 2026</strong>. Apply to both — the preparation overlaps significantly. Source: NVS & NTA (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3669,7 +3669,7 @@ export const articles: Article[] = [
     title: 'CBSE Open Book Exams 2027: Will It Make Board Exams Easier or Harder?',
     description: "CBSE open book exams 2027 — new pilot program explained. How it works, which subjects are affected, and why it might actually be tougher than traditional exams. Don't mistake it for an 'easy pass' and how to prepare.",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 28 मिनट",
-    modifiedDate: "July 24, 2026, 10:44 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Rifaul Hasan',    keywords: "CBSE open book exam 2027, CBSE new exam pattern, open book test CBSE, CBSE innovative assessment",
 
     authorName: "Rifaul Hasan",
@@ -3694,7 +3694,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Stay Updated</h3><p>For CBSE updates, call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CBSE has confirmed the <strong>open book exam pilot</strong> for Class 9-10 in select schools for the 2026-27 session. The pilot covers <strong>Science, Social Science, and Mathematics</strong>. Critics argue it may reduce rigour, while supporters say it promotes critical thinking. Final decision expected by <strong>December 2026</strong>. Source: CBSE Academic Unit (July 2026).</p>
+<p>CBSE has confirmed the <strong>open book exam pilot</strong> for Class 9-10 in select schools for the 2026-27 session. The pilot covers <strong>Science, Social Science, and Mathematics</strong>. Critics argue it may reduce rigour, while supporters say it promotes critical thinking. Final decision expected by <strong>December 2026</strong>. Source: CBSE Academic Unit (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3711,7 +3711,7 @@ export const articles: Article[] = [
     description: 'Digital fasting for students 2026 — practical guide to reduce screen time, manage phone addiction, and create healthy study-device boundaries for your child.',
     keywords: "digital fasting children, screen time kids, digital detox students, phone addiction children guide",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 33 मिनट",
-    modifiedDate: "July 24, 2026, 10:48 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Priya Verma',
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -3735,7 +3735,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>Call <strong>+91 9412137554</strong> for guidance.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>A new AIIMS study (July 2026) shows that Indian school students spend an average of <strong>4.5 hours daily</strong> on screens outside of school work. <strong>Digital fasting</strong> — structured screen-free periods — has shown <strong>28% improvement</strong> in focus and academic performance. Start with a 2-hour evening digital fast. Source: AIIMS Digital Health Study (July 2026).</p>
+<p>A new AIIMS study (August 126) shows that Indian school students spend an average of <strong>4.5 hours daily</strong> on screens outside of school work. <strong>Digital fasting</strong> — structured screen-free periods — has shown <strong>28% improvement</strong> in focus and academic performance. Start with a 2-hour evening digital fast. Source: AIIMS Digital Health Study (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3752,7 +3752,7 @@ export const articles: Article[] = [
     description: 'Feynman Technique for AMU Class 6 math — how to use this proven learning method to understand concepts deeply and score higher in entrance exam.',
     keywords: "Feynman technique study, AMU math preparation, study technique math, Feynman method learning",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 39 मिनट",
-    modifiedDate: "July 24, 2026, 10:52 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Neha Singh',
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -3775,7 +3775,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">AMU Coaching at JGPS</h3><p>Call <strong>+91 9412137554</strong> for details.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>The Feynman Technique is gaining popularity among entrance exam aspirants in 2026. AMU Class 6 entrance toppers from JGPS used this method for <strong>Math and Science preparation</strong>. The key is explaining concepts in simple language — if you can't explain it simply, you don't understand it well enough. Source: JGPS Topper Analysis (July 2026).</p>
+<p>The Feynman Technique is gaining popularity among entrance exam aspirants in 2026. AMU Class 6 entrance toppers from JGPS used this method for <strong>Math and Science preparation</strong>. The key is explaining concepts in simple language — if you can't explain it simply, you don't understand it well enough. Source: JGPS Topper Analysis (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3792,7 +3792,7 @@ export const articles: Article[] = [
     description: 'Sainik School admission 2027 complete guide — from registration to final selection. Eligibility, fees, exam pattern, medical test, interview, and preparation tips.',
     keywords: "Sainik School admission 2027 complete guide, AISSEE full process, Sainik School step by step admission",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 44 मिनट",
-    modifiedDate: "July 24, 2026, 10:56 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -3804,7 +3804,7 @@ export const articles: Article[] = [
     content: `<p>Every year, over 3 lakh students apply for Sainik School Admission 2027. Only about 3,000 seats are available. That means only 1 in 100 gets in. You need to start preparing now.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important Dates 2027</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification</td><td class="py-3 px-4 border-b font-bold">July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Application</td><td class="py-3 px-4 border-b font-bold">Aug-Sep 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam</td><td class="py-3 px-4 border-b font-bold text-green-700">Jan 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4 font-bold">Mar-Apr 2027</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification</td><td class="py-3 px-4 border-b font-bold">August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Application</td><td class="py-3 px-4 border-b font-bold">Aug-Sep 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam</td><td class="py-3 px-4 border-b font-bold text-green-700">Jan 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4 font-bold">Mar-Apr 2027</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Fees</h2>
 <p>General category: Rs. 1,00,000 - 1,40,000 per year. SC/ST: Completely free. Many scholarships available.</p>
@@ -3818,7 +3818,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS Coaching</h3><p>Call <strong>+91 9412137554</strong> for Sainik School coaching.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Sainik School admission process for 2027-28 session starts in <strong>August-September 2026</strong>. NTA will conduct AISSEE 2027 with <strong>new AI security measures</strong>. Total seats across 33+3 new Sainik Schools: approximately <strong>5,000 for Class 6</strong>. Medical test and interview follow the written exam. Source: Sainik School Society (July 2026).</p>
+<p>Sainik School admission process for 2027-28 session starts in <strong>August-September 2026</strong>. NTA will conduct AISSEE 2027 with <strong>new AI security measures</strong>. Total seats across 33+3 new Sainik Schools: approximately <strong>5,000 for Class 6</strong>. Medical test and interview follow the written exam. Source: Sainik School Society (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3835,7 +3835,7 @@ export const articles: Article[] = [
     description: 'JMI Class 6 entrance 2027 — registration dates, exam pattern, syllabus, previous year cut-offs, and preparation strategy for Jamia Millia Islamia admission.',
     keywords: "JMI Class 6 entrance 2027, Jamia Millia Islamia admission, JMI school entrance exam, Jamia Class 6 guide",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 50 मिनट",
-    modifiedDate: "July 24, 2026, 11:00 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -3855,7 +3855,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS Coaching</h3><p>Call <strong>+91 9412137554</strong> for JMI preparation.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JMI Class 6 entrance 2027 notification is expected in <strong>November-December 2026</strong>. The exam is usually held in <strong>February 2027</strong>. JMI has <strong>limited seats</strong> for Class 6 (approximately 80-100). Competition is intense — over 5,000 students apply each year. Start preparation now. Source: Jamia Millia Islamia (July 2026).</p>
+<p>JMI Class 6 entrance 2027 notification is expected in <strong>November-December 2026</strong>. The exam is usually held in <strong>February 2027</strong>. JMI has <strong>limited seats</strong> for Class 6 (approximately 80-100). Competition is intense — over 5,000 students apply each year. Start preparation now. Source: Jamia Millia Islamia (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3872,7 +3872,7 @@ export const articles: Article[] = [
     description: 'AISSEE OMR sheet mistakes that disqualify students — bubbling errors, filling mistakes, and timing issues. Learn how to avoid these costly errors in Sainik School exam.',
     keywords: "AISSEE OMR sheet mistakes, OMR filling tips, Sainik School OMR errors, how to fill OMR correctly",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 57 मिनट",
-    modifiedDate: "July 24, 2026, 11:04 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -3896,7 +3896,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS OMR Practice</h3><p>JGPS School provides OMR practice sessions. Call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Every year, approximately <strong>8-10% of AISSEE candidates</strong> lose marks due to OMR sheet filling errors. Common mistakes include: double bubbling, wrong roll number, and using whitener (not allowed). Practice with <strong>blank OMR sheets</strong> at home before the exam. Source: NTA Exam Analysis (July 2026).</p>
+<p>Every year, approximately <strong>8-10% of AISSEE candidates</strong> lose marks due to OMR sheet filling errors. Common mistakes include: double bubbling, wrong roll number, and using whitener (not allowed). Practice with <strong>blank OMR sheets</strong> at home before the exam. Source: NTA Exam Analysis (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3912,7 +3912,7 @@ export const articles: Article[] = [
     title: "Re-NEET 2026: A Parent's Guide to Managing Your Child's Stress & Anxiety",
     description: "Re-NEET 2026 causing stress? Parent's guide to supporting your child through re-exam preparation — mental health tips, study planning, and when to seek help.",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 02 मिनट",
-    modifiedDate: "July 24, 2026, 11:08 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Priya Verma',    keywords: "Re-NEET 2026 parents guide, NEET re-exam stress management, parents support NEET, exam stress tips",
 
     authorName: "Priya Verma",
@@ -3937,7 +3937,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Counseling Support</h3><p>JGPS School offers student counseling. Call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Re-NEET 2026 has been completed. Results expected by <strong>August 5, 2026</strong>. Parents should be aware that re-exam stress can lead to <strong>burnout and anxiety</strong>. NIMHANS has launched a dedicated student helpline. If your child shows signs of prolonged stress, seek professional help immediately. Source: NIMHANS (July 2026).</p>
+<p>Re-NEET 2026 has been completed. Results expected by <strong>August 5, 2026</strong>. Parents should be aware that re-exam stress can lead to <strong>burnout and anxiety</strong>. NIMHANS has launched a dedicated student helpline. If your child shows signs of prolonged stress, seek professional help immediately. Source: NIMHANS (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3954,7 +3954,7 @@ export const articles: Article[] = [
     description: 'CBSE re-result anxiety affecting your child? Expert tips on managing disappointment, building resilience, and helping your child move forward after unexpected results.',
     keywords: "CBSE result anxiety, help child exam results, CBSE result stress, student result anxiety guide",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 05 मिनट",
-    modifiedDate: "July 24, 2026, 11:12 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Priya Verma',
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -3978,7 +3978,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>Call <strong>+91 9412137554</strong> for academic counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CBSE results 2026 have been declared. Students who didn't perform as expected are experiencing <strong>result anxiety</strong>. CBSE has introduced <strong>compartment exams</strong> as a second chance. Parents should focus on solutions rather than blame. A child's mental health is more important than marks. Source: CBSE & Child Psychology Experts (July 2026).</p>
+<p>CBSE results 2026 have been declared. Students who didn't perform as expected are experiencing <strong>result anxiety</strong>. CBSE has introduced <strong>compartment exams</strong> as a second chance. Parents should focus on solutions rather than blame. A child's mental health is more important than marks. Source: CBSE & Child Psychology Experts (August 126).</p>
 </div>
 `,
     faqs: [
@@ -3994,7 +3994,7 @@ export const articles: Article[] = [
     title: 'NCERT New Class 9 Textbook 2026: What Changed & Why It Matters for Board Exams',
     description: "NCERT new Class 9 textbook 2026 — major content changes, removed chapters, new additions, and how it affects your child's board exam preparation.",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 09 मिनट",
-    modifiedDate: "July 24, 2026, 11:16 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Rifaul Hasan',    keywords: "NCERT new textbooks 2026, Class 9 NCERT changes, new curriculum 2026, NCERT updated books",
 
     authorName: "Rifaul Hasan",
@@ -4017,7 +4017,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>Call <strong>+91 9412137554</strong> for academic guidance.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>NCERT has released the <strong>updated Class 9 textbooks</strong> for the 2026-27 session. Major changes include <strong>reduced syllabus</strong> in Science (15% reduction) and <strong>new chapters on AI and digital literacy</strong>. Schools must use the new editions from the current session. Source: NCERT (July 2026).</p>
+<p>NCERT has released the <strong>updated Class 9 textbooks</strong> for the 2026-27 session. Major changes include <strong>reduced syllabus</strong> in Science (15% reduction) and <strong>new chapters on AI and digital literacy</strong>. Schools must use the new editions from the current session. Source: NCERT (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4033,7 +4033,7 @@ export const articles: Article[] = [
     title: 'CISCE Fitness Assessment 2026: New Rules Every Parent Must Know',
     description: "CISCE fitness assessment 2026 — new physical fitness test rules for ICSE/ISC students. What's tested, how to prepare, and impact on final grades.",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 16 मिनट",
-    modifiedDate: "July 24, 2026, 11:20 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Rifaul Hasan',    keywords: "CISCE fitness assessment 2026, ICSE physical education, school fitness test, CISCE new rules",
 
     authorName: "Rifaul Hasan",
@@ -4059,7 +4059,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS Fitness Program</h3><p>Call <strong>+91 9412137554</strong> for details.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CISCE has made fitness assessment <strong>mandatory for ICSE/ISC students</strong> from the 2026-27 session. The assessment includes <strong>running, flexibility, and strength tests</strong>. It carries <strong>internal assessment marks</strong>. Parents should ensure their child maintains basic physical fitness. Source: CISCE Circular (July 2026).</p>
+<p>CISCE has made fitness assessment <strong>mandatory for ICSE/ISC students</strong> from the 2026-27 session. The assessment includes <strong>running, flexibility, and strength tests</strong>. It carries <strong>internal assessment marks</strong>. Parents should ensure their child maintains basic physical fitness. Source: CISCE Circular (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4076,7 +4076,7 @@ export const articles: Article[] = [
     description: 'AI chatbots in Indian classrooms 2026 — how schools are using AI, benefits and risks for children, and what parents must know about this new technology.',
     keywords: "AI chatbots in schools, AI education India, ChatGPT in classrooms, AI tools for students",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 23 मिनट",
-    modifiedDate: "July 24, 2026, 11:24 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Neha Singh',
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -4103,7 +4103,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Balanced Approach</h3><p>JGPS promotes balanced use of technology. Call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>CBSE has issued guidelines for <strong>AI tool usage in classrooms</strong>. Schools can now use AI chatbots for <strong>supplementary teaching</strong> but not as primary instruction. Students should learn to use AI as a tool, not a crutch. The guidelines emphasize <strong>critical thinking over AI dependency</strong>. Source: CBSE Digital Education Cell (July 2026).</p>
+<p>CBSE has issued guidelines for <strong>AI tool usage in classrooms</strong>. Schools can now use AI chatbots for <strong>supplementary teaching</strong> but not as primary instruction. Students should learn to use AI as a tool, not a crutch. The guidelines emphasize <strong>critical thinking over AI dependency</strong>. Source: CBSE Digital Education Cell (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4120,7 +4120,7 @@ export const articles: Article[] = [
     description: 'Old vs new NCERT Class 9 textbooks 2026 — chapter-wise comparison, removed content, new additions, and smart study strategy for the updated syllabus.',
     keywords: "old vs new NCERT books, NCERT Class 9 comparison, which NCERT to study, new vs old curriculum",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 27 मिनट",
-    modifiedDate: "July 24, 2026, 11:28 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Neha Singh',
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -4143,7 +4143,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS Study Support</h3><p>Call <strong>+91 9412137554</strong> for guidance.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>The new NCERT Class 9 textbooks for 2026-27 have <strong>significant content changes</strong>. Chapters on <strong>Climate Change, Digital India, and AI Ethics</strong> have been added. Students transitioning from old to new syllabus should focus on the changed chapters. Source: NCERT (July 2026).</p>
+<p>The new NCERT Class 9 textbooks for 2026-27 have <strong>significant content changes</strong>. Chapters on <strong>Climate Change, Digital India, and AI Ethics</strong> have been added. Students transitioning from old to new syllabus should focus on the changed chapters. Source: NCERT (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4158,9 +4158,9 @@ export const articles: Article[] = [
     slug: 'weekly-current-affairs-june-27-july-3-2026-aissee-gk',
     title: 'Weekly Current Affairs (June 27-July 3, 2026): Essential AISSEE GK Updates',
     description: 'Weekly current affairs June 27-July 3, 2026 — must-know GK for AISSEE, JNVST, and entrance exams. Curated news, facts, and practice questions.',
-    keywords: "current affairs June July 2026, weekly GK update, AISSEE current affairs, entrance exam GK",
+    keywords: "current affairs June August 126, weekly GK update, AISSEE current affairs, entrance exam GK",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 33 मिनट",
-    modifiedDate: "July 24, 2026, 11:32 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Ravi Prakash',
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -4183,7 +4183,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS GK Sessions</h3><p>Call <strong>+91 9412137554</strong> for weekly GK classes.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>This digest covers June 27-July 3, 2026. Key AISSEE GK topics: <strong>India's G20 presidency outcomes</strong>, <strong>new NEP implementation updates</strong>, and <strong>ISRO's upcoming missions</strong>. These topics are frequently asked in Sainik School and JNVST entrance exams. Source: PIB & Education Ministry (July 2026).</p>
+<p>This digest covers June 27-July 3, 2026. Key AISSEE GK topics: <strong>India's G20 presidency outcomes</strong>, <strong>new NEP implementation updates</strong>, and <strong>ISRO's upcoming missions</strong>. These topics are frequently asked in Sainik School and JNVST entrance exams. Source: PIB & Education Ministry (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4196,11 +4196,11 @@ export const articles: Article[] = [
   },
   {
     slug: 'passport-fees-increase-july-2026-students-guide',
-    title: 'Passport Fees Increased from July 2026: What Students & Families Must Know',
-    description: 'Passport fees increase July 2026 — new fee structure, Tatkal changes, and how it affects students planning to study abroad or apply for scholarships.',
+    title: 'Passport Fees Increased from August 126: What Students & Families Must Know',
+    description: 'Passport fees increase August 126 — new fee structure, Tatkal changes, and how it affects students planning to study abroad or apply for scholarships.',
     keywords: "passport fees increase 2026, student passport guide, new passport charges, passport for students India",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 38 मिनट",
-    modifiedDate: "July 24, 2026, 11:36 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Ravi Prakash',
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -4209,7 +4209,7 @@ export const articles: Article[] = [
     readTime: '3 mins',
     category: 'Current Affairs',
     image: 'https://img.jgps.in/blog/passport-fees-increase-july-2026-students-guide.webp',
-    content: `<p>Passport fees have increased from July 2026. This affects students planning to study abroad or apply for international programs. Here is what you need to know.</p>
+    content: `<p>Passport fees have increased from August 126. This affects students planning to study abroad or apply for international programs. Here is what you need to know.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">New Fee Structure</h2>
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Type</th><th class="py-3 px-4 border-b font-bold text-white text-left">Old Fee</th><th class="py-3 px-4 border-b font-bold text-white text-left">New Fee</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Normal (36 pages)</td><td class="py-3 px-4 border-b">Rs. 1,500</td><td class="py-3 px-4 border-b font-bold">Rs. 2,000</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Tatkal (36 pages)</td><td class="py-3 px-4 border-b">Rs. 3,500</td><td class="py-3 px-4 border-b font-bold">Rs. 4,000</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Minor (36 pages)</td><td class="py-3 px-4">Rs. 1,000</td><td class="py-3 px-4 font-bold">Rs. 1,500</td></tr></tbody></table></div>
@@ -4222,7 +4222,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>Call <strong>+91 9412137554</strong> for guidance.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Passport fees were increased from <strong>July 1, 2026</strong>. New ordinary passport fee (36 pages): <strong>₹1,500</strong> (was ₹1,000). Tatkal fee: <strong>₹3,500</strong> (was ₹2,500). Students planning to study abroad should apply for passports early to save costs. Source: Ministry of External Affairs (July 2026).</p>
+<p>Passport fees were increased from <strong>July 1, 2026</strong>. New ordinary passport fee (36 pages): <strong>₹1,500</strong> (was ₹1,000). Tatkal fee: <strong>₹3,500</strong> (was ₹2,500). Students planning to study abroad should apply for passports early to save costs. Source: Ministry of External Affairs (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4239,7 +4239,7 @@ export const articles: Article[] = [
     description: 'JNVST 2027 preparation — month-by-month 6-month study plan for Class 4-5 students. Subject-wise strategy, daily timetable, and mock test schedule.',
     keywords: "JNVST 6 month plan, Navodaya preparation schedule, JNVST study timetable, 6 month JNVST strategy",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 42 मिनट",
-    modifiedDate: "July 24, 2026, 11:40 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -4256,7 +4256,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS JNVST Coaching</h3><p>Call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JNVST 2027 is expected in <strong>January 2027</strong> — that's exactly <strong>6 months from today</strong>. This is the perfect time to start preparation. Follow this month-by-month plan: July-August (basics), September-October (practice), November-December (mock tests). Source: JGPS Expert Faculty (July 2026).</p>
+<p>JNVST 2027 is expected in <strong>January 2027</strong> — that's exactly <strong>6 months from today</strong>. This is the perfect time to start preparation. Follow this month-by-month plan: July-August (basics), September-October (practice), November-December (mock tests). Source: JGPS Expert Faculty (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4273,7 +4273,7 @@ export const articles: Article[] = [
     description: 'Navodaya rural quota 2027 — 75% reservation rules explained, eligibility criteria, required documents, and how rural students can maximize their chances.',
     keywords: "Navodaya rural quota, JNVST rural reservation, rural students Navodaya, Navodaya rural eligibility",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 49 मिनट",
-    modifiedDate: "July 24, 2026, 11:44 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -4302,7 +4302,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">JGPS Support</h3><p>JGPS helps rural students prepare for Navodaya. Call <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Navodaya Vidyalaya reserves <strong>75% seats for rural students</strong>. For JNVST 2027, rural students must have studied in a <strong>recognized rural school</strong> for Classes 3, 4, and 5. The certificate must be signed by the school principal and Block Education Officer. Source: NVS Admission Guidelines (July 2026).</p>
+<p>Navodaya Vidyalaya reserves <strong>75% seats for rural students</strong>. For JNVST 2027, rural students must have studied in a <strong>recognized rural school</strong> for Classes 3, 4, and 5. The certificate must be signed by the school principal and Block Education Officer. Source: NVS Admission Guidelines (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4319,7 +4319,7 @@ export const articles: Article[] = [
     description: 'Sainik School medical test 2027 — what doctors check, common rejection reasons, height-weight standards, vision requirements, and how to prepare your child.',
     keywords: "Sainik School medical test, AISSEE medical exam, Sainik School health requirements, medical fitness Sainik",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 52 मिनट",
-    modifiedDate: "July 24, 2026, 11:48 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -4367,7 +4367,7 @@ export const articles: Article[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Reason</th><th class="py-3 px-4 border-b font-bold text-white text-left">Percentage</th><th class="py-3 px-4 border-b font-bold text-white text-left">Can It Be Fixed?</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Poor eyesight</td><td class="py-3 px-4 border-b font-bold text-green-700">35-40%</td><td class="py-3 px-4 border-b">Sometimes (with exercises)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Underweight</td><td class="py-3 px-4 border-b font-bold text-green-700">20-25%</td><td class="py-3 px-4 border-b">Yes (with diet plan)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Below height</td><td class="py-3 px-4 border-b font-bold text-green-700">15-20%</td><td class="py-3 px-4 border-b">Sometimes (age dependent)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Dental problems</td><td class="py-3 px-4 border-b font-bold text-green-700">10-15%</td><td class="py-3 px-4 border-b">Yes (visit dentist)</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Ear problems</td><td class="py-3 px-4 font-bold text-green-700">5-10%</td><td class="py-3 px-4">Sometimes (depends on issue)</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Sainik School medical test for 2027 admissions will follow <strong>updated NTA guidelines</strong>. Key changes: <strong>BMI standards have been revised</strong> to account for regional nutrition differences. The medical test now includes a <strong>mental fitness assessment</strong>. Prepare your child physically from now. Source: Sainik School Medical Board (July 2026).</p>
+<p>Sainik School medical test for 2027 admissions will follow <strong>updated NTA guidelines</strong>. Key changes: <strong>BMI standards have been revised</strong> to account for regional nutrition differences. The medical test now includes a <strong>mental fitness assessment</strong>. Prepare your child physically from now. Source: Sainik School Medical Board (August 126).</p>
 </div>
 
 
@@ -4383,7 +4383,7 @@ export const articles: Article[] = [
     description: 'Sainik School interview questions 2027 — 50+ frequently asked questions with expert-recommended answers. Personality test preparation and confidence-building tips.',
     keywords: "Sainik School interview questions, AISSEE interview preparation, Sainik School interview tips, interview Q&A",
     date: "23 जुलाई 2026, दोपहर 1 बजकर 57 मिनट",
-    modifiedDate: "July 24, 2026, 11:52 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -4420,7 +4420,7 @@ export const articles: Article[] = [
 <div class="bg-gray-50 p-5 rounded-xl border border-gray-100"><p class="font-bold text-gray-900 mb-1">46. Any questions for us?</p><p class="text-sm text-gray-600 m-0">"What advice would you give to a new student joining Sainik School?"</p></div></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Sainik School interview for 2027 admissions will include <strong>new question categories</strong> on <strong>current affairs, digital literacy, and environmental awareness</strong>. The interview panel typically includes a <strong>principal, psychologist, and defense officer</strong>. Practice answering confidently and honestly. Source: Sainik School Interview Panel Guidelines (July 2026).</p>
+<p>Sainik School interview for 2027 admissions will include <strong>new question categories</strong> on <strong>current affairs, digital literacy, and environmental awareness</strong>. The interview panel typically includes a <strong>principal, psychologist, and defense officer</strong>. Practice answering confidently and honestly. Source: Sainik School Interview Panel Guidelines (August 126).</p>
 </div>
 
 
@@ -4439,7 +4439,7 @@ export const articles: Article[] = [
     description: 'AMU vs JMI 2027 — honest comparison for Class 6 admission. Fees, hostel, exam difficulty, selection rate, and which school gives your child a better future.',
     keywords: "AMU vs JMI comparison, Aligarh vs Jamia admission, AMU JMI which is better, AMU JMI entrance exam",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 02 मिनट",
-    modifiedDate: "July 24, 2026, 11:56 AM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -4473,7 +4473,7 @@ export const articles: Article[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">AMU Class 6</th><th class="py-3 px-4 border-b font-bold text-white text-left">JMI Class 6</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">NCERT + advanced problems</td><td class="py-3 px-4 border-b">NCERT — arithmetic</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">English</td><td class="py-3 px-4 border-b">Grammar, comprehension, vocabulary</td><td class="py-3 px-4 border-b">Grammar, reading comprehension</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Hindi/Urdu</td><td class="py-3 px-4 border-b">Grammar, comprehension, essay</td><td class="py-3 px-4 border-b">Grammar, comprehension, letter</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">GK</td><td class="py-3 px-4 border-b">Science, Social Studies, Current Affairs</td><td class="py-3 px-4 border-b">Environmental Studies, Basic GK</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Reasoning/IQ</td><td class="py-3 px-4 font-bold text-red-600">Yes — important weightage</td><td class="py-3 px-4">Minimal</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>For 2027 admissions, AMU entrance is expected in <strong>February 2027</strong> and JMI in <strong>February-March 2027</strong>. Both universities have <strong>limited seats</strong> (80-100 for Class 6). AMU has <strong>negative marking (1/4)</strong> while JMI does not. Plan your preparation to cover both exams. Source: AMU & JMI (July 2026).</p>
+<p>For 2027 admissions, AMU entrance is expected in <strong>February 2027</strong> and JMI in <strong>February-March 2027</strong>. Both universities have <strong>limited seats</strong> (80-100 for Class 6). AMU has <strong>negative marking (1/4)</strong> while JMI does not. Plan your preparation to cover both exams. Source: AMU & JMI (August 126).</p>
 </div>
 
 
@@ -4493,7 +4493,7 @@ export const articles: Article[] = [
     title: 'Sainik School Scholarship 2027: How to Get Free Education (Complete Guide)',
     description: "Sainik School scholarship 2027 — eligibility, application process, state-wise schemes, and how to get up to 100% fee waiver for your child's education.",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 06 मिनट",
-    modifiedDate: "July 24, 2026, 12:00 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',    keywords: "Sainik School scholarship, AISSEE scholarship guide, Sainik School financial aid, Sainik School fee concession",
 
     authorName: "Amit Kumar",
@@ -4529,7 +4529,7 @@ export const articles: Article[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Document</th><th class="py-3 px-4 border-b font-bold text-white text-left">For Which Scholarship</th><th class="py-3 px-4 border-b font-bold text-white text-left">Where to Get It</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Income Certificate</td><td class="py-3 px-4 border-b">Income-based concession</td><td class="py-3 px-4 border-b">Tehsildar / SDM office</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Caste Certificate</td><td class="py-3 px-4 border-b">SC/ST/OBC scholarship</td><td class="py-3 px-4 border-b">District Magistrate office</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Aadhaar Card</td><td class="py-3 px-4 border-b">All scholarships</td><td class="py-3 px-4 border-b">Aadhaar center</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Bank Passbook</td><td class="py-3 px-4 border-b">All scholarships</td><td class="py-3 px-4 border-b">Your bank</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Defence ID Card</td><td class="py-3 px-4">Defence personnel scholarship</td><td class="py-3 px-4">Parent's military unit</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Sainik School scholarship schemes for 2027-28 have been updated. <strong>SC/ST students</strong> can get up to <strong>100% fee waiver</strong>. <strong>Defence wards</strong> get special concessions. State governments also offer additional scholarships. Check your state's education portal for specific schemes. Source: Sainik School Society & State Education Departments (July 2026).</p>
+<p>Sainik School scholarship schemes for 2027-28 have been updated. <strong>SC/ST students</strong> can get up to <strong>100% fee waiver</strong>. <strong>Defence wards</strong> get special concessions. State governments also offer additional scholarships. Check your state's education portal for specific schemes. Source: Sainik School Society & State Education Departments (August 126).</p>
 </div>
 
 
@@ -4542,7 +4542,7 @@ export const articles: Article[] = [
     description: 'Fee comparison 2027 — Sainik School, Navodaya, AMU, and JMI fees side by side. Total cost including hostel, food, books, and hidden charges parents miss.',
     keywords: "school fee comparison India, Sainik Navodaya AMU JMI fees, government school fees, entrance school cost",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 11 मिनट",
-    modifiedDate: "July 24, 2026, 12:04 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: 'Amit Kumar',
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -4582,7 +4582,7 @@ export const articles: Article[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best Option</th><th class="py-3 px-4 border-b font-bold text-white text-left">Why</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Cheapest Overall</td><td class="py-3 px-4 border-b font-bold text-green-700">Navodaya</td><td class="py-3 px-4 border-b">Completely free</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Best Facilities per Rupee</td><td class="py-3 px-4 border-b font-bold text-green-700">AMU</td><td class="py-3 px-4 border-b">University-level infrastructure</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Best for Defence Career</td><td class="py-3 px-4 border-b font-bold text-green-700">Sainik School</td><td class="py-3 px-4 border-b">Direct NDA preparation</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Best Location</td><td class="py-3 px-4 border-b font-bold text-green-700">JMI</td><td class="py-3 px-4 border-b">Delhi — maximum exposure</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Lowest Competition</td><td class="py-3 px-4 font-bold text-green-700">JMI</td><td class="py-3 px-4">Fewer applicants</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Fee structures for 2027-28: <strong>Navodaya = Free</strong>, <strong>Sainik School = ₹1,500-3,000/year</strong>, <strong>AMU = ₹5,000-12,000/year</strong>, <strong>JMI = ₹3,000-8,000/year</strong>. Hidden costs include uniform, travel, and pocket money. Plan your budget accordingly. Source: Official Fee Notifications (July 2026).</p>
+<p>Fee structures for 2027-28: <strong>Navodaya = Free</strong>, <strong>Sainik School = ₹1,500-3,000/year</strong>, <strong>AMU = ₹5,000-12,000/year</strong>, <strong>JMI = ₹3,000-8,000/year</strong>. Hidden costs include uniform, travel, and pocket money. Plan your budget accordingly. Source: Official Fee Notifications (August 126).</p>
 </div>
 
 
@@ -4599,7 +4599,7 @@ export const articles: Article[] = [
     description: "Sainik School vs Rashtriya Military School (RMS) 2027 — complete comparison of fees, exam pattern, NDA rate, and eligibility. Find which is better for your child.",
     keywords: "Sainik School vs Military School, RMS vs AISSEE 2027, Sainik School or Military School which is better, RMS vs Sainik School comparison",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 14 मिनट",
-    modifiedDate: "July 24, 2026, 12:08 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -4639,8 +4639,8 @@ export const articles: Article[] = [
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help Deciding?</h3><p>If you are confused about which school to choose, <strong>JGPS School</strong> offers free counseling. Our experts will guide you based on your child's situation. Call: <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 2026 Update</h3>
-<p>AISSEE 2027 preparation is in full swing. NTA has confirmed that the All India Sainik Schools Entrance Examination will follow the updated pattern this year. Sainik School Society has added new schools in multiple states, increasing total seats. The admission process includes a written exam, medical test, and interview round. Keep checking <strong>exams.nta.nic.in</strong> for the official notification expected in August 2026. Source: NTA Official Portal & Sainik School Society updates (July 2026).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 126 Update</h3>
+<p>AISSEE 2027 preparation is in full swing. NTA has confirmed that the All India Sainik Schools Entrance Examination will follow the updated pattern this year. Sainik School Society has added new schools in multiple states, increasing total seats. The admission process includes a written exam, medical test, and interview round. Keep checking <strong>exams.nta.nic.in</strong> for the official notification expected in August 2026. Source: NTA Official Portal & Sainik School Society updates (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4661,7 +4661,7 @@ export const articles: Article[] = [
     description: "When should you start preparing your child for Navodaya, Sainik School, or AMU entrance exams? The right age, month-by-month plan, and 5 essential tips.",
     keywords: "when to start entrance exam preparation, best age for sainik school preparation, navodaya preparation when to start, class 6 entrance exam preparation age",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 20 मिनट",
-    modifiedDate: "July 24, 2026, 12:12 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -4701,8 +4701,8 @@ export const articles: Article[] = [
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Is Your Child Ready?</h3><p>Get a free counseling session at <strong>JGPS School</strong>. Our experts will assess your child's level and create the right plan. Call: <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 2026 Update</h3>
-<p>With the half-yearly exams approaching in July-August 2026, education experts recommend starting revision at least 3 weeks in advance. Recent studies show that students who follow a structured study schedule with regular breaks perform 25% better in exams. Schools across UP and Bihar have reopened after summer holidays with new guidelines. Source: Education Ministry guidelines & school reopening notifications (July 2026).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 126 Update</h3>
+<p>With the half-yearly exams approaching in July-August 2026, education experts recommend starting revision at least 3 weeks in advance. Recent studies show that students who follow a structured study schedule with regular breaks perform 25% better in exams. Schools across UP and Bihar have reopened after summer holidays with new guidelines. Source: Education Ministry guidelines & school reopening notifications (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4723,7 +4723,7 @@ export const articles: Article[] = [
     description: "Can your child get into Navodaya or Sainik School without coaching? Self-study vs coaching — the complete truth, tips, and 5 mistakes to avoid.",
     keywords: "navodaya without coaching, sainik school without coaching, self study vs coaching entrance exam, can child crack navodaya without tuition",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 23 मिनट",
-    modifiedDate: "July 24, 2026, 12:16 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -4766,8 +4766,8 @@ export const articles: Article[] = [
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Coaching or Self-Study?</h3><p>If you want proper guidance, <strong>JGPS School</strong> offers coaching with a free demo class. Call: <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 2026 Update</h3>
-<p>JNVST 2027 notification has been officially released by Navodaya Vidyalaya Samiti (NVS). Online registration for Class VI admission (session 2027-28) is now open at <strong>navodaya.gov.in</strong>. The last date to apply is <strong>31 July 2026</strong>. This year, JNVST has introduced a new exam pattern with updated question distribution. The exam is scheduled for <strong>28 November 2026</strong>. Source: NVS Official Website & social media updates (July 15, 2026).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 126 Update</h3>
+<p>JNVST 2027 notification has been officially released by Navodaya Vidyalaya Samiti (NVS). Online registration for Class VI admission (session 2027-28) is now open at <strong>navodaya.gov.in</strong>. The last date to apply is <strong>7 August 2026</strong>. This year, JNVST has introduced a new exam pattern with updated question distribution. The exam is scheduled for <strong>28 November 2026</strong>. Source: NVS Official Website & social media updates (July 15, 2026).</p>
 </div>
 `,
     faqs: [
@@ -4788,7 +4788,7 @@ export const articles: Article[] = [
     description: "Your child didn't get selected in Navodaya or Sainik School? Don't panic. Here are 5 excellent options that can still build a great future for your child.",
     keywords: "child failed entrance exam, navodaya not selected, sainik school rejection, what if child fails entrance exam, entrance exam failure options",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 26 मिनट",
-    modifiedDate: "July 24, 2026, 12:20 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -4832,8 +4832,8 @@ export const articles: Article[] = [
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>Get free counseling at <strong>JGPS School</strong>. Our experts will create the right plan for your child. Call: <strong>+91 9412137554</strong>.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 2026 Update</h3>
-<p>AI in education is rapidly growing in 2026. Google's Gemini AI tools are being integrated into classroom learning through ISTE partnerships. NCERT is exploring AI-powered personalized learning for the new curriculum. Multiple states have introduced AI literacy programs in schools. Students are using AI study tools for exam preparation, with usage growing 300% since 2025. Source: ISTE, Google Education & NCERT announcements (July 2026).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 126 Update</h3>
+<p>AI in education is rapidly growing in 2026. Google's Gemini AI tools are being integrated into classroom learning through ISTE partnerships. NCERT is exploring AI-powered personalized learning for the new curriculum. Multiple states have introduced AI literacy programs in schools. Students are using AI study tools for exam preparation, with usage growing 300% since 2025. Source: ISTE, Google Education & NCERT announcements (August 126).</p>
 </div>
 `,
     faqs: [
@@ -4852,7 +4852,7 @@ export const articles: Article[] = [
     title: "CBSE Three-Language Policy 2026-27: What Parents Must Know Right Now",
     description: "CBSE three-language policy 2026-27 — new R1, R2, R3 language rules, Class 9-10 changes, and how it affects your child's subject choices.",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 38 मिनट",
-    modifiedDate: "July 24, 2026, 12:24 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4875,7 +4875,7 @@ export const articles: Article[] = [
     description: "CUET 2026-27 university admission guide — exam pattern, syllabus, registration process, top universities accepting CUET, and preparation strategy.",
     keywords: "CUET 2026-27 admission, CUET university admission, CUET guide, central university admission CUET",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 42 मिनट",
-    modifiedDate: "July 24, 2026, 12:28 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4894,10 +4894,10 @@ export const articles: Article[] = [
   {
     slug: 'navodaya-admission-2027-last-date',
     title: "Navodaya Admission 2027 Last Date: July 31 — Apply Now Before It's Too Late",
-    description: "Navodaya admission 2027 last date is July 31, 2026. Don't miss this — JNVST Class 6 application form, eligibility, and how to apply online at navodaya.gov.in.",
+    description: "Navodaya admission 2027 last date is August 7, 2026. Don't miss this — JNVST Class 6 application form, eligibility, and how to apply online at navodaya.gov.in.",
     keywords: "navodaya admission 2027 last date, JNVST 2027 application form, Navodaya Vidyalaya Class 6 admission 2027, JNVST 2027 last date to apply",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 46 मिनट",
-    modifiedDate: "July 24, 2026, 12:32 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "JGPS Content Team",
     authorName: "JGPS Content Team",
     authorSlug: "jgps-content-team",
@@ -4909,7 +4909,7 @@ export const articles: Article[] = [
     imageAlt: "Parent and child checking Navodaya admission 2027 last date on laptop at home",
     content: `<p>You sit at the kitchen table after dinner. Your child is studying in Class 5. A neighbor just told you about Navodaya Vidyalaya. Free education. Boarding. English medium. No fees at all. You want to apply. But the clock is ticking.</p>
 
-<p>Navodaya admission 2027 last date is <strong>July 31, 2026</strong>. That's just days away. Every year, over 30 lakh students apply for JNVST. Only about 80,000 get selected. Your child has a real shot. But only if you act now.</p>
+<p>Navodaya admission 2027 last date is <strong>August 7, 2026</strong>. That's just days away. Every year, over 30 lakh students apply for JNVST. Only about 80,000 get selected. Your child has a real shot. But only if you act now.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Is Navodaya Vidyalaya?</h2>
 <p>Jawahar Navodaya Vidyalaya (JNV) is a system of schools run by the Government of India. The Navodaya Vidyalaya Samiti (NVS) manages all 661 schools across the country. These are residential schools. That means your child lives at the school. Food, books, uniforms, and hostel — everything is free.</p>
@@ -4922,7 +4922,7 @@ export const articles: Article[] = [
 <p>Many JNV students later crack IIT, NEET, and other big exams. The environment pushes your child to do better. Classmates are all selected through a tough exam. So the competition inside the school makes your child sharper.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Navodaya Admission 2027 — Important Dates</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Form Released</td><td class="py-3 px-4 border-b font-bold">July 6, 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold text-red-600">July 31, 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b font-bold">December 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date (Expected)</td><td class="py-3 px-4 border-b font-bold text-green-700">January 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result</td><td class="py-3 px-4 border-b font-bold">March-April 2027</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Form Released</td><td class="py-3 px-4 border-b font-bold">July 6, 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold text-red-600">August 7, 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b font-bold">December 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date (Expected)</td><td class="py-3 px-4 border-b font-bold text-green-700">January 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result</td><td class="py-3 px-4 border-b font-bold">March-April 2027</td></tr></tbody></table></div>
 
 <p>Always check the official website for final dates: <a href="https://navodaya.gov.in" class="text-[#035c00] underline font-medium" target="_blank" rel="noopener noreferrer">navodaya.gov.in</a></p>
 
@@ -4977,7 +4977,7 @@ export const articles: Article[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b font-bold">40</td><td class="py-3 px-4 border-b font-bold">40</td><td class="py-3 px-4 border-b">60 minutes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b font-bold">20</td><td class="py-3 px-4 border-b font-bold">20</td><td class="py-3 px-4 border-b">30 minutes</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Language</td><td class="py-3 px-4 border-b font-bold">20</td><td class="py-3 px-4 border-b font-bold">20</td><td class="py-3 px-4 border-b">30 minutes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-bold text-gray-900">Total</td><td class="py-3 px-4 font-bold">80</td><td class="py-3 px-4 font-bold">80</td><td class="py-3 px-4 font-bold">2 hours</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Mistakes Parents Must Avoid</h2>
-<p><strong>Mistake 1: Waiting Until the Last Day</strong><br>Many parents fill the form on July 30 or 31. The website crashes due to heavy traffic. Your child loses the chance. Fill the form by July 20 at the latest.</p>
+<p><strong>Mistake 1: Waiting Until the Last Day</strong><br>Many parents fill the form on August 5 or 6. The website crashes due to heavy traffic. Your child loses the chance. Fill the form by August 1 at the latest.</p>
 
 <p><strong>Mistake 2: Wrong Date of Birth</strong><br>If the date of birth on the form does not match the birth certificate, the application gets rejected. Double-check every detail before submitting.</p>
 
@@ -5002,13 +5002,13 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers coaching for JNVST entrance exam. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p><strong>URGENT:</strong> Navodaya admission 2027 last date is <strong>July 31, 2026</strong> — just 8 days away. Over <strong>25 lakh applications</strong> have been received. Don't wait until the last day — the server often crashes due to heavy traffic. Apply now at <strong>navodaya.gov.in</strong>. Source: NVS (July 23, 2026).</p>
+<p><strong>URGENT:</strong> Navodaya admission 2027 last date is <strong>August 7, 2026</strong> — just 8 days away. Over <strong>25 lakh applications</strong> have been received. Don't wait until the last day — the server often crashes due to heavy traffic. Apply now at <strong>navodaya.gov.in</strong>. Source: NVS (July 23, 2026).</p>
 </div>
 `,
     faqs: [
       {
         "question": "What is the last date for Navodaya admission 2027?",
-        "answer": "The last date to apply for JNVST 2027 Class 6 is July 31, 2026. The application form was released on July 6, 2026. Apply at navodaya.gov.in before the deadline."
+        "answer": "The last date to apply for JNVST 2027 Class 6 is August 7, 2026. The application form was released on July 6, 2026. Apply at navodaya.gov.in before the deadline."
       },
       {
         "question": "Is Navodaya Vidyalaya really free?",
@@ -5034,7 +5034,7 @@ export const articles: Article[] = [
     description: "JNVST 2027 exam pattern and syllabus — latest changes by NTA, subject-wise marks distribution, question types, and what to study for Navodaya Class 6 entrance.",
     keywords: "JNVST 2027 exam pattern, navodaya exam pattern 2027, JNVST 2027 syllabus, navodaya class 6 exam pattern changed",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 52 मिनट",
-    modifiedDate: "July 24, 2026, 12:36 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "JGPS Content Team",
     authorName: "JGPS Content Team",
     authorSlug: "jgps-content-team",
@@ -5046,7 +5046,7 @@ export const articles: Article[] = [
     imageAlt: "Parent and child reviewing JNVST 2027 exam pattern changes on a tablet",
     content: `<p>Your child is preparing for JNVST 2027. You bought the books. You made a timetable. But now you hear the exam pattern has changed. New syllabus. New question types. You feel confused. What changed? Is your child still on the right track?</p>
 
-<p>Here is the thing. JNVST 2027 exam pattern has indeed changed this year. The Navodaya Vidyalaya Samiti released the new prospectus in July 2026. Over <strong>30 lakh students</strong> will sit for this exam. But most of them are still studying from old patterns. If your child starts with the new pattern today, they already have an edge.</p>
+<p>Here is the thing. JNVST 2027 exam pattern has indeed changed this year. The Navodaya Vidyalaya Samiti released the new prospectus in August 126. Over <strong>30 lakh students</strong> will sit for this exam. But most of them are still studying from old patterns. If your child starts with the new pattern today, they already have an edge.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What Changed in JNVST 2027 Exam Pattern?</h2>
 <p>The biggest change is in the number of questions. The exam now has fewer questions but the same time limit. This means your child gets more time per question. But the questions are trickier.</p>
@@ -5111,7 +5111,7 @@ export const articles: Article[] = [
 
 <p><strong>Step 2: Focus More on MAT (Highest Weightage)</strong><br>Mental Ability has 40 questions out of 80. That is 50% of the exam. Practice MAT daily for at least 30 minutes.</p>
 
-<p><strong>Step 3: Use New Pattern Books Only</strong><br>Old edition books have 100-question papers. Your child needs 80-question papers that match the new pattern. Buy books published after July 2026.</p>
+<p><strong>Step 3: Use New Pattern Books Only</strong><br>Old edition books have 100-question papers. Your child needs 80-question papers that match the new pattern. Buy books published after August 126.</p>
 
 <p><strong>Step 4: Take Weekly Mock Tests</strong><br>Every Sunday, give your child a full mock test. 80 questions in 2 hours. No breaks. Track the score each week.</p>
 
@@ -5134,13 +5134,13 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers JNVST coaching based on the latest 2027 pattern. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JNVST 2027 exam pattern: <strong>Mental Ability (40 questions), Arithmetic (20 questions), Language (20 questions)</strong> — total 80 questions in 2 hours. NTA has confirmed <strong>no change in pattern</strong> for 2027. However, difficulty level has been gradually increasing each year. Source: NVS Academic Cell (July 2026).</p>
+<p>JNVST 2027 exam pattern: <strong>Mental Ability (40 questions), Arithmetic (20 questions), Language (20 questions)</strong> — total 80 questions in 2 hours. NTA has confirmed <strong>no change in pattern</strong> for 2027. However, difficulty level has been gradually increasing each year. Source: NVS Academic Cell (August 126).</p>
 </div>
 `,
     faqs: [
       {
         "question": "Is JNVST 2027 pattern really changed?",
-        "answer": "Yes. The Navodaya Vidyalaya Samiti released the new prospectus in July 2026. The exam now has 80 questions instead of 100. Time remains 2 hours."
+        "answer": "Yes. The Navodaya Vidyalaya Samiti released the new prospectus in August 126. The exam now has 80 questions instead of 100. Time remains 2 hours."
       },
       {
         "question": "How many questions are there in JNVST 2027?",
@@ -5166,7 +5166,7 @@ export const articles: Article[] = [
     description: "Crack JNVST 2027 in just 3 months — daily study schedule, subject-wise tips, mock test strategy, and last-minute preparation plan that actually works.",
     keywords: "how to crack JNVST 2027, JNVST 2027 preparation, navodaya exam preparation tips, JNVST preparation plan",
     date: "23 जुलाई 2026, दोपहर 2 बजकर 58 मिनट",
-    modifiedDate: "July 24, 2026, 12:40 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "JGPS Content Team",
     authorName: "JGPS Content Team",
     authorSlug: "jgps-content-team",
@@ -5257,7 +5257,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Expert Guidance?</h3><p>Jai Govind Public School in Joya, Amroha offers dedicated JNVST coaching with experienced teachers. Our students have cracked JNVST every year. Visit <strong>jgps.in</strong> or call <strong>+91 9412137554</strong> for a free counseling session.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JNVST 2027 is <strong>6 months away</strong>. This 3-month intensive plan (July-September) can still work if followed strictly. Month 1: Build basics in Mental Ability and Math. Month 2: Practice previous year papers. Month 3: Mock tests and revision. Consistency is key — study 2-3 hours daily. Source: JGPS Expert Faculty (July 2026).</p>
+<p>JNVST 2027 is <strong>6 months away</strong>. This 3-month intensive plan (July-September) can still work if followed strictly. Month 1: Build basics in Mental Ability and Math. Month 2: Practice previous year papers. Month 3: Mock tests and revision. Consistency is key — study 2-3 hours daily. Source: JGPS Expert Faculty (August 126).</p>
 </div>
 `,
     faqs: [
@@ -5289,7 +5289,7 @@ export const articles: Article[] = [
     description: "CBSE ne 2026 se Class 10 ke liye do board exams ka rule lagu kiya hai. Jaaniye pehla aur dusra exam kab hoga, kaun de sakta hai, aur best of two kaise kaam karega.",
     keywords: "CBSE two board exams Class 10, CBSE dual board exam 2026, CBSE Class 10 two exams NEP 2020, CBSE board exam twice a year, CBSE second board exam Class 10",
     date: "23 जुलाई 2026, दोपहर 3 बजकर 02 मिनट",
-    modifiedDate: "July 24, 2026, 12:44 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "JGPS Content Team",
     authorName: "JGPS Content Team",
     authorSlug: "jgps-content-team",
@@ -5358,8 +5358,8 @@ export const articles: Article[] = [
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Guidance?</h3><p>JGPS School helps students prepare for CBSE board exams with structured coaching. Call <strong>+91 9412137554</strong> for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 2026 Update</h3>
-<p>CBSE has declared Class X Second Board Examination Results 2026 on <strong>18 July 2026</strong> (Source: cbse.gov.in). The supplementary/compartment exams for Class XII are scheduled to begin from <strong>28 July 2026</strong>. CBSE has also announced changes to the LOC (List of Candidates) submission process for the 2026-27 session. Schools must complete registration by the deadline to avoid late fees. Source: CBSE Official Website (July 18, 2026).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 126 Update</h3>
+<p>CBSE has declared Class X Second Board Examination Results 2026 on <strong>18 August 126</strong> (Source: cbse.gov.in). The supplementary/compartment exams for Class XII are scheduled to begin from <strong>28 August 126</strong>. CBSE has also announced changes to the LOC (List of Candidates) submission process for the 2026-27 session. Schools must complete registration by the deadline to avoid late fees. Source: CBSE Official Website (July 18, 2026).</p>
 </div>
 `,
     faqs: [
@@ -5391,7 +5391,7 @@ export const articles: Article[] = [
     description: "RIMC Dehradun admission 2027 — exam dates, eligibility criteria, application process, and insider tips from parents whose kids got selected.",
     keywords: "RIMC Dehradun admission 2027, RIMC entrance exam, Rashtriya Indian Military College, RIMC Class 8 admission",
     date: "23 जुलाई 2026, दोपहर 3 बजकर 05 मिनट",
-    modifiedDate: "July 24, 2026, 12:48 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -5418,7 +5418,7 @@ export const articles: Article[] = [
 
 <p>The RIMC entrance exam for the January 2027 term is designated as the <strong>June 2026 entrance examination</strong>. Here's who can apply:</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Criteria</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Age Requirement</td><td class="py-3 px-4 border-b text-gray-700">Minimum 11½ years and not more than 13 years as on 01 January 2027. Candidates should be born between approximately 02 January 2014 and 01 July 2015.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Educational Qualification</td><td class="py-3 px-4 border-b text-gray-700">Must be studying in Class VII or have passed Class VII from a recognised school at the time of admission.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Gender</td><td class="py-3 px-4 border-b text-gray-700">Both boys and girls are eligible to apply.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Nationality</td><td class="py-3 px-4 border-b text-gray-700">Indian citizen. Candidates must apply through their respective State Government.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Fitness</td><td class="py-3 px-4 border-b text-gray-700">Must be medically fit as per standards prescribed for entry to military institutions. Medical examination is conducted at selected Military Hospitals after qualifying the written exam and interview.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">State-wise Vacancies</td><td class="py-3 px-4 border-b text-gray-700">Uttar Pradesh: 3 seats | Bihar: 1 seat | Uttarakhand: 1 seat. Most states have 1 vacancy; larger states like UP, Maharashtra, Tamil Nadu, and West Bengal get 2–3 seats.</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Criteria</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Age Requirement</td><td class="py-3 px-4 border-b text-gray-700">Minimum 11½ years and not more than 13 years as on 01 January 2027. Candidates should be born between approximately 02 January 2014 and 01 August 115.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Educational Qualification</td><td class="py-3 px-4 border-b text-gray-700">Must be studying in Class VII or have passed Class VII from a recognised school at the time of admission.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Gender</td><td class="py-3 px-4 border-b text-gray-700">Both boys and girls are eligible to apply.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Nationality</td><td class="py-3 px-4 border-b text-gray-700">Indian citizen. Candidates must apply through their respective State Government.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Fitness</td><td class="py-3 px-4 border-b text-gray-700">Must be medically fit as per standards prescribed for entry to military institutions. Medical examination is conducted at selected Military Hospitals after qualifying the written exam and interview.</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">State-wise Vacancies</td><td class="py-3 px-4 border-b text-gray-700">Uttar Pradesh: 3 seats | Bihar: 1 seat | Uttarakhand: 1 seat. Most states have 1 vacancy; larger states like UP, Maharashtra, Tamil Nadu, and West Bengal get 2–3 seats.</td></tr></tbody></table></div>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help?</h3><p>JGPS School offers dedicated coaching for RIMC and other defence entrance exams. Call <strong>+91 9412137554</strong> for free counseling and enrollment details.</p></div>
 
@@ -5428,7 +5428,7 @@ export const articles: Article[] = [
 
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date (Tentative)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification Released</td><td class="py-3 px-4 border-b text-gray-700">February 2026</td><td class="py-3 px-4 border-b text-green-700 font-medium">Released</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Prospectus Available</td><td class="py-3 px-4 border-b text-gray-700">February 2026 onwards</td><td class="py-3 px-4 border-b text-green-700 font-medium">Available</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date for Application</td><td class="py-3 px-4 border-b text-gray-700">April 2026 (extended from original deadline)</td><td class="py-3 px-4 border-b text-orange-600 font-medium">Closed</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Written Exam Date</td><td class="py-3 px-4 border-b text-gray-700">June 2026</td><td class="py-3 px-4 border-b text-gray-500 font-medium">Completed</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b text-gray-700">August–September 2026 (tentative)</td><td class="py-3 px-4 border-b text-blue-600 font-medium">Awaited</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Viva-Voce / Interview</td><td class="py-3 px-4 border-b text-gray-700">After written exam results</td><td class="py-3 px-4 border-b text-blue-600 font-medium">To be announced</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Medical Examination</td><td class="py-3 px-4 border-b text-gray-700">After viva-voce qualification</td><td class="py-3 px-4 border-b text-blue-600 font-medium">To be announced</td></tr></tbody></table></div>
 
-<p><strong>Important note for parents:</strong> If you missed the June 2026 exam cycle, the next entrance exam (for the July 2027 term) will likely be announced around December 2026 or January 2027. Start preparing now so your child is ready for the next opportunity.</p>
+<p><strong>Important note for parents:</strong> If you missed the June 2026 exam cycle, the next entrance exam (for the August 127 term) will likely be announced around December 2026 or January 2027. Start preparing now so your child is ready for the next opportunity.</p>
 
 <h2>RIMC Exam Pattern 2027: What Your Child Will Face</h2>
 
@@ -5555,7 +5555,7 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Ready to Give Your Child the RIMC Advantage?</h3><p>JGPS School has helped students from UP, Bihar, and Uttarakhand prepare for RIMC and other defence entrance exams. Our coaching programme covers all subjects, mock tests, and interview preparation.</p><p><strong>Call +91 9412137554</strong> for free counseling and enrollment details.</p><p>Don't wait for the next notification — by then, it's almost too late.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>RIMC Dehradun admission 2027 notification is expected in <strong>September-October 2026</strong>. The written exam is usually held in <strong>December 2026</strong>. RIMC has <strong>only 25 seats per term</strong> — making it one of the most competitive admissions in India. Start preparation now for the English, Mathematics, and GK papers. Source: RIMC Dehradun (July 2026).</p>
+<p>RIMC Dehradun admission 2027 notification is expected in <strong>September-October 2026</strong>. The written exam is usually held in <strong>December 2026</strong>. RIMC has <strong>only 25 seats per term</strong> — making it one of the most competitive admissions in India. Start preparation now for the English, Mathematics, and GK papers. Source: RIMC Dehradun (August 126).</p>
 </div>
 `,
     faqs: [
@@ -5587,7 +5587,7 @@ export const articles: Article[] = [
     description: "Sainik School girls quota 2027 — new seats added, eligibility, reservation rules, and how girls can apply for AISSEE. Complete guide for parents of daughters.",
     keywords: "Sainik School girls quota, Sainik School girls admission, AISSEE girls reservation, Sainik School female seats",
     date: "23 जुलाई 2026, दोपहर 3 बजकर 10 मिनट",
-    modifiedDate: "July 24, 2026, 12:52 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -5833,7 +5833,7 @@ export const articles: Article[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Sainik School girls quota for 2027 has been <strong>increased to 10%</strong> of total seats. New Sainik Schools have been specifically designed as <strong>co-educational</strong>. Girls can now apply for <strong>Class 6 and Class 9</strong> entry through AISSEE. This is a historic expansion for girls' education in defence schools. Source: Sainik School Society (July 2026).</p>
+<p>Sainik School girls quota for 2027 has been <strong>increased to 10%</strong> of total seats. New Sainik Schools have been specifically designed as <strong>co-educational</strong>. Girls can now apply for <strong>Class 6 and Class 9</strong> entry through AISSEE. This is a historic expansion for girls' education in defence schools. Source: Sainik School Society (August 126).</p>
 </div>
 `,
     faqs: [
@@ -5865,7 +5865,7 @@ export const articles: Article[] = [
     description: "Navodaya Class 9 lateral entry admission 2027 — application form, exam dates, syllabus, eligibility, and preparation strategy for JNV Class 9 entrance.",
     keywords: "Navodaya Class 9 admission 2027, JNVST Class 9 entrance, Navodaya lateral entry, JNVST Class 9 form",
     date: "23 जुलाई 2026, दोपहर 3 बजकर 14 मिनट",
-    modifiedDate: "July 24, 2026, 12:56 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -5876,7 +5876,7 @@ export const articles: Article[] = [
     image: "https://img.jgps.in/blog/Navodaya_Class_9_Admission_2027_202607111133.webp",
     content: `<h1>Navodaya Class 9 Admission 2027: Lateral Entry Form, Exam Date, Eligibility & Complete Guide</h1>
 
-<p>Your child didn't get into Navodaya in Class 6? That door isn't closed. The <strong>Navodaya Class 9 Admission 2027</strong> through Lateral Entry Selection Test (LEST) gives students a second shot at India's best free residential school network. Applications open in <strong>July 2026</strong>, the exam is in <strong>February 2027</strong>, and the entire process costs nothing. If your child is currently in Class 8, this is the moment to act. Parents across UP, Bihar, and Uttarakhand — read this guide carefully. One exam can change your child's entire academic future.</p>
+<p>Your child didn't get into Navodaya in Class 6? That door isn't closed. The <strong>Navodaya Class 9 Admission 2027</strong> through Lateral Entry Selection Test (LEST) gives students a second shot at India's best free residential school network. Applications open in <strong>August 126</strong>, the exam is in <strong>February 2027</strong>, and the entire process costs nothing. If your child is currently in Class 8, this is the moment to act. Parents across UP, Bihar, and Uttarakhand — read this guide carefully. One exam can change your child's entire academic future.</p>
 
 <h2>What is JNVST Class 9 Lateral Entry?</h2>
 
@@ -5909,7 +5909,7 @@ export const articles: Article[] = [
 
 <p>NVS follows a predictable timeline every year. Based on previous patterns, here are the expected dates for the 2027 cycle. Keep checking navodaya.gov.in for official confirmation — NVS sometimes shifts dates by a few weeks.</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification</td><td class="py-3 px-4 border-b">July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Starts</td><td class="py-3 px-4 border-b">July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b">October 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Download</td><td class="py-3 px-4 border-b">January 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">LEST Exam Date</td><td class="py-3 px-4 border-b">February 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b">April 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Counseling & Admission</td><td class="py-3 px-4 border-b">May 2027</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Expected Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification</td><td class="py-3 px-4 border-b">August 126</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Starts</td><td class="py-3 px-4 border-b">August 126</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b">October 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Download</td><td class="py-3 px-4 border-b">January 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">LEST Exam Date</td><td class="py-3 px-4 border-b">February 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b">April 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Counseling & Admission</td><td class="py-3 px-4 border-b">May 2027</td></tr></tbody></table></div>
 
 <h3>How to Apply – Step by Step</h3>
 <ol>
@@ -6047,12 +6047,12 @@ export const articles: Article[] = [
 
 <p>For parents in UP, Bihar, and Uttarakhand, where quality private schools charge lakhs in fees, JNV offers an unbeatable alternative. Your child gets CBSE education, experienced teachers, modern labs, sports facilities, and a disciplined residential environment — all for free or at a nominal ₹600/month.</p>
 
-<p>The application window opens in <strong>July 2026</strong>. Start gathering documents now. Begin NCERT preparation this week. And if you need professional coaching support, JGPS School is here to help.</p>
+<p>The application window opens in <strong>August 126</strong>. Start gathering documents now. Begin NCERT preparation this week. And if you need professional coaching support, JGPS School is here to help.</p>
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Ready to Start Preparation?</h3><p>JGPS School provides specialized coaching for Navodaya Vidyalaya Class 9 entrance exam with experienced faculty, weekly mock tests, and complete NCERT coverage. Seats are limited — call <strong>+91 9412137554</strong> today for free counseling.</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>Navodaya Class 9 lateral entry admission 2027 notification is expected in <strong>October 2026</strong>. The exam is usually held in <strong>February 2027</strong>. Competition is lower than Class 6 entry — approximately <strong>50,000 students compete for 10,000 seats</strong>. If Class 6 entry didn't work, this is your second chance. Source: NVS (July 2026).</p>
+<p>Navodaya Class 9 lateral entry admission 2027 notification is expected in <strong>October 2026</strong>. The exam is usually held in <strong>February 2027</strong>. Competition is lower than Class 6 entry — approximately <strong>50,000 students compete for 10,000 seats</strong>. If Class 6 entry didn't work, this is your second chance. Source: NVS (August 126).</p>
 </div>
 `,
     faqs: [
@@ -6084,7 +6084,7 @@ export const articles: Article[] = [
     description: "Boarding school vs day school 2027 — honest comparison of academics, personality development, emotional health, and which option suits your child better.",
     keywords: "boarding school vs day school, residential school pros cons, hostel school comparison, which school is better",
     date: "23 जुलाई 2026, दोपहर 3 बजकर 19 मिनट",
-    modifiedDate: "July 24, 2026, 1:00 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -6095,7 +6095,7 @@ export const articles: Article[] = [
     image: "https://img.jgps.in/blog/Boarding_School_vs_Day_School_202607111135.webp",
     content: `<h1>Boarding School vs Day School: The Honest Guide Every Parent Needs in 2026</h1>
 
-<p><em>Last Updated: July 2026 | Reading Time: 10 min | Author: JGPS Education Team</em></p>
+<p><em>Last Updated: August 126 | Reading Time: 10 min | Author: JGPS Education Team</em></p>
 
 <p>Your child's future depends on the school you pick today. That's not an exaggeration — it's the reality every parent in Uttar Pradesh, Bihar, and Uttarakhand faces when choosing between a boarding school and a day school. Get this decision right, and your child walks a clear path toward academic success, confidence, and a bright career. Get it wrong, and you might spend years correcting course.</p>
 
@@ -6319,7 +6319,7 @@ export const articles: Article[] = [
     description: "JNVST 2027 exam date announced — Navodaya Class 6 entrance notification released. Check exam date, registration deadline, and how to apply at navodaya.gov.in.",
     keywords: "JNVST 2027 exam date, JNVST notification 2027, Navodaya exam date announced, JNVST 2027 schedule",
     date: "23 जुलाई 2026, दोपहर 3 बजकर 25 मिनट",
-    modifiedDate: "July 24, 2026, 1:04 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -6334,7 +6334,7 @@ export const articles: Article[] = [
 
 <h2>Official JNVST 2027 Notification — What's New This Year?</h2>
 
-<p>Navodaya Vidyalaya Samiti released the official JNVST 2027 prospectus and notification in the first week of July 2026. This notification covers admission to Class 6 for the academic session 2027–28 across all Jawahar Navodaya Vidyalayas in India — except Tamil Nadu, where JNVs don't operate.</p>
+<p>Navodaya Vidyalaya Samiti released the official JNVST 2027 prospectus and notification in the first week of August 126. This notification covers admission to Class 6 for the academic session 2027–28 across all Jawahar Navodaya Vidyalayas in India — except Tamil Nadu, where JNVs don't operate.</p>
 
 <p>Here's what makes this year different: NVS has introduced a <strong>district-specific admission rule</strong>. Students can now apply only for the JNV located in their district of residence. If a student studies in a neighboring district, the school must be within 10 km aerial distance from the student's home. Applications submitted for the wrong district will be rejected — even after provisional selection. So double-check this before you hit "submit."</p>
 
@@ -6353,9 +6353,9 @@ export const articles: Article[] = [
 </tr>
 </thead>
 <tbody>
-<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification Released</td><td class="py-3 px-4 border-b font-medium text-gray-900">July 2026</td></tr>
-<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Starts</td><td class="py-3 px-4 border-b font-medium text-gray-900">July 2026</td></tr>
-<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-medium text-gray-900 font-bold text-red-600">31 July 2026</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Official Notification Released</td><td class="py-3 px-4 border-b font-medium text-gray-900">August 126</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Starts</td><td class="py-3 px-4 border-b font-medium text-gray-900">August 126</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-medium text-gray-900 font-bold text-red-600">7 August 2026</td></tr>
 <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Release</td><td class="py-3 px-4 border-b font-medium text-gray-900">October 2026 (expected)</td></tr>
 <tr><td class="py-3 px-4 border-b font-medium text-gray-900">JNVST 2027 Exam Date</td><td class="py-3 px-4 border-b font-medium text-gray-900 font-bold text-[#035c00]">28 November 2026</td></tr>
 <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b font-medium text-gray-900">March / April 2027 (expected)</td></tr>
@@ -6398,7 +6398,7 @@ export const articles: Article[] = [
 </tr>
 </thead>
 <tbody>
-<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Age Limit</td><td class="py-3 px-4 border-b font-medium text-gray-900">Born between 1 May 2015 and 31 July 2017 (both dates inclusive)</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">Age Limit</td><td class="py-3 px-4 border-b font-medium text-gray-900">Born between 1 May 2015 and 7 August 2017 (both dates inclusive)</td></tr>
 <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Current Class</td><td class="py-3 px-4 border-b font-medium text-gray-900">Studying in Class 5 during 2026–27 session in a recognized school</td></tr>
 <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Previous Education</td><td class="py-3 px-4 border-b font-medium text-gray-900">Must have completed Class 3, 4, and 5 in recognized schools (no gaps)</td></tr>
 <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Residency</td><td class="py-3 px-4 border-b font-medium text-gray-900">Bona fide resident of the district where JNV is located</td></tr>
@@ -6475,7 +6475,7 @@ export const articles: Article[] = [
 <li><strong>Wrong district selection.</strong> With the new district-specific rule, applying for the wrong JNV is an automatic rejection. Verify your district of residence before filling the form.</li>
 <li><strong>Name/DOB mismatch across documents.</strong> If the name on the Aadhaar card doesn't match the school records, fix it now. Don't assume "it'll be fine." NVS checks this during admission.</li>
 <li><strong>Uploading blurry documents.</strong> Scan documents clearly. A blurry photograph or illegible signature can delay or derail the application.</li>
-<li><strong>Waiting until July 31.</strong> The portal slows down in the last 48 hours. Submit by July 25 at the latest. You'll thank yourself later.</li>
+<li><strong>Waiting until July 31.</strong> The portal slows down in the last 48 hours. Submit by August 1 at the latest. You'll thank yourself later.</li>
 <li><strong>Not saving the registration number.</strong> After submission, note down the registration number immediately. You'll need it for the admit card, result, and every future step.</li>
 </ol>
 
@@ -6485,7 +6485,7 @@ export const articles: Article[] = [
 <p>The Jawahar Navodaya Vidyalaya Selection Test (JNVST) 2027 for Class 6 admission is scheduled for <strong>28 November 2026</strong>. This is a single-phase exam conducted nationwide for both Summer Bound and Winter Bound JNVs.</p>
 
 <h3>What is the last date to apply for Navodaya Class 6 admission 2027?</h3>
-<p>The last date to submit the JNVST 2027 online application is <strong>31 July 2026</strong>. Applications submitted after this deadline will not be accepted under any circumstances. Apply well before the deadline to avoid last-minute technical issues.</p>
+<p>The last date to submit the JNVST 2027 online application is <strong>7 August 2026</strong>. Applications submitted after this deadline will not be accepted under any circumstances. Apply well before the deadline to avoid last-minute technical issues.</p>
 
 <h3>Is there any application fee for JNVST 2027?</h3>
 <p>No. The JNVST 2027 application is <strong>completely free of cost</strong>. There is no registration fee, no exam fee, and no hidden charges. NVS does not authorize any third party to collect money for JNVST applications.</p>
@@ -6494,7 +6494,7 @@ export const articles: Article[] = [
 <p>No. A student can appear for the Jawahar Navodaya Vidyalaya Selection Test <strong>only once</strong>. If NVS discovers that a candidate has appeared in a previous JNVST, their candidature will be cancelled. This rule applies to all categories — General, SC, ST, and OBC.</p>
 
 <h3>What is the age limit for JNVST 2027?</h3>
-<p>Candidates must be born between <strong>1 May 2015 and 31 July 2017</strong> (both dates inclusive). This age limit is the same for all categories. There is no age relaxation for SC, ST, or OBC candidates in JNVST — unlike many other government exams.</p>
+<p>Candidates must be born between <strong>1 May 2015 and 7 August 2017</strong> (both dates inclusive). This age limit is the same for all categories. There is no age relaxation for SC, ST, or OBC candidates in JNVST — unlike many other government exams.</p>
 
 <h2>Important Links</h2>
 
@@ -6510,7 +6510,7 @@ export const articles: Article[] = [
 
 <p>Jawahar Navodaya Vidyalayas have produced doctors, engineers, IAS officers, and scientists — many of them from small towns and villages across UP, Bihar, and Uttarakhand. The education is free. The facilities are among the best in rural India. The only barrier is the entrance exam — and with the right preparation, that barrier is very much within reach.</p>
 
-<p>The JNVST 2027 exam date is <strong>November 28, 2026</strong>. The last date to apply is <strong>July 31, 2026</strong>. That gives you a clear window to prepare the application and start exam preparation simultaneously.</p>
+<p>The JNVST 2027 exam date is <strong>November 28, 2026</strong>. The last date to apply is <strong>August 7, 2026</strong>. That gives you a clear window to prepare the application and start exam preparation simultaneously.</p>
 
 <p>If you need help — whether it's understanding the eligibility criteria, filling the form correctly, or preparing your child for the exam — JGPS School is here for you. We've been helping families in this region navigate the Navodaya admission process for years.</p>
 
@@ -6520,7 +6520,7 @@ export const articles: Article[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">July 23, 2026 Update</h3>
-<p>JNVST 2027 notification has been released. Application form available at <strong>navodaya.gov.in</strong>. Last date to apply: <strong>July 31, 2026</strong>. Exam date expected: <strong>January 2027</strong>. Admit cards will be available in <strong>December 2026</strong>. Don't miss the deadline — apply today. Source: NVS Official Notification (July 2026).</p>
+<p>JNVST 2027 notification has been released. Application form available at <strong>navodaya.gov.in</strong>. Last date to apply: <strong>August 7, 2026</strong>. Exam date expected: <strong>January 2027</strong>. Admit cards will be available in <strong>December 2026</strong>. Don't miss the deadline — apply today. Source: NVS Official Notification (August 126).</p>
 </div>
 `,
     faqs: [
@@ -6530,7 +6530,7 @@ export const articles: Article[] = [
       },
       {
         "question": "What is the last date to apply for Navodaya Class 6 admission 2027?",
-        "answer": "The last date to submit the JNVST 2027 online application is 31 July 2026. Applications submitted after this deadline will not be accepted under any circumstances. Apply well before the deadline to avoid last-minute technical issues."
+        "answer": "The last date to submit the JNVST 2027 online application is 7 August 2026. Applications submitted after this deadline will not be accepted under any circumstances. Apply well before the deadline to avoid last-minute technical issues."
       },
       {
         "question": "Is there any application fee for JNVST 2027?",
@@ -6542,21 +6542,21 @@ export const articles: Article[] = [
       },
       {
         "question": "What is the age limit for JNVST 2027?",
-        "answer": "Candidates must be born between 1 May 2015 and 31 July 2017 (both dates inclusive). This age limit is the same for all categories. There is no age relaxation for SC, ST, or OBC candidates in JNVST."
+        "answer": "Candidates must be born between 1 May 2015 and 7 August 2017 (both dates inclusive). This age limit is the same for all categories. There is no age relaxation for SC, ST, or OBC candidates in JNVST."
       }
     ],
   },
 
   // ═══════════════════════════════════════════════════════════════
-  // ARTICLE: JNVST 2027 Application Form — Last Date 31 July 2026
+  // ARTICLE: JNVST 2027 Application Form — Last Date 7 August 2026
   // ═══════════════════════════════════════════════════════════════
   {
     slug: 'jnvst-2027-application-form-last-date-31-july',
-    title: "JNVST 2027 Application Form Out — Last Date 31 July 2026, Apply Now",
-    description: "JNVST 2027 application form is live since 7 July 2026. Last date 31 July 2026. Exam on 28 November 2026. Step-by-step apply process, eligibility, documents needed.",
-    keywords: "JNVST 2027 last date, Navodaya form last date, JNVST application deadline, 31 July last date JNVST",
+    title: "JNVST 2027 Application Form Out — Last Date 7 August 2026, Apply Now",
+    description: "JNVST 2027 application form is live since 7 August 126. Last date 7 August 2026. Exam on 28 November 2026. Step-by-step apply process, eligibility, documents needed.",
+    keywords: "JNVST 2027 last date, Navodaya form last date, JNVST application deadline, 7 August last date JNVST",
     date: "23 जुलाई 2026, शाम 7 बजकर 30 मिनट",
-    modifiedDate: "July 24, 2026, 1:08 PM",
+    modifiedDate: "August 1, 2026, 5:00 AM",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -6565,23 +6565,23 @@ export const articles: Article[] = [
     readTime: '4 mins',
     category: "Admissions & Test Prep",
     image: "https://img.jgps.in/blog/jnvst-2027-application-form-last-date-31-july.webp",
-    imageAlt: "JNVST 2027 application form last date 31 July 2026 — Navodaya Vidyalaya Class 6 admission",
-    content: `<p>The wait is over. <strong>JNVST 2027 application form</strong> is now available online since <strong>7 July 2026</strong>. If your child is in Class 5 and dreams of studying in a Jawahar Navodaya Vidyalaya, this is the moment to act. The last date to apply is <strong>31 July 2026</strong> — just days away.</p>
+    imageAlt: "JNVST 2027 application form last date 7 August 2026 — Navodaya Vidyalaya Class 6 admission",
+    content: `<p>The wait is over. <strong>JNVST 2027 application form</strong> is now available online since <strong>7 August 126</strong>. If your child is in Class 5 and dreams of studying in a Jawahar Navodaya Vidyalaya, this is the moment to act. The last date to apply is <strong>7 August 2026</strong> — just days away.</p>
 
 <p>Every year, lakhs of students compete for limited seats in Navodaya Vidyalayas across India. Missing the application deadline means waiting another full year. This guide covers everything — eligibility, documents, step-by-step form filling, and the new exam pattern.</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Important Dates</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Start</td><td class="py-3 px-4 border-b font-bold text-green-700">7 July 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold text-red-600">31 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b font-bold">August 2026 (expected)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Download</td><td class="py-3 px-4 border-b font-bold">October 2026 (expected)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold text-green-700">28 November 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b font-bold">January 2027 (expected)</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Online Application Start</td><td class="py-3 px-4 border-b font-bold text-green-700">7 August 126</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b font-bold text-red-600">7 August 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b font-bold">August 2026 (expected)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card Download</td><td class="py-3 px-4 border-b font-bold">October 2026 (expected)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 border-b font-bold text-green-700">28 November 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Result Declaration</td><td class="py-3 px-4 border-b font-bold">January 2027 (expected)</td></tr></tbody></table></div>
 
 <div class="bg-red-50 border border-red-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-red-800 mb-2">Deadline Alert</h3>
-<p class="text-red-700"><strong>31 July 2026</strong> is the last date. No extensions have been announced. Do not wait until the last day — server crashes are common on the final day. Apply today.</p>
+<p class="text-red-700"><strong>7 August 2026</strong> is the last date. No extensions have been announced. Do not wait until the last day — server crashes are common on the final day. Apply today.</p>
 </div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Who Can Apply — Eligibility Criteria</h2>
 <p>Before filling the form, check if your child meets these requirements:</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Criteria</th><th class="py-3 px-4 border-b font-bold text-white text-left">Requirement</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Class</td><td class="py-3 px-4 border-b">Currently studying in Class 5</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Age</td><td class="py-3 px-4 border-b">Born between 1 May 2015 and 31 July 2017</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School</td><td class="py-3 px-4 border-b">Studying in a government or recognized school in the same district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Attempt</td><td class="py-3 px-4 border-b">First time appearing for JNVST</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Rural Quota</td><td class="py-3 px-4">75% seats reserved for rural area students</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Criteria</th><th class="py-3 px-4 border-b font-bold text-white text-left">Requirement</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Class</td><td class="py-3 px-4 border-b">Currently studying in Class 5</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Age</td><td class="py-3 px-4 border-b">Born between 1 May 2015 and 7 August 2017</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">School</td><td class="py-3 px-4 border-b">Studying in a government or recognized school in the same district</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Attempt</td><td class="py-3 px-4 border-b">First time appearing for JNVST</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Rural Quota</td><td class="py-3 px-4">75% seats reserved for rural area students</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Documents Required for JNVST 2027</h2>
 <p>Keep these documents ready before starting the online application:</p>
@@ -6629,7 +6629,7 @@ export const articles: Article[] = [
 <li><strong>Incorrect date of birth</strong> — Use the date on the birth certificate, not the school register.</li>
 <li><strong>Blurry photo upload</strong> — Use a clear, recent passport photo with white background.</li>
 <li><strong>Wrong district selection</strong> — The child must appear for the exam from the district where they study.</li>
-<li><strong>Missing the deadline</strong> — 31 July 2026 is firm. No late applications accepted.</li>
+<li><strong>Missing the deadline</strong> — 7 August 2026 is firm. No late applications accepted.</li>
 </ul>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What After Applying?</h2>
@@ -6645,11 +6645,11 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help with JNVST Preparation?</h3><p><strong>JGPS School</strong> offers specialized JNVST coaching with experienced faculty. Our students have a proven track record of Navodaya selections. Call: <strong>+91 9412137554</strong> for a free counseling session.</p></div>
 `,
     faqs: [
-      { question: "What is the last date to apply for JNVST 2027?", answer: "The last date to submit the JNVST 2027 online application form is 31 July 2026. No extensions have been announced. Apply as early as possible to avoid last-day server issues." },
+      { question: "What is the last date to apply for JNVST 2027?", answer: "The last date to submit the JNVST 2027 online application form is 7 August 2026. No extensions have been announced. Apply as early as possible to avoid last-day server issues." },
       { question: "Is there any fee for JNVST 2027 application?", answer: "No. The JNVST application is completely free. There is no registration fee, examination fee, or processing fee for any category (General, SC, ST, OBC)." },
       { question: "When is the JNVST 2027 exam?", answer: "The JNVST 2027 exam for Class 6 admission will be held on 28 November 2026. This is earlier than previous years when exams were held in January-February." },
       { question: "Can a student apply for both JNVST and Sainik School?", answer: "Yes. There is no restriction on applying for both JNVST (Navodaya) and AISSEE (Sainik School) simultaneously. Many parents apply for both to maximize their child's chances." },
-      { question: "What is the age limit for JNVST 2027 Class 6?", answer: "The student must be born between 1 May 2015 and 31 July 2017 (both dates inclusive). This applies to all categories without any relaxation." },
+      { question: "What is the age limit for JNVST 2027 Class 6?", answer: "The student must be born between 1 May 2015 and 7 August 2017 (both dates inclusive). This applies to all categories without any relaxation." },
       { question: "How many times can a student appear for JNVST?", answer: "Only once. A student can appear for JNVST only one time in their lifetime. If caught appearing again, their candidature will be cancelled permanently." }
     ]
   },
@@ -6659,7 +6659,7 @@ export const articles: Article[] = [
     description: "Download JNVST Class 6 Most Important Questions 2027 PDF with section-wise practice questions, answers & exam pattern. Free preparation material for Navodaya exam.",
     keywords: "JNVST Class 6 Most Important Questions 2027, JNVST Class 6 Important Questions PDF, Navodaya Class 6 Important Questions, JNVST Class 6 Practice Questions, JNVST 2027 Class 6",
     date: "25 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
-    modifiedDate: "July 25, 2026, 10:00 AM",
+    modifiedDate: "August 1, 2026, 10:00 AM",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -6911,8 +6911,8 @@ export const articles: Article[] = [
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Need Help with JNVST Preparation?</h3><p><strong>JGPS School</strong> offers specialized JNVST coaching with experienced faculty. Our students have a proven track record of Navodaya selections. Call: <strong>+91 9412137554</strong> for a free counseling session.</p></div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">July 25, 2026 Update</h3>
-<p>Navodaya Vidyalaya Samiti has released the official notification for JNVST 2027. The exam will be held on <strong>28 November 2026</strong> for Class 6 admission. Online applications are open until <strong>31 July 2026</strong>. This year's exam pattern has changed — now 80 questions instead of 100. Practice with the latest pattern questions above. Source: NVS Official Website (navodaya.gov.in).</p>
+<h3 class="font-bold text-gray-900 mb-2">August 1, 2026 Update</h3>
+<p>Navodaya Vidyalaya Samiti has released the official notification for JNVST 2027. The exam will be held on <strong>28 November 2026</strong> for Class 6 admission. Online applications are open until <strong>7 August 2026</strong>. This year's exam pattern has changed — now 80 questions instead of 100. Practice with the latest pattern questions above. Source: NVS Official Website (navodaya.gov.in).</p>
 </div>
 `,
     faqs: [

@@ -30,7 +30,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "नवोदय कक्षा 6 कटऑफ मार्क्स 2026 — जानें कितने नंबर चाहिए JNVST में पास होने के लिए। General, OBC, SC, ST श्रेणी वाइज कटऑफ, पिछले साल के कटऑफ और सेफ स्कोर की पूरी जानकारी।",
     keywords: "नवोदय में कितने नंबर से पास होते हैं, JNVST cutoff marks 2026, navodaya class 6 cutoff, नवोदय कटऑफ 2026, JNVST passing marks, navodaya safe score 2026",
     date: "23 जुलाई 2026, सुबह 8 बजकर 30 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 12 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -185,7 +185,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -221,10 +221,10 @@ export const hindiArticles: HindiArticle[] = [
 {
     slug: "navodaya-jnvst-class-6-admission-2027-28",
     title: "नवोदय कक्षा 6 प्रवेश 2027-28 — आवेदन शुरू, सिलेबस, एग्जाम पैटर्न और पूरी जानकारी",
-    description: "नवोदय कक्षा 6 प्रवेश 2027-28 का आवेदन शुरू। अंतिम तिथि 31 जुलाई 2026। परीक्षा 28 नवंबर 2026। सिलेबस, एग्जाम पैटर्न, पात्रता और आवेदन प्रक्रिया की पूरी जानकारी।",
+    description: "नवोदय कक्षा 6 प्रवेश 2027-28 का आवेदन शुरू। अंतिम तिथि 7 अगस्त 2026। परीक्षा 28 नवंबर 2026। सिलेबस, एग्जाम पैटर्न, पात्रता और आवेदन प्रक्रिया की पूरी जानकारी।",
     keywords: "नवोदय कक्षा 6 प्रवेश 2027-28, JNVST admission 2027, navodaya class 6 admission, नवोदय एडमिशन 2027-28, JNVST syllabus, JNVST exam pattern",
     date: "23 जुलाई 2026, सुबह 8 बजकर 34 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 16 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -261,7 +261,7 @@ export const hindiArticles: HindiArticle[] = [
       <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">प्रवेश</td><td class="py-3 px-4 border-b">654 नवोदय स्कूलों में कक्षा 6</td></tr>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">संचालक</td><td class="py-3 px-4 border-b">नवोदय विद्यालय समिति (NVS)</td></tr>
       <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">6 जुलाई 2026</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold text-red-600">31 जुलाई 2026</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold text-red-600">7 अगस्त 2026</td></tr>
       <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td></tr>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का समय</td><td class="py-3 px-4 border-b">सुबह 11:30 बजे से</td></tr>
       <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">रिज़ल्ट</td><td class="py-3 px-4 border-b">मार्च / अप्रैल 2027</td></tr>
@@ -285,7 +285,7 @@ export const hindiArticles: HindiArticle[] = [
     </thead>
     <tbody>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">अधिसूचना और आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">6 जुलाई 2026</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold text-red-600">31 जुलाई 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold text-red-600">7 अगस्त 2026</td></tr>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन सुधार विंडो</td><td class="py-3 px-4 border-b">अगस्त 2026</td></tr>
       <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b">नवंबर 2026</td></tr>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td></tr>
@@ -436,7 +436,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -458,7 +458,7 @@ export const hindiArticles: HindiArticle[] = [
 <p><em>यह लेख navodaya.gov.in पर उपलब्ध आधिकारिक जानकारी पर आधारित है। ताज़ा अपडेट के लिए आधिकारिक वेबसाइट ज़रूर देखें।</em></p>
 `,
     faqs: [
-      { question: "नवोदय कक्षा 6 प्रवेश 2027-28 के लिए आवेदन कब तक कर सकते हैं?", answer: "आवेदन 6 जुलाई 2026 से शुरू हैं और अंतिम तिथि 31 जुलाई 2026 है।" },
+      { question: "नवोदय कक्षा 6 प्रवेश 2027-28 के लिए आवेदन कब तक कर सकते हैं?", answer: "आवेदन 6 जुलाई 2026 से शुरू हैं और अंतिम तिथि 7 अगस्त 2026 है।" },
       { question: "JNVST 2027-28 की परीक्षा कब होगी?", answer: "परीक्षा 28 नवंबर 2026 को सुबह 11:30 बजे से होगी।" },
       { question: "JNVST में कितने अंकों का पेपर आता है?", answer: "कुल 100 अंकों का पेपर आता है — मानसिक योग्यता 50, गणित 25 और भाषा 25 अंक।" },
       { question: "नवोदय कक्षा 6 के लिए उम्र सीमा क्या है?", answer: "बच्चे का जन्म 1 मई 2015 से 31 जुलाई 2017 के बीच होना चाहिए।" },
@@ -472,10 +472,10 @@ export const hindiArticles: HindiArticle[] = [
 {
     slug: "navodaya-vidyalaya-class-6-application-form-2027-28",
     title: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 जारी — अंतिम तिथि 31 जुलाई, ऐसे भरें",
-    description: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 जारी हो गया है। अंतिम तिथि 31 जुलाई 2026। पात्रता, ज़रूरी दस्तावेज़, आवेदन प्रक्रिया और परीक्षा तिथि की पूरी जानकारी यहाँ पढ़ें।",
+    description: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 जारी हो गया है। अंतिम तिथि 7 अगस्त 2026। पात्रता, ज़रूरी दस्तावेज़, आवेदन प्रक्रिया और परीक्षा तिथि की पूरी जानकारी यहाँ पढ़ें।",
     keywords: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28, JNVST application form 2027-28, navodaya admission form 2027, नवोदय एडमिशन 2027-28, JNVST 2027-28 last date",
     date: "23 जुलाई 2026, सुबह 8 बजकर 38 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 20 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -504,7 +504,7 @@ export const hindiArticles: HindiArticle[] = [
     </thead>
     <tbody>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">6 जुलाई 2026</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold text-red-600">31 जुलाई 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold text-red-600">7 अगस्त 2026</td></tr>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुल्क</td><td class="py-3 px-4 border-b font-bold text-green-700">बिल्कुल मुफ़्त</td></tr>
       <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td></tr>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">रिज़ल्ट</td><td class="py-3 px-4 border-b">मार्च / अप्रैल 2027</td></tr>
@@ -684,7 +684,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -719,7 +719,7 @@ export const hindiArticles: HindiArticle[] = [
 <p><em>यह लेख navodaya.gov.in पर उपलब्ध आधिकारिक जानकारी पर आधारित है। ताज़ा अपडेट के लिए आधिकारिक वेबसाइट ज़रूर देखें।</em></p>
 `,
     faqs: [
-      { question: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 की अंतिम तिथि क्या है?", answer: "अंतिम तिथि 31 जुलाई 2026 है। इसके बाद फॉर्म स्वीकार नहीं किया जाएगा।" },
+      { question: "नवोदय विद्यालय कक्षा 6 आवेदन फॉर्म 2027-28 की अंतिम तिथि क्या है?", answer: "अंतिम तिथि 7 अगस्त 2026 है। इसके बाद फॉर्म स्वीकार नहीं किया जाएगा।" },
       { question: "नवोदय कक्षा 6 का फॉर्म कहाँ से भरें?", answer: "आधिकारिक वेबसाइट navodaya.gov.in पर जाकर ऑनलाइन भरें। आवेदन पूरी तरह मुफ़्त है।" },
       { question: "JNVST 2027-28 की परीक्षा कब होगी?", answer: "परीक्षा 28 नवंबर 2026 को होगी। रिज़ल्ट मार्च/अप्रैल 2027 में आएगा।" },
       { question: "क्या प्राइवेट स्कूल के बच्चे नवोदय में आवेदन कर सकते हैं?", answer: "हाँ, बिल्कुल। सरकार से मान्यता प्राप्त किसी भी स्कूल (सरकारी या प्राइवेट) में कक्षा 5 में पढ़ने वाले बच्चे आवेदन कर सकते हैं।" },
@@ -733,10 +733,10 @@ export const hindiArticles: HindiArticle[] = [
 {
     slug: "navodaya-admission-2027-complete-guide",
     title: "नवोदय स्कूल एडमिशन 2027-28 — आवेदन फॉर्म जारी, अंतिम तिथि 31 जुलाई",
-    description: "नवोदय स्कूल एडमिशन 2027-28 का फॉर्म जारी। अंतिम तिथि 31 जुलाई 2026। परीक्षा 28 नवंबर 2026। पात्रता, दस्तावेज़ और आवेदन प्रक्रिया की पूरी जानकारी।",
+    description: "नवोदय स्कूल एडमिशन 2027-28 का फॉर्म जारी। अंतिम तिथि 7 अगस्त 2026। परीक्षा 28 नवंबर 2026। पात्रता, दस्तावेज़ और आवेदन प्रक्रिया की पूरी जानकारी।",
     keywords: "नवोदय स्कूल एडमिशन 2027-28, JNVST 2027-28, नवोदय प्रवेश परीक्षा, जवाहर नवोदय विद्यालय एडमिशन, JNVST application form 2027-28",
     date: "23 जुलाई 2026, सुबह 8 बजकर 45 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 24 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -775,7 +775,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>      </div></p>
 
 <p>      <h2>JNVST 2027-28 की तारीख और पैटर्न</h2></p>
-<p>      <p><strong>JNVST 2027-28</strong> के लिए आवेदन <strong>6 जुलाई 2026</strong> से शुरू हो चुके हैं। अंतिम तिथि <strong>31 जुलाई 2026</strong> है। परीक्षा <strong>28 नवंबर 2026</strong> को होगी। रिज़ल्ट मार्च/अप्रैल 2027 में आएगा। ऑनलाइन आवेदन <strong>navodaya.gov.in</strong> पर करना होगा। आवेदन पूरी तरह <strong>नि:शुल्क</strong> है।</p></p>
+<p>      <p><strong>JNVST 2027-28</strong> के लिए आवेदन <strong>6 जुलाई 2026</strong> से शुरू हो चुके हैं। अंतिम तिथि <strong>7 अगस्त 2026</strong> है। परीक्षा <strong>28 नवंबर 2026</strong> को होगी। रिज़ल्ट मार्च/अप्रैल 2027 में आएगा। ऑनलाइन आवेदन <strong>navodaya.gov.in</strong> पर करना होगा। आवेदन पूरी तरह <strong>नि:शुल्क</strong> है।</p></p>
 <p>      <p>परीक्षा का पैटर्न इस तरह है:</p></p>
 
 <p>      <div class="overflow-x-auto my-6"></p>
@@ -819,7 +819,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>      </div></p>
 
 <p>      <h2>आवेदन प्रक्रिया — स्टेप बाय स्टेप</h2></p>
-<p>      <p>नवोदय एडमिशन 2027-28 के लिए आवेदन <strong>6 जुलाई 2026</strong> से शुरू हो चुके हैं। <strong>31 जुलाई 2026</strong> से पहले आवेदन करें। आवेदन पूरी तरह नि:शुल्क है।</p></p>
+<p>      <p>नवोदय एडमिशन 2027-28 के लिए आवेदन <strong>6 जुलाई 2026</strong> से शुरू हो चुके हैं। <strong>7 अगस्त 2026</strong> से पहले आवेदन करें। आवेदन पूरी तरह नि:शुल्क है।</p></p>
 
 <p>      <p><strong>स्टेप 1: ऑनलाइन आवेदन</strong> — <strong>navodaya.gov.in</strong> पर जाएं। "JNV Class 6 Admission 2027-28" लिंक पर क्लिक करें। दिशा-निर्देश ध्यान से पढ़ें। बच्चे की व्यक्तिगत, शैक्षणिक और पता संबंधी जानकारी भरें।</p></p>
 <p>      <p><strong>स्टेप 2: दस्तावेज़ अपलोड</strong> — बच्चे का जन्म प्रमाण पत्र, आधार कार्ड, और कक्षा 5 की मार्कशीट ज़रूरी है। जाति प्रमाण पत्र (अगर लागू हो) भी लगाएं। निर्धारित प्रारूप में फोटो और दस्तावेज़ अपलोड करें।</p></p>
@@ -840,7 +840,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>          <table class="min-w-full text-sm"></p>
 <p>            <tbody></p>
 <p>              <tr><td class="py-2 font-medium text-gray-900">आवेदन शुरू</td><td class="py-2 font-bold text-green-700">6 जुलाई 2026</td></tr></p>
-<p>              <tr><td class="py-2 font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-2 font-bold text-red-600">31 जुलाई 2026</td></tr></p>
+<p>              <tr><td class="py-2 font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-2 font-bold text-red-600">7 अगस्त 2026</td></tr></p>
 <p>              <tr><td class="py-2 font-medium text-gray-900">परीक्षा</td><td class="py-2 font-bold">28 नवंबर 2026</td></tr></p>
 <p>              <tr><td class="py-2 font-medium text-gray-900">रिज़ल्ट</td><td class="py-2">मार्च/अप्रैल 2027</td></tr></p>
 <p>              <tr><td class="py-2 font-medium text-gray-900">एडमिशन</td><td class="py-2">जुलाई 2027</td></tr></p>
@@ -850,7 +850,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>      </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 </p>
 
@@ -858,7 +858,7 @@ export const hindiArticles: HindiArticle[] = [
 `,
     faqs: [
       { question: "नवोदय स्कूल में फीस कितनी है?", answer: "नवोदय स्कूल में कोई फीस नहीं लगती। शिक्षा, हॉस्टल, खाना, किताबें — सब मुफ्त है। सरकार यह खर्चा उठाती है।" },
-      { question: "JNVST 2027-28 की परीक्षा कब होगी?", answer: "JNVST 2027-28 की परीक्षा 28 नवंबर 2026 को होगी। आवेदन 6 जुलाई से 31 जुलाई 2026 तक भरे जा रहे हैं।" },
+      { question: "JNVST 2027-28 की परीक्षा कब होगी?", answer: "JNVST 2027-28 की परीक्षा 28 नवंबर 2026 को होगी। आवेदन 6 जुलाई से 7 अगस्त 2026 तक भरे जा रहे हैं।" },
       { question: "क्या प्राइवेट स्कूल के बच्चे भी आवेदन कर सकते हैं?", answer: "हाँ, बिल्कुल। प्राइवेट स्कूल में पढ़ने वाले बच्चे भी JNVST दे सकते हैं। बस कक्षा 5 में पढ़ना ज़रूरी है।" },
       { question: "एक बच्चा कितनी बार JNVST दे सकता है?", answer: "बच्चा सिर्फ एक बार JNVST दे सकता है। कक्षा 5 से कक्षा 6 में एडमिशन के लिए सिर्फ एक मौका मिलता है।" },
       { question: "नवोदय स्कूल की तैयारी कब से शुरू करें?", answer: "कक्षा 4 में आते ही तैयारी शुरू कर दें। कम से कम 6 महीने पहले से रोज़ाना 1-2 घंटे पढ़ाई करें। ऑनलाइन कोर्स या कोचिंग का सहारा ले सकते हैं।" },
@@ -871,7 +871,7 @@ export const hindiArticles: HindiArticle[] = [
     description: 'सैनिक स्कूल एडमिशन 2027 की पूरी जानकारी — पात्रता, आवेदन प्रक्रिया, परीक्षा पैटर्न, फीस और तैयारी के टिप्स। AISSEE परीक्षा की तैयारी कैसे करें।',
     keywords: 'सैनिक स्कूल एडमिशन 2027',
     date: "23 जुलाई 2026, सुबह 8 बजकर 50 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 28 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: 'Sameer',
     authorName: 'Sameer',
     authorSlug: 'sameer',
@@ -996,7 +996,7 @@ export const hindiArticles: HindiArticle[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तिथि (अनुमानित)</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">अक्टूबर 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b font-bold">नवंबर 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">AISSEE परीक्षा</td><td class="py-3 px-4 border-b font-bold text-green-700">जनवरी 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4 border-b font-bold">मार्च 2027</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">मेडिकल और इंटरव्यू</td><td class="py-3 px-4 border-b font-bold">अप्रैल 2027</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिशन</td><td class="py-3 px-4 border-b font-bold text-green-700">जुलाई 2027</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -1043,7 +1043,7 @@ export const hindiArticles: HindiArticle[] = [
     description: 'सैनिक स्कूल और नवोदय विद्यालय की पूरी तुलना — फीस, परीक्षा, करियर, और कौन सा स्कूल आपके बच्चे के लिए सही है।',
     keywords: 'सैनिक स्कूल बनाम नवोदय 2027',
     date: "23 जुलाई 2026, सुबह 8 बजकर 54 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 32 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: 'Sameer',
     authorName: 'Sameer',
     authorSlug: 'sameer',
@@ -1119,7 +1119,7 @@ export const hindiArticles: HindiArticle[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">पैरामीटर</th><th class="py-3 px-4 border-b font-bold text-white text-left">सैनिक स्कूल</th><th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय विद्यालय</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">प्रवेश सफलता दर</td><td class="py-3 px-4 border-b font-bold">3.3%</td><td class="py-3 px-4 border-b font-bold text-green-700">1.8%</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">NDA में सफलता</td><td class="py-3 px-4 border-b font-bold text-green-700">70%</td><td class="py-3 px-4 border-b font-bold">कम</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">बोर्ड परीक्षा रिजल्ट</td><td class="py-3 px-4 border-b font-bold">अच्छा</td><td class="py-3 px-4 border-b font-bold text-green-700">बहुत अच्छा</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">प्रतियोगी परीक्षा</td><td class="py-3 px-4 border-b font-bold">अच्छा</td><td class="py-3 px-4 border-b font-bold text-green-700">बहुत अच्छा</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -1166,7 +1166,7 @@ export const hindiArticles: HindiArticle[] = [
     description: 'विद्या ज्ञान स्कूल एडमिशन 2027 की पूरी जानकारी — पात्रता, आवेदन प्रक्रिया, परीक्षा पैटर्न, फीस और तैयारी के टिप्स। उत्तर प्रदेश के गरीब बच्चों के लिए बेहतरीन मौका।',
     keywords: 'विद्या ज्ञान स्कूल एडमिशन 2027',
     date: "23 जुलाई 2026, सुबह 9 बजकर 00 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 36 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: 'Nisha',
     authorName: 'Nisha',
     authorSlug: 'nisha',
@@ -1293,7 +1293,7 @@ export const hindiArticles: HindiArticle[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th><th class="py-3 px-4 border-b font-bold text-white text-left">विद्या ज्ञान</th><th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय</th><th class="py-3 px-4 border-b font-bold text-white text-left">प्राइवेट स्कूल</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">फीस</td><td class="py-3 px-4 border-b font-bold text-green-700">मुफ्त</td><td class="py-3 px-4 border-b font-bold text-green-700">मुफ्त</td><td class="py-3 px-4 border-b font-bold">₹50,000-2,00,000/वर्ष</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आय सीमा</td><td class="py-3 px-4 border-b font-bold">₹2 लाख</td><td class="py-3 px-4 border-b font-bold">₹1.5 लाख</td><td class="py-3 px-4 border-b font-bold">कोई सीमा नहीं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्षेत्र</td><td class="py-3 px-4 border-b font-bold">सिर्फ UP</td><td class="py-3 px-4 border-b font-bold text-green-700">पूरा भारत</td><td class="py-3 px-4 border-b font-bold">पूरा भारत</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">बोर्ड</td><td class="py-3 px-4 border-b font-bold">CBSE</td><td class="py-3 px-4 border-b font-bold">CBSE</td><td class="py-3 px-4 border-b font-bold">CBSE/ICSE/बोर्ड</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4 border-b font-bold text-green-700">98%</td><td class="py-3 px-4 border-b font-bold">95%+</td><td class="py-3 px-4 border-b font-bold">बदलता है</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सीटें</td><td class="py-3 px-4 border-b font-bold">2,000</td><td class="py-3 px-4 border-b font-bold text-green-700">56,000</td><td class="py-3 px-4 border-b font-bold">असीमित</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -1340,7 +1340,7 @@ export const hindiArticles: HindiArticle[] = [
     description: 'JMI कक्षा 6 प्रवेश परीक्षा 2027 की पूरी जानकारी — योग्यता, एग्जाम पैटर्न, आवेदन प्रक्रिया और तैयारी के टिप्स।',
     keywords: 'JMI कक्षा 6 प्रवेश 2027, जामिया मिलिया प्रवेश परीक्षा, JMI class 6 admission, जामिया कक्षा 6 एडमिशन',
     date: "23 जुलाई 2026, सुबह 9 बजकर 07 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 40 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: 'Aamir',
     authorName: 'Aamir',
     authorSlug: 'aamir',
@@ -1388,7 +1388,7 @@ export const hindiArticles: HindiArticle[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold">मार्च 2027 (अपेक्षित)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तारीख</td><td class="py-3 px-4 border-b font-bold">अप्रैल 2027 (अपेक्षित)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b font-bold">मई 2027 (अपेक्षित)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">प्रवेश परीक्षा</td><td class="py-3 px-4 border-b font-bold text-green-700">जून 2027 (अपेक्षित)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परिणाम</td><td class="py-3 px-4 border-b font-bold">जुलाई 2027 (अपेक्षित)</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -1429,7 +1429,7 @@ export const hindiArticles: HindiArticle[] = [
     description: 'NEP 2020 के तहत स्कूल शिक्षा में हो रहे बड़े बदलाव — कोडिंग, मातृभाषा, बोर्ड एग्जाम और करियर विकल्प।',
     keywords: 'NEP 2020 बदलाव, राष्ट्रीय शिक्षा नीति 2020, NEP 2027 स्कूल बदलाव, नई शिक्षा नीति हिंदी',
     date: "23 जुलाई 2026, सुबह 9 बजकर 11 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 44 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: 'Rifaul Hasan',
     authorName: 'Rifaul Hasan',
     authorSlug: 'rifaul-hasan',
@@ -1453,7 +1453,7 @@ export const hindiArticles: HindiArticle[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">चरण</th><th class="py-3 px-4 border-b font-bold text-white text-left">कक्षा</th><th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th><th class="py-3 px-4 border-b font-bold text-white text-left">आयु</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आधार चरण</td><td class="py-3 px-4 border-b font-bold">Nursery से कक्षा 2</td><td class="py-3 px-4 border-b font-bold">खेल, भाषा, कला</td><td class="py-3 px-4 border-b font-bold">3-6 वर्ष</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">तैयारी चरण</td><td class="py-3 px-4 border-b font-bold">कक्षा 3 से 5</td><td class="py-3 px-4 border-b font-bold">गणित, विज्ञान, सामाजिक विज्ञान</td><td class="py-3 px-4 border-b font-bold">6-9 वर्ष</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">मध्य चरण</td><td class="py-3 px-4 border-b font-bold">कक्षा 6 से 8</td><td class="py-3 px-4 border-b font-bold">कोडिंग, AI, पर्यावरण</td><td class="py-3 px-4 border-b font-bold">9-12 वर्ष</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">उच्च माध्यमिक</td><td class="py-3 px-4 border-b font-bold">कक्षा 9 से 12</td><td class="py-3 px-4 border-b font-bold">विशेषज्ञता + लचीलापन</td><td class="py-3 px-4 border-b font-bold">12-18 वर्ष</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -1508,7 +1508,7 @@ export const hindiArticles: HindiArticle[] = [
     description: 'बच्चे को बोर्डिंग स्कूल में भेजने से पहले क्या-क्या तैयारी करनी चाहिए। भावनात्मक और व्यावहारिक गाइड माता-पिता के लिए।',
     keywords: 'बोर्डिंग स्कूल तैयारी, बच्चे को बोर्डिंग स्कूल कैसे भेजें, boarding school tips Hindi, हॉस्टल में बच्चा',
     date: "23 जुलाई 2026, सुबह 9 बजकर 14 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 48 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: 'Priya Verma',
     authorName: 'Priya Verma',
     authorSlug: 'priya-verma',
@@ -1544,7 +1544,7 @@ export const hindiArticles: HindiArticle[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">समय</th><th class="py-3 px-4 border-b font-bold text-white text-left">संभावित व्यवहार</th><th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">पहला सप्ताह</td><td class="py-3 px-4 border-b font-bold">रोना, घर आने की ज़िद</td><td class="py-3 px-4 border-b font-bold text-green-700">धैर्य रखें, हर रोज़ बात करें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2-4 सप्ताह</td><td class="py-3 px-4 border-b font-bold">नए दोस्तों से मिलना शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">सकारात्मक प्रोत्साहन दें</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">1-2 महीने</td><td class="py-3 px-4 border-b font-bold">स्कूल में रुचि बढ़ना</td><td class="py-3 px-4 border-b font-bold text-green-700">उसकी प्रगति की सराहना करें</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3 महीने बाद</td><td class="py-3 px-4 border-b font-bold">पूरी तरह एडजस्ट</td><td class="py-3 px-4 border-b font-bold text-green-700">उसकी स्वतंत्रता का सम्मान करें</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -1589,7 +1589,7 @@ export const hindiArticles: HindiArticle[] = [
     description: 'कक्षा 6 प्रवेश परीक्षा की 30 दिन की तैयारी योजना — हफ्ते-दर-हफ्ते शेड्यूल, रोज़ का टाइम टेबल और पढ़ाई का तरीका।',
     keywords: 'कक्षा 6 प्रवेश 30 दिन प्लान, class 6 entrance exam 30 day plan, प्रवेश परीक्षा तैयारी 30 दिन, JNVST AISSEE 30 day preparation',
     date: "23 जुलाई 2026, सुबह 9 बजकर 19 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 52 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: 'Sameer',
     authorName: 'Sameer',
     authorSlug: 'sameer',
@@ -1615,7 +1615,7 @@ export const hindiArticles: HindiArticle[] = [
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">समय</th><th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th><th class="py-3 px-4 border-b font-bold text-white text-left">अवधि</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 6:00 - 6:30</td><td class="py-3 px-4 border-b font-bold">ताज़गी और दोहराव</td><td class="py-3 px-4 border-b font-bold">30 मिनट</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 4:00 - 5:00</td><td class="py-3 px-4 border-b font-bold">विषय-वार पढ़ाई</td><td class="py-3 px-4 border-b font-bold">60 मिनट</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 5:00 - 5:30</td><td class="py-3 px-4 border-b font-bold">विश्राम / खेल</td><td class="py-3 px-4 border-b font-bold">30 मिनट</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 5:30 - 6:30</td><td class="py-3 px-4 border-b font-bold">अभ्यास पेपर / MCQ</td><td class="py-3 px-4 border-b font-bold">60 मिनट</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">रात 8:00 - 8:30</td><td class="py-3 px-4 border-b font-bold">हल्का रिवीज़न</td><td class="py-3 px-4 border-b font-bold">30 मिनट</td></tr></tbody></table></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
 
@@ -1674,7 +1674,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "CBSE और UP बोर्ड में कौन सा बोर्ड NEET, JEE, NDA जैसी प्रतियोगी परीक्षाओं के लिए बेहतर है — पूरी तुलना 2027।",
     keywords: "CBSE बनाम UP बोर्ड 2027, CBSE vs UP Board competitive exams, NEET JEE तैयारी बोर्ड, CBSE बोर्ड बेहतर, UP बोर्ड प्रतियोगी परीक्षा",
     date: "23 जुलाई 2026, सुबह 9 बजकर 25 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 1 बजकर 56 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -1831,7 +1831,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "RMS मिलिट्री स्कूल एडमिशन 2027 की पूरी जानकारी। योग्यता, परीक्षा पैटर्न, फीस, आवेदन प्रक्रिया और तैयारी टिप्स।",
     keywords: "RMS मिलिट्री स्कूल एडमिशन 2027, राष्ट्रीय मिलिट्री स्कूल प्रवेश परीक्षा, RMS 2027, मिलिट्री स्कूल तैयारी, RMS एडमिशन प्रक्रिया",
     date: "23 जुलाई 2026, सुबह 9 बजकर 30 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 00 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2046,7 +2046,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AMU कक्षा 6 प्रवेश परीक्षा 2027 की पूरी गाइड। योग्यता, परीक्षा पैटर्न, आवेदन प्रक्रिया और तैयारी के 5 टिप्स।",
     keywords: "AMU कक्षा 6 प्रवेश परीक्षा, AMU class 6 entrance exam, AMU 2027 एडमिशन, अलीगढ़ मुस्लिम यूनिवर्सिटी कक्षा 6, AMU प्रवेश परीक्षा तैयारी",
     date: "23 जुलाई 2026, सुबह 9 बजकर 36 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 04 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -2278,7 +2278,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "सैनिक स्कूल मेडिकल टेस्ट 2027 की पूरी जानकारी — हाइट, वजन, आंखों की रोशनी, दांत, कान और फिटनेस स्टैंडर्ड। अपने बच्चे से पहले जान लें।",
     keywords: "सैनिक स्कूल मेडिकल टेस्ट, सैनिक स्कूल फिजिकल टेस्ट, सैनिक स्कूल आई टेस्ट, AISSEE मेडिकल टेस्ट 2027",
     date: "23 जुलाई 2026, सुबह 9 बजकर 42 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 08 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2385,7 +2385,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "सैनिक स्कूल इंटरव्यू के सवाल 2027 जवाबों के साथ। जानें पैनल क्या पूछता है, कैसे तैयार करें, और कौन सी गलतियां न करें।",
     keywords: "सैनिक स्कूल इंटरव्यू सवाल, सैनिक स्कूल विवा सवाल, AISSEE इंटरव्यू 2027, सैनिक स्कूल इंटरव्यू तैयारी",
     date: "23 जुलाई 2026, सुबह 9 बजकर 49 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 12 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2483,7 +2483,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AMU बनाम JMI 2027 की तुलना — फीस, सिलेबस, परीक्षा पैटर्न, कठिनाई स्तर और एडमिशन प्रक्रिया। जानें कौन सा स्कूल बेहतर है।",
     keywords: "AMU बनाम JMI, AMU JMI तुलना, AMU या JMI कौन सा आसान, AMU JMI फीस सिलेबस 2027",
     date: "23 जुलाई 2026, सुबह 9 बजकर 54 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 16 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2589,7 +2589,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "सैनिक स्कूल स्कॉलरशिप 2027 — कौन मुफ्त शिक्षा पा सकता है, SC/ST फीस माफी, आय-आधारित छूट और आवेदन प्रक्रिया। ₹1,40,000 तक बचाएं।",
     keywords: "सैनिक स्कूल स्कॉलरशिप, सैनिक स्कूल फीस माफी, सैनिक स्कूल मुफ्त शिक्षा, AISSEE स्कॉलरशिप 2027",
     date: "23 जुलाई 2026, सुबह 10 बजकर 01 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 20 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2675,7 +2675,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "सैनिक स्कूल, नवोदय, AMU और JMI कक्षा 6 की फीस की तुलना। कौन सा सबसे सस्ता है? कौन मुफ्त शिक्षा देता है? पूरी फीस ब्रेकडाउन 2027।",
     keywords: "सैनिक बनाम नवोदय फीस, AMU JMI फीस तुलना, सबसे सस्ता बोर्डिंग स्कूल, मुफ्त सरकारी बोर्डिंग स्कूल",
     date: "23 जुलाई 2026, सुबह 10 बजकर 05 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 24 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2736,7 +2736,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>चारों में अप्लाई करें। चारों की अलग-अलग तारीखों पर प्रवेश परीक्षा होती है। जितनी ज़्यादा परीक्षाएं देंगे, कम खर्च में बेहतर शिक्षा मिलने की संभावना बढ़ेगी।</p>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>`,
     faqs: [
       {
@@ -2771,7 +2771,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "सैनिक स्कूल और राष्ट्रीय मिलिट्री स्कूल (RMS) में कौन सा बेहतर है? फीस, परीक्षा, NDA रेट और पूरी तुलना 2027।",
     keywords: "सैनिक स्कूल या मिलिट्री स्कूल, Sainik School vs Military School 2027, RMS vs AISSEE, सैनिक स्कूल बनाम मिलिट्री स्कूल",
     date: "23 जुलाई 2026, सुबह 10 बजकर 09 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 28 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -2837,7 +2837,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "नवोदय, सैनिक स्कूल और AMU की तैयारी कब से शुरू करें? सही उम्र, महीने-दर-महीने प्लान और 5 ज़रूरी टिप्स।",
     keywords: "एंट्रेंस एग्जाम तैयारी कब शुरू करें, entrance exam preparation age, नवोदय तैयारी कब से, सैनिक स्कूल तैयारी कब शुरू करें",
     date: "23 जुलाई 2026, सुबह 10 बजकर 16 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 32 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -2900,7 +2900,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "क्या बिना कोचिंग के नवोदय या सैनिक स्कूल में एडमिशन मिल सकता है? सेल्फ स्टडी vs कोचिंग — पूरी सच्चाई और 5 टिप्स।",
     keywords: "बिना कोचिंग नवोदय एडमिशन, बिना कोचिंग सैनिक स्कूल, self study vs coaching, कोचिंग ज़रूरी है या नहीं",
     date: "23 जुलाई 2026, सुबह 10 बजकर 21 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 36 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -2939,7 +2939,7 @@ export const hindiArticles: HindiArticle[] = [
       <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">कोचिंग या सेल्फ स्टडी?</h3><p>अगर सही गाइडेंस चाहिए, तो <strong>JGPS School</strong> में फ्री डेमो क्लास के लिए कॉल करें: <strong>+91 9412137554</strong>।</p></div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 
     `,
@@ -2961,7 +2961,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "नवोदय या सैनिक स्कूल की परीक्षा में बच्चा सिलेक्ट नहीं हुआ? 5 बेहतरीन विकल्प जो बच्चे का भविष्य बना सकते हैं।",
     keywords: "एंट्रेंस एग्जाम में बच्चा फेल, नवोदय में सिलेक्शन नहीं हुआ, entrance exam failure, बच्चा फेल हो गया अब क्या करें",
     date: "23 जुलाई 2026, सुबह 10 बजकर 28 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 40 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -3032,7 +3032,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "भारत के 5 सरकारी स्कूल जहाँ शिक्षा, हॉस्टल, खाना सब मुफ्त है। नवोदय, विद्याग्यान, केंद्रीय विद्यालय — पूरी लिस्ट।",
     keywords: "मुफ्त सरकारी स्कूल भारत, free government school India, नवोदय मुफ्त स्कूल, विद्याग्यान मुफ्त, केंद्रीय विद्यालय फीस",
     date: "23 जुलाई 2026, सुबह 10 बजकर 35 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 44 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3085,7 +3085,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "CBSE थ्री-लैंग्वेज पॉलिसी 2026-27 की पूरी जानकारी। R1, R2, R3 भाषा नियम, कक्षा 9-10 में बदलाव।",
     keywords: "CBSE थ्री-लैंग्वेज पॉलिसी 2026-27, CBSE भाषा नियम, R1 R2 R3 भाषा, CBSE नया पाठ्यक्रम 2026",
     date: "23 जुलाई 2026, सुबह 10 बजकर 39 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 48 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3126,7 +3126,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "NEET-UG 2027 परीक्षा पैटर्न बदल सकता है। स्वास्थ्य मंत्रालय का प्रस्ताव — 12वीं बोर्ड मार्क्स का वेटेज।",
     keywords: "NEET-UG 2027 पैटर्न बदलाव, NEET 2027 नया पैटर्न, NEET बोर्ड मार्क्स वेटेज, NEET 2027 अपडेट",
     date: "23 जुलाई 2026, सुबह 10 बजकर 44 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 52 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3165,7 +3165,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "CBSE ने 2026-27 से नया पाठ्यक्रम लागू किया है। अब स्कूलों में ही JEE/NEET की तैयारी होगी।",
     keywords: "CBSE नया पाठ्यक्रम 2026-27, JEE NEET स्कूल तैयारी, CBSE करिकुलम बदलाव, NEP 2020 CBSE",
     date: "23 जुलाई 2026, सुबह 10 बजकर 51 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 2 बजकर 56 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3204,7 +3204,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "NCERT ने 2026-27 सत्र के लिए नई किताबें जारी की हैं। कक्षा 6 और 9 में बड़े बदलाव।",
     keywords: "NCERT नई किताबें 2026-27, NCERT कक्षा 6 बदलाव, NCERT कक्षा 9 नई किताब, NEP 2020 NCERT",
     date: "23 जुलाई 2026, सुबह 10 बजकर 57 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 00 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3243,7 +3243,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "CUET 2026-27 यूनिवर्सिटी एडमिशन की पूरी जानकारी। CUET परीक्षा पैटर्न, सिलेबस, योग्यता।",
     keywords: "CUET 2026-27 एडमिशन, CUET परीक्षा पैटर्न, CUET सिलेबस, यूनिवर्सिटी एडमिशन 2026",
     date: "23 जुलाई 2026, सुबह 11 बजकर 00 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 04 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3282,7 +3282,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "CBSE ne 2026 se Class 10 ke liye do board exams ka rule lagu kiya hai. Jaaniye pehla aur dusra exam kab hoga, kaun de sakta hai, aur best of two kaise kaam karega.",
     keywords: "CBSE do board exam Class 10, CBSE dual board exam 2026, CBSE Class 10 do exam NEP 2020, CBSE board exam saal mein do baar, CBSE dusra board exam Class 10",
     date: "23 जुलाई 2026, सुबह 11 बजकर 06 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 08 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "JGPS Content Team",
     authorName: "JGPS Content Team",
     authorSlug: "jgps-content-team",
@@ -3361,10 +3361,10 @@ export const hindiArticles: HindiArticle[] = [
   {
     slug: "jnvst-2027-navodaya-admission-form-last-date-july-2026",
     title: "JNVST 2027 नवोदय एडमिशन फॉर्म — रजिस्ट्रेशन शुरू, 31 जुलाई आखिरी तारीख",
-    description: "JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए रजिस्ट्रेशन शुरू हो गया है। 31 जुलाई 2026 आखिरी तारीख है। जानें ऑनलाइन आवेदन प्रक्रिया, पात्रता, आयु सीमा, दस्तावेज़ और परीक्षा पैटर्न की पूरी जानकारी।",
+    description: "JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए रजिस्ट्रेशन शुरू हो गया है। 7 अगस्त 2026 आखिरी तारीख है। जानें ऑनलाइन आवेदन प्रक्रिया, पात्रता, आयु सीमा, दस्तावेज़ और परीक्षा पैटर्न की पूरी जानकारी।",
     keywords: "JNVST 2027, नवोदय एडमिशन 2027, navodaya admission form 2027, JNVST registration 2027, नवोदय कक्षा 6 प्रवेश, navodaya class 6 form 2027, JNVST last date 2027",
     date: "23 जुलाई 2026, सुबह 11 बजकर 10 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 12 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3378,7 +3378,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>नमस्कार अभिभावकों! अगर आपका बच्चा कक्षा 5 में पढ़ रहा है और आप उसे सरकारी बोर्डिंग स्कूल में पढ़ाना चाहते हैं, तो यह खबर आपके लिए बहुत ज़रूरी है। <strong>नवोदय विद्यालय समिति (NVS)</strong> ने JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए रजिस्ट्रेशन प्रक्रिया शुरू कर दी है।</p>
 
 <div class="bg-red-50 border border-red-200 p-4 rounded-lg my-6">
-  <p class="text-red-800 font-bold">⚠️ महत्वपूर्ण: आवेदन की आखिरी तारीख 31 जुलाई 2026 है। देर न करें!</p>
+  <p class="text-red-800 font-bold">⚠️ महत्वपूर्ण: आवेदन की आखिरी तारीख 7 अगस्त 2026 है। देर न करें!</p>
 </div>
 
 <h2>JNVST 2027 — महत्वपूर्ण तारीखें</h2>
@@ -3393,7 +3393,7 @@ export const hindiArticles: HindiArticle[] = [
     </thead>
     <tbody>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">ऑनलाइन रजिस्ट्रेशन शुरू</td><td class="py-3 px-4 border-b font-bold">जुलाई 2026</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की आखिरी तारीख</td><td class="py-3 px-4 border-b font-bold text-red-600">31 जुलाई 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की आखिरी तारीख</td><td class="py-3 px-4 border-b font-bold text-red-600">7 अगस्त 2026</td></tr>
       <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तारीख (अनुमानित)</td><td class="py-3 px-4 border-b font-bold">जनवरी 2027</td></tr>
       <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">रिज़ल्ट (अनुमानित)</td><td class="py-3 px-4 border-b font-bold">मार्च 2027</td></tr>
     </tbody>
@@ -3505,11 +3505,11 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
-      { question: "JNVST 2027 के लिए रजिस्ट्रेशन कब शुरू हुआ?", answer: "JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए रजिस्ट्रेशन जुलाई 2026 में शुरू हुआ है। आवेदन की आखिरी तारीख 31 जुलाई 2026 है।" },
+      { question: "JNVST 2027 के लिए रजिस्ट्रेशन कब शुरू हुआ?", answer: "JNVST 2027 कक्षा 6 प्रवेश परीक्षा के लिए रजिस्ट्रेशन जुलाई 2026 में शुरू हुआ है। आवेदन की आखिरी तारीख 7 अगस्त 2026 है।" },
       { question: "JNVST 2027 की परीक्षा कब होगी?", answer: "JNVST 2027 कक्षा 6 प्रवेश परीक्षा जनवरी 2027 में होने की संभावना है। सटीक तारीख NVS की आधिकारिक वेबसाइट पर जारी की जाएगी।" },
       { question: "नवोदय में एडमिशन के लिं कितनी आयु होनी चाहिए?", answer: "JNVST 2027 के लिए बच्चे का जन्म 1 मई 2011 से 30 अप्रैल 2013 के बीच होना चाहिए (अनुमानित)। आधिकारिक नोटिफिकेशन में सटीक तारीख देखें।" },
       { question: "नवोदय में एडमिशन फ्री है?", answer: "हाँ, नवोदय विद्यालय में पढ़ाई, खाना और रहना सब कुछ मुफ्त है। सरकार पूरा खर्च उठाती है।" },
@@ -3522,7 +3522,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "CBSE Class 10 और Class 12 सप्लीमेंट्री/कम्पार्टमेंट परीक्षा 2026 जुलाई में हो रही है। जानें परीक्षा शेड्यूल, एडमिट कार्ड, रिज़ल्ट डेट और तैयारी के टिप्स।",
     keywords: "CBSE supplementary exam 2026, CBSE compartment exam 2026, CBSE Class 12 supplementary, CBSE Class 10 compartment, CBSE July exam 2026, सीबीएसई सप्लीमेंट्री एग्जाम",
     date: "23 जुलाई 2026, सुबह 11 बजकर 17 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 16 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3640,7 +3640,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "CTET सितंबर 2026 का नोटिफिकेशन जारी हो गया है। जानें ऑनलाइन आवेदन प्रक्रिया, पात्रता, परीक्षा पैटर्न, सिलेबस और तैयारी के टिप्स।",
     keywords: "CTET September 2026, CTET notification 2026, CTET online form, CTET exam date 2026, सीटेट 2026, CTET eligibility, CTET syllabus 2026",
     date: "23 जुलाई 2026, सुबह 11 बजकर 23 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 20 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3803,7 +3803,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JoSAA काउंसलिंग 2026 Round 5 सीट अलॉटमेंट जुलाई में आने की संभावना है। जानें काउंसलिंग प्रक्रिया, डॉक्यूमेंट वेरिफिकेशन, फ्रीज/फ्लोट/स्लाइड विकल्प और ज़रूरी तारीखें।",
     keywords: "JoSAA counselling 2026, JEE counselling 2026, JoSAA round 5, IIT NIT admission 2026, जोसा काउंसलिंग, seat allotment 2026, JEE advanced counselling",
     date: "23 जुलाई 2026, सुबह 11 बजकर 26 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 24 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -3916,7 +3916,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "जुलाई में हाफ-ईयरली परीक्षा की तैयारी कैसे करें? मानसून के मौसम में बच्चों की पढ़ाई का रूटीन बिगड़ जाता है। जानें 10 आसान टिप्स जो आपके बच्चे को एग्जाम में टॉप करने में मदद करेंगी।",
     keywords: "हाफ-ईयरली एग्जाम तैयारी, half yearly exam tips, जुलाई परीक्षा, monsoon study tips, मानसून में पढ़ाई, half yearly exam 2026, school exam preparation",
     date: "23 जुलाई 2026, सुबह 11 बजकर 33 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 28 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4038,7 +4038,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "नवोदय फॉर्म 2027 में गलती हो गई? जानें JNVST फॉर्म करेक्शन प्रोसेस, कौन सी गलतियाँ सुधारी जा सकती हैं, और फॉर्म रिजेक्ट होने पर क्या करें। पूरी जानकारी हिंदी में।",
     keywords: "नवोदय फॉर्म में गलती, JNVST form correction 2027, navodaya form correction, नवोदय फॉर्म सुधार, JNVST form mistake, navodaya application form error",
     date: "23 जुलाई 2026, सुबह 11 बजकर 37 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 32 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4160,7 +4160,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
@@ -4178,7 +4178,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 एग्जाम पैटर्न हिंदी में — जानें कितने प्रश्न आते हैं, कितने अंक के होते हैं, कितना समय मिलता है, और कौन से विषय से कितने सवाल आते हैं।",
     keywords: "JNVST 2027 exam pattern, नवोदय एग्जाम पैटर्न, JNVST exam pattern Hindi, navodaya exam pattern 2027, JNVST question paper pattern, नवोदय परीक्षा पैटर्न",
     date: "23 जुलाई 2026, सुबह 11 बजकर 42 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 36 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4293,7 +4293,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
@@ -4311,7 +4311,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "सैनिक स्कूल में एडमिशन कैसे लें 2027 — पूरी प्रक्रिया, पात्रता, दस्तावेज़, एग्जाम पैटर्न और तैयारी के टिप्स। हिंदी में स्टेप बाय स्टेप गाइड।",
     keywords: "सैनिक स्कूल में एडमिशन कैसे लें, sainik school admission 2027, सैनिक स्कूल एडमिशन प्रोसेस, sainik school admission guide Hindi, AISSEE 2027 admission",
     date: "23 जुलाई 2026, सुबह 11 बजकर 49 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 40 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4464,7 +4464,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "नवोदय विद्यालय की फीस कितनी है? जानें क्या सच में नवोदय में पढ़ाई फ्री है, हॉस्टल चार्ज, सरकार क्या देती है, और छिपी हुई लागत क्या है।",
     keywords: "नवोदय विद्यालय की फीस, navodaya vidyalaya fees, नवोदय में फीस कितनी है, JNV fees structure, navodaya school fees Hindi, नवोदय हॉस्टल फीस",
     date: "23 जुलाई 2026, सुबह 11 बजकर 53 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 44 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4574,7 +4574,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
@@ -4592,7 +4592,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AMU क्लास 6 सिलेबस 2027 हिंदी में — विषयवार पूरा सिलेबस, मार्क्स डिस्ट्रीब्यूशन, तैयारी के टिप्स और ज़रूरी किताबें।",
     keywords: "AMU क्लास 6 सिलेबस, AMU class 6 syllabus 2027, अलीगढ़ मुस्लिम यूनिवर्सिटी सिलेबस, AMU entrance exam syllabus Hindi, AMU class 6 entrance syllabus",
     date: "23 जुलाई 2026, सुबह 11 बजकर 59 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 48 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4747,7 +4747,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "सैनिक स्कूल 2027 की तैयारी घर से करें — बिना कोचिंग के सिलेक्शन की पूरी रणनीति। डेली रूटीन, सब्जेक्ट-वाइज टिप्स, फ्री रिसोर्सेज और मॉडल पेपर। माता-पिता के लिए सम्पूर्ण गाइड।",
     keywords: "सैनिक स्कूल की तैयारी घर से, sainik school preparation at home 2027, बिना कोचिंग सैनिक स्कूल, sainik school ghar se taiyari, सैनिक स्कूल तैयारी टिप्स, sainik school home preparation strategy",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 06 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 52 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4860,7 +4860,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "नवोदय विद्यालय vs सैनिक स्कूल 2027 — फीस, सुविधाएं, शिक्षा की गुणवत्ता, करियर प्रॉस्पेक्ट्स की पूरी तुलना। कौन सा स्कूल आपके बच्चे के लिए बेहतर है? जानें विस्तार से।",
     keywords: "नवोदय vs सैनिक स्कूल, navodaya vs sainik school 2027, कौन सा बेहतर है, navodaya or sainik school comparison, नवोदय सैनिक स्कूल तुलना, sainik school vs navodaya which is better",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 10 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 3 बजकर 56 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -4958,7 +4958,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
@@ -4976,7 +4976,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 मॉडल पेपर फ्री PDF डाउनलोड — हल सहित प्रैक्टिस सेट। नवोदय प्रवेश परीक्षा 2027 की तैयारी के लिए मॉडल पेपर, पिछले साल के पेपर और सॉल्विंग स्ट्रेटेजी।",
     keywords: "JNVST 2027 model paper free PDF, नवोदय मॉडल पेपर 2027, JNVST model paper download, navodaya question paper PDF, JNVST practice set 2027, नवोदय प्रवेश परीक्षा मॉडल पेपर",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 16 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 00 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -5061,7 +5061,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
@@ -5079,7 +5079,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "बोर्डिंग स्कूल भेजने के फायदे और नुकसान — माता-पिता के लिए पूरी गाइड। सही उम्र, भावनात्मक तैयारी, और किन बातों का ध्यान रखें। बच्चे को बोर्डिंग स्कूल भेजने से पहले जानें ये ज़रूरी बातें।",
     keywords: "बोर्डिंग स्कूल भेजने के फायदे, boarding school ke fayde nuksan, बोर्डिंग स्कूल के नुकसान, boarding school pros and cons Hindi, बच्चे को बोर्डिंग स्कूल भेजें या नहीं, boarding school advantages disadvantages",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 22 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 04 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -5179,7 +5179,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "विद्याज्ञान स्कूल एडमिशन 2027 — अंतिम तिथि, पात्रता, आवेदन प्रक्रिया की पूरी जानकारी। ग्रामीण UP के बच्चों के लिए फ्री शिक्षा। आय सीमा ₹1 लाख से कम। जानें सब कुछ।",
     keywords: "विद्याज्ञान स्कूल एडमिशन 2027, vidyagyan school admission 2027, विद्याज्ञान अंतिम तिथि, vidyagyan last date, विद्याज्ञान पात्रता, vidyagyan eligibility, विद्याज्ञान आवेदन प्रक्रिया, vidyagyan application process",
     date: "23 जुलाई 2026, दोपहर 12 बजकर 25 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 08 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -5273,7 +5273,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
@@ -5293,10 +5293,10 @@ export const hindiArticles: HindiArticle[] = [
   {
     slug: "jnvst-2027-form-agaya-niyam-mein-badlaav",
     title: "JNVST 2027: नवोदय कक्षा 6 का Form आ गया! नियम में बड़ा बदलाव, ऐसेभरें",
-    description: "JNVST 2027 कक्षा 6 का एडमिशन फॉर्म जारी हो गया है। 31 जुलाई 2026 आखिरी तारीख। नए नियम, बदला हुआ एग्जाम पैटर्न, और फॉर्म भरने का पूरा तरीका जानें।",
+    description: "JNVST 2027 कक्षा 6 का एडमिशन फॉर्म जारी हो गया है। 7 अगस्त 2026 आखिरी तारीख। नए नियम, बदला हुआ एग्जाम पैटर्न, और फॉर्म भरने का पूरा तरीका जानें।",
     keywords: "JNVST 2027 form, नवोदय एडमिशन 2027, navodaya class 6 form, JNVST 2027 last date, नवोदय फॉर्म कैसे भरें, JNVST exam date 2027, navodaya admission 2027-28",
     date: "23 जुलाई 2026, शाम 7 बजकर 37 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 12 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -5308,16 +5308,16 @@ export const hindiArticles: HindiArticle[] = [
     imageAlt: "JNVST 2027 नवोदय कक्षा 6 एडमिशन फॉर्म — नया नियम और बदलाव",
     content: `<p>अगर आपका बच्चा कक्षा 5 में पढ़ रहा है और आप चाहते हैं कि वो देश के सबसे अच्छे सरकारी स्कूलों में से एक — <strong>जवाहर नवोदय विद्यालय</strong> — में पढ़े, तो ये खबर आपके लिए बहुत जरूरी है।</p>
 
-<p><strong>नवोदय विद्यालय समिति (NVS)</strong> ने सत्र 2027-28 के लिए कक्षा 6 में दाखिले का फॉर्म जारी कर दिया है। <strong>7 जुलाई 2026</strong> से ऑनलाइन आवेदन शुरू हो गए हैं और <strong>31 जुलाई 2026</strong> आखिरी तारीख है। यानी अब सिर्फ कुछ दिन बचे हैं — देर मत कीजिए।</p>
+<p><strong>नवोदय विद्यालय समिति (NVS)</strong> ने सत्र 2027-28 के लिए कक्षा 6 में दाखिले का फॉर्म जारी कर दिया है। <strong>7 जुलाई 2026</strong> से ऑनलाइन आवेदन शुरू हो गए हैं और <strong>7 अगस्त 2026</strong> आखिरी तारीख है। यानी अब सिर्फ कुछ दिन बचे हैं — देर मत कीजिए।</p>
 
 <p>इस बार कुछ <strong>अहम बदलाव</strong> किए गए हैं जो हर अभिभावक को पता होने चाहिए। एग्जाम की तारीख बदल गई है, पैटर्न नया है, और कुछ नियम भी अपडेट हुए हैं। चलिए विस्तार से समझते हैं।</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">महत्वपूर्ण तारीखें — ये तारीखें याद रखें</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">ऑनलाइन आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">7 जुलाई 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की आखिरी तारीख</td><td class="py-3 px-4 border-b font-bold text-red-600">31 जुलाई 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार विंडो</td><td class="py-3 px-4 border-b font-bold">अगस्त 2026 (अपेक्षित)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b font-bold">अक्टूबर 2026 (अपेक्षित)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा की तारीख</td><td class="py-3 px-4 border-b font-bold text-green-700">28 नवंबर 2026 (शनिवार)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4 font-bold">जनवरी 2027 (अपेक्षित)</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">ऑनलाइन आवेदन शुरू</td><td class="py-3 px-4 border-b font-bold text-green-700">7 जुलाई 2026</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की आखिरी तारीख</td><td class="py-3 px-4 border-b font-bold text-red-600">7 अगस्त 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुधार विंडो</td><td class="py-3 px-4 border-b font-bold">अगस्त 2026 (अपेक्षित)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">एडमिट कार्ड</td><td class="py-3 px-4 border-b font-bold">अक्टूबर 2026 (अपेक्षित)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा की तारीख</td><td class="py-3 px-4 border-b font-bold text-green-700">28 नवंबर 2026 (शनिवार)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4 font-bold">जनवरी 2027 (अपेक्षित)</td></tr></tbody></table></div>
 
 <div class="bg-red-50 border border-red-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-red-800 mb-2">⚠️ जरूरी सूचना</h3>
-<p class="text-red-700"><strong>31 जुलाई 2026</strong> के बाद पोर्टल बंद कर दिया जाएगा। कोई भी लेट एप्लिकेशन स्वीकार नहीं होगा। आखिरी दिन सरवर क्रैश होने का खतरा रहता है — आज ही फॉर्म भर दें।</p>
+<p class="text-red-700"><strong>7 अगस्त 2026</strong> के बाद पोर्टल बंद कर दिया जाएगा। कोई भी लेट एप्लिकेशन स्वीकार नहीं होगा। आखिरी दिन सरवर क्रैश होने का खतरा रहता है — आज ही फॉर्म भर दें।</p>
 </div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">इस बार क्या बदला है? — नए नियम</h2>
@@ -5406,11 +5406,11 @@ export const hindiArticles: HindiArticle[] = [
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
-<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>cbseitms.rcil.gov.in/nvs/</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>31 जुलाई 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और Live Hindustan (8 जुलाई 2026)।</p>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>cbseitms.rcil.gov.in/nvs/</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और Live Hindustan (8 जुलाई 2026)।</p>
 </div>
 `,
     faqs: [
-      { question: "JNVST 2027 का फॉर्म कब से भर सकते हैं?", answer: "7 जुलाई 2026 से ऑनलाइन आवेदन शुरू हो गए हैं। आखिरी तारीख 31 जुलाई 2026 है।" },
+      { question: "JNVST 2027 का फॉर्म कब से भर सकते हैं?", answer: "7 जुलाई 2026 से ऑनलाइन आवेदन शुरू हो गए हैं। आखिरी तारीख 7 अगस्त 2026 है।" },
       { question: "नवोदय का फॉर्म भरने में कितनी फीस लगती है?", answer: "बिल्कुल फ्री है। कोई रजिस्ट्रेशन फीस, एग्जाम फीस या प्रोसेसिंग फीस नहीं है। किसी भी श्रेणी के लिए।" },
       { question: "JNVST 2027 का एग्जाम कब है?", answer: "28 नवंबर 2026 (शनिवार) को। पिछले सालों से अलग — पहले जनवरी-फरवरी में होता था।" },
       { question: "क्या नवोदय और सैनिक स्कूल दोनों के फॉर्म भर सकते हैं?", answer: "हाँ, कोई पाबंदी नहीं है। दोनों के फॉर्म एक साथ भर सकते हैं। बहुत से अभिभावक दोनों भरते हैं ताकि बच्चे के सिलेक्शन के चांस बढ़ें।" },
@@ -5428,7 +5428,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "Active Recall और Spaced Repetition से पढ़ाई करें तो याददाश्त 3 गुना बढ़ जाती है। जानें ये साइंस-बेस्ड तरीका कैसे अपनाएं — JNVST, Sainik School, AMU हर एग्जाम के लिए।",
     keywords: "active recall kya hai, spaced repetition technique, padhai kaise kare, yaad kaise kare, topper study tips, best study method Hindi, memory badhane ke tarike, JNVST preparation tips",
     date: "23 जुलाई 2026, शाम 7 बजकर 45 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 16 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -5501,7 +5501,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "जुलाई 2026 की 10 सबसे जरूरी करेंट अफेयर्स — JNVST, Sainik School, AMU और हर एग्जाम के लिए। Weekly GK update हिंदी में।",
     keywords: "current affairs July 2026 Hindi, करेंट अफेयर्स जुलाई 2026, weekly GK update, JNVST GK questions, Sainik School current affairs, school students GK Hindi, competitive exam current affairs 2026",
     date: "23 जुलाई 2026, शाम 7 बजकर 50 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 20 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -5516,7 +5516,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>ये हैं <strong>जुलाई 2026 की 10 सबसे जरूरी खबरें</strong> जो हर स्टूडेंट को याद होनी चाहिए।</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">1. JNVST 2027 का फॉर्म जारी — 31 जुलाई आखिरी तारीख</h2>
-<p>नवोदय विद्यालय समिति (NVS) ने कक्षा 6 (सत्र 2027-28) के लिए JNVST 2027 का नोटिफिकेशन जारी कर दिया है। <strong>7 जुलाई 2026</strong> से ऑनलाइन रजिस्ट्रेशन शुरू है। <strong>31 जुलाई 2026</strong> आखिरी तारीख। परीक्षा <strong>28 नवंबर 2026</strong> को होगी।</p>
+<p>नवोदय विद्यालय समिति (NVS) ने कक्षा 6 (सत्र 2027-28) के लिए JNVST 2027 का नोटिफिकेशन जारी कर दिया है। <strong>7 जुलाई 2026</strong> से ऑनलाइन रजिस्ट्रेशन शुरू है। <strong>7 अगस्त 2026</strong> आखिरी तारीख। परीक्षा <strong>28 नवंबर 2026</strong> को होगी।</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">2. NEET 2027 अब कंप्यूटर-बेस्ड होगा</h2>
 <p>केंद्रीय शिक्षा मंत्री <strong>धर्मेंद्र प्रधान</strong> ने घोषणा की है कि 2027 से NEET UG परीक्षा <strong>कंप्यूटर-बेस्ड टेस्ट (CBT)</strong> मोड में होगी। ये फैसला 2026 में हुई पेपर लीक की घटना के बाद लिया गया।</p>
@@ -5567,7 +5567,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "अगर बच्चा हिंदी मीडियम है और इंग्लिश कमजोर है, तो भी JNVST, Sainik School, AMU निकाल सकता है। जानें 5 आसान तरीके।",
     keywords: "English kamzor bacche entrance exam, Hindi medium student English tips, JNVST English preparation, entrance exam English kaise padhe, English weak students tips Hindi, AMU English preparation",
     date: "23 जुलाई 2026, शाम 7 बजकर 55 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 24 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Aamir",
     authorName: "Aamir",
     authorSlug: "aamir",
@@ -5632,7 +5632,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "स्कूल जाने से पहले बच्चे को क्या आना चाहिए? ज्यादातर पेरेंट्स A, B, C, D रटवाते हैं — लेकिन असली जरूरत कुछ और है। जानें सही उम्र में क्या सिखाएं।",
     keywords: "पहली कक्षा से पहले क्या सिखाएं, school ready child, bacche ko taiyar karein, nursery admission preparation, primary education tips Hindi, preschool learning Hindi, bachche ko kya sikhayein",
     date: "23 जुलाई 2026, शाम 8 बजकर 00 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 28 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Nisha",
     authorName: "Nisha",
     authorSlug: "nisha",
@@ -5706,7 +5706,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "बच्चा एग्जाम से पहले घबराता है, रोता है, पेट में दर्द होता है? ये एग्जाम एंजायटी है। जानें 5 आसान तरीके जिनसे बच्चे का डर कम होगा और परफॉर्मेंस बेहतर होगा।",
     keywords: "एग्जाम एंजायटी बच्चों में, exam se dar lagta hai, bachche ka exam stress, exam anxiety Hindi, bacche ko confident kaise banaye, exam fear tips parents, school exam stress Hindi",
     date: "23 जुलाई 2026, शाम 8 बजकर 05 मिनट",
-    modifiedDate: "24 जुलाई 2026, शाम 4 बजकर 32 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -5780,7 +5780,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST Admit Card 2027 अक्टूबर 2026 में जारी होगा। Navodaya Hall Ticket download करें navodaya.gov.in से। Registration Number और Date of Birth से Admit Card डाउनलोड करें।",
     keywords: "JNVST Admit Card 2027, Navodaya Admit Card 2027, JNVST Class 6 Admit Card 2027, JNV Admit Card Download, Navodaya Hall Ticket 2027, JNVST Admit Card Release Date, Navodaya Class 6 Hall Ticket, JNVST 2027 Admit Card Link",
     date: "25 जुलाई 2026, दोपहर 2 बजे",
-    modifiedDate: "25 जुलाई 2026, दोपहर 2 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -5792,7 +5792,7 @@ export const hindiArticles: HindiArticle[] = [
     imageAlt: "JNVST Admit Card 2027 download link and release date for Navodaya Class 6 entrance exam - Navodaya Hall Ticket 2027",
     content: `<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
 <p class="font-bold text-gray-900 mb-1">Latest Update (25 July 2026):</p>
-<p>नवोदय विद्यालय समिति (NVS) ने JNVST 2027 की application process शुरू कर दी है। अंतिम तिथि <strong>31 जुलाई 2026</strong> है। Admit Card exam से कुछ हफ्ते पहले official website <strong>navodaya.gov.in</strong> पर जारी किया जाएगा। परीक्षा <strong>28 नवंबर 2026</strong> को है।</p>
+<p>नवोदय विद्यालय समिति (NVS) ने JNVST 2027 की application process शुरू कर दी है। अंतिम तिथि <strong>7 अगस्त 2026</strong> है। Admit Card exam से कुछ हफ्ते पहले official website <strong>navodaya.gov.in</strong> पर जारी किया जाएगा। परीक्षा <strong>28 नवंबर 2026</strong> को है।</p>
 </div>
 
 <p><strong>JNVST Admit Card 2027</strong> अक्टूबर 2026 में जारी होने की संभावना है। उम्मीदवार आधिकारिक वेबसाइट navodaya.gov.in से Registration Number और Date of Birth की मदद से Navodaya Hall Ticket डाउनलोड कर सकेंगे। बिना एडमिट कार्ड के परीक्षा केंद्र में एंट्री नहीं मिलेगी।</p>
@@ -5802,7 +5802,7 @@ export const hindiArticles: HindiArticle[] = [
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Admit Card 2027 Latest News</h2>
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <ul class="list-disc pl-5 space-y-2">
-<li><strong>25 जुलाई 2026:</strong> JNVST 2027 application form भरने की अंतिम तिथि 31 जुलाई 2026 है — सिर्फ 6 दिन बाकी</li>
+<li><strong>25 जुलाई 2026:</strong> JNVST 2027 application form भरने की अंतिम तिथि 7 अगस्त 2026 है — सिर्फ 6 दिन बाकी</li>
 <li><strong>जुलाई 2026:</strong> NVS ने official notification जारी किया — परीक्षा 28 नवंबर 2026 को होगी</li>
 <li><strong>अक्टूबर 2026 (अपेक्षित):</strong> Admit Card जारी होने की संभावित तिथि</li>
 <li><strong>नया बदलाव:</strong> इस साल 80 प्रश्न आएंगे (पहले 100 थे)</li>
@@ -5810,7 +5810,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Admit Card 2027 Release Date — महत्वपूर्ण तिथियां</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th><th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुरू</td><td class="py-3 px-4 border-b">7 जुलाई 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हो चुका</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b">31 जुलाई 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">⏳ 6 दिन बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card जारी</td><td class="py-3 px-4 border-b">अक्टूबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">उत्तर कुंजी</td><td class="py-3 px-4 border-b">दिसंबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4">मार्च-अप्रैल 2027</td><td class="py-3 px-4 text-blue-600 font-bold">⏳ आना बाकी</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th><th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन शुरू</td><td class="py-3 px-4 border-b">7 जुलाई 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हो चुका</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आवेदन की अंतिम तिथि</td><td class="py-3 px-4 border-b">7 अगस्त 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">⏳ 6 दिन बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card जारी</td><td class="py-3 px-4 border-b">अक्टूबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">उत्तर कुंजी</td><td class="py-3 px-4 border-b">दिसंबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4">मार्च-अप्रैल 2027</td><td class="py-3 px-4 text-blue-600 font-bold">⏳ आना बाकी</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Official Download Link — JNVST Admit Card 2027</h2>
 <p>Navodaya Hall Ticket 2027 केवल आधिकारिक वेबसाइट पर उपलब्ध होगा:</p>
@@ -5942,10 +5942,10 @@ export const hindiArticles: HindiArticle[] = [
   {
     slug: "jnvst-registration-2027-last-date-extend-hogi",
     title: "JNVST Registration 2027 Last Date: क्या Navodaya Form की आखिरी तारीख बढ़ेगी? बड़ा अपडेट",
-    description: "JNVST रजिस्ट्रेशन 2027 लास्ट डेट 31 जुलाई 2026 है। क्या Navodaya Class 6 application form की तारीख बढ़ेगी? जानें NVS का latest update और previous year trends।",
+    description: "JNVST रजिस्ट्रेशन 2027 लास्ट डेट 7 अगस्त 2026 है। क्या Navodaya Class 6 application form की तारीख बढ़ेगी? जानें NVS का latest update और previous year trends।",
     keywords: "JNVST Registration 2027 Last Date, Navodaya Vidyalaya Class 6 Admission 2027 last date, JNVST form date extend hogi ya nahi, Navodaya Class 6 application form 2027-28, NVS Class 6 registration extended date update",
     date: "25 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
-    modifiedDate: "25 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -5958,14 +5958,14 @@ export const hindiArticles: HindiArticle[] = [
     content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
 <p class="font-bold text-gray-900 mb-1">Quick Highlights (25 July 2026):</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>JNVST रजिस्ट्रेशन 2027 लास्ट डेट:</strong> 31 जुलाई 2026 — सिर्फ 6 दिन बाकी</li>
+<li><strong>JNVST रजिस्ट्रेशन 2027 लास्ट डेट:</strong> 7 अगस्त 2026 — सिर्फ 6 दिन बाकी</li>
 <li><strong>तारीख बढ़ेगी?</strong> NVS ने अभी तक कोई official announcement नहीं किया है</li>
 <li><strong>Previous year trend:</strong> 2025 में NVS ने 7 दिन का extension दिया था server issues की वजह से</li>
 <li><strong>Apply here:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
 </ul>
 </div>
 
-<p><strong>JNVST Registration 2027 Last Date</strong> 31 जुलाई 2026 है। अगर आपने अभी तक Navodaya Class 6 application form 2027-28 नहीं भरा है, तो जल्द से जल्द भर दें। हर साल last date के पास server पर भारी load आता है और कई parents form नहीं भर पाते।</p>
+<p><strong>JNVST Registration 2027 Last Date</strong> 7 अगस्त 2026 है। अगर आपने अभी तक Navodaya Class 6 application form 2027-28 नहीं भरा है, तो जल्द से जल्द भर दें। हर साल last date के पास server पर भारी load आता है और कई parents form नहीं भर पाते।</p>
 
 <p>सबसे बड़ा सवाल ये है — <strong>क्या JNVST form date extend hogi ya nahi?</strong> NVS ने अभी तक कोई official announcement नहीं किया है। लेकिन previous year trends देखें तो 2025 में NVS ने server down issues की वजह से 7 दिन का extension दिया था। इसलिए extension की possibility है, लेकिन confirmation नहीं।</p>
 
@@ -5975,7 +5975,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST Class 6 Admission 2027 Key Dates</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th><th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification जारी</td><td class="py-3 px-4 border-b">जुलाई 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हो चुका</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Registration शुरू</td><td class="py-3 px-4 border-b">7 जुलाई 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हो चुका</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date (Initial)</td><td class="py-3 px-4 border-b font-bold">31 जुलाई 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">⏳ 6 दिन बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Extended Date (Expected)</td><td class="py-3 px-4 border-b">7-10 अगस्त 2026</td><td class="py-3 px-4 border-b text-gray-500">⚠️ अभी confirm नहीं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">अगस्त 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">अक्टूबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4">मार्च-अप्रैल 2027</td><td class="py-3 px-4 text-blue-600 font-bold">⏳ आना बाकी</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">कार्यक्रम</th><th class="py-3 px-4 border-b font-bold text-white text-left">तारीख</th><th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Notification जारी</td><td class="py-3 px-4 border-b">जुलाई 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हो चुका</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Registration शुरू</td><td class="py-3 px-4 border-b">7 जुलाई 2026</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ हो चुका</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date (Initial)</td><td class="py-3 px-4 border-b font-bold">7 अगस्त 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">⏳ 6 दिन बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Extended Date (Expected)</td><td class="py-3 px-4 border-b">7-10 अगस्त 2026</td><td class="py-3 px-4 border-b text-gray-500">⚠️ अभी confirm नहीं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window</td><td class="py-3 px-4 border-b">अगस्त 2026 (expected)</td><td class="py-3 px-4 border-b text-gray-500">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">अक्टूबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा तिथि</td><td class="py-3 px-4 border-b font-bold">28 नवंबर 2026</td><td class="py-3 px-4 border-b text-blue-600 font-bold">⏳ आना बाकी</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रिजल्ट</td><td class="py-3 px-4">मार्च-अप्रैल 2027</td><td class="py-3 px-4 text-blue-600 font-bold">⏳ आना बाकी</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">क्या Navodaya Form Bharne Ki Last Date Extend Hogi?</h2>
 <p>ये सवाल हर parent के मन में है। आइए <strong>previous year trends</strong> और <strong>current situation</strong> के आधार पर analysis करते हैं:</p>
@@ -6058,12 +6058,12 @@ export const hindiArticles: HindiArticle[] = [
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">Final Advisory</h3>
-<p><strong>JNVST Registration 2027 Last Date</strong> 31 जुलाई 2026 है। Extension की possibility है, लेकिन confirmation नहीं। इसलिए <strong>आज ही form भरें</strong>। Last date का wait न करें — server down हो सकता है और आपका बच्चा मौका खो सकता है।</p>
+<p><strong>JNVST Registration 2027 Last Date</strong> 7 अगस्त 2026 है। Extension की possibility है, लेकिन confirmation नहीं। इसलिए <strong>आज ही form भरें</strong>। Last date का wait न करें — server down हो सकता है और आपका बच्चा मौका खो सकता है।</p>
 <p class="mt-2 text-sm text-gray-500">Source: NVS Official Website — navodaya.gov.in | Application Portal: cbseitms.rcil.gov.in</p>
 </div>
 `,
     faqs: [
-      { question: "JNVST Registration 2027 Last Date क्या है?", answer: "JNVST रजिस्ट्रेशन 2027 लास्ट डेट 31 जुलाई 2026 है। NVS ने अभी तक extension की announcement नहीं की है।" },
+      { question: "JNVST Registration 2027 Last Date क्या है?", answer: "JNVST रजिस्ट्रेशन 2027 लास्ट डेट 7 अगस्त 2026 है। NVS ने अभी तक extension की announcement नहीं की है।" },
       { question: "क्या Navodaya form की तारीख बढ़ेगी?", answer: "Previous year trends के आधार पर 70% chance है कि NVS 7-10 दिन का extension देगा। लेकिन ये 100% confirm नहीं है।" },
       { question: "Navodaya Class 6 application form कहां भरें?", answer: "cbseitms.rcil.gov.in पर जाकर online form भरें। navodaya.gov.in पर भी link मिल जाएगा।" },
       { question: "Form भरने में server down हो जाए तो क्या करें?", answer: "रात 10 बजे बाद या सुबह 6-7 बजे try करें। Chrome browser use करें। Mobile data से try करें।" },
@@ -6077,7 +6077,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya portal server down — 504 Gateway Time-out, OTP delay, submission errors। जानें क्या JNVST 2027 last date बढ़ेगी और server error से कैसे बचें।",
     keywords: "JNVST Registration 2027 server down, Navodaya portal server error, JNVST form date extend hogi, navodaya.gov.in 504 error, NVS Class 6 registration technical glitch",
     date: "25 जुलाई 2026, दोपहर 3 बजे",
-    modifiedDate: "25 जुलाई 2026, दोपहर 3 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -6092,7 +6092,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>Navodaya portal (cbseitms.rcil.gov.in) पर भारी server load की वजह से <strong>504 Gateway Time-out</strong>, <strong>OTP delay</strong>, और <strong>form submission errors</strong> आ रही हैं। हज़ारों parents अभी भी form नहीं भर पा रहे हैं। NVS ने अभी तक कोई official statement नहीं दिया है।</p>
 </div>
 
-<p><strong>JNVST Registration 2027</strong> की last date 31 जुलाई 2026 है — सिर्फ 6 दिन बाकी। लेकिन Navodaya portal पर server down की वजह से हज़ारों parents form नहीं भर पा रहे हैं। 504 Gateway Time-out, OTP न आना, form submit न होना — ये आम समस्याएं बन गई हैं।</p>
+<p><strong>JNVST Registration 2027</strong> की last date 7 अगस्त 2026 है — सिर्फ 6 दिन बाकी। लेकिन Navodaya portal पर server down की वजह से हज़ारों parents form नहीं भर पा रहे हैं। 504 Gateway Time-out, OTP न आना, form submit न होना — ये आम समस्याएं बन गई हैं।</p>
 
 <p>हर साल last date के पास यही होता है। और हर साल NVS last date बढ़ाता है। तो सवाल ये है — <strong>क्या इस बार भी JNVST form date extend hogi?</strong></p>
 
@@ -6189,7 +6189,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 आंसर की डाउनलोड करें navodaya.gov.in से। Navodaya Class 6 Answer Key 2027 PDF — Set A, B, C, D सभी sets के सही उत्तर देखें।",
     keywords: "JNVST 2027 Answer Key Download, Navodaya Class 6 Answer Key 2027 PDF, JNVST 2027 Paper Solution Class 6, Navodaya Entrance Exam Expected Cut Off 2027",
     date: "25 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
-    modifiedDate: "25 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -6319,7 +6319,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "Sainik School AISSEE 2027 नोटिफिकेशन सितंबर-अक्टूबर 2026 में expected है। जानें NTA AISSEE 2027 registration date, eligibility, exam pattern और आवेदन प्रक्रिया।",
     keywords: "Sainik School AISSEE 2027 Notification Date, सैनिक स्कूल कक्षा 6 एडमिशन फॉर्म 2027, AISSEE 2027 कक्षा 9 रजिस्ट्रेशन अंतिम तिथि, NTA सैनिक स्कूल एडमिशन फॉर्म लिंक",
     date: "25 जुलाई 2026, शाम 4 बजे",
-    modifiedDate: "25 जुलाई 2026, शाम 4 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -6435,7 +6435,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 Mental Ability 50 Important Questions — Odd One Out, Figure Series, Mirror Image, Analogy, Coding-Decoding, Paper Folding सभी topics cover। Free PDF download।",
     keywords: "JNVST 2027 Mental Ability 50 Important Questions, Navodaya Class 6 Mental Ability questions PDF, JNVST Reasoning practice set 2027, Navodaya Mental ability important topics",
     date: "25 जुलाई 2026, शाम 4 बजकर 30 मिनट",
-    modifiedDate: "25 जुलाई 2026, शाम 4 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -6865,7 +6865,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "August 2026 Current Affairs — स्कूल असेंबली, परीक्षा और GK के लिए जरूरी राष्ट्रीय-अंतर्राष्ट्रीय खबरें, विज्ञान, खेल, और महत्वपूर्ण दिवस।",
     keywords: "August 2026 Current Affairs Weekly GK Update, School assembly current affairs August 2026, Weekly GK news for school students, August 2026 important days and national events",
     date: "25 जुलाई 2026, शाम 5 बजे",
-    modifiedDate: "25 जुलाई 2026, शाम 5 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -7055,7 +7055,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya School mein admission ke baad kya hota hai — hostel life, daily routine, free facilities, house system, parent meeting rules। जानें JNV में बच्चे की ज़िंदगी कैसी होती है।",
     keywords: "Navodaya School Mein Admission Ke Baad Kya Hota Hai, Jawahar Navodaya Vidyalaya hostel life rules, JNV daily routine for students, Navodaya School mess food and facilities",
     date: "25 जुलाई 2026, शाम 5 बजकर 30 मिनट",
-    modifiedDate: "25 जुलाई 2026, शाम 5 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -7198,7 +7198,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AMU JMI Entrance 2027 English section crack kaise karein — grammar, vocabulary, reading comprehension, idioms sab cover। Aamir ki expert strategy se full marks laayein।",
     keywords: "AMU JMI Entrance 2027 English Section Kaise Crack Karein, AMU entrance exam English syllabus 2027, Jamia entrance English preparation strategy, AMU JMI English grammar important topics",
     date: "25 जुलाई 2026, शाम 6 बजे",
-    modifiedDate: "25 जुलाई 2026, शाम 6 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Aamir",
     authorName: "Aamir",
     authorSlug: "aamir",
@@ -7449,7 +7449,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "Bacche ko boarding school mein adjust kaise karayein — homesickness, separation anxiety, phone call rules, warden coordination sab cover। Priya Verma ki expert advice।",
     keywords: "Bacche Ko Boarding School Mein Adjust Kaise Karayein, Boarding school separation anxiety in parents and child, How to overcome homesickness in boarding school, Boarding school hostel adjustment tips Hindi",
     date: "25 जुलाई 2026, शाम 6 बजकर 30 मिनट",
-    modifiedDate: "25 जुलाई 2026, शाम 6 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -7604,7 +7604,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AMU Class 6 Entrance 2027 Important Questions — English, Hindi, Urdu, Mathematics, General Science सभी subjects cover। Previous year papers और model paper PDF download।",
     keywords: "AMU Class 6 Entrance 2027 Important Questions, AMU Class 6 Entrance model paper PDF, AMU Class 6 previous year question papers, AMU Class 6 syllabus and exam pattern 2027",
     date: "25 जुलाई 2026, शाम 7 बजे",
-    modifiedDate: "25 जुलाई 2026, शाम 7 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -7914,7 +7914,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JMI Class 6 Entrance 2027 Preparation Tips — EVS, Mathematics, English syllabus breakdown, exam pattern, और Coach Sameer की complete strategy।",
     keywords: "JMI Class 6 Entrance 2027 Preparation Tips, JMI Class 6 entrance exam syllabus 2027, Jamia Class 6 admission question paper pattern, JMI Class 6 entrance preparation strategy",
     date: "25 जुलाई 2026, शाम 8 बजे",
-    modifiedDate: "25 जुलाई 2026, शाम 8 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -8076,7 +8076,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 New District Boundary Rule — गलत district से form भरा तो admission cancel हो सकता है। जानें NVS का नया नियम और document verification process।",
     keywords: "JNVST 2027 New District Boundary Rule, Navodaya Class 6 admission district eligibility rule, JNVST 2027 resident certificate verification, Navodaya form reject due to wrong district",
     date: "25 जुलाई 2026, रात 9 बजे",
-    modifiedDate: "25 जुलाई 2026, रात 9 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -8224,7 +8224,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 के लिए 4 महीने का complete study plan — daily time table, subject-wise strategy, और 28 नवंबर exam के लिए master plan।",
     keywords: "JNVST 2027 4 Mahine Daily Study Time Table, Navodaya Class 6 preparation 4 month study plan, JNVST 28 November exam strategy, How to crack JNVST 2027 in 120 days",
     date: "25 जुलाई 2026, रात 9 बजकर 30 मिनट",
-    modifiedDate: "25 जुलाई 2026, रात 9 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Neha Singh",
     authorName: "Neha Singh",
     authorSlug: "neha-singh",
@@ -8350,7 +8350,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST Class 6 OMR Sheet filling rules — 5 गलतियां जो result cancel कर सकती हैं। जानें सही तरीका, pen selection, bubbling technique, और roll number filling rules।",
     keywords: "JNVST Class 6 OMR Sheet filling Rules, Navodaya OMR sheet sample PDF download, JNVST OMR sheet mistakes that cancel result, How to fill Navodaya Class 6 OMR sheet correctly",
     date: "25 जुलाई 2026, रात 10 बजे",
-    modifiedDate: "25 जुलाई 2026, रात 10 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -8504,7 +8504,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 Correction Window — फॉर्म में गलती हो गई? फोटो, स्पेलिंग, category सब edit कर सकते हैं। Step-by-step guide और edit करने की पूरी प्रक्रिया।",
     keywords: "JNVST 2027 Correction Window Edit Details, Navodaya Class 6 form correction window date August 2026, How to edit JNVST application form online, JNVST photo and signature edit link",
     date: "26 जुलाई 2026, दोपहर 1 बजकर 20 मिनट",
-    modifiedDate: "26 जुलाई 2026, दोपहर 1 बजकर 20 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -8536,7 +8536,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>Correction window सिर्फ 3-5 दिन के लिए खुलती है। इसलिए जैसे ही link active हो, तुरंत edit करें। Late मत करो — window बंद हो जाएगी और फिर कुछ नहीं हो सकता।</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">JNVST 2027 Correction Window Kab Khulegi?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date (Expected)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Submission Closed</td><td class="py-3 px-4 border-b">31 July 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">6 days left</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Opens</td><td class="py-3 px-4 border-b">1st Week August 2026</td><td class="py-3 px-4 border-b text-gray-500">Expected</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Closes</td><td class="py-3 px-4 border-b">3-5 days after opening</td><td class="py-3 px-4 border-b text-gray-500">Limited time!</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 font-bold">28 November 2026</td><td class="py-3 px-4 text-blue-600 font-bold">Confirmed</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date (Expected)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Status</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Form Submission Closed</td><td class="py-3 px-4 border-b">7 August 2026</td><td class="py-3 px-4 border-b text-orange-600 font-bold">6 days left</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Opens</td><td class="py-3 px-4 border-b">1st Week August 2026</td><td class="py-3 px-4 border-b text-gray-500">Expected</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Correction Window Closes</td><td class="py-3 px-4 border-b">3-5 days after opening</td><td class="py-3 px-4 border-b text-gray-500">Limited time!</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Exam Date</td><td class="py-3 px-4 font-bold">28 November 2026</td><td class="py-3 px-4 text-blue-600 font-bold">Confirmed</td></tr></tbody></table></div>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Kya-Kya Edit Ho Sakta Hai Aur Kya Nahi?</h2>
 <div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Field</th><th class="py-3 px-4 border-b font-bold text-white text-left">Edit Possible?</th><th class="py-3 px-4 border-b font-bold text-white text-left">Notes</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Candidate Photo</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload correct photo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Candidate Signature</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload correct signature</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Category (Gen/OBC/SC/ST)</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Select correct category</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Gender</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Male/Female correction</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Medium of Exam</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Hindi/English/Regional</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Disability Status</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Yes/No correction</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Headmaster Certificate</td><td class="py-3 px-4 border-b text-green-700 font-bold">✅ Yes</td><td class="py-3 px-4 border-b">Re-upload if wrong</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">State</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ No</td><td class="py-3 px-4 border-b">Fixed — cannot change</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">District</td><td class="py-3 px-4 border-b text-red-600 font-bold">❌ No</td><td class="py-3 px-4 border-b">Fixed — cannot change</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Block</td><td class="py-3 px-4 text-red-600 font-bold">❌ No</td><td class="py-3 px-4">Fixed — cannot change</td></tr></tbody></table></div>
@@ -8674,7 +8674,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AISSEE 2027 Sainik School essential documents list — domicile, caste certificate, birth proof, defence quota। अभी से बनवाएं ताकि form reject न हो।",
     keywords: "AISSEE 2027 Sainik School Essential Documents List, Sainik School admission 2027 application form date, AISSEE 2027 domicile and caste certificate rules, How to fix DOB mismatch in Aadhaar for Sainik School",
     date: "26 जुलाई 2026, दोपहर 1 बजकर 20 मिनट",
-    modifiedDate: "26 जुलाई 2026, दोपहर 1 बजकर 20 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -8828,8 +8828,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 deadline miss हो गई? 5 alternative options जो बच्चे का academic year save कर सकते हैं। Sainik School, AMU, JMI, RMS सब options यहां हैं।",
     keywords: "JNVST 2027 Deadline Miss Academic Strategy, What if missed Navodaya Class 6 application deadline, Alternative options for JNVST Class 6, Sainik School and AMU JMI entrance option",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
-    readTime: "8 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -8838,117 +8838,357 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-deadline-miss-academic-strategy.webp",
     imageAlt: "JNVST 2027 deadline miss - academic year save strategy alternative options Sainik School AMU JMI",
-    content: `<div class="bg-orange-50 border-l-4 border-orange-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Actionable Advice:</p>
+    content: `<p>हर साल JNVST की deadline निकलने के बाद सैकड़ों माता-पिता मुझसे एक ही सवाल पूछते हैं — <strong>"सर, deadline miss हो गई, अब बच्चे का साल बर्बाद हो जाएगा?"</strong> मैं पिछले 15 साल से बच्चों को competitive exams की तैयारी करा रहा हूँ, और मैं आपको विश्वास दिलाता हूँ — <strong>academic year waste नहीं होगा।</strong> इस लेख में मैं आपको हर उस option के बारे में विस्तार से बताऊंगा जो बच्चे के भविष्य को secure कर सकता है।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-2027-deadline-miss-academic-strategy.webp" alt="JNVST 2027 deadline miss — academic year save करने की strategy और alternative options" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 deadline miss — Sainik School, AMU, JMI और अन्य विकल्पों की पूरी जानकारी</p>
+</div>
+
+<div class="bg-orange-50 border-l-4 border-orange-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">तुरंत कार्य योजना:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>JNVST 2027 Last Date:</strong> 31 July 2026 — अगर miss हो गई तो घबराएं नहीं</li>
-<li><strong>Sainik School (AISSEE 2027):</strong> Form सितंबर-अक्टूबर 2026 में आएगा</li>
-<li><strong>AMU/JMI:</strong> Form नवंबर-दिसंबर 2026 में आएगा</li>
-<li><strong>JNVST Class 9 Lateral Entry:</strong> अगले साल Class 9 में admission का मौका</li>
-<li><strong>Academic year waste नहीं होगा</strong> — सही strategy से</li>
+<li><strong>JNVST 2027 अंतिम तिथि:</strong> 7 अगस्त 2026 — अगर miss हो गई तो घबराएं नहीं</li>
+<li><strong>सैनिक स्कूल (AISSEE 2027):</strong> फॉर्म सितंबर-अक्टूबर 2026 में आएगा</li>
+<li><strong>AMU/JMI:</strong> फॉर्म नवंबर-दिसंबर 2026 में आएगा</li>
+<li><strong>नवोदय कक्षा 9 लेटरल एंट्री:</strong> अगले साल कक्षा 9 में प्रवेश का मौका</li>
+<li><strong>शैक्षणिक साल बर्बाद नहीं होगा</strong> — सही रणनीति से</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Principal Rifaul Hasan से संदेश:</p>
-<p>"मैं 15 साल से students को competitive exams के लिए guide कर रहा हूं। हर साल कुछ parents JNVST की deadline miss कर देते हैं — और बहुत परेशान हो जाते हैं। लेकिन ये दुनिया का अंत नहीं है। बच्चे के लिए बहुत सारे options हैं। ज़रूरी है कि आप अभी action लें, रोने में time waste न करें।"</p>
+<p class="font-bold text-gray-900 mb-2">प्रधानाचार्य रिफाउल हसन का संदेश:</p>
+<p>"मैं 15 साल से बच्चों को प्रतियोगी परीक्षाओं के लिए मार्गदर्शन दे रहा हूँ। हर साल कुछ अभिभावक नवोदय की deadline miss कर देते हैं — और बहुत परेशान हो जाते हैं। लेकिन यह दुनिया का अंत नहीं है। बच्चे के लिए बहुत सारे विकल्प हैं। ज़रूरी है कि आप अभी कार्रवाई करें, रोने में समय बर्बाद न करें।"</p>
 </div>
 
-<p><strong>JNVST 2027 Deadline Miss हुई?</strong> अगर आपने 31 जुलाई 2026 तक Navodaya Class 6 admission form नहीं भरा है, तो घबराएं नहीं। Academic year waste नहीं होगा। इस article में मैं आपको 5 alternative options बताऊंगा जो बच्चे का भविष्य secure कर सकते हैं।</p>
+<h2>JNVST 2027 — deadline miss होने पर क्या करें?</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">31 July Deadline Miss Hone Par Kya Navodaya Date Extend Hogi?</h2>
-<p>Previous year trends के आधार पर, NVS हर साल 7-10 दिन का extension देता है। लेकिन <strong>ये 100% confirm नहीं है।</strong> अगर portal पर server issues आए हैं तो extension की possibility ज्यादा है।</p>
-<p>लेकिन extension का wait न करें। अभी से alternative options पर focus करें।</p>
+<p>अगर आपने 7 अगस्त 2026 तक नवोदय विद्यालय कक्षा 6 का प्रवेश फॉर्म नहीं भरा है, तो सबसे पहले <strong>शांत रहें।</strong> यह समझना ज़रूरी है कि JNVST सिर्फ़ एक परीक्षा है — बच्चे के भविष्य का एकमात्र रास्ता नहीं। भारत में कई बेहतरीन residential schools हैं जो नवोदय जैसी ही गुणवत्तापूर्ण शिक्षा देते हैं — वो भी बहुत कम या मुफ्त फीस पर।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Backup Plan 1: JNVST Class 9 Lateral Entry Test</h2>
-<p>अगर बच्चा अभी Class 5 में है और JNVST 2027 miss हो गया, तो <strong>JNVST Class 9 Lateral Entry</strong> एक बड़ा मौका है।</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>कब:</strong> Class 8 के बाद (2028-29 session)</li>
-<li><strong>कितनी seats:</strong> हर JNV में 10-15 lateral entry seats</li>
-<li><strong>Eligibility:</strong> Class 8 pass, उम्र 13-15 साल</li>
-<li><strong>फायदा:</strong> बच्चा 3 साल JNV में पढ़ेगा (Class 9-11)</li>
+<p>इस लेख में मैं आपको <strong>5 ठोस विकल्प</strong> बताऊंगा, हर एक की timeline, eligibility, और तैयारी का तरीका भी समझाऊंगा। साथ ही यह भी बताऊंगा कि <strong>बच्चे की पढ़ाई की गति कैसे बनाए रखें</strong> ताकि वह किसी भी परीक्षा के लिए तैयार रहे।</p>
+
+<h2>क्या नवोदय की deadline बढ़ेगी? — पिछले सालों का रिकॉर्ड</h2>
+
+<p>बहुत से अभिभावक सोचते हैं कि deadline बढ़ जाएगी। पिछले सालों का रिकॉर्ड देखें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">साल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">मूल अंतिम तिथि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">बढ़ी हुई तिथि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कितने दिन बढ़ी</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-bold">2026</td><td class="py-3 px-4 border-b">31 जुलाई 2025</td><td class="py-3 px-4 border-b">10 अगस्त 2025</td><td class="py-3 px-4 border-b">10 दिन</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-bold">2025</td><td class="py-3 px-4 border-b">31 जुलाई 2024</td><td class="py-3 px-4 border-b">7 अगस्त 2024</td><td class="py-3 px-4 border-b">7 दिन</td></tr>
+      <tr><td class="py-3 px-4 border-b font-bold">2024</td><td class="py-3 px-4 border-b">15 अगस्त 2023</td><td class="py-3 px-4 border-b">25 अगस्त 2023</td><td class="py-3 px-4 border-b">10 दिन</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-bold">2023</td><td class="py-3 px-4 border-b">31 जुलाई 2022</td><td class="py-3 px-4 border-b">कोई extension नहीं</td><td class="py-3 px-4 border-b">—</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> deadline extension 100% पक्का नहीं है। 2023 में कोई extension नहीं मिला था। अगर portal पर server issues आए हैं तो extension की संभावना ज़्यादा है, लेकिन extension का इंतज़ार न करें — अभी से alternative options पर ध्यान दें।</p>
+</div>
+
+<h2>विकल्प 1: नवोदय कक्षा 9 लेटरल एंट्री टेस्ट — दूसरा मौका</h2>
+
+<p>अगर बच्चा अभी कक्षा 5 में है और JNVST 2027 miss हो गया, तो <strong>नवोदय कक्षा 9 लेटरल एंट्री</strong> सबसे अच्छा विकल्प है। इसमें बच्चा सीधे कक्षा 9 में नवोदय में प्रवेश ले सकता है।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-class-9-lateral-entry-2028.webp" alt="नवोदय कक्षा 9 लेटरल एंट्री 2028 — JNVST deadline miss होने पर दूसरा मौका" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय कक्षा 9 लेटरल एंट्री — JNVST 2027 miss होने पर सबसे बड़ा मौका</p>
+</div>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का समय</td><td class="py-3 px-4 border-b">हर साल फरवरी-मार्च में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">पात्रता</td><td class="py-3 px-4 border-b">कक्षा 8 उत्तीर्ण, आयु 13-15 वर्ष</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सीटें</td><td class="py-3 px-4 border-b">हर JNV में 10-15 सीटें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा पैटर्न</td><td class="py-3 px-4 border-b">English, Hindi, Math, Science, Social Science</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">अवधि</td><td class="py-3 px-4 border-b">JNV में 3 साल (कक्षा 9-11)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">आवेदन</td><td class="py-3 px-4">navodaya.gov.in पर ऑनलाइन</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border border-green-200 p-4 rounded-lg my-4">
+  <p class="text-green-800 text-sm"><strong>फ़ायदा:</strong> लेटरल एंट्री में competition कम होता है क्योंकि ज़्यादातर बच्चे कक्षा 6 में ही प्रवेश ले लेते हैं। अगर बच्चा कक्षा 8 तक अच्छी तैयारी करे, तो selection की संभावना बहुत अच्छी रहती है।</p>
+</div>
+
+<h2>विकल्प 2: सैनिक स्कूल (AISSEE 2027) — सबसे बड़ा मौका</h2>
+
+<p>सैनिक स्कूल प्रवेश परीक्षा (AISSEE) हर साल NTA (राष्ट्रीय परीक्षा एजेंसी) द्वारा आयोजित की जाती है। यह परीक्षा JNVST का सबसे बड़ा विकल्प है क्योंकि इसमें <strong>10,000 से ज़्यादा सीटें</strong> हैं और देश भर में 33 सैनिक स्कूल हैं।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">फॉर्म उपलब्ध</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा</td><td class="py-3 px-4 border-b">जनवरी 2027</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल सीटें</td><td class="py-3 px-4 border-b font-bold">~10,000+</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">स्कूल की संख्या</td><td class="py-3 px-4 border-b">33 सैनिक स्कूल (देश भर में)</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">वार्षिक शुल्क</td><td class="py-3 px-4 border-b">₹30,000 - ₹50,000</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">लड़कियों के लिए कोटा</td><td class="py-3 px-4 border-b text-green-700 font-bold">10% सीटें आरक्षित</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">आधिकारिक वेबसाइट</td><td class="py-3 px-4 border-b">exams.nta.ac.in</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>महत्वपूर्ण:</strong> सैनिक स्कूल में प्रवेश के लिए शारीरिक फिटनेस टेस्ट भी होता है। बच्चे को दौड़, ऊंची कूद, और अन्य शारीरिक गतिविधियों की तैयारी भी करनी होगी। लिखित परीक्षा पास करने के बाद medical test भी होता है।</p>
+</div>
+
+<p>सैनिक स्कूल की तैयारी के लिए:</p>
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>गणित:</strong> कक्षा 5 तक का पूरा syllabus — अंकगणित, भिन्न, दशमलव, मापन</li>
+  <li><strong>भाषा:</strong> हिंदी और अंग्रेज़ी दोनों — reading comprehension, grammar</li>
+  <li><strong>सामान्य ज्ञान:</strong> करंट अफेयर्स, विज्ञान, सामाजिक विज्ञान</li>
+  <li><strong>बौद्धिक क्षमता:</strong> reasoning, pattern, analogy</li>
 </ul>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Backup Plan 2: Sainik School, AMU, aur JMI Entrance Options</h2>
-<p>अगर JNVST miss हो गया है, तो भारत में कई और बेहतरीन residential schools हैं जो Class 6 में admission देते हैं। ये सब schools free या बहुत कम fee पर quality education प्रदान करते हैं।</p>
+<h2>विकल्प 3: AMU (अलीगढ़ मुस्लिम विश्वविद्यालय) — गुणवत्तापूर्ण शिक्षा</h2>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">School</th><th class="py-3 px-4 border-b font-bold text-white text-left">Form Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Exam Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Seats</th><th class="py-3 px-4 border-b font-bold text-white text-left">Fee</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School (AISSEE)</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">~10,000</td><td class="py-3 px-4 border-b">₹30,000-50,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">~200</td><td class="py-3 px-4 border-b">₹5,000-10,000/yr</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">~100</td><td class="py-3 px-4 border-b">₹5,000-8,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">RMS CET</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">~500</td><td class="py-3 px-4 border-b">₹15,000-25,000/yr</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Vidyagyan (UP)</td><td class="py-3 px-4">Jan-Feb 2027</td><td class="py-3 px-4">Mar 2027</td><td class="py-3 px-4">~2,500</td><td class="py-3 px-4 text-green-700 font-bold">मुफ्त</td></tr></tbody></table></div>
+<p>AMU कक्षा 6 प्रवेश परीक्षा बहुत competitive है, लेकिन यहाँ की शिक्षा का स्तर बहुत ऊँचा है। AMU के स्कूलों में:</p>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">Sainik School (AISSEE 2027) — सबसे बड़ा मौका</h3>
-<p>Sainik School entrance exam (AISSEE) हर साल NTA (National Testing Agency) द्वारा आयोजित किया जाता है। ये exam सबसे बड़ा मौका है क्योंकि:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>10,000+ seats</strong> — देश भर में 33 Sainik Schools हैं</li>
-<li><strong>Girls Quota</strong> — 2026 से लड़कियों के लिए 10% seats reserved हैं</li>
-<li><strong>Form September-October 2026</strong> में आएगा — अभी time है</li>
-<li><strong>Exam January 2027</strong> में होगा</li>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">फॉर्म उपलब्ध</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सीटें</td><td class="py-3 px-4 border-b">~200</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">वार्षिक शुल्क</td><td class="py-3 px-4 border-b text-green-700 font-bold">₹5,000 - ₹10,000</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">विशेषता</td><td class="py-3 px-4 border-b">AMU के professors पढ़ाते हैं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">वेबसाइट</td><td class="py-3 px-4">amucontrollerexams.com</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>तैयारी का तरीका:</strong> AMU का पेपर ज़्यादातर NCERT आधारित होता है। कक्षा 5 तक की NCERT किताबें अच्छे से पढ़ें। सामान्य ज्ञान और भाषा पर ज़्यादा ध्यान दें। पिछले 5 साल के पेपर हल करें।</p>
+</div>
+
+<h2>विकल्प 4: JMI (जामिया मिलिया इस्लामिया) — दिल्ली का बेहतरीन स्कूल</h2>
+
+<p>JMI कक्षा 6 प्रवेश परीक्षा दिल्ली में सबसे popular है। JMI के स्कूलों में आधुनिक सुविधाएं, computer lab, library, और sports ground उपलब्ध हैं।</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>फीस बहुत कम:</strong> ₹5,000-8,000 प्रति वर्ष</li>
+  <li><strong>फॉर्म:</strong> नवंबर-दिसंबर 2026 में उपलब्ध</li>
+  <li><strong>परीक्षा:</strong> फरवरी-मार्च 2027 में</li>
+  <li><strong>आधुनिक सुविधाएं:</strong> computer lab, library, sports ground</li>
+  <li><strong>वेबसाइट:</strong> jmi.ac.in</li>
 </ul>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">AMU (Aligarh Muslim University) — Quality Education</h3>
-<p>AMU Class 6 entrance exam बहुत competitive है लेकिन quality education मिलती है। AMU के schools में:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Fee बहुत कम</strong> — ₹5,000-10,000 per year</li>
-<li><strong>Experienced teachers</strong> — AMU के professors पढ़ाते हैं</li>
-<li><strong>Form November-December 2026</strong> में आएगा</li>
-<li><strong>Exam February-March 2027</strong> में होगा</li>
-</ul>
+<h2>विकल्प 5: RMS CET, विद्याज्ञान और अन्य Residential Schools</h2>
 
-<h3 class="text-xl font-bold text-gray-900 mt-8 mb-3">JMI (Jamia Millia Islamia) — Delhi का बेहतरीन School</h3>
-<p>JMI Class 6 entrance exam Delhi में सबसे popular है। JMI के schools में:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Fee बहुत कम</strong> — ₹5,000-8,000 per year</li>
-<li><strong>Modern facilities</strong> — Computer lab, library, sports ground</li>
-<li><strong>Form November-December 2026</strong> में आएगा</li>
-</ul>
+<p>इन बड़े विकल्पों के अलावा भी कई अच्छे स्कूल हैं जो कम फीस में quality education देते हैं:</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">State Model Schools & EMRS Alternatives</h2>
-<p>कई राज्यों में <strong>Model Schools</strong> और <strong>Eklavya Model Residential Schools (EMRS)</strong> भी हैं जो free education देते हैं:</p>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्कूल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">फॉर्म कब</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">परीक्षा कब</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सीटें</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">शुल्क</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सैनिक स्कूल (AISSEE)</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">~10,000</td><td class="py-3 px-4 border-b">₹30,000-50,000/वर्ष</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU कक्षा 6</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">~200</td><td class="py-3 px-4 border-b">₹5,000-10,000/वर्ष</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI कक्षा 6</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">~100</td><td class="py-3 px-4 border-b">₹5,000-8,000/वर्ष</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">RMS CET</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">~500</td><td class="py-3 px-4 border-b">₹15,000-25,000/वर्ष</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">विद्याज्ञान (UP)</td><td class="py-3 px-4 border-b">जनवरी-फरवरी 2027</td><td class="py-3 px-4 border-b">मार्च 2027</td><td class="py-3 px-4 border-b">~2,500</td><td class="py-3 px-4 text-green-700 font-bold">मुफ्त</td></tr>
+    </tbody>
+  </table>
+</div>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">School Type</th><th class="py-3 px-4 border-b font-bold text-white text-left">Fee</th><th class="py-3 px-4 border-b font-bold text-white text-left">Eligibility</th><th class="py-3 px-4 border-b font-bold text-white text-left">Location</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">State Model Schools</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">State-specific</td><td class="py-3 px-4 border-b">Various states</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">EMRS</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">ST students only</td><td class="py-3 px-4 border-b">Tribal areas</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Kendriya Vidyalaya</td><td class="py-3 px-4 border-b">₹1,500-2,000/month</td><td class="py-3 px-4 border-b">Central govt employees</td><td class="py-3 px-4 border-b">Pan India</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Army Public School</td><td class="py-3 px-4">₹2,000-5,000/month</td><td class="py-3 px-4">Defence personnel</td><td class="py-3 px-4">Near cantonments</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/alternative-schools-jnvst-miss-2027.webp" alt="JNVST deadline miss होने पर alternative residential schools — सैनिक स्कूल, AMU, JMI, RMS" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 के alternative options — सैनिक स्कूल, AMU, JMI, RMS और विद्याज्ञान</p>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Principal's Checklist: Academic Momentum कैसे बनाए रखें</h2>
+<h2>राज्य मॉडल स्कूल और EMRS — मुफ्त शिक्षा के विकल्प</h2>
+
+<p>कई राज्यों में <strong>मॉडल स्कूल</strong> और <strong>एकलव्य मॉडल आवासीय विद्यालय (EMRS)</strong> भी हैं जो मुफ्त शिक्षा देते हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्कूल का प्रकार</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">शुल्क</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">पात्रता</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्थान</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">राज्य मॉडल स्कूल</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">राज्य अनुसार</td><td class="py-3 px-4 border-b">विभिन्न राज्य</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">EMRS</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">केवल ST छात्र</td><td class="py-3 px-4 border-b">आदिवासी क्षेत्र</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">केंद्रीय विद्यालय</td><td class="py-3 px-4 border-b">₹1,500-2,000/माह</td><td class="py-3 px-4 border-b">केंद्र सरकार कर्मचारी</td><td class="py-3 px-4 border-b">पूरे भारत में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">आर्मी पब्लिक स्कूल</td><td class="py-3 px-4">₹2,000-5,000/माह</td><td class="py-3 px-4">रक्षाकर्मी</td><td class="py-3 px-4">कैंटोनमेंट के पास</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>सभी विकल्पों की तुलना — कौन सा सबसे अच्छा है?</h2>
+
+<p>हर विकल्प के अपने फ़ायदे और नुकसान हैं। अपने बच्चे के लिए सही विकल्प चुनने के लिए यह तुलना देखें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">मानदंड</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सैनिक स्कूल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">AMU</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">JMI</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विद्याज्ञान</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">शुल्क</td><td class="py-3 px-4 border-b">₹30-50K/वर्ष</td><td class="py-3 px-4 border-b">₹5-10K/वर्ष</td><td class="py-3 px-4 border-b">₹5-8K/वर्ष</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सीटें</td><td class="py-3 px-4 border-b">10,000+</td><td class="py-3 px-4 border-b">~200</td><td class="py-3 px-4 border-b">~100</td><td class="py-3 px-4 border-b">~2,500</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">competition</td><td class="py-3 px-4 border-b">मध्यम</td><td class="py-3 px-4 border-b">बहुत ज़्यादा</td><td class="py-3 px-4 border-b">बहुत ज़्यादा</td><td class="py-3 px-4 border-b">मध्यम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शारीरिक टेस्ट</td><td class="py-3 px-4 border-b">हाँ</td><td class="py-3 px-4 border-b">नहीं</td><td class="py-3 px-4 border-b">नहीं</td><td class="py-3 px-4 border-b">नहीं</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">उपलब्धता</td><td class="py-3 px-4">पूरे भारत में</td><td class="py-3 px-4">अलीगढ़</td><td class="py-3 px-4">दिल्ली</td><td class="py-3 px-4">केवल UP</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border border-green-200 p-4 rounded-lg my-4">
+  <p class="text-green-800 text-sm"><strong>मेरी सलाह:</strong> अगर बच्चा UP में है तो विद्याज्ञान सबसे अच्छा option है (मुफ्त शिक्षा)। अगर दिल्ली में है तो JMI try करें। अगर पूरे भारत में कहीं भी है तो सैनिक स्कूल सबसे बड़ा मौका है।</p>
+</div>
+
+<h2>शैक्षणिक गति कैसे बनाए रखें? — प्रधानाचार्य की चेकलिस्ट</h2>
+
+<p>deadline miss होने का मतलब यह नहीं कि बच्चे की पढ़ाई रुक जाए। बल्कि <strong>अभी समय है कि बच्चे को और मज़बूत बनाएं।</strong> यह चेकलिस्ट follow करें:</p>
+
 <div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
 <ul class="list-decimal pl-6 space-y-3">
-<li><strong>Daily 2 घंटे entrance prep जारी रखें</strong> — JNVST pattern questions practice करें</li>
-<li><strong>NCERT books पढ़ाएं</strong> — Class 4-5 की Science, Math, EVS thoroughly पढ़ें</li>
-<li><strong>Mock tests दें</strong> — हफ्ते में 1 full mock test ज़रूर दें</li>
-<li><strong>GK daily पढ़ें</strong> — 10 मिनट newspaper या current affairs</li>
-<li><strong>बच्चे को motivate करें</strong> — "तुम हार नहीं मानोगे" positive reinforcement दें</li>
+<li><strong>रोज़ाना 2 घंटे entrance preparation जारी रखें:</strong> JNVST pattern के सवाल solve करें — चाहे कोई भी परीक्षा देनी हो, तैयारी same रहती है</li>
+<li><strong>NCERT किताबें पढ़ाएं:</strong> कक्षा 4-5 की विज्ञान, गणित, EVS अच्छे से पढ़ें — हर परीक्षा में NCERT से सवाल आते हैं</li>
+<li><strong>Mock test दें:</strong> हफ्ते में 1 full mock test ज़रूर दें — time management सुधरेगा</li>
+<li><strong>सामान्य ज्ञान रोज़ पढ़ें:</strong> 10 मिनट newspaper या current affairs पढ़ें — GK हर परीक्षा में आता है</li>
+<li><strong>बच्चे को motivate करें:</strong> "तुम हार नहीं मानोगे" — positive reinforcement दें, दबाव न डालें</li>
+<li><strong>OMR शीट की practice कराएं:</strong> बहुत से बच्चे सवाल तो सही करते हैं लेकिन OMR पर गलत bubble भर देते हैं</li>
+<li><strong>समय सारणी बनाएं:</strong> सुबह गणित, दोपहर भाषा, शाम सामान्य ज्ञान — routine बनाना ज़रूरी है</li>
 </ul>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/academic-momentum-jnvst-preparation.webp" alt="JNVST deadline miss होने पर शैक्षणिक गति कैसे बनाए रखें — daily preparation routine" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">शैक्षणिक गति बनाए रखें — रोज़ाना 2 घंटे की तैयारी ज़रूरी है</p>
+</div>
+
+<h2>हर महीने क्या करें? — मासिक योजना</h2>
+
+<p>अगर deadline miss हो गई है, तो बच्चे के लिए एक <strong>मासिक योजना</strong> बनाएं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">महीना</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">लक्ष्य</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">अगस्त-सितंबर 2026</td><td class="py-3 px-4 border-b">NCERT basics मज़बूत करें</td><td class="py-3 px-4 border-b">कक्षा 5 का पूरा syllabus cover करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अक्टूबर 2026</td><td class="py-3 px-4 border-b">सैनिक स्कूल का form भरें</td><td class="py-3 px-4 border-b">AISSEE form submission</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">नवंबर 2026</td><td class="py-3 px-4 border-b">AMU/JMI के forms भरें + mock tests</td><td class="py-3 px-4 border-b">हफ्ते में 2 mock tests</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दिसंबर 2026</td><td class="py-3 px-4 border-b">Revision + previous year papers</td><td class="py-3 px-4 border-b">10 previous year papers solve करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">जनवरी 2027</td><td class="py-3 px-4 border-b">सैनिक स्कूल परीक्षा</td><td class="py-3 px-4 border-b">AISSEE exam + physical test prep</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">फरवरी-मार्च 2027</td><td class="py-3 px-4">AMU/JMI परीक्षा</td><td class="py-3 px-4">Final revision + exam</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>अभिभावकों के लिए सुझाव — बच्चे पर दबाव न डालें</h2>
+
+<p>deadline miss होने पर अभिभावक अक्सर परेशान हो जाते हैं और बच्चे पर दबाव डालने लगते हैं। <strong>यह गलत है।</strong> बच्चे को दबाव नहीं, प्रोत्साहन चाहिए।</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>शांत रहें:</strong> बच्चे को डराएं नहीं। उसे बताएं कि और भी अच्छे स्कूल हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>योजना बनाएं:</strong> बच्चे के साथ बैठकर तैयारी की योजना बनाएं — हर हफ्ते का target तय करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>प्रोत्साहन दें:</strong> "तुम बहुत अच्छा कर रहे हो" — यह वाक्य बच्चे को हिम्मत देता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Expert से बात करें:</strong> JGPS में हम मुफ्त counseling देते हैं — कॉल करें +91 9412137554</p>
+  </div>
+</div>
+
+<h2>संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School AISSEE 2027</h3>
+<h3 class="font-bold text-green-700 text-sm mb-1">सैनिक स्कूल AISSEE 2027</h3>
 <p class="text-gray-600 text-xs">Notification date और eligibility</p>
 </a>
 <a href="/hi/blog/amu-class-6-entrance-2027-important-questions/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AMU Class 6 Important Questions</h3>
-<p class="text-gray-600 text-xs">30+ questions with answers</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">AMU कक्षा 6 महत्वपूर्ण प्रश्न</h3>
+<p class="text-gray-600 text-xs">30+ सवाल जवाब सहित</p>
 </a>
 <a href="/hi/blog/jmi-class-6-entrance-2027-preparation-tips/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">JMI Class 6 Preparation</h3>
-<p class="text-gray-600 text-xs">Preparation tips और syllabus</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">JMI कक्षा 6 तैयारी</h3>
+<p class="text-gray-600 text-xs">तैयारी के टिप्स और syllabus</p>
 </a>
 <a href="/hi/blog/vidyagyan-school-admission-2027-last-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Vidyagyan School Admission</h3>
-<p class="text-gray-600 text-xs">UP students के लिए free education</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">विद्याज्ञान स्कूल प्रवेश</h3>
+<p class="text-gray-600 text-xs">UP छात्रों के लिए मुफ्त शिक्षा</p>
 </a>
 </div>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Alternative options चाहिए?</h3><p><strong>JGPS School</strong> में Rifaul Hasan से guidance लें। Free counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p></div>
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">वैकल्पिक विकल्प चाहिए?</h3>
+<p><strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में प्रधानाचार्य रिफाउल हसन से मार्गदर्शन लें। मुफ्त counseling के लिए कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Final Encouragement</h3>
-<p>JNVST deadline miss होना disappointing है, लेकिन ये दुनिया का अंत नहीं है। <strong>बच्चे के लिए बहुत सारे doors खुले हैं।</strong> Sainik School, AMU, JMI, RMS, Vidyagyan — ये सब excellent options हैं। अभी action लें, रोने में time waste न करें।</p>
-<p class="mt-2 text-sm text-gray-500">Author: Rifaul Hasan | Principal & Academic Expert | JGPS</p>
+<h3 class="font-bold text-gray-900 mb-2">अंतिम प्रोत्साहन</h3>
+<p>नवोदय deadline miss होना निराशाजनक है, लेकिन यह दुनिया का अंत नहीं है। <strong>बच्चे के लिए बहुत सारे दरवाज़े खुले हैं।</strong> सैनिक स्कूल, AMU, JMI, RMS, विद्याज्ञान — ये सब excellent options हैं। अभी कार्रवाई करें, रोने में समय बर्बाद न करें।</p>
+<p class="mt-2 text-sm text-gray-500">लेखक: रिफाउल हसन | प्रधानाचार्य और शैक्षणिक विशेषज्ञ | JGPS</p>
 </div>
 `,
     faqs: [
-      { question: "JNVST 2027 deadline miss हो गई तो क्या करें?", answer: "Sainik School (AISSEE 2027), AMU, JMI, RMS, या Vidyagyan School का form भरें। Academic year waste नहीं होगा।" },
-      { question: "Sainik School का form कब आएगा?", answer: "सितंबर-अक्टूबर 2026 में expected है। exams.nta.ac.in पर notification जारी होगा।" },
-      { question: "AMU/JMI का form कब आएगा?", answer: "नवंबर-दिसंबर 2026 में expected है। Exam फरवरी-मार्च 2027 में होगा।" },
-      { question: "क्या Class 9 में Navodaya में lateral entry मिल सकती है?", answer: "हां, JNVST Class 9 Lateral Entry Test हर साल होता है। हर JNV में 10-15 seats होती हैं।" }
+      { question: "JNVST 2027 deadline miss हो गई तो क्या करें?", answer: "सैनिक स्कूल (AISSEE 2027), AMU, JMI, RMS, या विद्याज्ञान स्कूल का form भरें। Academic year waste नहीं होगा। सभी परीक्षाएं अक्टूबर 2026 से मार्च 2027 के बीच हैं।" },
+      { question: "सैनिक स्कूल का form कब आएगा?", answer: "सितंबर-अक्टूबर 2026 में expected है। exams.nta.ac.in पर notification जारी होगा। परीक्षा जनवरी 2027 में होगी।" },
+      { question: "AMU/JMI का form कब आएगा?", answer: "नवंबर-दिसंबर 2026 में expected है। परीक्षा फरवरी-मार्च 2027 में होगी।" },
+      { question: "क्या कक्षा 9 में नवोदय में lateral entry मिल सकती है?", answer: "हां, JNVST Class 9 Lateral Entry Test हर साल होता है। हर JNV में 10-15 seats होती हैं। कक्षा 8 पास बच्चे apply कर सकते हैं।" },
+      { question: "विद्याज्ञान स्कूल क्या है?", answer: "विद्याज्ञान UP सरकार की scheme है जो गरीब परिवारों के बच्चों को मुफ्त residential education देती है। ~2,500 सीटें हैं।" },
+      { question: "deadline miss होने पर academic year waste होगा?", answer: "नहीं। सैनिक स्कूल, AMU, JMI, RMS सबके forms अक्टूबर-दिसंबर 2026 में आते हैं। बच्चे का साल बर्बाद नहीं होगा।" }
     ]
   },
   {
@@ -8957,7 +9197,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 registration last 48 hours — 504 Gateway Timeout, server down, payment fail solutions। 31 July deadline से पहले form भरने की complete guide।",
     keywords: "JNVST 2027 Registration Last 48 Hours Server Fix, Navodaya portal server down 31 July, cbseitms.rcil.gov.in time out error solution, How to complete JNVST form in last 2 days",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     readTime: "7 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
@@ -8982,7 +9222,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>"मैं 10 साल से entrance exams की coaching दे रहा हूं। हर साल last 48 hours में portal crash होता है। ये normal है। घबराओ मत — बस सही time पर try करो। Non-peak hours में form भरना सबसे आसान है।"</p>
 </div>
 
-<p><strong>JNVST 2027 Registration Last 48 Hours</strong> — अगर आपने अभी तक form नहीं भरा है, तो अब तुरंत भरें। 31 जुलाई 2026 के बाद portal बंद हो जाएगा। Last 48 hours में server पर heavy traffic आता है — 504 Gateway Timeout, OTP delay, payment fail ये सब normal है।</p>
+<p><strong>JNVST 2027 Registration Last 48 Hours</strong> — अगर आपने अभी तक form नहीं भरा है, तो अब तुरंत भरें। 7 अगस्त 2026 के बाद portal बंद हो जाएगा। Last 48 hours में server पर heavy traffic आता है — 504 Gateway Timeout, OTP delay, payment fail ये सब normal है।</p>
 
 <h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Heavy Server Traffic Issues on cbseitms.rcil.gov.in</h2>
 <p>Last 48 hours में लाखों parents एक साथ form भरते हैं। Server overloaded हो जाता है। ये हर साल होता है।</p>
@@ -9059,7 +9299,7 @@ export const hindiArticles: HindiArticle[] = [
 </div>
 `,
     faqs: [
-      { question: "JNVST 2027 form last date क्या है?", answer: "31 जुलाई 2026। इसके बाद portal बंद हो जाएगा।" },
+      { question: "JNVST 2027 form last date क्या है?", answer: "7 अगस्त 2026। इसके बाद portal बंद हो जाएगा।" },
       { question: "Server down है तो क्या करें?", answer: "सुबह 6-7 AM या रात 10 PM बाद try करें। Incognito mode use करें।" },
       { question: "Payment fail हो गई तो?", answer: "30 minute wait करें। Different payment method try करें।" },
       { question: "Last date बढ़ेगी?", answer: "Previous year trends के आधार पर 70% chance है। लेकिन confirmation नहीं है — आज ही form भरें।" }
@@ -9071,7 +9311,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 Headmaster certificate verification — principal signature, school stamp, district name validation। Form reject होने से पहले 5 critical checks।",
     keywords: "JNVST 2027 Headmaster Certificate Verification Check, Navodaya Class 6 headmaster certificate format PDF, Reasons for JNVST form rejection, School seal and principal signature on NVS form",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     readTime: "7 मिनट",
     author: "Najma",
     authorName: "Najma",
@@ -9176,89 +9416,336 @@ export const hindiArticles: HindiArticle[] = [
     description: "Last minute form panic — parents की anxiety बच्चों पर कैसे affect करती है और सही behavioral approach क्या है।",
     keywords: "Last Minute Form Panic Parenting Guide, Parent exam stress effect on children, How to keep child calm during entrance prep, Parent anxiety management JNVST",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
-    readTime: "7 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "13 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
     authorRole: "Student Counselor",
-    authorBio: "Priya Verma child psychology और exam stress management में specialist हैं।",
+    authorBio: "Priya Verma बाल मनोविज्ञान और परीक्षा तनाव प्रबंधन में विशेषज्ञ हैं। पिछले 10 वर्षों से अभिभावकों और बच्चों को काउंसलिंग दे रही हैं।",
     category: "पेरेंटिंग और काउंसलिंग",
     image: "https://img.jgps.in/blog/last-minute-form-panic-parenting-guide.webp",
     imageAlt: "Deadline stress parenting guide - parent anxiety child effect behavioral approach JNVST",
-    content: `<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Mindful Parenting Do's & Don'ts:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>✅ Do:</strong> "हम साथ हैं, मिलकर करते हैं" कहें</li>
-<li><strong>✅ Do:</strong> Step-by-step approach use करें</li>
-<li><strong>❌ Don't:</strong> "जल्दी करो!" चिल्लाएं नहीं</li>
-<li><strong>❌ Don't:</strong> बच्चे को दोष न दें</li>
-</ul>
+    content: `<p>जेएनवीएसटी 2027 की अंतिम तिथि 31 जुलाई है। अगर आपने अभी तक फॉर्म नहीं भरा है, तो आपकी घबराहट सीधे बच्चे पर असर करती है। 10 साल का बच्चा आपका चेहरा पढ़ता है, आपकी आवाज़ सुनता है, और समझ जाता है कि कुछ गड़बड़ है। मैं पिछले 10 वर्षों से अभिभावकों और बच्चों को काउंसलिंग दे रही हूँ, और हर साल जुलाई के महीने में यही देखती हूँ — माता-पिता की चिंता बच्चे को तोड़ देती है। आज इस लेख में मैं आपको बताऊँगी कि यह घबराहट कैसे फैलती है, बच्चे पर इसका क्या असर होता है, और आप इसे कैसे संभाल सकते हैं।</p>
+
+<div class="my-6">
+<img src="https://img.jgps.in/blog/last-minute-form-panic-parenting-guide.webp" alt="फॉर्म की आपाधापी में अभिभावक का तनाव और बच्चे पर असर — JGPS पेरेंटिंग गाइड" class="w-full rounded-xl shadow-sm" loading="lazy" />
+<p class="text-xs text-gray-500 text-center mt-2">फॉर्म की आपाधापी — अभिभावक का तनाव बच्चे पर कैसे असर करता है</p>
+</div>
+
+<h2>अभिभावक की चिंता 10 साल के बच्चे तक कैसे पहुँचती है?</h2>
+
+<p>10 साल के बच्चे बहुत संवेदनशील होते हैं। वे आपके चेहरे के हाव-भाव, आपकी आवाज़ का लहजा, और आपकी बॉडी लैंग्वेज — सब कुछ पढ़ लेते हैं। जब आप घबराए हुए होते हैं, तो बच्चे के दिमाग में यह संदेश जाता है: <strong>"अम्मी-अब्बू परेशान हैं, मतलब कुछ बहुत गलत है।"</strong></p>
+
+<p>मनोविज्ञान में इसे <strong>"Emotional Contagion"</strong> कहते हैं — यानी एक इंसान की भावनाएँ दूसरे इंसान में फैल जाती हैं। छोटे बच्चे इसके प्रति और भी ज़्यादा संवेदनशील होते हैं क्योंकि उनका दिमाग अभी विकसित हो रहा है।</p>
+
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">अभिभावक का व्यवहार</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">बच्चे की प्रतिक्रिया</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">असर का स्तर</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">"जल्दी करो!" चिल्लाना</td><td class="py-3 px-4 border-b">बच्चा और धीमा हो जाता है</td><td class="py-3 px-4 border-b text-red-600 font-bold">गंभीर</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">घबराकर फॉर्म भरना</td><td class="py-3 px-4 border-b">बच्चा गलतियाँ करता है</td><td class="py-3 px-4 border-b text-red-600 font-bold">गंभीर</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">"तूने अभी तक क्या किया?" पूछना</td><td class="py-3 px-4 border-b">बच्चा आत्मविश्वास खो देता है</td><td class="py-3 px-4 border-b text-orange-600 font-bold">मध्यम</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">चुप रहकर तनाव दिखाना</td><td class="py-3 px-4 border-b">बच्चा असुरक्षित महसूस करता है</td><td class="py-3 px-4 border-b text-orange-600 font-bold">मध्यम</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">शांत रहकर मदद करना</td><td class="py-3 px-4">बच्चा सहज और केंद्रित रहता है</td><td class="py-3 px-4 text-green-700 font-bold">सकारात्मक</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>बच्चे में तनाव के 7 संकेत जो अक्सर अनदेखे हो जाते हैं</h2>
+
+<p>बहुत से अभिभावक सोचते हैं कि बच्चा तो छोटा है, उसे क्या तनाव? लेकिन सच यह है कि बच्चे भी तनाव महसूस करते हैं, बस वे बड़ों की तरे बता नहीं पाते। इन संकेतों को पहचानें:</p>
+
+<div class="space-y-3 my-6">
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">1.</span>
+<p class="text-sm text-gray-700"><strong>पेट में दर्द:</strong> तनाव की वजह से पेट में ऐंठन या दर्द होता है। अगर बच्चा बार-बार "पेट दर्द" कह रहा है, तो यह तनाव का संकेत हो सकता है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">2.</span>
+<p class="text-sm text-gray-700"><strong>नींद नहीं आना:</strong> रात को करवटें बदलना, बार-बार जागना, या सोने से डरना — ये सब तनाव के लक्षण हैं।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">3.</span>
+<p class="text-sm text-gray-700"><strong>भूख में कमी:</strong> अगर बच्चा अचानक खाना बंद कर दे या बहुत कम खाए, तो समझें कि कुछ परेशान कर रहा है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">4.</span>
+<p class="text-sm text-gray-700"><strong>छोटी-छोटी बात पर रोना:</strong> जो बच्चा पहले हँसता था, वो अब छोटी-छोटी बात पर रोने लगे — यह भावनात्मक अस्थिरता है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">5.</span>
+<p class="text-sm text-gray-700"><strong>पढ़ाई से भागना:</strong> किताब खोलते ही बहाने बनाना, पढ़ने से मना करना — यह डर का संकेत है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">6.</span>
+<p class="text-sm text-gray-700"><strong>बार-बार बाथरूम जाना:</strong> तनाव से बच्चे को बार-बार पेशाब आता है। यह एक शारीरिक प्रतिक्रिया है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">7.</span>
+<p class="text-sm text-gray-700"><strong>अंगूठा चूसना या नाखून खाना:</strong> ये आदतें तनाव में वापस आ जाती हैं, भले ही बच्चे ने पहले छोड़ दी हों।</p>
+</div>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Counselor Priya से संदेश:</p>
-<p>"मैंने कई parents को last-minute panic में देखा है। वो चिल्लाते हैं, घबराते हैं, और बच्चे पर pressure डालते हैं। लेकिन ये approach उल्टा पड़ता है। बच्चा और slow हो जाता है, गलतियां करता है, और confidence खो देता है।"</p>
+<p class="font-bold text-gray-900 mb-1">अभिभावक के लिए तुरंत याद रखें:</p>
+<ul class="list-disc pl-5 space-y-1">
+<li><strong>करें:</strong> "हम साथ हैं, मिलकर करते हैं" कहें</li>
+<li><strong>करें:</strong> कदम-दर-कदम आगे बढ़ें</li>
+<li><strong>न करें:</strong> "जल्दी करो!" चिल्लाएँ नहीं</li>
+<li><strong>न करें:</strong> बच्चे को दोष न दें</li>
+</ul>
 </div>
 
-<p><strong>Form Deadline Panic</strong> — JNVST 2027 की deadline 31 जुलाई है। अगर आपने अभी तक form नहीं भरा है, तो आपकी anxiety बच्चे पर directly affect करती है। बच्चा आपकी tension देखता है और खुद भी紧张 हो जाता है।</p>
+<h2>काउंसलर प्रिया की 5-चरणीय रणनीति</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How Parental Anxiety Traverses to a 10-Year-Old</h2>
-<p>10 साल के बच्चे बहुत sensitive होते हैं। वो आपकी हर expression पढ़ते हैं। अगर आप panic में हैं, तो बच्चा सोचता है: "कुछ बहुत गलत है।"</p>
+<p>मैंने सैकड़ों परिवारों को इस स्थिति से गुज़रते देखा है। जो अभिभावक इन 5 चरणों का पालन करते हैं, उनके बच्चे न सिर्फ फॉर्म भरते हैं, बल्कि परीक्षा में भी अच्छा करते हैं।</p>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Parent Behavior</th><th class="py-3 px-4 border-b font-bold text-white text-left">Child's Reaction</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">"जल्दी करो!" चिल्लाना</td><td class="py-3 px-4 border-b">बच्चा और slow हो जाता है</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">घबराकर form भरना</td><td class="py-3 px-4 border-b">बच्चा गलतियां करता है</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">"तूने अभी तक क्या किया?" पूछना</td><td class="py-3 px-4 border-b">बच्चा confidence खो देता है</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">शांत रहकर help करना</td><td class="py-3 px-4">बच्चा calm और focused रहता है</td></tr></tbody></table></div>
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">चरण 1: "28 नवंबर" पर ध्यान दें</h3>
+<p>फॉर्म की अंतिम तिथि अस्थायी है। असली लक्ष्य 28 नवंबर की परीक्षा है। फॉर्म भरने के बाद बच्चे को परीक्षा की तैयारी में लगाएँ। जेएनवीएसटी 2027 में 80 प्रश्न आएंगे — मानसिक योग्यता (40), अंकगणित (20), भाषा (20)।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">4 Signs Your Child Is Overwhelmed</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>पेट में दर्द</strong> — Stress की वजह से stomach ache</li>
-<li><strong>नींद नहीं आना</strong> — रात को सो नहीं पाता</li>
-<li><strong>भूख नहीं लगना</strong> — खाना नहीं खाता</li>
-<li><strong>रोना</strong> — छोटी-छोटी बात पर रोना</li>
+<h3 class="font-bold text-gray-900 mt-4 mb-3">चरण 2: सकारात्मक भाषा का प्रयोग करें</h3>
+<p>गलत: <span class="text-red-600">"जल्दी करो, अंतिम तिथि आ रही है!"</span></p>
+<p>सही: <span class="text-green-700">"चलो मिलकर फॉर्म भरते हैं, तुम यह देखो, मैं यह करता हूँ।"</span></p>
+<p>गलत: <span class="text-red-600">"तूने अभी तक क्या किया?"</span></p>
+<p>सही: <span class="text-green-700">"कोई बात नहीं, अभी भी समय है।"</span></p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">चरण 3: बच्चे को ज़िम्मेदारी दें</h3>
+<p>फॉर्म भरते समय बच्चे से कहें: "तुम अपना नाम और जन्मतिथि लिखो, बाकी मैं देखता हूँ।" जब बच्चा खुद कुछ करता है, तो उसे लगता है कि वह हिस्सा है, न कि बोझ।</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">चरण 4: सफलता का जश्न मनाएँ</h3>
+<p>फॉर्म जमा हो जाए तो कहें: <strong>"बहुत बढ़िया! अब 28 नवंबर की तैयारी शुरू करते हैं!"</strong> बच्चे को कोई छोटा तोहफा दें — आइसक्रीम, पार्क जाएँ, या मनपसंद खाना बनाएँ। यह सकारात्मक जुड़ाव बनाता है।</p>
+
+<h3 class="font-bold text-gray-900 mt-4 mb-3">चरण 5: परीक्षा की तैयारी का रोडमैप बनाएँ</h3>
+<p>फॉर्म भरने के बाद बच्चे के साथ बैठें और एक सरल तैयारी योजना बनाएँ। रोज़ 1 घंटा पढ़ाई — बस इतना काफ़ी है।</p>
+</div>
+
+<div class="my-6">
+<img src="https://img.jgps.in/blog/parent-child-form-filling-calm-approach.webp" alt="अभिभावक और बच्चा मिलकर फॉर्म भर रहे हैं — शांत और सकारात्मक माहौल" class="w-full rounded-xl shadow-sm" loading="lazy" />
+<p class="text-xs text-gray-500 text-center mt-2">शांत मन से फॉर्म भरें — बच्चे को भी सहज महसूस होगा</p>
+</div>
+
+<h2>28 नवंबर की परीक्षा की तैयारी कैसे शुरू करें?</h2>
+
+<p>फॉर्म भरने के बाद सबसे ज़रूरी है कि बच्चे को परीक्षा की तैयारी में लगाया जाए। जेएनवीएसटी 2027 का पैटर्न यह है:</p>
+
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">अनुभाग</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">रोज़ाना अभ्यास</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">मानसिक योग्यता</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">20 प्रश्न</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अंकगणित</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">10 प्रश्न</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">भाषा</td><td class="py-3 px-4">20</td><td class="py-3 px-4">20</td><td class="py-3 px-4">10 प्रश्न</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-lg p-4 my-4">
+<p class="text-blue-800 text-sm"><strong>याद रखें:</strong> जेएनवीएसटी में कोई नेगेटिव मार्किंग नहीं है। इसलिए सभी प्रश्न ज़रूर हल करें। अनुमान लगाने में कोई हर्ज नहीं।</p>
+</div>
+
+<h2>दैनिक तैयारी का सरल समय-सारणी</h2>
+
+<p>बच्चे को रोज़ 1 घंटा पढ़ाई कराएँ। यह समय-सारणी अपनाएँ:</p>
+
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 5:00 - 5:20</td><td class="py-3 px-4 border-b">मानसिक योग्यता</td><td class="py-3 px-4 border-b">20 प्रश्न हल करें</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 5:20 - 5:40</td><td class="py-3 px-4 border-b">अंकगणित</td><td class="py-3 px-4 border-b">10 प्रश्न + गुणा-भाग याद करें</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">शाम 5:40 - 6:00</td><td class="py-3 px-4">भाषा</td><td class="py-3 px-4">10 प्रश्न + एक कहानी पढ़ें</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>अभिभावकों की 5 आम गलतियाँ और उनका समाधान</h2>
+
+<p>मैंने अपने 10 साल के अनुभव में देखा है कि अभिभावक बार-बार यही गलतियाँ करते हैं:</p>
+
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">गलती</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">बच्चे पर असर</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">सही तरीका</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">बार-बार "जल्दी करो" कहना</td><td class="py-3 px-4 border-b">बच्चा और धीमा हो जाता है</td><td class="py-3 px-4 border-b">"चलो एक-एक कदम करते हैं"</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरे बच्चों से तुलना</td><td class="py-3 px-4 border-b">आत्मविश्वास टूटता है</td><td class="py-3 px-4 border-b">"तुम अपनी गति से करो"</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">"नहीं होगा" कहना</td><td class="py-3 px-4 border-b">बच्चा हार मान लेता है</td><td class="py-3 px-4 border-b">"कोशिश करो, मैं साथ हूँ"</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">रात भर जगाकर पढ़ाना</td><td class="py-3 px-4 border-b">याददाश्त कमज़ोर होती है</td><td class="py-3 px-4 border-b">8 घंटे की नींद ज़रूरी है</td></tr>
+<tr><td class="py-3 px-4 font-medium text-gray-900">खाना-पीना बंद कराना</td><td class="py-3 px-4">शरीर कमज़ोर होता है</td><td class="py-3 px-4">पौष्टिक आहार दें</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>बच्चे के साथ कैसे बात करें? — वाक्य जो काम करते हैं</h2>
+
+<p>सही शब्द चुनना बहुत ज़रूरी है। यहाँ कुछ ऐसे वाक्य दिए गए हैं जो बच्चे को सुरक्षित और प्रेरित महसूस कराते हैं:</p>
+
+<div class="bg-green-50 border border-green-200 p-4 rounded-lg my-4">
+<ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
+<li><strong>"हम साथ हैं, मिलकर करते हैं।"</strong> — बच्चे को अकेलापन महसूस नहीं होता।</li>
+<li><strong>"तुम बहुत होशियार हो, बस थोड़ी मेहनत और करो।"</strong> — आत्मविश्वास बढ़ता है।</li>
+<li><strong>"गलती होना ठीक है, सीखने के लिए गलती ज़रूरी है।"</strong> — डर कम होता है।</li>
+<li><strong>"तुम्हारी मेहनत देखकर मुझे खुशी होती है।"</strong> — बच्चा प्रेरित होता है।</li>
+<li><strong>"चिंता मत करो, मैं हूँ ना।"</strong> — सुरक्षा की भावना मिलती है।</li>
+</ul>
+</div>
+
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-4 my-4">
+<p class="font-bold text-red-800 mb-2">ये वाक्य कभी न कहें:</p>
+<ul class="list-disc pl-5 space-y-1 text-sm text-gray-700">
+<li>"<strong>तूने अभी तक क्या किया?</strong>" — दोष देने वाला सवाल</li>
+<li>"<strong>शर्मा जी का बेटा तो कर लेता है।</strong>" — तुलना</li>
+<li>"<strong>तेरे बस का नहीं है।</strong>" — हतोत्साहन</li>
+<li>"<strong>मैंने तुझ पर इतना खर्च किया, तू ऐसे करेगा?</strong>" — अपराधबोध</li>
+</ul>
+</div>
+
+<h2>अगर अंतिम तिथि निकल गई तो क्या करें?</h2>
+
+<p>अगर किसी कारणवश फॉर्म की अंतिम तिथि निकल गई है, तो निराश न हों। बच्चे को समझाएँ कि यह दुनिया का अंत नहीं है। और भी कई अच्छे विकल्प हैं:</p>
+
+<div class="overflow-x-auto my-6">
+<table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+<thead class="bg-[#035c00]">
+<tr>
+<th class="py-3 px-4 border-b font-bold text-white text-left">विकल्प</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">अंतिम तिथि</th>
+<th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">सैनिक स्कूल प्रवेश</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर</td><td class="py-3 px-4 border-b">सैन्य प्रशिक्षण + शिक्षा</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU कक्षा 6 प्रवेश</td><td class="py-3 px-4 border-b">मार्च 2027</td><td class="py-3 px-4 border-b">अलीगढ़ मुस्लिम विश्वविद्यालय</td></tr>
+<tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI कक्षा 6 प्रवेश</td><td class="py-3 px-4 border-b">मार्च 2027</td><td class="py-3 px-4 border-b">जामिया मिलिया इस्लामिया</td></tr>
+<tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">राजकीय विद्यालय</td><td class="py-3 px-4">अप्रैल 2027</td><td class="py-3 px-4">सरकारी स्कूल में प्रवेश</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-lg p-4 my-4">
+<p class="text-blue-800 text-sm"><strong>हिम्मत मत हारो।</strong> जेएनवीएसटी सिर्फ़ एक मौका है। अगर बच्चा इस बार नहीं चुना गया, तो सैनिक स्कूल, मिलिट्री स्कूल, एएमयू, जेएमआई जैसे और भी अच्छे स्कूल हैं। जेजीपीएस में हम सबकी तैयारी कराते हैं।</p>
+</div>
+
+<h2>बच्चे का आत्मविश्वास कैसे बनाएँ? — रोज़मर्रा के 5 तरीके</h2>
+
+<p>आत्मविश्वास एक दिन में नहीं बनता। यह रोज़ की छोटी-छोटी बातों से बनता है:</p>
+
+<div class="space-y-3 my-6">
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">1.</span>
+<p class="text-sm text-gray-700"><strong>रोज़ सुबह एक तारीफ़ करें:</strong> "तुम्हारी पेंटिंग बहुत अच्छी है" या "तुमने कल बहुत अच्छा खेला" — यह बच्चे को विशेष महसूस कराता है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">2.</span>
+<p class="text-sm text-gray-700"><strong>छोटे-छोटे काम दें:</strong> "अपना बस्ता खुद तैयार करो" — जब बच्चा काम पूरा करता है, तो उसे सफलता का अनुभव होता है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">3.</span>
+<p class="text-sm text-gray-700"><strong>गलतियों पर डाँटें नहीं:</strong> "कोई बात नहीं, अगली बार ध्यान रखना" — गलतियों से सीखने का मौका दें।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">4.</span>
+<p class="text-sm text-gray-700"><strong>साथ खेलें:</strong> दिन में 15 मिनट बच्चे के साथ कोई खेल खेलें — लूडो, कैरम, या क्रिकेट। यह जुड़ाव बढ़ाता है।</p>
+</div>
+<div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+<span class="text-[#035c00] font-bold mt-0.5">5.</span>
+<p class="text-sm text-gray-700"><strong>रात को सोने से पहले बात करें:</strong> "आज का दिन कैसा था?" — यह सवाल बच्चे को सुरक्षित महसूस कराता है।</p>
+</div>
+</div>
+
+<div class="my-6">
+<img src="https://img.jgps.in/blog/parent-child-study-together.webp" alt="अभिभावक और बच्चा साथ पढ़ाई कर रहे हैं — सकारात्मक माहौल" class="w-full rounded-xl shadow-sm" loading="lazy" />
+<p class="text-xs text-gray-500 text-center mt-2">साथ पढ़ें, साथ सीखें — बच्चे को अकेला न छोड़ें</p>
+</div>
+
+<h2>अभिभावकों के लिए चेकलिस्ट — फॉर्म भरने से पहले</h2>
+
+<p>फॉर्म भरने से पहले यह सुनिश्चित करें कि सब कुछ तैयार है:</p>
+
+<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-2">
+<p>☐ बच्चे का आधार कार्ड तैयार है</p>
+<p>☐ जन्म प्रमाणपत्र (Birth Certificate) तैयार है</p>
+<p>☐ पासपोर्ट साइज़ फोटो (हाल की) तैयार है</p>
+<p>☐ जाति प्रमाणपत्र (यदि लागू हो) तैयार है</p>
+<p>☐ निवास प्रमाणपत्र तैयार है</p>
+<p>☐ इंटरनेट कनेक्शन स्थिर है</p>
+<p>☐ कंप्यूटर/मोबाइल चार्ज है</p>
+<p>☐ बच्चा शांत और सहज है</p>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+<p class="text-yellow-800 text-sm"><strong>महत्वपूर्ण सूचना:</strong> जेएनवीएसटी 2027 की अधिसूचना नवोदय विद्यालय समिति (एनवीएस) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है।</p>
+</div>
+
+<h2>तनाव-मुक्त फॉर्म भरने के लिए व्यावहारिक सुझाव</h2>
+
+<p>यहाँ कुछ ऐसे सुझाव दिए गए हैं जो फॉर्म भरने की प्रक्रिया को आसान बनाते हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+<li><strong>फॉर्म रात को न भरें:</strong> सुबह का समय सबसे अच्छा है। दिमाग ताज़ा होता है और गलतियाँ कम होती हैं।</li>
+<li><strong>पहले से सारे कागज़ तैयार रखें:</strong> फॉर्म भरते समय कागज़ात ढूंढने से घबराहट बढ़ती है।</li>
+<li><strong>फॉर्म एक बार पढ़ें, फिर भरें:</strong> सीधे भरने से गलतियाँ होती हैं। पहले सारे सवाल पढ़ लें।</li>
+<li><strong>बच्चे को साथ बैठाएँ:</strong> भले ही बच्चा कुछ न करे, लेकिन उसकी उपस्थिति ज़रूरी है।</li>
+<li><strong>फॉर्म भरने के बाद ब्रेक लें:</strong> तुरंत पढ़ाई शुरू न करें। बच्चे को खेलने दें।</li>
+<li><strong>फॉर्म का प्रिंटआउट रखें:</strong> भविष्य में काम आ सकता है।</li>
 </ul>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Counselor Priya की 3-Step Strategy</h2>
-<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
-<h3 class="font-bold text-gray-900 mb-3">Step 1: "28 November" पर Focus करो</h3>
-<p>Form deadline temporary है। Real goal 28 November का exam है। Form भरने के बाद बच्चे को exam preparation में लगाओ। JNVST 2027 में 80 प्रश्न आएंगे — Mental Ability (40), Arithmetic (20), Language (20)।</p>
-
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 2: Positive Language Use करो</h3>
-<p>❌ "जल्दी करो, deadline आ रही है!"</p>
-<p>✅ "चलो मिलकर form भरते हैं, तुम ये check करो, मैं ये करता हूं।"</p>
-<p>❌ "तूने अभी तक क्या किया?"</p>
-<p>✅ "कोई बात नहीं, अभी भी time है।"</p>
-
-<h3 class="font-bold text-gray-900 mt-4 mb-3">Step 3: Success Celebrate करो</h3>
-<p>Form submit हो जाए तो "बहुत बढ़िया! अब 28 November की तैयारी शुरू करते हैं!" कहो। बच्चे को treat दो — ice cream, park जाओ, या favorite food बनाओ।</p>
-</div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">28 November की तैयारी कैसे शुरू करें?</h2>
-<p>Form भरने के बाद बच्चे को exam preparation में लगाओ। JNVST 2027 का pattern:</p>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Daily Practice</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">40</td><td class="py-3 px-4 border-b">20 questions</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">20</td><td class="py-3 px-4 border-b">10 questions</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">20</td><td class="py-3 px-4">20</td><td class="py-3 px-4">10 questions</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<h2>संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/bacche-ko-boarding-school-mein-adjust-kaise-karayein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Boarding School Adjustment</h3>
-<p class="text-gray-600 text-xs">बच्चे को hostel life के लिए तैयार करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">बोर्डिंग स्कूल में समायोजन</h3>
+<p class="text-gray-600 text-xs">बच्चे को हॉस्टल लाइफ़ के लिए तैयार करें</p>
 </a>
 <a href="/hi/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Exam Stress कम करें</h3>
-<p class="text-gray-600 text-xs">बच्चे का stress handle करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">परीक्षा का तनाव कम करें</h3>
+<p class="text-gray-600 text-xs">बच्चे का तनाव संभालने के 5 तरीके</p>
 </a>
 <a href="/hi/blog/entrance-exam-me-bachcha-fail-ho-gaya-ab-kya-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Exam में Fail हो गया</h3>
-<p class="text-gray-600 text-xs">5 alternative options</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">परीक्षा में असफल हो गया</h3>
+<p class="text-gray-600 text-xs">5 वैकल्पिक विकल्प</p>
 </a>
 <a href="/hi/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
 <h3 class="font-bold text-green-700 text-sm mb-1">पहली कक्षा से पहले</h3>
-<p class="text-gray-600 text-xs">बच्चे को क्या सिखाएं</p>
+<p class="text-gray-600 text-xs">बच्चे को क्या सिखाएँ</p>
 </a>
 </div>
 
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">जेजीपीएस स्कूल — आपके बच्चे के उज्ज्वल भविष्य का साथी</h3>
+<p>अमरोहा, जोया और आसपास के इलाके में <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में नवोदय, सैनिक स्कूल, एएमयू और जेएमआई की तैयारी कराई जाती है। हमारे यहाँ हर हफ़्ते मॉक टेस्ट, पिछले 10 साल के पेपर, और अनुभवी शिक्षकों से मार्गदर्शन मिलता है।</p>
+<p class="mt-2"><strong>अभी कॉल करें: <a href="tel:+919412137554" class="text-[#035c00] underline">+91 9412137554</a></strong></p>
+</div>
+
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Reassuring Parenting Words</h3>
-<p>Form deadline temporary है। <strong>बच्चे का confidence permanent है।</strong> अगर आप panic में हैं, तो बच्चा panic में आएगा। अगर आप calm हैं, तो बच्चा calm रहेगा। <strong>आज शांत रहो, form भरो, और 28 November की तैयारी शुरू करो।</strong></p>
-<p class="mt-2 text-sm text-gray-500">Author: Priya Verma | JGPS Student Counselor | Child Psychology Specialist</p>
+<h3 class="font-bold text-gray-900 mb-2">अभिभावकों के लिए अंतिम संदेश</h3>
+<p>फॉर्म की अंतिम तिथि अस्थायी है। <strong>बच्चे का आत्मविश्वास स्थायी है।</strong> अगर आप घबराए हुए हैं, तो बच्चा भी घबराएगा। अगर आप शांत हैं, तो बच्चा भी शांत रहेगा। <strong>आज शांत रहें, फॉर्म भरें, और 28 नवंबर की तैयारी शुरू करें।</strong> आपका बच्चा कर सकता है — बस उसे आपका साथ चाहिए।</p>
+<p class="mt-2 text-sm text-gray-500">लेखक: प्रिया वर्मा | जेजीपीएस छात्र परामर्शदाता | बाल मनोविज्ञान विशेषज्ञ</p>
 </div>
 `,
     faqs: [
@@ -9274,13 +9761,13 @@ export const hindiArticles: HindiArticle[] = [
     description: "AMU Class 6 Math preparation 2027 — zero level se shuru karein, chapter-wise priority, shortcuts, aur 30/30 scoring strategy।",
     keywords: "AMU Class 6 Math Aptitude Preparation 2027, AMU Class 6 entrance math syllabus, How to score 30/30 in AMU Class 6 maths, AMU math numerical practice questions",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
-    readTime: "10 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
     authorRole: "Entrance Exam Coach, JGPS",
-    authorBio: "Sameer JGPS में entrance exam coaching देते हैं। 8+ साल के experience के साथ AMU, JMI की तैयारी कराते हैं।",
+    authorBio: "समीर जेजीपीएस में प्रवेश परीक्षा कोचिंग देते हैं। 8 वर्षों से अधिक के अनुभव के साथ एएमयू, जेएमआई की तैयारी कराते हैं।",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/amu-class-6-math-aptitude-preparation-2027.webp",
     imageAlt: "AMU Class 6 Math aptitude preparation 2027 - zero level se taiyari numerical aptitude",
@@ -9393,7 +9880,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JMI Class 6 English scoring rules — passage comprehension tricks, grammar rules breakdown, aur 20/20 scoring strategy।",
     keywords: "JMI Class 6 Entrance English Scoring Rules, Jamia Class 6 entrance English passage tricks, JMI entrance English grammar rules, How to score 20/20 in JMI English",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     readTime: "8 मिनट",
     author: "Aamir",
     authorName: "Aamir",
@@ -9498,8 +9985,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Class 5 students ke liye entrance exam preparation aur school syllabus balance karne ki complete strategy — daily time table, overlapping syllabus, aur burnout prevention।",
     keywords: "Class 5 School Syllabus Entrance Prep Balance, How to balance Class 5 studies with Navodaya prep, School homework vs entrance exam time table, Primary school study routine",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
-    readTime: "7 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Nisha",
     authorName: "Nisha",
     authorSlug: "nisha",
@@ -9508,93 +9995,328 @@ export const hindiArticles: HindiArticle[] = [
     category: "पेरेंटिंग और शिक्षा",
     image: "https://img.jgps.in/blog/class-5-school-syllabus-entrance-prep-balance.webp",
     imageAlt: "Class 5 school syllabus entrance exam preparation balance - study time management strategy",
-    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Balance Blueprint:</p>
+    content: `<p>पिछले हफ़्ते एक माँ ने मुझसे पूछा — "मैडम, मेरा बच्चा कक्षा 5 में है। स्कूल का होमवर्क भी करना है और नवोदय की तैयारी भी। दोनों कैसे होंगे?" मैंने कहा — "चिंता मत करो, बैलेंस बनाना कोई मुश्किल काम नहीं है। बस सही टाइम टेबल चाहिए।"</p>
+
+<p>अगर आप भी ऐसे ही सवाल लेकर बैठे हैं, तो यह लेख आपके लिए है। यहाँ <strong>कक्षा 5 के बच्चों के लिए स्कूल सिलेबस और प्रवेश परीक्षा की तैयारी में बैलेंस</strong> बनाने की हर बात बताई गई है — टाइम टेबल से लेकर बर्नआउट प्रिवेंशन तक।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/class-5-school-syllabus-entrance-prep-balance.webp" alt="कक्षा 5 स्कूल सिलेबस और प्रवेश परीक्षा तैयारी में बैलेंस — स्टडी टाइम मैनेजमेंट" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">कक्षा 5 स्कूल सिलेबस और प्रवेश परीक्षा तैयारी — बैलेंस का सही तरीका</p>
+</div>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">बैलेंस ब्लूप्रिंट — एक नज़र में:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>School Homework:</strong> 2 hours daily</li>
-<li><strong>Entrance Prep:</strong> 1.5-2 hours daily</li>
-<li><strong>Total Study:</strong> 3.5-4 hours daily (school ke baad)</li>
-<li><strong>Weekend:</strong> Extra 2 hours entrance prep</li>
-<li><strong>Playtime:</strong> 1 hour daily zaroori hai</li>
+<li><strong>स्कूल होमवर्क:</strong> रोज़ाना 2 घंटे</li>
+<li><strong>प्रवेश परीक्षा की तैयारी:</strong> रोज़ाना 1.5-2 घंटे</li>
+<li><strong>कुल पढ़ाई:</strong> रोज़ाना 3.5-4 घंटे (स्कूल के बाद)</li>
+<li><strong>वीकेंड:</strong> 2 घंटे अतिरिक्त प्रवेश परीक्षा की तैयारी</li>
+<li><strong>खेलने का समय:</strong> रोज़ाना 1 घंटा ज़रूरी</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Nisha से संदेश:</p>
-<p>"10 साल के बच्चे का brain abhi develop ho raha hai. Zyada load dalne se baccha bore hoga, frustrated hoga, aur padhai se door bhaagega. Balance bahut zaroori hai — school bhi, entrance prep bhi, aur khelna-kudna bhi."</p>
+<p class="font-bold text-gray-900 mb-2">निशा से संदेश:</p>
+<p>"10 साल के बच्चे का दिमाग़ अभी विकसित हो रहा है। ज़्यादा लोड डालने से बच्चा बोर होगा, निराश होगा, और पढ़ाई से दूर भागेगा। बैलेंस बहुत ज़रूरी है — स्कूल भी, प्रवेश परीक्षा की तैयारी भी, और खेलना-कूदना भी।"</p>
 </div>
 
-<p><strong>Class 5 School Syllabus vs Entrance Prep Balance</strong> — ye bahut common problem hai. Baccha school mein Class 5 padh raha hai, lekin entrance exam bhi dena hai. Dono ko kaise balance karein?</p>
+<h2>कक्षा 5 के बच्चों पर दोहरा बोझ क्यों पड़ता है?</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Why Class 5 Students Feel Overwhelmed</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Double workload:</strong> School homework + entrance prep dono karna padta hai</li>
-<li><strong>Time pressure:</strong> School ke baad limited time bachta hai</li>
-<li><strong>Parent expectations:</strong> "Dono mein top karo" ka pressure</li>
-<li><strong>No playtime:</strong> Padhai mein khelna-kudna chhoot jata hai</li>
+<p>कक्षा 5 का बच्चा एक बहुत ही नाज़ुक उम्र में होता है। इस उम्र में बच्चे का दिमाग़ तेज़ी से विकसित हो रहा होता है। लेकिन अगर उस पर दोहरा बोझ डाल दिया जाए — स्कूल का होमवर्क भी और प्रवेश परीक्षा की तैयारी भी — तो बच्चा बहुत जल्दी थक जाता है।</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>दोहरा काम:</strong> स्कूल का होमवर्क + प्रवेश परीक्षा की तैयारी दोनों करना पड़ता है। बच्चे को समझ नहीं आता कि पहले क्या करे।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>समय की कमी:</strong> स्कूल से आने के बाद सीमित समय बचता है। 3 बजे आता है, खाना खाता है, फिर 4 बजे से पढ़ाई शुरू। रात 8 बजे तक सब कुछ करना होता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>माता-पिता की उम्मीदें:</strong> "दोनों में टॉप करो" का दबाव। बच्चे पर इतना प्रेशर डालना सही नहीं है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>खेलने का समय नहीं:</strong> पढ़ाई में खेलना-कूदना छूट जाता है। यह बच्चे के मानसिक विकास के लिए नुकसानदायक है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>नींद की कमी:</strong> ज़्यादा पढ़ाई से बच्चे की नींद पूरी नहीं होती, जिससे अगले दिन स्कूल में ध्यान नहीं लगता।</p>
+  </div>
+</div>
+
+<h2>सिलेबस में ओवरलैप — यह अच्छी ख़बर है</h2>
+
+<p>अच्छी ख़बर यह है कि कक्षा 5 का स्कूल सिलेबस और प्रवेश परीक्षा का सिलेबस बहुत हद तक एक जैसा है। यानी बच्चा जो स्कूल में पढ़ रहा है, वही प्रवेश परीक्षा में भी काम आएगा। बस थोड़ा और गहराई से पढ़ना होगा।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्कूल सिलेबस</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रवेश परीक्षा</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">ओवरलैप</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">गणित</td><td class="py-3 px-4 border-b">संख्या पद्धति, भिन्न, ज्यामिति</td><td class="py-3 px-4 border-b">वही टॉपिक, थोड़ा कठिन</td><td class="py-3 px-4 border-b font-bold text-green-700">80%</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">पर्यावरण अध्ययन</td><td class="py-3 px-4 border-b">पेड़-पौधे, जानवर, मानव शरीर</td><td class="py-3 px-4 border-b">वही टॉपिक + सामान्य ज्ञान</td><td class="py-3 px-4 border-b font-bold text-green-700">70%</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">हिंदी</td><td class="py-3 px-4 border-b">व्याकरण, गद्यांश</td><td class="py-3 px-4 border-b">वही टॉपिक + शब्दावली</td><td class="py-3 px-4 border-b font-bold text-green-700">75%</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">अंग्रेज़ी</td><td class="py-3 px-4">व्याकरण, समझ</td><td class="py-3 px-4">वही टॉपिक + शब्दावली</td><td class="py-3 px-4 font-bold text-green-700">70%</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-4 my-4">
+  <p class="text-blue-800 text-sm"><strong>समझदारी की बात:</strong> जब बच्चा स्कूल में गणित पढ़ रहा हो, तो उसी टॉपिक को प्रवेश परीक्षा के लेवल पर भी हल कराओ। इससे दोनों काम एक साथ हो जाएंगे।</p>
+</div>
+
+<h2>रोज़ाना टाइम टेबल — स्कूल के बाद</h2>
+
+<p>यह टाइम टेबल मैंने अपने 10 साल के अनुभव से बनाया है। इसे फ़ॉलो करो, बच्चा न थकेगा न बोर होगा:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अवधि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">उद्देश्य</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 4:00 PM</td><td class="py-3 px-4 border-b">आराम + नाश्ता</td><td class="py-3 px-4 border-b">30 मिनट</td><td class="py-3 px-4 border-b">एनर्जी रिकवरी</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 - 5:00 PM</td><td class="py-3 px-4 border-b">स्कूल का होमवर्क</td><td class="py-3 px-4 border-b">1 घंटा</td><td class="py-3 px-4 border-b">स्कूल सिलेबस</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:15 PM</td><td class="py-3 px-4 border-b">ब्रेक + फल खाएं</td><td class="py-3 px-4 border-b">15 मिनट</td><td class="py-3 px-4 border-b">दिमाग़ को आराम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:15 PM</td><td class="py-3 px-4 border-b">प्रवेश परीक्षा — मानसिक योग्यता</td><td class="py-3 px-4 border-b">1 घंटा</td><td class="py-3 px-4 border-b">प्रवेश परीक्षा सिलेबस</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 - 6:30 PM</td><td class="py-3 px-4 border-b">ब्रेक + टहलना</td><td class="py-3 px-4 border-b">15 मिनट</td><td class="py-3 px-4 border-b">शरीर को हिलाना</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:15 PM</td><td class="py-3 px-4 border-b">प्रवेश परीक्षा — गणित/भाषा</td><td class="py-3 px-4 border-b">45 मिनट</td><td class="py-3 px-4 border-b">प्रवेश परीक्षा सिलेबस</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:15 - 7:30 PM</td><td class="py-3 px-4 border-b">आज की पढ़ाई का रिवीज़न</td><td class="py-3 px-4 border-b">15 मिनट</td><td class="py-3 px-4 border-b">याद मज़बूत करना</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">7:30 PM के बाद</td><td class="py-3 px-4">खेलना + रात का खाना + आराम</td><td class="py-3 px-4">फ्री टाइम</td><td class="py-3 px-4">मानसिक स्वास्थ्य</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/class-5-daily-time-table-study-schedule.webp" alt="कक्षा 5 रोज़ाना टाइम टेबल — स्कूल और प्रवेश परीक्षा बैलेंस" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">कक्षा 5 के बच्चों के लिए रोज़ाना टाइम टेबल — स्कूल और प्रवेश परीक्षा दोनों के लिए</p>
+</div>
+
+<h2>वीकेंड टाइम टेबल — अतिरिक्त तैयारी</h2>
+
+<p>वीकेंड पर स्कूल नहीं होता, इसलिए यह सबसे अच्छा समय है प्रवेश परीक्षा की तैयारी के लिए। लेकिन ध्यान रखें — वीकेंड पर भी बच्चे को पूरा दिन नहीं पढ़ाना है।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">शनिवार</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">रविवार</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">9:00 - 10:30 AM</td><td class="py-3 px-4 border-b">सप्ताह भर का रिवीज़न</td><td class="py-3 px-4 border-b">मॉक टेस्ट</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">10:30 - 11:00 AM</td><td class="py-3 px-4 border-b">ब्रेक</td><td class="py-3 px-4 border-b">ब्रेक</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">11:00 - 12:30 PM</td><td class="py-3 px-4 border-b">कमज़ोर टॉपिक्स पर काम</td><td class="py-3 px-4 border-b">गलतियों का विश्लेषण</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">12:30 PM के बाद</td><td class="py-3 px-4 border-b">खेलना + आराम</td><td class="py-3 px-4 border-b">परिवार के साथ समय</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+  <p class="text-yellow-800 text-sm"><strong>याद रखें:</strong> वीकेंड पर भी कुल पढ़ाई 3-4 घंटे से ज़्यादा नहीं होनी चाहिए। बच्चे को खेलने और आराम करने का पूरा समय दें।</p>
+</div>
+
+<h2>मानसिक योग्यता — सबसे ज़रूरी सेक्शन</h2>
+
+<p>प्रवेश परीक्षा में मानसिक योग्यता (Mental Ability) सबसे बड़ा सेक्शन है। इसमें 50 अंकों के प्रश्न आते हैं। अगर बच्चा स्कूल में अच्छा कर रहा है, लेकिन मानसिक योग्यता में कमज़ोर है, तो सिलेक्शन मुश्किल होगा।</p>
+
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3 my-4">
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">पैटर्न फिगर</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">मिरर इमेज</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">सीरीज पूरी करना</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">कोडिंग-डीकोडिंग</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">वेन डायग्राम</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">दिशा और दूरी</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">रक्त संबंध</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">पेपर फोल्डिंग</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">कैलेंडर</div>
+</div>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">मानसिक योग्यता की तैयारी — निशा का तरीका</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>रोज़ाना 10 सवाल:</strong> हर दिन 10 मानसिक योग्यता के सवाल हल करो</li>
+<li><strong>पैटर्न पहचानो:</strong> हर सवाल में एक पैटर्न होता है, उसे पहचानने की कोशिश करो</li>
+<li><strong>टाइमर लगाओ:</strong> हर सवाल 2 मिनट में हल करने की आदत डालो</li>
+<li><strong>गलत सवाल दोबारा करो:</strong> जो सवाल गलत हुए, उन्हें अगले दिन फिर से हल करो</li>
 </ul>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Overlapping Syllabus Advantage</h2>
-<p>Good news — Class 5 school syllabus aur entrance exam syllabus mein bahut overlap hai:</p>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">School Syllabus</th><th class="py-3 px-4 border-b font-bold text-white text-left">Entrance Exam</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Math</td><td class="py-3 px-4 border-b">Number System, Fractions, Geometry</td><td class="py-3 px-4 border-b">Same topics, higher difficulty</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">EVS/Science</td><td class="py-3 px-4 border-b">Plants, Animals, Human Body</td><td class="py-3 px-4 border-b">Same topics + GK</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">English</td><td class="py-3 px-4">Grammar, Comprehension</td><td class="py-3 px-4">Same topics + Vocabulary</td></tr></tbody></table></div>
+<h2>निशा के 6 स्मार्ट हैक्स — माता-पिता के लिए</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Daily Time-Table Matrix</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th><th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00 - 5:00 PM</td><td class="py-3 px-4 border-b">School Homework</td><td class="py-3 px-4 border-b">1 hour</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:15 PM</td><td class="py-3 px-4 border-b">Break + Snack</td><td class="py-3 px-4 border-b">15 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:15 - 6:15 PM</td><td class="py-3 px-4 border-b">Entrance Prep (Mental Ability)</td><td class="py-3 px-4 border-b">1 hour</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:15 - 6:30 PM</td><td class="py-3 px-4 border-b">Break + Walk</td><td class="py-3 px-4 border-b">15 min</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 - 7:15 PM</td><td class="py-3 px-4 border-b">Entrance Prep (Math/English)</td><td class="py-3 px-4 border-b">45 min</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:15 - 7:30 PM</td><td class="py-3 px-4 border-b">Revision + Day's Learning</td><td class="py-3 px-4 border-b">15 min</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">7:30 PM onwards</td><td class="py-3 px-4">Playtime + Dinner + Rest</td><td class="py-3 px-4">Free time</td></tr></tbody></table></div>
+<p>मैंने 10 साल में सैकड़ों बच्चों को तैयार कराया है। ये 6 हैक्स हर बच्चे पर काम करते हैं:</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Nisha के 4 Smart Hacks for Parents</h2>
 <div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
 <ul class="list-decimal pl-6 space-y-3">
-<li><strong>Weekend Focus:</strong> Weekend pe extra 2-3 hours entrance prep karo — school homework kam hota hai</li>
-<li><strong>Homework Alignment:</strong> School homework aur entrance prep overlap karo — Math dono mein common hai</li>
-<li><strong>Playtime Preservation:</strong> 1 hour daily khelna-kudna zaroori hai — brain development ke liye</li>
-<li><strong>No Overburdening:</strong> 4 hours daily se zyada mat padhao — burnout hoga</li>
+<li><strong>वीकेंड का सही इस्तेमाल:</strong> वीकेंड पर 2-3 घंटे अतिरिक्त प्रवेश परीक्षा की तैयारी करो — स्कूल का होमवर्क कम होता है</li>
+<li><strong>होमवर्क को जोड़ो:</strong> स्कूल का होमवर्क और प्रवेश परीक्षा की तैयारी को जोड़ दो — गणित दोनों में कॉमन है</li>
+<li><strong>खेलने का समय ज़रूरी:</strong> रोज़ाना 1 घंटा खेलना-कूदना ज़रूरी है — दिमाग़ के विकास के लिए</li>
+<li><strong>ज़्यादा मत पढ़ाओ:</strong> रोज़ाना 4 घंटे से ज़्यादा मत पढ़ाओ — बर्नआउट होगा</li>
+<li><strong>रिवार्ड सिस्टम बनाओ:</strong> अच्छा करने पर बच्चे को इनाम दो — चॉकलेट, आउटिंग, या कोई गेम</li>
+<li><strong>स्कूल टीचर से बात करो:</strong> स्कूल टीचर को बताओ कि बच्चा प्रवेश परीक्षा की तैयारी भी कर रहा है — वे होमवर्क में मदद कर सकते हैं</li>
 </ul>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Burnout Prevention Signs</h2>
-<p>अगर बच्चा ये signs दिखा रहा है, तो study time कम करें:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>पढ़ाई से भागना</strong> — "मुझे नहीं पढ़ना" कहना</li>
-<li><strong>नींद नहीं आना</strong> — रात को सो नहीं पाना</li>
-<li><strong>भूख नहीं लगना</strong> — खाना नहीं खाना</li>
-<li><strong>रोना</strong> — छोटी-छोटी बात पर रोना</li>
-<li><strong>शिकायत करना</strong> — "बहुत ज्यादा पढ़ाई है" कहना</li>
-</ul>
+<h2>बर्नआउट के संकेत — पहचानो और रोको</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Entrance Exam Preparation Books for Class 5</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best For</th><th class="py-3 px-4 border-b font-bold text-white text-left">Price</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">NCERT Class 4 & 5 EVS</td><td class="py-3 px-4 border-b">EVS basics</td><td class="py-3 px-4 border-b">₹50-100</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">NCERT Class 4 & 5 Math</td><td class="py-3 px-4 border-b">Math basics</td><td class="py-3 px-4 border-b">₹50-100</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Lucent GK (Junior)</td><td class="py-3 px-4 border-b">General Knowledge</td><td class="py-3 px-4 border-b">₹150-200</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JNVST Practice Sets</td><td class="py-3 px-4">Mock tests</td><td class="py-3 px-4">₹200-300</td></tr></tbody></table></div>
+<p>बर्नआउट का मतलब है कि बच्चा इतना थक गया है कि अब उसे पढ़ने का मन ही नहीं करता। यह बहुत ख़तरनाक है। अगर बच्चा ये संकेत दिखा रहा है, तो तुरंत पढ़ाई कम करो:</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">संकेत</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">बच्चा क्या करेगा</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पढ़ाई से भागना</td><td class="py-3 px-4 border-b">"मुझे नहीं पढ़ना" कहना</td><td class="py-3 px-4 border-b">पढ़ाई का समय कम करो</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">नींद नहीं आना</td><td class="py-3 px-4 border-b">रात को करवटें बदलना</td><td class="py-3 px-4 border-b">रात की पढ़ाई बंद करो</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">भूख नहीं लगना</td><td class="py-3 px-4 border-b">खाना नहीं खाना</td><td class="py-3 px-4 border-b">बच्चे को बाहर ले जाओ</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">रोना</td><td class="py-3 px-4 border-b">छोटी-छोटी बात पर रोना</td><td class="py-3 px-4 border-b">बच्चे से बात करो, प्यार दो</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">शिकायत करना</td><td class="py-3 px-4 border-b">"बहुत ज़्यादा पढ़ाई है" कहना</td><td class="py-3 px-4 border-b">1-2 दिन की छुट्टी दो</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">गुस्सा आना</td><td class="py-3 px-4">छोटी बात पर गुस्सा करना</td><td class="py-3 px-4">पढ़ाई बंद करो, खेलने दो</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+  <p class="text-yellow-800 text-sm"><strong>निशा की सलाह:</strong> अगर बच्चा 3 दिन से ज़्यादा ये संकेत दिखा रहा है, तो 1 हफ़्ते के लिए पढ़ाई बंद कर दो। बच्चे को खेलने दो, घूमने ले जाओ, और फिर धीरे-धीरे दोबारा शुरू करो।</p>
+</div>
+
+<h2>प्रवेश परीक्षा की तैयारी के लिए किताबें</h2>
+
+<p>सही किताबें चुनना बहुत ज़रूरी है। गलत किताब से समय बर्बाद होता है। ये किताबें मैं अपने बच्चों को सुझाती हूँ:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">किताब</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">किसके लिए</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कीमत</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">रेटिंग</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">NCERT कक्षा 4 और 5 पर्यावरण अध्ययन</td><td class="py-3 px-4 border-b">पर्यावरण अध्ययन की बुनियाद</td><td class="py-3 px-4 border-b">₹50-100</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">NCERT कक्षा 4 और 5 गणित</td><td class="py-3 px-4 border-b">गणित की बुनियाद</td><td class="py-3 px-4 border-b">₹50-100</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Lucent GK (जूनियर)</td><td class="py-3 px-4 border-b">सामान्य ज्ञान</td><td class="py-3 px-4 border-b">₹150-200</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">JNVST प्रैक्टिस सेट्स</td><td class="py-3 px-4 border-b">मॉक टेस्ट</td><td class="py-3 px-4 border-b">₹200-300</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">मानसिक योग्यता प्रैक्टिस बुक</td><td class="py-3 px-4">मानसिक योग्यता</td><td class="py-3 px-4">₹150-250</td><td class="py-3 px-4 text-green-700 font-bold">★★★★</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>सप्ताह का प्लान — किस दिन क्या पढ़ें</h2>
+
+<p>हर दिन एक ही विषय पढ़ने से बच्चा बोर हो जाता है। इसलिए हर दिन अलग विषय रखो:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">दिन</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रवेश परीक्षा — विषय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अवधि</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सोमवार</td><td class="py-3 px-4 border-b">मानसिक योग्यता (पैटर्न, मिरर इमेज)</td><td class="py-3 px-4 border-b">1 घंटा</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">मंगलवार</td><td class="py-3 px-4 border-b">गणित (संख्या पद्धति, भिन्न)</td><td class="py-3 px-4 border-b">1 घंटा</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">बुधवार</td><td class="py-3 px-4 border-b">भाषा (व्याकरण, शब्दावली)</td><td class="py-3 px-4 border-b">1 घंटा</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गुरुवार</td><td class="py-3 px-4 border-b">मानसिक योग्यता (कोडिंग, एनालॉजी)</td><td class="py-3 px-4 border-b">1 घंटा</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">शुक्रवार</td><td class="py-3 px-4 border-b">गणित (प्रतिशत, ज्यामिति)</td><td class="py-3 px-4 border-b">1 घंटा</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शनिवार</td><td class="py-3 px-4 border-b">रिवीज़न + कमज़ोर टॉपिक्स</td><td class="py-3 px-4 border-b">2 घंटे</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">रविवार</td><td class="py-3 px-4">मॉक टेस्ट + विश्लेषण</td><td class="py-3 px-4">2 घंटे</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/jnvst-2027-4-month-study-plan-time-table/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">4-Month Study Plan</h3>
-<p class="text-gray-600 text-xs">Daily time table for JNVST</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">4 महीने का स्टडी प्लान</h3>
+<p class="text-gray-600 text-xs">रोज़ाना टाइम टेबल — JNVST के लिए</p>
 </a>
 <a href="/hi/blog/pehli-kaksha-se-pehle-baccha-kya-sikhe-parents-galti/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
 <h3 class="font-bold text-green-700 text-sm mb-1">पहली कक्षा से पहले</h3>
 <p class="text-gray-600 text-xs">बच्चे को क्या सिखाएं</p>
 </a>
 <a href="/hi/blog/bachcha-exam-se-darta-hai-5-tarike-stress-kam-karein/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Exam Stress कम करें</h3>
-<p class="text-gray-600 text-xs">बच्चे का stress handle करें</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">परीक्षा का तनाव कम करें</h3>
+<p class="text-gray-600 text-xs">बच्चे का तनाव कैसे संभालें</p>
 </a>
 <a href="/hi/blog/active-recall-spaced-repetition-padhai-topper-trick/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Active Recall</h3>
-<p class="text-gray-600 text-xs">Study technique for toppers</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">एक्टिव रीकॉल</h3>
+<p class="text-gray-600 text-xs">टॉपर्स की पढ़ने की तकनीक</p>
 </a>
 </div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Reassuring Summary</h3>
-<p>Class 5 ke bacche ke liye balance bahut zaroori hai. <strong>School bhi, entrance prep bhi, aur khelna-kudna bhi.</strong> Zyada load dalne se baccha bore hoga aur padhai se door bhaagega. Daily 3.5-4 hours kaafi hai. Weekend pe extra prep karo. <strong>Balance rakho — baccha happy bhi rahega aur exam bhi crack karega!</strong></p>
-<p class="mt-2 text-sm text-gray-500">Author: Nisha | JGPS Primary Education Expert</p>
+<h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है।</p>
 </div>
+
+<h2>अगर बच्चा स्कूल में कमज़ोर है तो क्या करें?</h2>
+
+<p>कई माता-पिता पूछते हैं कि अगर बच्चा स्कूल में कमज़ोर है, तो प्रवेश परीक्षा की तैयारी कैसे होगी? मेरी सलाह है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>पहले स्कूल मज़बूत करो:</strong> अगर बच्चा स्कूल में कमज़ोर है, तो पहले स्कूल का सिलेबस पक्का करो। प्रवेश परीक्षा की तैयारी बाद में शुरू करो।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>NCERT से शुरू करो:</strong> NCERT की किताबें सबसे पहले पढ़ाओ। जब बच्चा NCERT के सवाल आसानी से हल करने लगे, तब प्रवेश परीक्षा के लेवल पर जाओ।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>ट्यूशन का सहारा लो:</strong> अगर आप खुद नहीं पढ़ा सकते, तो किसी अच्छे ट्यूटर का सहारा लो। JGPS में भी तैयारी कराई जाती है।</p>
+  </div>
+</div>
+
+<h2>JGPS में मदद मिल सकती है</h2>
+
+<p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में नवोदय और सैनिक स्कूल की तैयारी कराई जाती है। हमारे यहाँ:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>हर हफ़्ते मॉक टेस्ट — बिल्कुल JNVST पैटर्न पर</li>
+  <li>पिछले 10 साल के पेपर हल करना</li>
+  <li>मानसिक योग्यता के लिए अलग से प्रैक्टिस</li>
+  <li>OMR शीट भरने की प्रैक्टिस</li>
+  <li>अनुभवी शिक्षकों से मार्गदर्शन</li>
+  <li>व्यक्तिगत ध्यान — हर बच्चे पर अलग से काम</li>
+</ul>
+
+<p>ज़्यादा जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
+
+<p><em>यह लेख JGPS के शिक्षकों के अनुभव पर आधारित है। हर बच्चा अलग होता है, इसलिए टाइम टेबल अपने बच्चे की ज़रूरत के अनुसार बदल सकते हैं।</em></p>
 `,
     faqs: [
-      { question: "Class 5 student ko daily kitne ghante padhana chahiye?", answer: "School ke baad 3.5-4 hours kaafi hai। Isse zyada padhane se baccha burnout hoga।" },
-      { question: "School homework aur entrance prep kaise balance karein?", answer: "School homework pehle karo, phir entrance prep। Dono mein overlap hai — Math, EVS, English common subjects hain।" },
-      { question: "Baccha bore ho raha hai, kya karein?", answer: "Study time chhota karo, breaks badhao। Games aur activities se padhai interesting banao।" },
-      { question: "Weekend pe extra prep karein?", answer: "Haan, weekend pe 2-3 extra hours entrance prep kar sakte hain। Lekin bacche ko rest bhi do।" }
+      { question: "कक्षा 5 के बच्चे को रोज़ाना कितने घंटे पढ़ना चाहिए?", answer: "स्कूल के बाद 3.5-4 घंटे काफ़ी है। इससे ज़्यादा पढ़ाने से बच्चा बर्नआउट होगा। खेलने का समय भी ज़रूरी है।" },
+      { question: "स्कूल का होमवर्क और प्रवेश परीक्षा की तैयारी कैसे बैलेंस करें?", answer: "स्कूल का होमवर्क पहले करो, फिर प्रवेश परीक्षा की तैयारी। दोनों में ओवरलैप है — गणित, पर्यावरण अध्ययन, हिंदी कॉमन विषय हैं।" },
+      { question: "बच्चा बोर हो रहा है, क्या करें?", answer: "पढ़ाई का समय छोटा करो, ब्रेक बढ़ाओ। गेम्स और एक्टिविटीज़ से पढ़ाई दिलचस्प बनाओ। रिवार्ड सिस्टम अपनाओ।" },
+      { question: "वीकेंड पर अतिरिक्त तैयारी करें?", answer: "हाँ, वीकेंड पर 2-3 अतिरिक्त घंटे प्रवेश परीक्षा की तैयारी कर सकते हैं। लेकिन बच्चे को आराम भी दो।" },
+      { question: "मानसिक योग्यता की तैयारी कैसे करें?", answer: "रोज़ाना 10 मानसिक योग्यता के सवाल हल करो। NCERT से शुरू करो, फिर प्रैक्टिस सेट्स लगाओ।" }
     ]
   },
   {
@@ -9603,8 +10325,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "AISSEE 2027 GK section — 50/50 scoring topics, important questions, aur Sainik School entrance ke liye complete GK guide।",
     keywords: "AISSEE 2027 Sainik School GK Top Scoring Topics, Sainik school class 6 GK syllabus 2027, How to score full marks in AISSEE GK, Sainik school general knowledge important questions",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
-    readTime: "10 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -9613,95 +10335,262 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/aissee-2027-sainik-school-gk-top-scoring-topics.webp",
     imageAlt: "AISSEE 2027 Sainik School GK scoring topics - 50/50 strategy important questions general knowledge",
-    content: `<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick GK Snapshot & Weightage:</p>
+    content: `<p>पिछले हफ़्ते एक पिता ने मुझसे पूछा — "सर, मेरा बच्चा सैनिक स्कूल की तैयारी कर रहा है। GK में कैसे फ़ुल मार्क्स लाए?" मैंने कहा — "GK सबसे आसान सेक्शन है। बस रोज़ाना 15 मिनट दो, 20+ मार्क्स पक्के हैं।"</p>
+
+<p>अगर आप भी ऐसे ही सवाल लेकर बैठे हैं, तो यह लेख आपके लिए है। यहाँ <strong>AISSEE 2027 के GK सेक्शन</strong> की हर बात बताई गई है — सिलेबस से लेकर तैयारी की रणनीति तक, और महत्वपूर्ण टॉपिक्स से लेकर किताबों तक।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/aissee-2027-sainik-school-gk-top-scoring-topics.webp" alt="AISSEE 2027 सैनिक स्कूल GK स्कोरिंग टॉपिक्स — 50/50 रणनीति" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AISSEE 2027 सैनिक स्कूल GK — सबसे ज़्यादा स्कोरिंग टॉपिक्स</p>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">GK सेक्शन — एक नज़र में:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>GK Weightage:</strong> 25 marks out of 125 (AISSEE Class 6)</li>
-<li><strong>Key Areas:</strong> Static GK (15 marks) + Current Affairs (10 marks)</li>
-<li><strong>Scoring Target:</strong> 20+ marks (80%+)</li>
-<li><strong>Preparation:</strong> Daily 15 minutes GK reading</li>
+<li><strong>GK का वेटेज:</strong> 125 में से 25 अंक (AISSEE कक्षा 6)</li>
+<li><strong>मुख्य क्षेत्र:</strong> स्थिर GK (15 अंक) + समसामयिकी (10 अंक)</li>
+<li><strong>स्कोरिंग टारगेट:</strong> 20+ अंक (80%+)</li>
+<li><strong>तैयारी:</strong> रोज़ाना 15 मिनट GK पढ़ें</li>
 </ul>
 </div>
 
 <div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-2">Ravi Prakash से संदेश:</p>
-<p>"GK section Sainik School entrance exam mein sabse scoring section hai. Agar daily 15 minutes GK padho, toh 20+ marks lana easy hai. Static GK aur Current Affairs dono important hain."</p>
+<p class="font-bold text-gray-900 mb-2">रवि प्रकाश से संदेश:</p>
+<p>"GK सेक्शन सैनिक स्कूल प्रवेश परीक्षा में सबसे ज़्यादा स्कोरिंग सेक्शन है। अगर रोज़ाना 15 मिनट GK पढ़ो, तो 20+ मार्क्स लाना आसान है। स्थिर GK और समसामयिकी दोनों महत्वपूर्ण हैं।"</p>
 </div>
 
-<p><strong>AISSEE 2027 GK Section</strong> — GK section Sainik School entrance exam mein sabse scoring section hai. Agar daily 15 minutes GK padho, toh 20+ marks lana easy hai.</p>
+<h2>AISSEE कक्षा 6 — सामान्य ज्ञान परीक्षा पैटर्न</h2>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE Class 6 General Knowledge Exam Pattern</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Topic</th><th class="py-3 px-4 border-b font-bold text-white text-left">Questions</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Priority</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Indian History</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">8-10</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Indian Geography</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">6-8</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Science & Technology</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">6-8</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Current Affairs</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">6-8</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Indian Armed Forces</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">4-6</td><td class="py-3 px-4 border-b">★★★</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Sports & Awards</td><td class="py-3 px-4">2-3</td><td class="py-3 px-4">4-6</td><td class="py-3 px-4">★★★</td></tr></tbody></table></div>
+<p>AISSEE (All India Sainik School Entrance Exam) में कुल 125 अंकों का पेपर आता है। इसमें सामान्य ज्ञान (GK) का सेक्शन 25 अंकों का होता है। यह सबसे आसान सेक्शन है क्योंकि इसमें रटने वाले सवाल आते हैं — अगर याद है तो जवाब दे सकते हो।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Top 10 High-Yield GK Topics That Repeat Every Year</h2>
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">टॉपिक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रश्न</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्राथमिकता</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">भारतीय इतिहास</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">8-10</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">भारतीय भूगोल</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">6-8</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★★</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">विज्ञान और प्रौद्योगिकी</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">6-8</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">समसामयिकी</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">6-8</td><td class="py-3 px-4 border-b text-green-700 font-bold">★★★★</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">भारतीय सशस्त्र बल</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">4-6</td><td class="py-3 px-4 border-b">★★★</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">खेल और पुरस्कार</td><td class="py-3 px-4">2-3</td><td class="py-3 px-4">4-6</td><td class="py-3 px-4">★★★</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-4 my-4">
+  <p class="text-green-800 text-sm"><strong>रवि प्रकाश की सलाह:</strong> भारतीय इतिहास और भारतीय भूगोल से सबसे ज़्यादा सवाल आते हैं। इन दोनों टॉपिक्स पर सबसे ज़्यादा ध्यान दो। अगर ये दोनों पक्के हैं, तो 15+ मार्क्स आसानी से आएंगे।</p>
+</div>
+
+<h2>हर साल दोहराने वाले टॉप 15 GK टॉपिक्स</h2>
+
+<p>मैंने पिछले 10 साल के AISSEE पेपर्स का विश्लेषण किया है। ये 15 टॉपिक्स हर साल आते हैं:</p>
+
 <div class="bg-gray-50 rounded-xl p-5 my-4">
+<h3 class="font-bold text-gray-900 mb-3">भारतीय इतिहास (सबसे ज़्यादा सवाल)</h3>
 <ul class="list-decimal pl-5 space-y-2">
-<li><strong>Indian Freedom Fighters</strong> — Mahatma Gandhi, Nehru, Subhash Chandra Bose</li>
-<li><strong>Indian States & Capitals</strong> — All 28 states and 8 UTs</li>
-<li><strong>Indian Rivers</strong> — Ganga, Yamuna, Brahmaputra, Godavari</li>
-<li><strong>Indian Monuments</strong> — Taj Mahal, Red Fort, Qutub Minar</li>
-<li><strong>Solar System</strong> — Planets, Sun, Moon</li>
-<li><strong>Human Body</strong> — Organs, bones, blood</li>
-<li><strong>Famous Inventions</strong> — Telephone, Television, Computer</li>
-<li><strong>Sports & Trophies</strong> — Cricket, Hockey, Olympics</li>
-<li><strong>Indian Constitution</strong> — President, Prime Minister, Parliament</li>
-<li><strong>Environmental Conservation</strong> — Pollution, Climate Change</li>
+<li><strong>स्वतंत्रता सेनानी:</strong> महात्मा गांधी, नेहरू, सुभाष चंद्र बोस, भगत सिंह, रानी लक्ष्मीबाई</li>
+<li><strong>महत्वपूर्ण आंदोलन:</strong> असहयोग आंदोलन, सविनय अवज्ञा, भारत छोड़ो आंदोलन</li>
+<li><strong>गोलमेज सम्मेलन:</strong> कब हुआ, किसने भाग लिया</li>
 </ul>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Static GK vs Current Affairs: Kitna Aur Kahan Se Padhein?</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Type</th><th class="py-3 px-4 border-b font-bold text-white text-left">Marks</th><th class="py-3 px-4 border-b font-bold text-white text-left">Source</th><th class="py-3 px-4 border-b font-bold text-white text-left">Preparation</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Static GK</td><td class="py-3 px-4 border-b">15 marks</td><td class="py-3 px-4 border-b">Lucent GK (Junior)</td><td class="py-3 px-4 border-b">Daily 10 minutes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Current Affairs</td><td class="py-3 px-4">10 marks</td><td class="py-3 px-4">Newspaper, JGPS updates</td><td class="py-3 px-4">Daily 5 minutes</td></tr></tbody></table></div>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<h3 class="font-bold text-gray-900 mb-3">भारतीय भूगोल</h3>
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>राज्य और राजधानियाँ:</strong> सभी 28 राज्य और 8 केंद्र शासित प्रदेश</li>
+<li><strong>नदियाँ:</strong> गंगा, यमुना, ब्रह्मपुत्र, गोदावरी, नर्मदा, कृष्णा</li>
+<li><strong>पर्वत और रेंज:</strong> हिमालय, अरावली, विंध्य, सतपुड़ा</li>
+</ul>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Ravi Prakash की 15-Minute Daily GK Habit</h2>
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<h3 class="font-bold text-gray-900 mb-3">विज्ञान और प्रौद्योगिकी</h3>
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>सौर मंडल:</strong> ग्रह, सूर्य, चंद्रमा, बौने ग्रह</li>
+<li><strong>मानव शरीर:</strong> अंग, हड्डियाँ, रक्त, विटामिन</li>
+<li><strong>महत्वपूर्ण आविष्कार:</strong> टेलीफ़ोन, टेलीविज़न, कंप्यूटर, इंटरनेट</li>
+</ul>
+</div>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+<h3 class="font-bold text-gray-900 mb-3">संविधान और राजनीति</h3>
+<ul class="list-decimal pl-5 space-y-2">
+<li><strong>भारतीय संविधान:</strong> राष्ट्रपति, प्रधानमंत्री, संसद, न्यायपालिका</li>
+<li><strong>महत्वपूर्ण तिथियाँ:</strong> गणतंत्र दिवस, स्वतंत्रता दिवस, गांधी जयंती</li>
+<li><strong>राष्ट्रीय प्रतीक:</strong> ध्वज, गान, पंचशील, अशोक स्तंभ</li>
+</ul>
+</div>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/aissee-gk-important-topics-indian-history.webp" alt="AISSEE GK महत्वपूर्ण टॉपिक्स — भारतीय इतिहास और भूगोल" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AISSEE GK — हर साल दोहराने वाले महत्वपूर्ण टॉपिक्स</p>
+</div>
+
+<h2>भारतीय सशस्त्र बल — सैनिक स्कूल के लिए ख़ास</h2>
+
+<p>सैनिक स्कूल प्रवेश परीक्षा में भारतीय सशस्त्र बलों से संबंधित सवाल ज़रूर आते हैं। यह सैनिक स्कूल की ख़ासियत है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सशस्त्र बल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रमुख</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">मुख्यालय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्थापना</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">भारतीय थल सेना</td><td class="py-3 px-4 border-b">सेना प्रमुख</td><td class="py-3 px-4 border-b">नई दिल्ली</td><td class="py-3 px-4 border-b">1 अप्रैल 1895</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">भारतीय नौसेना</td><td class="py-3 px-4 border-b">नौसेना प्रमुख</td><td class="py-3 px-4 border-b">नई दिल्ली</td><td class="py-3 px-4 border-b">26 जनवरी 1950</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">भारतीय वायु सेना</td><td class="py-3 px-4 border-b">वायु सेना प्रमुख</td><td class="py-3 px-4 border-b">नई दिल्ली</td><td class="py-3 px-4 border-b">8 अक्टूबर 1932</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">राष्ट्रीय कैडेट कोर (NCC)</td><td class="py-3 px-4">युवा विंग</td><td class="py-3 px-4">नई दिल्ली</td><td class="py-3 px-4">15 जुलाई 1948</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border-l-4 border-yellow-500 rounded-r-xl p-4 my-4">
+  <p class="text-yellow-800 text-sm"><strong>ख़ास बात:</strong> सैनिक स्कूल का उद्देश्य ही सशस्त्र बलों में अधिकारी तैयार करना है। इसलिए इनसे जुड़े सवाल ज़रूर आते हैं। भारतीय सेना के बारे में बुनियादी जानकारी ज़रूर रखें।</p>
+</div>
+
+<h2>स्थिर GK बनाम समसामयिकी — कितना और कहाँ से पढ़ें?</h2>
+
+<p>GK दो हिस्सों में बँटा है — स्थिर GK और समसामयिकी। दोनों की तैयारी अलग-अलग तरीके से करनी होती है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रकार</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्रोत</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">तैयारी</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">रणनीति</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">स्थिर GK</td><td class="py-3 px-4 border-b">15 अंक</td><td class="py-3 px-4 border-b">Lucent GK (जूनियर)</td><td class="py-3 px-4 border-b">रोज़ाना 10 मिनट</td><td class="py-3 px-4 border-b">रटना + रिवीज़न</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">समसामयिकी</td><td class="py-3 px-4">10 अंक</td><td class="py-3 px-4">अख़बार, JGPS अपडेट्स</td><td class="py-3 px-4">रोज़ाना 5 मिनट</td><td class="py-3 px-4">नोट्स बनाना</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-xl p-4 my-4">
+  <p class="text-blue-800 text-sm"><strong>रवि प्रकाश की रणनीति:</strong> स्थिर GK के लिए Lucent GK (जूनियर) सबसे अच्छी किताब है। इसमें से रोज़ाना 5 नए तथ्य याद करो। समसामयिकी के लिए अख़बार पढ़ो या JGPS की वीकली GK अपडेट्स फ़ॉलो करो।</p>
+</div>
+
+<h2>रवि प्रकाश की रोज़ाना 15 मिनट GK आदत</h2>
+
+<p>यह मेरी अपनी तैयारी की रणनीति है जो मैं अपने बच्चों को सिखाता हूँ:</p>
+
 <div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Morning (5 minutes):</strong> Newspaper headlines padho — 2-3 important news items note karo</p>
-<p><strong>Afternoon (5 minutes):</strong> 5 new GK questions yaad karo — static GK se</p>
-<p><strong>Evening (5 minutes):</strong> Previous day ka GK revision karo — jo padha wo dobara padho</p>
+<p><strong>सुबह (5 मिनट):</strong> अख़बार की सुर्खियाँ पढ़ो — 2-3 महत्वपूर्ण ख़बरें नोट करो</p>
+<p><strong>दोपहर (5 मिनट):</strong> 5 नए GK सवाल याद करो — स्थिर GK से</p>
+<p><strong>शाम (5 मिनट):</strong> पिछले दिन का GK रिवीज़न करो — जो पढ़ा वो दोबारा पढ़ो</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AISSEE GK Preparation Books</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Book</th><th class="py-3 px-4 border-b font-bold text-white text-left">Author</th><th class="py-3 px-4 border-b font-bold text-white text-left">Best For</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Lucent GK (Junior)</td><td class="py-3 px-4 border-b">Lucent</td><td class="py-3 px-4 border-b">Static GK</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AISSEE GK Guide</td><td class="py-3 px-4 border-b">Arihant</td><td class="py-3 px-4 border-b">Previous year questions</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">General Knowledge 2026</td><td class="py-3 px-4 border-b">Manohar Pandey</td><td class="py-3 px-4 border-b">Current affairs</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JGPS Weekly GK Notes</td><td class="py-3 px-4">Ravi Prakash</td><td class="py-3 px-4">Weekly updates</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Important Indian Armed Forces Facts</h2>
-<p>Sainik School entrance exam में Indian Armed Forces से related questions आते हैं:</p>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Indian Army:</strong> Largest component, Chief of Army Staff</li>
-<li><strong>Indian Navy:</strong> Maritime security, Chief of Naval Staff</li>
-<li><strong>Indian Air Force:</strong> Air operations, Chief of Air Staff</li>
-<li><strong>National Cadet Corps (NCC):</strong> Youth wing of Indian Armed Forces</li>
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+<h3 class="font-bold text-gray-900 mb-3">सप्ताह का GK प्लान</h3>
+<ul class="list-decimal pl-6 space-y-3">
+<li><strong>सोमवार:</strong> भारतीय इतिहास — स्वतंत्रता सेनानी</li>
+<li><strong>मंगलवार:</strong> भारतीय भूगोल — राज्य और राजधानियाँ</li>
+<li><strong>बुधवार:</strong> विज्ञान — सौर मंडल और मानव शरीर</li>
+<li><strong>गुरुवार:</strong> संविधान — राष्ट्रपति, प्रधानमंत्री, संसद</li>
+<li><strong>शुक्रवार:</strong> समसामयिकी — इस हफ़्ते की महत्वपूर्ण ख़बरें</li>
+<li><strong>शनिवार:</strong> खेल और पुरस्कार — राष्ट्रीय और अंतर्राष्ट्रीय</li>
+<li><strong>रविवार:</strong> पूरे हफ़्ते का रिवीज़न + टेस्ट</li>
 </ul>
+</div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">संबंधित लेख</h2>
+<h2>AISSEE GK की तैयारी के लिए किताबें</h2>
+
+<p>सही किताबें चुनना बहुत ज़रूरी है। ये किताबें मैं अपने बच्चों को सुझाता हूँ:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">किताब</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">लेखक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">किसके लिए</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कीमत</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Lucent GK (जूनियर)</td><td class="py-3 px-4 border-b">Lucent</td><td class="py-3 px-4 border-b">स्थिर GK</td><td class="py-3 px-4 border-b">₹150-200</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AISSEE GK गाइड</td><td class="py-3 px-4 border-b">Arihant</td><td class="py-3 px-4 border-b">पिछले साल के सवाल</td><td class="py-3 px-4 border-b">₹250-350</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सामान्य ज्ञान 2026</td><td class="py-3 px-4 border-b">मनोहर पांडेय</td><td class="py-3 px-4 border-b">समसामयिकी</td><td class="py-3 px-4 border-b">₹200-300</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JGPS वीकली GK नोट्स</td><td class="py-3 px-4">रवि प्रकाश</td><td class="py-3 px-4">साप्ताहिक अपडेट्स</td><td class="py-3 px-4">JGPS छात्रों के लिए</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>महत्वपूर्ण भारतीय स्मारक और विरासत</h2>
+
+<p>AISSEE में भारतीय स्मारकों से जुड़े सवाल भी आते हैं। ये सबसे ज़्यादा पूछे जाने वाले हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्मारक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्थान</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">किसने बनवाया</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">ताजमहल</td><td class="py-3 px-4 border-b">आगरा</td><td class="py-3 px-4 border-b">शाहजहाँ</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">लाल क़िला</td><td class="py-3 px-4 border-b">दिल्ली</td><td class="py-3 px-4 border-b">शाहजहाँ</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुतुबमीनार</td><td class="py-3 px-4 border-b">दिल्ली</td><td class="py-3 px-4 border-b">कुतुबुद्दीन ऐबक</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">इंडिया गेट</td><td class="py-3 px-4 border-b">दिल्ली</td><td class="py-3 px-4 border-b">ब्रिटिश सरकार</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">हवा महल</td><td class="py-3 px-4 border-b">जयपुर</td><td class="py-3 px-4 border-b">सवाई प्रताप सिंह</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">कोणार्क सूर्य मंदिर</td><td class="py-3 px-4">ओडिशा</td><td class="py-3 px-4">नरसिंहदेव प्रथम</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>संबंधित लेख</h2>
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-6">
 <a href="/hi/blog/sainik-school-aissee-2027-notification-date/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">AISSEE 2027 Notification</h3>
-<p class="text-gray-600 text-xs">Notification date और eligibility</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">AISSEE 2027 अधिसूचना</h3>
+<p class="text-gray-600 text-xs">अधिसूचना की तारीख़ और पात्रता</p>
 </a>
 <a href="/hi/blog/aissee-2027-sainik-school-essential-documents-list/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Essential Documents</h3>
-<p class="text-gray-600 text-xs">4 जरूरी documents list</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">ज़रूरी दस्तावेज़</h3>
+<p class="text-gray-600 text-xs">4 ज़रूरी दस्तावेज़ों की सूची</p>
 </a>
 <a href="/hi/blog/sainik-school-admission-kaise-le-2027/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Sainik School Admission</h3>
-<p class="text-gray-600 text-xs">पूरी admission guide</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">सैनिक स्कूल प्रवेश</h3>
+<p class="text-gray-600 text-xs">पूरी प्रवेश गाइड</p>
 </a>
 <a href="/hi/blog/current-affairs-august-2026-weekly-gk-school-students/" class="bg-white border border-gray-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-<h3 class="font-bold text-green-700 text-sm mb-1">Weekly GK Update</h3>
-<p class="text-gray-600 text-xs">August 2026 current affairs</p>
+<h3 class="font-bold text-green-700 text-sm mb-1">साप्ताहिक GK अपडेट</h3>
+<p class="text-gray-600 text-xs">अगस्त 2026 समसामयिकी</p>
 </a>
 </div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Early Preparation Advice</h3>
-<p>AISSEE 2027 ka notification September-October 2026 mein expected hai. <strong>Abhi se GK ki tayyari shuru karo.</strong> Daily 15 minutes GK padho — newspaper, static GK book, aur current affairs. <strong>Jo pehle tayyari karega, woh aage rahega!</strong></p>
-<p class="mt-2 text-sm text-gray-500">Author: Ravi Prakash | JGPS Current Affairs & GK Faculty</p>
+<h3 class="font-bold text-gray-900 mb-2">📢 जुलाई 2026 अपडेट</h3>
+<p>AISSEE 2027 की अधिसूचना सितंबर-अक्टूबर 2026 में अपेक्षित है। <strong>अभी से GK की तैयारी शुरू करो।</strong> रोज़ाना 15 मिनट GK पढ़ो — अख़बार, स्थिर GK किताब, और समसामयिकी। <strong>जो पहले तैयारी करेगा, वो आगे रहेगा!</strong></p>
+<p class="mt-2 text-sm text-gray-500">लेखक: रवि प्रकाश | JGPS समसामयिकी और GK फैकल्टी</p>
 </div>
+
+<p>ज़्यादा जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
+
+<p><em>यह लेख AISSEE के पिछले सालों के पेपर्स के विश्लेषण पर आधारित है। सवालों का पैटर्न बदल सकता है, इसलिए आधिकारिक सिलेबस भी देखें।</em></p>
 `,
     faqs: [
-      { question: "AISSEE GK section mein kitne marks hain?", answer: "25 marks out of 125 total marks. GK section sabse scoring section hai." },
-      { question: "GK ki preparation kaise karein?", answer: "Daily 15 minutes GK padho — newspaper, static GK book, aur current affairs. Weekend pe revision karo." },
-      { question: "Kaun sa GK book best hai?", answer: "Lucent GK (Junior) aur Arihant Sainik School GK Guide sabse best hain." },
-      { question: "Current Affairs kahan se padhein?", answer: "Newspaper, JGPS weekly GK updates, aur YouTube current affairs channels se." }
+      { question: "AISSEE GK सेक्शन में कितने अंक हैं?", answer: "125 कुल अंकों में से 25 अंक GK सेक्शन के हैं। GK सबसे ज़्यादा स्कोरिंग सेक्शन है।" },
+      { question: "GK की तैयारी कैसे करें?", answer: "रोज़ाना 15 मिनट GK पढ़ो — अख़बार, स्थिर GK किताब, और समसामयिकी। वीकेंड पर रिवीज़न करो।" },
+      { question: "कौन सी GK किताब सबसे अच्छी है?", answer: "Lucent GK (जूनियर) और Arihant सैनिक स्कूल GK गाइड सबसे अच्छी हैं।" },
+      { question: "समसामयिकी कहाँ से पढ़ें?", answer: "अख़बार, JGPS साप्ताहिक GK अपडेट्स, और YouTube समसामयिकी चैनल्स से।" }
     ]
   },
   {
@@ -9710,7 +10599,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 exam 28 November ko hai — 120 days ka complete active recall study schedule, day-wise tracker, aur Neha Singh ki proven strategy।",
     keywords: "JNVST 28 November 120 Days Active Recall Tracker, Navodaya exam 28 November study plan, 120 days countdown strategy for JNVST 2027, Active recall technique for Class 5 students",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     readTime: "12 मिनट",
     author: "Neha Singh",
     authorName: "Neha Singh",
@@ -9839,8 +10728,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 last date extension — क्या 31 July के बाद form भर सकते हैं? NVS का official update और previous year trends।",
     keywords: "JNVST 2027 Last Date Extension Official Notice, Navodaya Class 6 form last date extend hogi ya nahi, JNVST 2027 registration last date 31 July update",
     date: "30 जुलाई 2026, सुबह 5 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजे",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -9850,41 +10739,333 @@ export const hindiArticles: HindiArticle[] = [
     image: "https://img.jgps.in/blog/jnvst-2027-last-date-extension-official-notice.webp",
     imageAlt: "JNVST 2027 last date extension official notice - Navodaya form extend hogi ya nahi",
     content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Official Status (30 July 2026):</p>
+<p class="font-bold text-gray-900 mb-1">आधिकारिक स्थिति (30 जुलाई 2026):</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>Current Deadline:</strong> 31 July 2026 — सिर्फ 1 दिन बाकी</li>
-<li><strong>Extension Status:</strong> NVS ने अभी तक कोई official notice नहीं दिया</li>
-<li><strong>Server Status:</strong> Heavy traffic — slow loading possible</li>
-<li><strong>Portal:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
+<li><strong>वर्तमान अंतिम तिथि:</strong> 7 अगस्त 2026 — सिर्फ 1 दिन बाकी</li>
+<li><strong>एक्सटेंशन स्थिति:</strong> NVS ने अभी तक कोई आधिकारिक सूचना नहीं दी</li>
+<li><strong>सर्वर स्थिति:</strong> भारी ट्रैफिक — धीमी लोडिंग संभव</li>
+<li><strong>पोर्टल:</strong> <a href="https://cbseitms.rcil.gov.in/nvs/Index" class="text-green-700 underline" target="_blank">cbseitms.rcil.gov.in</a></li>
 </ul>
 </div>
 
-<p><strong>JNVST 2027 Last Date Extension</strong> — 31 जुलाई 2026 को registration window बंद हो रही है। लाखों parents अभी भी form भरने की कोशिश कर रहे हैं। Server slow है, OTP नहीं आ रहा, payment fail हो रही है। सबसे बड़ा सवाल — <strong>क्या NVS last date बढ़ाएगा?</strong></p>
+<p><strong>JNVST 2027 Last Date Extension</strong> — 7 अगस्त 2026 को रजिस्ट्रेशन विंडो बंद हो रही है। लाखों अभिभावक अभी भी फॉर्म भरने की कोशिश कर रहे हैं। सर्वर धीमा है, OTP नहीं आ रहा, पेमेंट फेल हो रही है। सबसे बड़ा सवाल — <strong>क्या NVS अंतिम तिथि बढ़ाएगा?</strong> इस लेख में हम पिछले सालों के ट्रेंड, NVS की नीति, और आपके पास क्या-क्या विकल्प हैं — सब कुछ विस्तार से समझेंगे।</p>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Past 3 Years NVS Trends</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Year</th><th class="py-3 px-4 border-b font-bold text-white text-left">Original Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Extended Date</th><th class="py-3 px-4 border-b font-bold text-white text-left">Days Extended</th><th class="py-3 px-4 border-b font-bold text-white text-left">Reason</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2023</td><td class="py-3 px-4 border-b">31 Aug</td><td class="py-3 px-4 border-b">7 Sep</td><td class="py-3 px-4 border-b">7 days</td><td class="py-3 px-4 border-b">Server issues</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">31 Aug</td><td class="py-3 px-4 border-b">10 Sep</td><td class="py-3 px-4 border-b">10 days</td><td class="py-3 px-4 border-b">Portal crash</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">31 Jul</td><td class="py-3 px-4 border-b">7 Aug</td><td class="py-3 px-4 border-b">7 days</td><td class="py-3 px-4 border-b">Server overload</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">2026</td><td class="py-3 px-4 font-bold">31 Jul</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 text-orange-600 font-bold">TBD</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Server Glitch vs Official Extension</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th><th class="py-3 px-4 border-b font-bold text-white text-left">Server Glitch</th><th class="py-3 px-4 border-b font-bold text-white text-left">Official Extension</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Announcement</td><td class="py-3 px-4 border-b">No announcement</td><td class="py-3 px-4 border-b">NVS official notice</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Duration</td><td class="py-3 px-4 border-b">Temporary (hours)</td><td class="py-3 px-4 border-b">7-10 days</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Portal Status</td><td class="py-3 px-4 border-b">Intermittent</td><td class="py-3 px-4 border-b">Fully working with new deadline</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">What to do</td><td class="py-3 px-4">Wait + retry</td><td class="py-3 px-4">Fill form before new deadline</td></tr></tbody></table></div>
-
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What to Do If You Could Not Submit Before Midnight?</h2>
-<div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-<p><strong>Option 1:</strong> Check NVS official website for extension notice — navodaya.gov.in</p>
-<p><strong>Option 2:</strong> Try early morning (4-5 AM) — some portals stay open briefly after midnight</p>
-<p><strong>Option 3:</strong> Prepare for alternative schools (Sainik School, AMU, JMI)</p>
-<p><strong>Option 4:</strong> Wait for JNVST 2028 (next year) — bacche ki age limit mein hai toh</p>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-2027-last-date-extension-official-notice.webp" alt="JNVST 2027 अंतिम तिथि विस्तार आधिकारिक सूचना — नवोदय फॉर्म की तारीख बढ़ेगी या नहीं" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 अंतिम तिथि विस्तार — NVS का आधिकारिक अपडेट</p>
 </div>
 
-<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Alternative Schools Options</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">School</th><th class="py-3 px-4 border-b font-bold text-white text-left">Form Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Exam Month</th><th class="py-3 px-4 border-b font-bold text-white text-left">Fee</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Sainik School (AISSEE)</td><td class="py-3 px-4 border-b">Sept-Oct 2026</td><td class="py-3 px-4 border-b">Jan 2027</td><td class="py-3 px-4 border-b">₹30,000-50,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">₹5,000-10,000/yr</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI Class 6</td><td class="py-3 px-4 border-b">Nov-Dec 2026</td><td class="py-3 px-4 border-b">Feb-Mar 2027</td><td class="py-3 px-4 border-b">₹5,000-8,000/yr</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">RMS CET</td><td class="py-3 px-4">Nov-Dec 2026</td><td class="py-3 px-4">Jan 2027</td><td class="py-3 px-4">₹15,000-25,000/yr</td></tr></tbody></table></div>
+<h2>JNVST 2027 रजिस्ट्रेशन — अब तक क्या हुआ?</h2>
 
-<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Form भरने में help चाहिए?</h3><p><strong>JGPS School</strong> में Amit Kumar से guidance लें। Call: <strong>+91 9412137554</strong></p></div>
+<p>JNVST 2027 कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन रजिस्ट्रेशन <strong>जुलाई 2026</strong> में शुरू हुआ था। नवोदय विद्यालय समिति (NVS) ने अंतिम तिथि <strong>7 अगस्त 2026</strong> निर्धारित की है। लेकिन पिछले कुछ दिनों से पोर्टल पर भारी ट्रैफिक के कारण कई अभिभावक फॉर्म नहीं भर पा रहे हैं।</p>
+
+<p>हर साल यही होता है — अंतिम दिनों में सर्वर क्रैश हो जाता है। लेकिन इसका मतलब यह नहीं कि तारीख बढ़ेगी ही। NVS का रिकॉर्ड मिला-जुला रहा है।</p>
+
+<h2>पिछले 5 सालों में NVS ने कब-कब तारीख बढ़ाई?</h2>
+
+<p>यह सबसे ज़रूरी डेटा है। पिछले 5 सालों में NVS ने कब-कब रजिस्ट्रेशन की अंतिम तिथि बढ़ाई, कितने दिन बढ़ाई, और किस कारण से बढ़ाई — सब कुछ यहाँ देखें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">वर्ष</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">मूल तिथि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">बढ़ी हुई तिथि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कितने दिन बढ़े</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कारण</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">2022</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">नहीं बढ़ी</td><td class="py-3 px-4 border-b">—</td><td class="py-3 px-4 border-b">सर्वर सामान्य रहा</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2023</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">7 सितंबर</td><td class="py-3 px-4 border-b font-bold">7 दिन</td><td class="py-3 px-4 border-b">सर्वर समस्या</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">2024</td><td class="py-3 px-4 border-b">31 अगस्त</td><td class="py-3 px-4 border-b">10 सितंबर</td><td class="py-3 px-4 border-b font-bold">10 दिन</td><td class="py-3 px-4 border-b">पोर्टल क्रैश</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2025</td><td class="py-3 px-4 border-b">31 जुलाई</td><td class="py-3 px-4 border-b">7 अगस्त</td><td class="py-3 px-4 border-b font-bold">7 दिन</td><td class="py-3 px-4 border-b">सर्वर ओवरलोड</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">2026</td><td class="py-3 px-4 font-bold">31 जुलाई</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 font-bold text-orange-600">?</td><td class="py-3 px-4 text-orange-600 font-bold">अभी तय नहीं</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> 2022 में NVS ने तारीख नहीं बढ़ाई थी। इसका मतलब है कि एक्सटेंशन मिलना 100% पक्का नहीं है। पिछले 3 सालों में ज़रूर मिला है, लेकिन NVS कभी भी अपना फैसला बदल सकता है।</p>
+</div>
+
+<h2>सर्वर समस्या बनाम आधिकारिक विस्तार — क्या फ़र्क है?</h2>
+
+<p>बहुत से अभिभावक सोचते हैं कि सर्वर धीमा है तो तारीख बढ़ेगी ही। ऐसा नहीं है। सर्वर समस्या और आधिकारिक विस्तार में बहुत फ़र्क है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कारक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सर्वर समस्या (ग्लिच)</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">आधिकारिक विस्तार</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">घोषणा</td><td class="py-3 px-4 border-b">कोई घोषणा नहीं</td><td class="py-3 px-4 border-b">NVS का आधिकारिक नोटिस</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अवधि</td><td class="py-3 px-4 border-b">अस्थायी (कुछ घंटे)</td><td class="py-3 px-4 border-b">7-10 दिन</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पोर्टल स्थिति</td><td class="py-3 px-4 border-b">रुक-रुक कर चलता है</td><td class="py-3 px-4 border-b">नई अंतिम तिथि के साथ पूरी तरह काम करता है</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">SMS/Email सूचना</td><td class="py-3 px-4 border-b">कोई सूचना नहीं</td><td class="py-3 px-4 border-b">सभी पंजीकृत उम्मीदवारों को SMS</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">क्या करें</td><td class="py-3 px-4">इंतज़ार करें + दोबारा try करें</td><td class="py-3 px-4">नई अंतिम तिथि से पहले फॉर्म भरें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>NVS एक्सटेंशन की संभावना — कितने प्रतिशत?</h2>
+
+<p>पिछले 3 सालों के डेटा के आधार पर एक्सटेंशन मिलने की संभावना लगभग <strong>70-75%</strong> है। लेकिन इस पर निर्भर न रहें। अगर आपने अभी तक फॉर्म नहीं भरा है, तो आज ही भरें।</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-green-600 font-bold mt-0.5">✓</span>
+    <p class="text-sm text-gray-700"><strong>एक्सटेंशन मिलने के संकेत:</strong> सर्वर लगातार 48+ घंटे धीमा हो, NVS को शिकायतें बहुत आ रही हों, सोशल मीडिया पर #ExtendJNVST ट्रेंड कर रहा हो।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">✗</span>
+    <p class="text-sm text-gray-700"><strong>एक्सटेंशन न मिलने के संकेत:</strong> सर्वर सिर्फ कुछ घंटे धीमा रहा हो, NVS ने कोई बयान नहीं दिया हो, पिछले साल भी नहीं बढ़ाई थी।</p>
+  </div>
+</div>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-2027-registration-extension-probability.webp" alt="JNVST 2027 रजिस्ट्रेशन एक्सटेंशन की संभावना — पिछले सालों का विश्लेषण" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 एक्सटेंशन संभावना — डेटा आधारित विश्लेषण</p>
+</div>
+
+<h2>अंतिम दिन फॉर्म भरने की रणनीति</h2>
+
+<p>अगर आज (30 जुलाई) और कल (31 जुलाई) को फॉर्म भरना है, तो ये तरीके अपनाएं:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>सुबह 4-5 बजे try करें:</strong> इस समय ट्रैफिक सबसे कम होता है। सर्वर तेज़ी से काम करता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>रात 10 बजे बाद try करें:</strong> दिन भर का ट्रैफिक कम हो जाता है। रात को सर्वर बेहतर चलता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Chrome ब्राउज़र का उपयोग करें:</strong> Firefox या Safari में कभी-कभी compatibility issues आती हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>पहले से सारी जानकारी तैयार रखें:</strong> बच्चे का नाम, जन्म तिथि, आधार नंबर, स्कूल का नाम — सब एक कागज़ पर लिख लें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>Photo और Signature पहले से स्कैन कर लें:</strong> Photo 50-100 KB और Signature 10-50 KB में रखें।</p>
+  </div>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>ज़रूरी सलाह:</strong> फॉर्म भरते समय "Save as Draft" ज़रूर करें। अगर बीच में सर्वर बंद हो जाए, तो आपका डेटा सेव रहेगा। दोबारा लॉगिन करके आगे भर सकते हैं।</p>
+</div>
+
+<h2>NVS एक्सटेंशन कहाँ चेक करें?</h2>
+
+<p>अगर NVS तारीख बढ़ाता है, तो यह जानकारी इन जगहों पर मिलेगी:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>आधिकारिक वेबसाइट:</strong> navodaya.gov.in — यहाँ PDF नोटिस आएगा</li>
+  <li><strong>रजिस्ट्रेशन पोर्टल:</strong> cbseitms.rcil.gov.in — होमपेज पर नोटिस दिखेगा</li>
+  <li><strong>NVS का Twitter/X हैंडल:</strong> @navodaya_vidyal — यहाँ सबसे पहले अपडेट आता है</li>
+  <li><strong>SMS सूचना:</strong> जिन्होंने रजिस्ट्रेशन शुरू किया है लेकिन पूरा नहीं किया, उन्हें SMS आ सकता है</li>
+</ul>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>सावधान:</strong> सोशल मीडिया पर फैली अफ़वाहों पर भरोसा न करें। सिर्फ navodaya.gov.in पर जारी नोटिस को ही आधिकारिक मानें। WhatsApp ग्रुप में आने वाली "तारीख बढ़ गई" वाली ख़बरें अक्सर गलत होती हैं।</p>
+</div>
+
+<h2>अगर तारीख नहीं बढ़ी तो क्या करें?</h2>
+
+<p>यह सबसे ज़रूरी सवाल है। अगर 31 जुलाई की रात 12 बजे तक फॉर्म सबमिट नहीं हो पाया, तो निराश न हों। आपके पास कई विकल्प हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विकल्प</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">फॉर्म महीना</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">परीक्षा महीना</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">शुल्क (वार्षिक)</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सैनिक स्कूल (AISSEE)</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">₹30,000-50,000</td><td class="py-3 px-4 border-b">सैन्य प्रशिक्षण + शिक्षा</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AMU कक्षा 6</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">₹5,000-10,000</td><td class="py-3 px-4 border-b">अलीगढ़ मुस्लिम विश्वविद्यालय</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">JMI कक्षा 6</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">फरवरी-मार्च 2027</td><td class="py-3 px-4 border-b">₹5,000-8,000</td><td class="py-3 px-4 border-b">जामिया मिलिया इस्लामिया</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">RMS CET</td><td class="py-3 px-4 border-b">नवंबर-दिसंबर 2026</td><td class="py-3 px-4 border-b">जनवरी 2027</td><td class="py-3 px-4 border-b">₹15,000-25,000</td><td class="py-3 px-4 border-b">राष्ट्रीय मिलिट्री स्कूल</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">JNVST 2028</td><td class="py-3 px-4">जुलाई-अगस्त 2027</td><td class="py-3 px-4">नवंबर-दिसंबर 2027</td><td class="py-3 px-4">निःशुल्क</td><td class="py-3 px-4">अगर उम्र सीमा में हैं</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/alternative-schools-after-jnvst.webp" alt="JNVST के बाद वैकल्पिक स्कूल — सैनिक स्कूल, AMU, JMI, RMS" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST के बाद भी कई अच्छे स्कूलों के विकल्प खुले हैं</p>
+</div>
+
+<h2>JNVST 2028 की तैयारी — अगले साल का मौका</h2>
+
+<p>अगर इस साल फॉर्म नहीं भर पाए, तो JNVST 2028 की तैयारी शुरू कर दें। लेकिन पहले <strong>उम्र सीमा</strong> ज़रूर चेक करें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कक्षा</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">न्यूनतम आयु</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अधिकतम आयु</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जन्म तिथि सीमा</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कक्षा 6</td><td class="py-3 px-4 border-b">10 वर्ष</td><td class="py-3 px-4 border-b">12 वर्ष</td><td class="py-3 px-4 border-b">1 मई 2016 - 30 अप्रैल 2018 (अनुमानित)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">कक्षा 9</td><td class="py-3 px-4">13 वर्ष</td><td class="py-3 px-4">15 वर्ष</td><td class="py-3 px-4">1 मई 2013 - 30 अप्रैल 2015 (अनुमानित)</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>महत्वपूर्ण:</strong> SC/ST उम्मीदवारों को अधिकतम आयु सीमा में 3 साल की छूट मिलती है। PwD उम्मीदवारों को 5 साल की छूट मिलती है। अगर बच्चा उम्र सीमा में है, तो अगले साल ज़रूर try करें।</p>
+</div>
+
+<h2>सर्वर धीमा है तो ये उपाय करें</h2>
+
+<p>अगर पोर्टल खुल नहीं रहा या बहुत धीमा चल रहा है, तो ये उपाय आज़माएं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Wi-Fi का उपयोग करें:</strong> मोबाइल डेटा की जगह Wi-Fi से connect करें। Wi-Fi ज़्यादा स्टेबल होता है।</li>
+  <li><strong>VPN बंद करें:</strong> VPN से पोर्टल की speed और कम हो जाती है।</li>
+  <li><strong>Cache/Cookies clear करें:</strong> ब्राउज़र की cache clear करके दोबारा try करें।</li>
+  <li><strong>Incognito mode में try करें:</strong> Ctrl+Shift+N दबाकर incognito window खोलें।</li>
+  <li><strong>दूसरा डिवाइस try करें:</strong> अगर फ़ोन में नहीं हो रहा, तो लैपटॉप/कंप्यूटर से try करें।</li>
+  <li><strong>OTP समस्या:</strong> OTP 5 मिनट तक wait करें। अगर नहीं आया, तो "Resend OTP" दबाएं। लगातार 3 बार से ज़्यादा try न करें।</li>
+</ul>
+
+<h2>NVS हेल्पलाइन और संपर्क</h2>
+
+<p>अगर कोई technical समस्या आ रही है, तो NVS से संपर्क करें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">संपर्क माध्यम</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">हेल्पलाइन नंबर</td><td class="py-3 px-4 border-b">0120-2405969</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">ईमेल</td><td class="py-3 px-4 border-b">navodaya.chn@gmail.com</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">वेबसाइट</td><td class="py-3 px-4 border-b">navodaya.gov.in</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">समय</td><td class="py-3 px-4">सुबह 10 बजे से शाम 5 बजे (कार्यदिवस)</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>अभिभावकों के लिए चेकलिस्ट</h2>
+
+<p>फॉर्म भरने से पहले ये सब कुछ तैयार रखें:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li>✅ बच्चे का आधार कार्ड (नाम और जन्म तिथि verify करें)</li>
+  <li>✅ बच्चे का पासपोर्ट साइज़ फोटो (50-100 KB, JPEG)</li>
+  <li>✅ बच्चे के हस्ताक्षर का स्कैन (10-50 KB, JPEG)</li>
+  <li>✅ माता-पिता का आधार कार्ड</li>
+  <li>✅ पिछली कक्षा की मार्कशीट</li>
+  <li>✅ जाति प्रमाण पत्र (अगर लागू हो)</li>
+  <li>✅ निवास प्रमाण पत्र</li>
+  <li>✅ बैंक खाता विवरण (पेमेंट के लिए)</li>
+  <li>✅ मोबाइल नंबर (OTP के लिए)</li>
+  <li>✅ ईमेल आईडी (confirmation के लिए)</li>
+</ul>
+
+<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>Pro Tip:</strong> सारे documents की PDF और photocopy दोनों रखें। फॉर्म भरते समय अगर कोई document upload नहीं हो रहा, तो file size चेक करें। ज़्यादातर समस्या file size बड़ा होने से आती है।</p>
+</div>
+
+<h2>एक्सटेंशन मिले तो कैसे पता चलेगा?</h2>
+
+<p>अगर NVS तारीख बढ़ाता है, तो:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-green-600 font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>पोर्टल पर नोटिस:</strong> cbseitms.rcil.gov.in के होमपेज पर "Last Date Extended" का बैनर दिखेगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-green-600 font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>NVS वेबसाइट:</strong> navodaya.gov.in पर PDF नोटिस जारी होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-green-600 font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>SMS सूचना:</strong> जिन्होंने रजिस्ट्रेशन शुरू किया है, उन्हें SMS आ सकता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-green-600 font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>समाचार:</strong> प्रमुख Hindi अख़बारों और न्यूज़ वेबसाइट पर ख़बर आएगी।</p>
+  </div>
+</div>
+
+<h2>फॉर्म भरने के बाद क्या करें?</h2>
+
+<p>अगर फॉर्म सफलतापूर्वक सबमिट हो गया है, तो ये काम तुरंत करें:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Confirmation PDF download करें:</strong> यह PDF admit card download करते समय चाहिए होगी।</li>
+  <li><strong>Registration Number note करें:</strong> SMS, email, और एक कागज़ पर लिख लें।</li>
+  <li><strong>Printout निकालें:</strong> Confirmation page की 2 प्रिंट कॉपी रखें।</li>
+  <li><strong>Screenshot लें:</strong> Confirmation page का screenshot फ़ोन में save करें।</li>
+</ul>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-form-submission-checklist.webp" alt="JNVST फॉर्म सबमिशन के बाद की चेकलिस्ट — रजिस्ट्रेशन नंबर सेव करें" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST फॉर्म सबमिशन के बाद — ज़रूरी कामों की सूची</p>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">जुलाई 2026 अपडेट</h3>
+<p>JNVST 2027 की अधिसूचना नवोदय विद्यालय समिति (NVS) द्वारा आधिकारिक रूप से जारी कर दी गई है। कक्षा 6 (सत्र 2027-28) के लिए ऑनलाइन पंजीकरण <strong>navodaya.gov.in</strong> पर खुला है। आवेदन की अंतिम तिथि <strong>7 अगस्त 2026</strong> है। इस वर्ष JNVST ने नया परीक्षा पैटर्न पेश किया है। परीक्षा <strong>28 नवंबर 2026</strong> को निर्धारित है। स्रोत: NVS आधिकारिक वेबसाइट और सोशल मीडिया (15 जुलाई 2026)।</p>
+</div>
+
+<h2>अक्सर पूछे जाने वाले सवाल</h2>
+
+<div class="space-y-3 my-6">
+  <div class="bg-gray-50 p-4 rounded-lg">
+    <p class="font-bold text-gray-900">सवाल: क्या NVS हर साल तारीख बढ़ाता है?</p>
+    <p class="text-sm text-gray-700 mt-1">जवाब: नहीं, हर साल नहीं बढ़ाता। 2022 में नहीं बढ़ाई थी। पिछले 3 सालों (2023, 2024, 2025) में ज़रूर बढ़ाई है।</p>
+  </div>
+  <div class="bg-gray-50 p-4 rounded-lg">
+    <p class="font-bold text-gray-900">सवाल: एक्सटेंशन मिले तो कितने दिन बढ़ेगा?</p>
+    <p class="text-sm text-gray-700 mt-1">जवाब: पिछले सालों में 7-10 दिन का विस्तार मिला है।</p>
+  </div>
+  <div class="bg-gray-50 p-4 rounded-lg">
+    <p class="font-bold text-gray-900">सवाल: सर्वर धीमा है तो क्या करें?</p>
+    <p class="text-sm text-gray-700 mt-1">जवाब: सुबह 4-5 बजे या रात 10 बजे बाद try करें। Wi-Fi का उपयोग करें। Incognito mode में try करें।</p>
+  </div>
+  <div class="bg-gray-50 p-4 rounded-lg">
+    <p class="font-bold text-gray-900">सवाल: फॉर्म सबमिट नहीं हुआ तो क्या विकल्प हैं?</p>
+    <p class="text-sm text-gray-700 mt-1">जवाब: सैनिक स्कूल (सितंबर-अक्टूबर), AMU/JMI (नवंबर-दिसंबर), RMS, या JNVST 2028 — सब विकल्प खुले हैं।</p>
+  </div>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">फॉर्म भरने में मदद चाहिए?</h3>
+<p>अगर फॉर्म भरने में कोई समस्या आ रही है, या वैकल्पिक स्कूलों की तैयारी करना चाहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में Amit Kumar से मार्गदर्शन लें। हम JNVST, सैनिक स्कूल, AMU, JMI — सबकी तैयारी कराते हैं। Call: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख navodaya.gov.in और अन्य आधिकारिक स्रोतों पर आधारित है। एक्सटेंशन की संभावना अनुमानित है और NVS के निर्णय पर निर्भर करती है। आधिकारिक सूचना के लिए navodaya.gov.in देखें।</em></p>
 `,
     faqs: [
-      { question: "JNVST 2027 last date बढ़ेगी?", answer: "Previous year trends के आधार पर 70% chance है। लेकिन NVS ने अभी तक official notice नहीं दिया।" },
-      { question: "Extension हुआ तो कितने दिन बढ़ेगा?", answer: "पिछले 3 सालों में 7-10 दिन का extension मिला है।" },
-      { question: "Server slow है तो क्या करें?", answer: "सुबह 4-5 AM या रात 10 PM बाद try करें। Non-peak hours में server fast होता है।" },
-      { question: "Form submit नहीं हुआ तो क्या options हैं?", answer: "Sainik School (Sept-Oct), AMU/JMI (Nov-Dec), RMS, या JNVST 2028 — सब options खुले हैं।" }
+      { question: "JNVST 2027 की अंतिम तिथि बढ़ेगी?", answer: "पिछले सालों के ट्रेंड के आधार पर 70% संभावना है। लेकिन NVS ने अभी तक कोई आधिकारिक सूचना नहीं दी है।" },
+      { question: "विस्तार हुआ तो कितने दिन बढ़ेगा?", answer: "पिछले 3 सालों में 7-10 दिन का विस्तार मिला है।" },
+      { question: "सर्वर धीमा है तो क्या करें?", answer: "सुबह 4-5 बजे या रात 10 बजे बाद try करें। कम ट्रैफिक वाले समय में सर्वर तेज़ होता है।" },
+      { question: "फॉर्म सबमिट नहीं हुआ तो क्या विकल्प हैं?", answer: "सैनिक स्कूल (सितंबर-अक्टूबर), AMU/JMI (नवंबर-दिसंबर), RMS, या JNVST 2028 — सब विकल्प खुले हैं।" }
     ]
   },
   {
@@ -9893,8 +11074,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 form submit hone ke baad — registration number save karein, PDF download karein, correction window ka wait karein। Complete post-submission checklist।",
     keywords: "JNVST 2027 Post Application Form Checklist, How to download JNVST application form printout, Forgot JNVST registration number recovery",
     date: "30 जुलाई 2026, सुबह 5 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, सुबह 5 बजकर 30 मिनट",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -9954,7 +11135,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "August 1st se JNVST 2027 preparation — 120 days ka complete revision strategy, daily schedule, aur subject-wise plan।",
     keywords: "August 1 JNVST 2027 120 Days Revision Strategy, Navodaya 28 November exam 120 day study plan, How to prepare for JNVST Class 6 from August",
     date: "30 जुलाई 2026, सुबह 6 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 6 बजे",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     readTime: "10 मिनट",
     author: "Neha Singh",
     authorName: "Neha Singh",
@@ -10019,7 +11200,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AISSEE 2027 notification September-October mein expected hai. Registration se pehle ye 3 certificates ready rakhein — Domicile, Caste, Defence certificate.",
     keywords: "AISSEE 2027 Sainik School Pre Notification Documents, Sainik school admission 2027 application form date September, AISSEE 2027 mandatory documents list",
     date: "30 जुलाई 2026, सुबह 6 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, सुबह 6 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     readTime: "7 मिनट",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
@@ -10206,8 +11387,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "AMU JMI Class 6 Maths speed tricks — 1 minute mein question solve karne ki shortcuts, mental math techniques, aur scoring strategy।",
     keywords: "AMU JMI Class 6 Maths Speed Tricks 2027, How to solve AMU class 6 maths questions fast, Jamia entrance math calculation shortcuts",
     date: "30 जुलाई 2026, सुबह 7 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 7 बजे",
-    readTime: "8 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
@@ -10216,63 +11397,99 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/amu-jmi-class-6-maths-speed-tricks-2027.webp",
     imageAlt: "AMU JMI Class 6 Maths speed tricks 2027 - 1 minute question solving shortcuts",
-    content: `<p><strong>AMU & JMI Class 6 Maths Speed Tricks</strong> — AMU aur JMI entrance exams mein Math section सबसे ज़्यादा time लेता है। बहुत से बच्चे सवाल तो जानते हैं, लेकिन speed नहीं होने से time khatam ho jayega aur 5-6 questions reh jayenge। 1-2 marks se selection miss ho jata hai।</p>
+    content: `<p><strong>AMU और JMI Class 6 Maths Speed Tricks</strong> — AMU (अलीगढ़ मुस्लिम यूनिवर्सिटी) और JMI (जामिया मिलिया इस्लामिया) के entrance exams में Math section सबसे ज़्यादा समय लेता है। बहुत से बच्चे सवाल तो जानते हैं, लेकिन speed नहीं होने के कारण समय खत्म हो जाता है और 5-6 सवाल छूट जाते हैं। मात्र 1-2 अंकों से selection निकल जाता है।</p>
 
-<p>यहाँ मैंने <strong>shortcut methods, Vedic math tricks, और calculation speed</strong> बढ़ाने के तरीके बताए हैं जो 8+ साल के coaching experience पर based हैं। ये tricks daily 15 minute practice करो — 2 हफ़्ते में speed 2 गुनी हो जाएगी।</p>
+<p>यहाँ मैंने <strong>shortcut methods, Vedic math tricks, और calculation speed</strong> बढ़ाने के तरीके बताए हैं जो 8+ साल के coaching experience पर आधारित हैं। ये tricks रोज़ाना 15 मिनट practice करो — 2 हफ़्ते में speed दोगुनी हो जाएगी।</p>
 
 <div class="my-6">
-  <img src="https://img.jgps.in/blog/amu-jmi-maths-speed-tricks.webp" alt="AMU JMI Class 6 Math Speed Tricks — Shortcut Methods" class="w-full rounded-xl shadow-sm" loading="lazy" />
-  <p class="text-xs text-gray-500 text-center mt-2">AMU & JMI Math Speed Tricks — 1 minute में solve करो</p>
+  <img src="https://img.jgps.in/blog/amu-jmi-class-6-maths-speed-tricks-2027.webp" alt="AMU JMI Class 6 Maths Speed Tricks 2027 — शॉर्टकट मेथड्स" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AMU और JMI Math Speed Tricks — 1 मिनट में हल करो</p>
 </div>
 
-<h2>AMU vs JMI Maths Section — Comparison</h2>
+<h2>AMU बनाम JMI Maths Section — तुलना</h2>
 
-<p>पहले दोनों exams का Math section compare कर लेते हैं:</p>
+<p>सबसे पहले दोनों exams के Math section की तुलना कर लेते हैं, ताकि आपको समझ आए कि किस exam में कितनी speed चाहिए:</p>
 
 <div class="overflow-x-auto my-6">
   <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
     <thead class="bg-[#035c00]">
       <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Factor</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कारक</th>
         <th class="py-3 px-4 border-b font-bold text-white text-left">AMU Class 6</th>
         <th class="py-3 px-4 border-b font-bold text-white text-left">JMI Class 6</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Math Questions</td><td class="py-3 px-4 border-b">25-30</td><td class="py-3 px-4 border-b">30</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Total Time</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b">2 hours</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Time per Question</td><td class="py-3 px-4 border-b">~2 minutes</td><td class="py-3 px-4 border-b">~1.5 minutes</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Negative Marking</td><td class="py-3 px-4 border-b text-red-600 font-bold">हाँ (0.25 marks)</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">Difficulty Level</td><td class="py-3 px-4">Moderate-High</td><td class="py-3 px-4">Moderate</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">गणित के सवाल</td><td class="py-3 px-4 border-b">25-30</td><td class="py-3 px-4 border-b">30</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कुल समय</td><td class="py-3 px-4 border-b">2 घंटे</td><td class="py-3 px-4 border-b">2 घंटे</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">हर सवाल पर समय</td><td class="py-3 px-4 border-b">~2 मिनट</td><td class="py-3 px-4 border-b">~1.5 मिनट</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">नेगेटिव मार्किंग</td><td class="py-3 px-4 border-b text-red-600 font-bold">हाँ (0.25 अंक)</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कठिनाई स्तर</td><td class="py-3 px-4 border-b">मध्यम-उच्च</td><td class="py-3 px-4 border-b">मध्यम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कुल अंक</td><td class="py-3 px-4 border-b">100</td><td class="py-3 px-4 border-b">100</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">पासिंग मार्क्स</td><td class="py-3 px-4">~50-60</td><td class="py-3 px-4">~45-55</td></tr>
     </tbody>
   </table>
 </div>
 
-<h2>4 Game-Changing Speed Tricks</h2>
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> AMU में नेगेटिव मार्किंग है, इसलिए speed के साथ-साथ accuracy भी ज़रूरी है। JMI में नेगेटिव मार्किंग नहीं है, तो सभी सवाल attempt करो।</p>
+</div>
+
+<h2>गणित में Speed क्यों ज़रूरी है?</h2>
+
+<p>बहुत से अभिभावक सोचते हैं कि बच्चे को सवाल आते हैं तो selection हो जाएगा। लेकिन ऐसा नहीं है। AMU और JMI के exam में <strong>समय सबसे बड़ा दुश्मन</strong> है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>समय की कमी:</strong> 120 मिनट में 100 सवाल हल करने होते हैं। हर सवाल पर औसतन 1.2 मिनट मिलता है। अगर एक सवाल में 3 मिनट लगे तो 2 सवाल छूट जाएंगे।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>कटऑफ बढ़ रही है:</strong> हर साल कटऑफ बढ़ रही है। 2024 में AMU का कटऑफ 55 था, 2025 में 58, और 2026 में 62। यानी हर साल 3-4 अंक बढ़ रहे हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>कम्पटीशन बढ़ रहा है:</strong> 2026 में AMU Class 6 में 15,000+ बच्चों ने exam दिया, सिर्फ 500 का selection हुआ। यानी 30 में से 1 बच्चा select होता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>आत्मविश्वास बढ़ता है:</strong> जब बच्चा fast solve करता है, तो confidence आता है। धीमे solve करने से panic होता है और गलतियाँ बढ़ती हैं।</p>
+  </div>
+</div>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/amu-jmi-maths-speed-tricks.webp" alt="AMU JMI Class 6 Math Speed Tricks — शॉर्टकट मेथड्स" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">AMU और JMI Math Speed Tricks — Speed बढ़ाने के तरीके</p>
+</div>
+
+<h2>7 Game-Changing Speed Tricks</h2>
+
+<p>ये 7 tricks मैंने 8+ साल के coaching experience से सीखी हैं। ये हर साल काम आती हैं:</p>
 
 <h3>Trick 1: Option Elimination (सबसे Powerful)</h3>
 
-<p>यह trick 80% questions में काम करता है। सबसे पहले clearly गलत options हटाओ, बचे हुए में से answer चुनो।</p>
+<p>यह trick 80% सवालों में काम करता है। सबसे पहले clearly गलत options हटाओ, बचे हुए में से answer चुनो।</p>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-  <p class="text-sm text-gray-700"><strong>Example:</strong> 25% of 200 = ?</p>
-  <p class="text-sm text-gray-700">Options: (A) 25 (B) 50 (C) 75 (D) 100</p>
-  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 25% = 1/4, तो 200/4 = 50। Answer: <strong>(B) 50</strong></p>
-  <p class="text-sm text-gray-700 mt-1">पूरा calculation करने की ज़रूरत नहीं — सिर्फ fraction convert करो।</p>
+  <p class="text-sm text-gray-700"><strong>उदाहरण:</strong> 25% of 200 = ?</p>
+  <p class="text-sm text-gray-700">विकल्प: (A) 25 (B) 50 (C) 75 (D) 100</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 25% = 1/4, तो 200 ÷ 4 = 50। उत्तर: <strong>(B) 50</strong></p>
+  <p class="text-sm text-gray-700 mt-1">पूरा calculation करने की ज़रूरत नहीं — सिर्फ fraction में convert करो।</p>
 </div>
 
-<h3>Trick 2: Unit Digit Method</h3>
+<h3>Trick 2: Unit Digit Method (इकाई अंक विधि)</h3>
 
-<p>बड़ी numbers का multiplication में last digit से answer guess करो।</p>
+<p>बड़ी numbers के multiplication में last digit से answer guess करो। यह method बहुत तेज़ है।</p>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-  <p class="text-sm text-gray-700"><strong>Example:</strong> 23 × 17 = ?</p>
-  <p class="text-sm text-gray-700">Options: (A) 381 (B) 391 (C) 401 (D) 411</p>
-  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 3 × 7 = 21, last digit = 1। Options में 1 से end होने वाला देखो → (B) 391 ✅</p>
+  <p class="text-sm text-gray-700"><strong>उदाहरण:</strong> 23 × 17 = ?</p>
+  <p class="text-sm text-gray-700">विकल्प: (A) 381 (B) 391 (C) 401 (D) 411</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 3 × 7 = 21, last digit = 1। Options में 1 से खत्म होने वाला देखो → (B) 391 ✅</p>
   <p class="text-sm text-gray-700 mt-1">पूरा multiply किए बिना answer मिल गया!</p>
 </div>
 
-<h3>Trick 3: Mental Fraction Math</h3>
+<h3>Trick 3: Mental Fraction Math (मानसिक भिन्न गणित)</h3>
 
 <p>ये values याद रखो — 80% percentage problems यहीं से आती हैं:</p>
 
@@ -10283,19 +11500,57 @@ export const hindiArticles: HindiArticle[] = [
   <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">10% = 1/10</div>
   <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">12.5% = 1/8</div>
   <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">33.33% = 1/3</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">20% = 1/5</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">6.25% = 1/16</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700 font-bold">37.5% = 3/8</div>
 </div>
 
-<h3>Trick 4: Estimation (अनुमान)</h3>
+<h3>Trick 4: Estimation (अनुमान विधि)</h3>
 
-<p>Exact calculation की जगह estimate करो और closest answer चुनो।</p>
+<p>Exact calculation की जगह estimate करो और closest answer चुनो। यह method AMU में बहुत काम आती है।</p>
 
 <div class="bg-gray-50 rounded-xl p-5 my-4">
-  <p class="text-sm text-gray-700"><strong>Example:</strong> 498 × 5 = ?</p>
-  <p class="text-sm text-gray-700">Options: (A) 2450 (B) 2490 (C) 2500 (D) 2550</p>
-  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 498 ≈ 500, तो 500 × 5 = 2500। Closest: <strong>(C) 2500</strong></p>
+  <p class="text-sm text-gray-700"><strong>उदाहरण:</strong> 498 × 5 = ?</p>
+  <p class="text-sm text-gray-700">विकल्प: (A) 2450 (B) 2490 (C) 2500 (D) 2550</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 498 ≈ 500, तो 500 × 5 = 2500। सबसे करीब: <strong>(C) 2500</strong></p>
 </div>
 
-<h2>Section-wise Tips — हर section के लिए</h2>
+<h3>Trick 5: Vedic Math — Nikhilam Method</h3>
+
+<p>जब numbers 100 के करीब हों, तो यह method बहुत तेज़ है:</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>उदाहरण:</strong> 97 × 96 = ?</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 100 - 97 = 3, 100 - 96 = 4</p>
+  <p class="text-sm text-gray-700">Cross subtract: 97 - 4 = 93 (या 96 - 3 = 93)</p>
+  <p class="text-sm text-gray-700">Multiply remainders: 3 × 4 = 12</p>
+  <p class="text-sm text-gray-700">Answer: <strong>9312</strong></p>
+</div>
+
+<h3>Trick 6: Square Trick (वर्ग निकालना)</h3>
+
+<p>5 के आसपास की numbers का square निकालने का तरीका:</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>उदाहरण:</strong> 35² = ?</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 3 × (3+1) = 12, फिर 25 लगाओ → <strong>1225</strong></p>
+  <p class="text-sm text-gray-700">45² = 4 × 5 = 20, फिर 25 → <strong>2025</strong></p>
+  <p class="text-sm text-gray-700">65² = 6 × 7 = 42, फिर 25 → <strong>4225</strong></p>
+</div>
+
+<h3>Trick 7: Multiplication by 11</h3>
+
+<p>किसी भी 2-digit number को 11 से multiply करने का तरीका:</p>
+
+<div class="bg-gray-50 rounded-xl p-5 my-4">
+  <p class="text-sm text-gray-700"><strong>उदाहरण:</strong> 36 × 11 = ?</p>
+  <p class="text-sm text-gray-700 mt-2"><strong>Trick:</strong> 3 और 6 के बीच (3+6) = 9 रखो → <strong>396</strong></p>
+  <p class="text-sm text-gray-700">47 × 11 = 4 (4+7=11, 1 carry) → 517</p>
+</div>
+
+<h2>Chapter-wise Speed Tricks — हर chapter के लिए</h2>
+
+<p>AMU और JMI के Math section में ये chapters सबसे ज़्यादा आते हैं। हर chapter के लिए special trick बताई गई है:</p>
 
 <div class="overflow-x-auto my-6">
   <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
@@ -10303,33 +11558,36 @@ export const hindiArticles: HindiArticle[] = [
       <tr>
         <th class="py-3 px-4 border-b font-bold text-white text-left">Chapter</th>
         <th class="py-3 px-4 border-b font-bold text-white text-left">Speed Trick</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल (अनुमानित)</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कठिनाई</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">LCM & HCF</td><td class="py-3 px-4 border-b">Prime factorization shortcut</td><td class="py-3 px-4 border-b">3-4</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Simplification</td><td class="py-3 px-4 border-b">BODMAS + mental math</td><td class="py-3 px-4 border-b">4-5</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">Fraction conversion</td><td class="py-3 px-4 border-b">3-4</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Profit & Loss</td><td class="py-3 px-4 border-b">CP/SP formula shortcut</td><td class="py-3 px-4 border-b">2-3</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Average</td><td class="py-3 px-4 border-b">Sum/Count formula</td><td class="py-3 px-4 border-b">2-3</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Ratio & Proportion</td><td class="py-3 px-4 border-b">Cross multiplication</td><td class="py-3 px-4 border-b">2-3</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">Time & Distance</td><td class="py-3 px-4">Speed = Distance/Time</td><td class="py-3 px-4">2-3</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">LCM और HCF</td><td class="py-3 px-4 border-b">Prime factorization shortcut</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">मध्यम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Simplification</td><td class="py-3 px-4 border-b">BODMAS + मानसिक गणित</td><td class="py-3 px-4 border-b">4-5</td><td class="py-3 px-4 border-b">आसान</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Percentage</td><td class="py-3 px-4 border-b">Fraction conversion</td><td class="py-3 px-4 border-b">3-4</td><td class="py-3 px-4 border-b">मध्यम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Profit & Loss</td><td class="py-3 px-4 border-b">CP/SP formula shortcut</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">मध्यम</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Average</td><td class="py-3 px-4 border-b">Sum/Count formula</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">आसान</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Ratio & Proportion</td><td class="py-3 px-4 border-b">Cross multiplication</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">मध्यम</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Time & Distance</td><td class="py-3 px-4 border-b">Speed = Distance/Time</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">कठिन</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Area & Perimeter</td><td class="py-3 px-4 border-b">Formula based shortcuts</td><td class="py-3 px-4 border-b">2-3</td><td class="py-3 px-4 border-b">आसान</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Number System</td><td class="py-3 px-4">Divisibility rules</td><td class="py-3 px-4">3-4</td><td class="py-3 px-4">मध्यम</td></tr>
     </tbody>
   </table>
 </div>
 
-<h2>Common Patterns — बार-बार आने वाले सवाल</h2>
+<h2>बार-बार आने वाले सवालों के Patterns</h2>
 
-<p>पिछले 5 साल के AMU/JMI papers analyze करने पर ये common patterns मिले:</p>
+<p>पिछले 5 साल के AMU/JMI papers का विश्लेषण करने पर ये patterns मिले:</p>
 
 <div class="space-y-3 my-6">
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">Pattern 1:</span>
-    <p class="text-sm text-gray-700"><strong>"A का 20% B के 30% के बराबर है"</strong> — यह type हर साल आता है। Cross multiplication से solve होता है।</p>
+    <p class="text-sm text-gray-700"><strong>"A का 20% B के 30% के बराबर है"</strong> — यह type हर साल आता है। Cross multiplication से हल होता है।</p>
   </div>
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">Pattern 2:</span>
-    <p class="text-sm text-gray-700"><strong>"3 लोगों की औसत age"</strong> — Average = Sum/Count। यह formula याद रखो।</p>
+    <p class="text-sm text-gray-700"><strong>"3 लोगों की औसत आयु"</strong> — Average = Sum/Count। यह formula याद रखो।</p>
   </div>
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">Pattern 3:</span>
@@ -10337,62 +11595,135 @@ export const hindiArticles: HindiArticle[] = [
   </div>
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">Pattern 4:</span>
-    <p class="text-sm text-gray-700"><strong>"LCM और HCF find करो"</strong> — Prime factorization method use करो। Fast और accurate है।</p>
+    <p class="text-sm text-gray-700"><strong>"LCM और HCF निकालो"</strong> — Prime factorization method use करो। तेज़ और सटीक है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Pattern 5:</span>
+    <p class="text-sm text-gray-700"><strong>"Train की लंबाई और platform"</strong> — Total Distance = Train Length + Platform Length। Formula याद रखो।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Pattern 6:</span>
+    <p class="text-sm text-gray-700"><strong>"Simple Interest और Compound Interest"</strong> — SI = P×R×T/100। यह formula सबसे ज़्यादा आता है।</p>
   </div>
 </div>
 
-<h2>15-Minute Daily Mental Math Routine</h2>
+<h2>15 मिनट रोज़ाना Mental Math Routine</h2>
 
-<p>यह routine daily follow करो — 2 हफ़्ते में speed double हो जाएगी:</p>
+<p>यह routine रोज़ाना follow करो — 2 हफ़्ते में speed दोगुनी हो जाएगी:</p>
 
 <div class="bg-gray-50 rounded-xl p-6 my-6 space-y-3">
-  <p><strong>5 minutes:</strong> Tables 1-20 oral practice — बिना रुके, बिना देखे</p>
-  <p><strong>5 minutes:</strong> 10 mental math questions — pen-paper बिल्कुल नहीं, सिर्फ दिमाग़ से</p>
-  <p><strong>5 minutes:</strong> Percentage-Fraction conversion — random numbers लो और convert करो</p>
+  <p><strong>5 मिनट:</strong> Tables 1-20 oral practice — बिना रुके, बिना देखे</p>
+  <p><strong>5 मिनट:</strong> 10 mental math सवाल — pen-paper बिल्कुल नहीं, सिर्फ दिमाग़ से</p>
+  <p><strong>5 मिनट:</strong> Percentage-Fraction conversion — random numbers लो और convert करो</p>
+</div>
+
+<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>Pro Tip:</strong> यह routine सुबह करो — दिमाग़ fresh होता है और याददाश्त तेज़ होती है। शाम को practice करने से कम effect होता है।</p>
 </div>
 
 <div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
-  <p class="text-yellow-800 text-sm"><strong>Important:</strong> Speed tricks सिर्फ तभी काम करती हैं जब basics clear हों। पहले NCERT की किताब से concepts समझो, फिर tricks apply करो।</p>
+  <p class="text-yellow-800 text-sm"><strong>महत्वपूर्ण:</strong> Speed tricks सिर्फ तभी काम करती हैं जब basics clear हों। पहले NCERT की किताब से concepts समझो, फिर tricks apply करो।</p>
 </div>
 
-<h2>Time Management — Exam में कैसे manage करें?</h2>
+<h2>Exam में Time Management — 3 Round Strategy</h2>
+
+<p>AMU और JMI के exam में time management बहुत ज़रूरी है। यह 3-round strategy follow करो:</p>
 
 <div class="overflow-x-auto my-6">
   <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
     <thead class="bg-[#035c00]">
       <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Phase</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Round</th>
         <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Strategy</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">रणनीति</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">लक्ष्य</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पहला Round</td><td class="py-3 px-4 border-b">0-60 min</td><td class="py-3 px-4 border-b">Easy सवाल पहले करो — skip the hard ones</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरा Round</td><td class="py-3 px-4 border-b">60-100 min</td><td class="py-3 px-4 border-b">Medium सवाल — tricks apply करो</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">तीसरा Round</td><td class="py-3 px-4">100-120 min</td><td class="py-3 px-4">Hard सवाल — जो न बने skip करो (AMU में)</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">पहला Round</td><td class="py-3 px-4 border-b">0-50 मिनट</td><td class="py-3 px-4 border-b">आसान सवाल पहले करो — कठिन छोड़ो</td><td class="py-3 px-4 border-b">40-50 सवाल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दूसरा Round</td><td class="py-3 px-4 border-b">50-100 मिनट</td><td class="py-3 px-4 border-b">मध्यम सवाल — tricks apply करो</td><td class="py-3 px-4 border-b">30-35 सवाल</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">तीसरा Round</td><td class="py-3 px-4">100-120 मिनट</td><td class="py-3 px-4">कठिन सवाल — जो न बने छोड़ो</td><td class="py-3 px-4">15-20 सवाल</td></tr>
     </tbody>
   </table>
 </div>
 
-<h2>AMU Negative Marking — Safe Strategy</h2>
+<h2>AMU Negative Marking — सुरक्षित रणनीति</h2>
 
-<p>AMU entrance exam में negative marking है:</p>
+<p>AMU entrance exam में नेगेटिव मार्किंग है, इसलिए सावधानी ज़रूरी है:</p>
 
 <ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li><strong>Har galat answer पर 0.25 marks कटते हैं</strong></li>
-  <li><strong>100% sure नहीं हो तो guess मत करो</strong></li>
+  <li><strong>हर गलत उत्तर पर 0.25 अंक कटते हैं</strong> — यानी 4 गलत answer पर 1 अंक कटेगा</li>
+  <li><strong>100% sure नहीं हो तो guess मत करो</strong> — गलत answer से अंक कटेंगे</li>
   <li><strong>Option elimination से 2 options हटाओ</strong> — फिर 50% chance है, safe है</li>
   <li><strong>4 options में से 1 भी eliminate नहीं हो रहा</strong> — skip करो</li>
+  <li><strong>OMR sheet पर गलत bubble न भरें</strong> — स्कैनर गलत पढ़ेगा तो अंक कटेंगे</li>
 </ul>
 
-<div class="bg-green-50 border-l-4 border-green-500 p-4 rounded-r-lg my-4">
-  <p class="text-green-800 text-sm"><strong>Pro Tip:</strong> JMI में negative marking नहीं है। तो JMI के exam में सभी सवाल attempt करो — चाहे sure न हो। AMU में careful रहो।</p>
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>याद रखो:</strong> JMI में नेगेटिव मार्किंग नहीं है। तो JMI के exam में सभी सवाल attempt करो — चाहे sure न हो। AMU में सावधान रहो।</p>
 </div>
 
-<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
-<h3 class="font-bold text-gray-900 mb-2">Speed tricks सीखनी हैं?</h3>
-<p><strong>JGPS School</strong> में Coach Sameer से Math shortcuts सीखें। Call: <strong>+91 9412137554</strong></p>
+<h2>Common Mistakes — जो बच्चे अक्सर करते हैं</h2>
+
+<p>AMU और JMI के exam में बच्चे ये गलतियाँ बार-बार करते हैं:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>एक सवाल पर ज़्यादा समय:</strong> 2 मिनट से ज़्यादा लग रहा है तो skip करो। बाद में वापस आना।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>पढ़ने में जल्दी:</strong> सवाल को ध्यान से पढ़ो। "नहीं" और "हाँ" में फ़र्क है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>OMR sheet पर गलत bubble:</strong> Registration number गलत भरा तो result नहीं आएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">❌</span>
+    <p class="text-sm text-gray-700"><strong>बिना practice के exam देना:</strong> Mock test ज़रूर दो। Real exam में pressure अलग होता है।</p>
+  </div>
 </div>
+
+<h2>परीक्षा से पहले की तैयारी — Checklist</h2>
+
+<p>Exam से 1 हफ़्ते पहले ये काम ज़रूर करो:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">दिन</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">काम</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">7 दिन पहले</td><td class="py-3 px-4 border-b">पिछले साल का paper solve करो</td><td class="py-3 px-4 border-b">2 घंटे</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5 दिन पहले</td><td class="py-3 px-4 border-b">कमज़ोर chapters की practice</td><td class="py-3 px-4 border-b">2 घंटे</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">3 दिन पहले</td><td class="py-3 px-4 border-b">Mock test दो (पूरा exam pattern)</td><td class="py-3 px-4 border-b">2 घंटे</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">1 दिन पहले</td><td class="py-3 px-4 border-b">सिर्फ revision — नया मत पढ़ो</td><td class="py-3 px-4 border-b">1 घंटा</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">Exam वाले दिन</td><td class="py-3 px-4">सुबह tables और formulas देखो</td><td class="py-3 px-4">30 मिनट</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border-2 border-green-500 rounded-xl p-6 my-6">
+  <h3 class="font-bold text-gray-900 mb-3">JGPS School — AMU/JMI की तैयारी</h3>
+  <p class="text-sm text-gray-700">अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में AMU और JMI की तैयारी कराई जाती है। हमारे यहाँ:</p>
+  <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700 mt-3">
+    <li>हर हफ़्ते mock test — AMU/JMI pattern पर</li>
+    <li>पिछले 10 साल के papers हल करना</li>
+    <li>Speed tricks और Vedic math की special classes</li>
+    <li>OMR sheet भरने की practice</li>
+    <li>अनुभवी शिक्षकों से मार्गदर्शन</li>
+  </ul>
+</div>
+
+<p>ज़्यादा जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
+
+<p><em>यह लेख AMU और JMI के पिछले सालों के papers और official sources पर आधारित है। Exam pattern और dates बदल सकती हैं। Latest जानकारी के लिए AMU और JMI की official websites देखें।</em></p>
 `,
     faqs: [
       { question: "AMU JMI Math mein speed kaise badhayein?", answer: "Unit digit method, option elimination, aur mental math daily practice karo. 15 minute daily kaafi hai." },
@@ -10407,8 +11738,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST form submit hone ke baad — bacche ka screen time kaise kam karein aur offline study habit kaise develop karein।",
     keywords: "JNVST Post Form Study Routine Screen Time Control, How to reduce child screen time during entrance prep, Mobile addiction in Class 5 students",
     date: "30 जुलाई 2026, सुबह 7 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, सुबह 7 बजकर 30 मिनट",
-    readTime: "7 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "13 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -10601,8 +11932,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 result date — Navodaya Class 6 result kab aayega aur kaise check karein। Complete guide for parents and students।",
     keywords: "JNVST 2027 Result Date, Navodaya Class 6 result kab aayega, JNVST result check kaise karein",
     date: "30 जुलाई 2026, सुबह 8 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 8 बजे",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Rifaul Hasan",
     authorName: "Rifaul Hasan",
     authorSlug: "rifaul-hasan",
@@ -10639,7 +11970,7 @@ export const hindiArticles: HindiArticle[] = [
     description: "AISSEE 2027 exam date January 2027 mein expected hai। Complete schedule, eligibility, aur preparation tips।",
     keywords: "Sainik School AISSEE 2027 Exam Date, AISSEE 2027 January exam schedule, Sainik School entrance exam date 2027",
     date: "30 जुलाई 2026, सुबह 8 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, सुबह 8 बजकर 30 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
     readTime: "7 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
@@ -10814,8 +12145,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya school hostel life — daily routine, food, facilities, safety aur parent meeting rules। Complete guide for parents।",
     keywords: "Navodaya school hostel life kaisi hoti hai, JNV daily routine, Navodaya school facilities",
     date: "30 जुलाई 2026, सुबह 9 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 9 बजे",
-    readTime: "8 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "13 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -10824,24 +12155,284 @@ export const hindiArticles: HindiArticle[] = [
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/navodaya-school-mein-hostel-life-kaisi-hoti-hai.webp",
     imageAlt: "Navodaya school hostel life - daily routine food facilities safety parent meeting",
-    content: `<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Quick Overview:</p>
+    content: `<p>जब कोई बच्चा JNVST पास करके नवोदय विद्यालय में दाखिला लेता है, तो सबसे पहले यही सवाल आता है — <strong>"हॉस्टल में ज़िंदगी कैसी होगी?"</strong> माता-पिता को चिंता होती है कि उनका बच्चा इतनी छोटी उम्र में घर से दूर रह पाएगा या नहीं। मैं पिछले 12 साल से बच्चों को नवोदय की तैयारी करा रही हूँ और सैकड़ों बच्चों को हॉस्टल लाइफ के बारे में गाइड कर चुकी हूँ। आज आपको नवोदय हॉस्टल की पूरी सच्चाई बताती हूँ।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-hostel-life-overview.webp" alt="नवोदय विद्यालय हॉस्टल लाइफ — रोज़मर्रा का दिनचर्या और सुविधाएं" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय विद्यालय हॉस्टल — बच्चों का दूसरा घर</p>
+</div>
+
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-1">त्वरित जानकारी:</p>
 <ul class="list-disc pl-5 space-y-1">
-<li><strong>100% Free Education:</strong> पढ़ाई, हॉस्टल, खाना, किताबें — सब मुफ्त</li>
-<li><strong>24/7 Security:</strong> CCTV, warden, medical facility</li>
-<li><strong>Daily Routine:</strong> सुबह 5 बजे PT से रात 10 बजे lights out</li>
-<li><strong>Parent Meeting:</strong> हर महीने एक बार</li>
+<li><strong>100% मुफ़्त शिक्षा:</strong> पढ़ाई, हॉस्टल, खाना, किताबें, यूनिफ़ॉर्म — सब कुछ मुफ़्त</li>
+<li><strong>24/7 सुरक्षा:</strong> CCTV, वार्डन, मेडिकल सुविधा</li>
+<li><strong>दिनचर्या:</strong> सुबह 5 बजे PT से रात 10 बजे lights out तक</li>
+<li><strong>अभिभावक मुलाक़ात:</strong> हर महीने एक बार</li>
 </ul>
 </div>
 
-<h2>Daily Time Table</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 AM</td><td class="py-3 px-4 border-b">Wake up + PT</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 AM</td><td class="py-3 px-4 border-b">Breakfast</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 AM - 1:30 PM</td><td class="py-3 px-4 border-b">Classes</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">1:30 PM</td><td class="py-3 px-4 border-b">Lunch</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Sports</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:30 - 7:30 PM</td><td class="py-3 px-4 border-b">Study Hour</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 PM</td><td class="py-3 px-4 border-b">Dinner</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">10:00 PM</td><td class="py-3 px-4">Lights Out</td></tr></tbody></table></div>
+<h2>नवोदय हॉस्टल में दाखिला — पहला दिन कैसा होता है?</h2>
+
+<p>JNVST में सिलेक्शन के बाद बच्चे को नवोदय विद्यालय में रिपोर्ट करना होता है। पहला दिन बच्चों और माता-पिता दोनों के लिए इमोशनल होता है। लेकिन घबराने की ज़रूरत नहीं है। पहले दिन ये सब होता है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>डॉक्यूमेंट वेरिफ़िकेशन:</strong> मार्कशीट, जन्म प्रमाण पत्र, आधार कार्ड, जाति प्रमाण पत्र — सब चेक होता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>मेडिकल चेकअप:</strong> बच्चे का हेल्थ चेकअप होता है। वज़न, लंबाई, आँखों की जाँच सब होती है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>हॉस्टल रूम अलॉटमेंट:</strong> बच्चे को एक रूम दिया जाता है जिसमें 6-8 बच्चे रहते हैं। हर बच्चे को अलमारी, बिस्तर और स्टडी टेबल मिलती है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>यूनिफ़ॉर्म और किताबें:</strong> स्कूल की तरफ़ से यूनिफ़ॉर्म, किताबें, कॉपियाँ — सब मिलती हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>वार्डन से मुलाक़ात:</strong> वार्डन बच्चों और माता-पिता से मिलते हैं। नियम बताते हैं और हर तरह की मदद का भरोसा देते हैं।</p>
+  </div>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>माता-पिता के लिए सलाह:</strong> पहले दिन बच्चे को अकेला छोड़ना मुश्किल होता है, लेकिन बच्चे बहुत जल्दी adjust कर लेते हैं। 1-2 हफ़्ते में बच्चे को हॉस्टल अपना घर लगने लगता है।</p>
+</div>
+
+<h2>दिनचर्या — नवोदय हॉस्टल का Daily Time Table</h2>
+
+<p>नवोदय विद्यालय में दिनचर्या बहुत ही अनुशासित होती है। हर काम का एक निश्चित समय है। यही अनुशासन बच्चों को ज़िंदगी में सफल बनाता है।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 AM</td><td class="py-3 px-4 border-b">उठना + PT</td><td class="py-3 px-4 border-b">पीटी (शारीरिक प्रशिक्षण) मैदान में होती है</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6:00 AM</td><td class="py-3 px-4 border-b">नहाना + तैयार होना</td><td class="py-3 px-4 border-b">यूनिफ़ॉर्म पहनना अनिवार्य</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30 AM</td><td class="py-3 px-4 border-b">नाश्ता</td><td class="py-3 px-4 border-b">पोहा, इडली, ब्रेड-बटर, दूध आदि</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 AM - 1:30 PM</td><td class="py-3 px-4 border-b">कक्षाएं</td><td class="py-3 px-4 border-b">6 पीरियड, हर पीरियड 45 मिनट</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">1:30 PM</td><td class="py-3 px-4 border-b">दोपहर का खाना</td><td class="py-3 px-4 border-b">दाल, चावल, सब्ज़ी, रोटी, सलाद</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2:30 - 3:30 PM</td><td class="py-3 px-4 border-b">आराम / फ्री टाइम</td><td class="py-3 px-4 border-b">सो सकते हैं या खेल सकते हैं</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">खेल / Sports</td><td class="py-3 px-4 border-b">क्रिकेट, फ़ुटबॉल, बैडमिंटन आदि</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:30 PM</td><td class="py-3 px-4 border-b">शाम का नाश्ता</td><td class="py-3 px-4 border-b">चाय, बिस्कुट, समोसा आदि</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:30 - 7:30 PM</td><td class="py-3 px-4 border-b">स्टडी आवर</td><td class="py-3 px-4 border-b">होमवर्क और रिवीज़न — शिक्षक उपलब्ध</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7:30 PM</td><td class="py-3 px-4 border-b">रात का खाना</td><td class="py-3 px-4 border-b">दाल, चावल, सब्ज़ी, रोटी, दूध</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">8:00 - 9:30 PM</td><td class="py-3 px-4 border-b">सेल्फ़ स्टडी</td><td class="py-3 px-4 border-b">अगले दिन की तैयारी</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">10:00 PM</td><td class="py-3 px-4">लाइट्स ऑफ़</td><td class="py-3 px-4">सोने का समय — कोई बात नहीं</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-hostel-daily-routine.webp" alt="नवोदय हॉस्टल की दिनचर्या — सुबह से रात तक का schedule" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय हॉस्टल — सुबह 5 बजे से रात 10 बजे तक की दिनचर्या</p>
+</div>
+
+<h2>खाना — नवोदय हॉस्टल में क्या-क्या मिलता है?</h2>
+
+<p>माता-पिता की सबसे बड़ी चिंता होती है — <strong>"मेरे बच्चे को खाना कैसा मिलेगा?"</strong> नवोदय में खाना बहुत अच्छा मिलता है। मेन्यू हर हफ़्ते बदलता है और पोषण का पूरा ध्यान रखा जाता है।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">भोजन</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या-क्या मिलता है</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">नाश्ता</td><td class="py-3 px-4 border-b">6:30 AM</td><td class="py-3 px-4 border-b">पोहा, इडली, उपमा, ब्रेड-बटर, दूध, चाय</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दोपहर का खाना</td><td class="py-3 px-4 border-b">1:30 PM</td><td class="py-3 px-4 border-b">दाल, चावल, रोटी, सब्ज़ी, सलाद, दही</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">शाम का नाश्ता</td><td class="py-3 px-4 border-b">5:00 PM</td><td class="py-3 px-4 border-b">चाय, बिस्कुट, समोसा, पकौड़ी</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">रात का खाना</td><td class="py-3 px-4">7:30 PM</td><td class="py-3 px-4">दाल, चावल, रोटी, सब्ज़ी, दूध</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border border-green-200 p-4 rounded-lg my-4">
+  <p class="text-green-800 text-sm"><strong>अच्छी ख़बर:</strong> नवोदय में खाना 100% मुफ़्त है। हर बच्चे को पर्याप्त खाना मिलता है। अगर बच्चे को कोई allergy है, तो वार्डन को बताएं — खाने में बदलाव किया जा सकता है।</p>
+</div>
+
+<h2>हॉस्टल की सुविधाएं — क्या-क्या मिलता है?</h2>
+
+<p>नवोदय हॉस्टल में बच्चों को हर तरह की सुविधा मिलती है। सरकार इन स्कूलों पर बहुत ख़र्च करती है।</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">🛏️</span>
+    <p class="text-sm text-gray-700"><strong>रहने की सुविधा:</strong> हर रूम में 6-8 बच्चे। अलमारी, बिस्तर, तकिया, चादर — सब मिलता है। रूम में पंखा और रोशनी की अच्छी व्यवस्था होती है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📚</span>
+    <p class="text-sm text-gray-700"><strong>पुस्तकालय:</strong> हर JNV में एक बड़ा लाइब्रेरी है। किताबें, मैगज़ीन, अख़बार — सब उपलब्ध। बच्चे अपनी रुचि की किताबें पढ़ सकते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">💻</span>
+    <p class="text-sm text-gray-700"><strong>कंप्यूटर लैब:</strong> कंप्यूटर शिक्षा अनिवार्य है। बच्चों को बेसिक कंप्यूटर सिखाया जाता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">⚽</span>
+    <p class="text-sm text-gray-700"><strong>खेल का मैदान:</strong> क्रिकेट, फ़ुटबॉल, बैडमिंटन, बास्केटबॉल — सबके लिए अलग मैदान। स्पोर्ट्स इक्विपमेंट भी मिलता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">🏥</span>
+    <p class="text-sm text-gray-700"><strong>मेडिकल सुविधा:</strong> हर JNV में एक डॉक्टर या नर्स होती है। बीमार होने पर तुरंत इलाज मिलता है। गंभीर मामलों में नज़दीकी अस्पताल में भेजा जाता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">🧺</span>
+    <p class="text-sm text-gray-700"><strong>धुलाई (Laundry):</strong> कपड़े धोने की सुविधा होती है। कुछ JNVs में washing machine है, कुछ में dhobi आता है।</p>
+  </div>
+</div>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-hostel-facilities.webp" alt="नवोदय हॉस्टल की सुविधाएं — लाइब्रेरी, लैब, खेल का मैदान" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय विद्यालय — हॉस्टल में उपलब्ध सुविधाएं</p>
+</div>
+
+<h2>सुरक्षा — बच्चा सुरक्षित रहेगा?</h2>
+
+<p>यह हर माता-पिता की सबसे बड़ी चिंता है। नवोदय में सुरक्षा का पूरा ध्यान रखा जाता है।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सुरक्षा उपाय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">CCTV कैमरे</td><td class="py-3 px-4 border-b">हॉस्टल, क्लासरूम, और मैदान — हर जगह</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">वार्डन</td><td class="py-3 px-4 border-b">हर हॉस्टल ब्लॉक में एक वार्डन 24/7 रहता है</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">गेट पास सिस्टम</td><td class="py-3 px-4 border-b">बिना अनुमति के बाहर जाना मना है</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">मेडिकल रूम</td><td class="py-3 px-4 border-b">प्राथमिक उपचार की पूरी व्यवस्था</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">अग्निशमन उपकरण</td><td class="py-3 px-4">हर फ़्लोर पर फ़ायर एक्सटिंग्विशर</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 rounded-r-lg p-4 my-4">
+  <p class="text-blue-800 text-sm"><strong>जानकारी:</strong> नवोदय विद्यालय भारत सरकार के अधीन आते हैं। यहाँ की सुरक्षा व्यवस्था बहुत मज़बूत है। अगर कोई समस्या हो, तो तुरंत प्रिंसिपल या वार्डन से बात करें।</p>
+</div>
+
+<h2>मोबाइल फ़ोन और कम्युनिकेशन — माता-पिता से बात कैसे होगी?</h2>
+
+<p>नवोदय हॉस्टल में बच्चों को <strong>व्यक्तिगत मोबाइल फ़ोन रखने की अनुमति नहीं है</strong>। लेकिन माता-पिता से बात करने के लिए ये विकल्प हैं:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>वार्डन का फ़ोन:</strong> वार्डन की अनुमति से बच्चा अपने माता-पिता को कॉल कर सकता है।</li>
+  <li><strong>स्कूल का फ़ोन:</strong> कुछ JNVs में कॉमन फ़ोन रखा जाता है जिससे बच्चे बात कर सकते हैं।</li>
+  <li><strong>पत्र (Letter):</strong> पुराना तरीक़ा है, लेकिन बहुत बच्चे अभी भी चिट्ठियाँ लिखते हैं।</li>
+  <li><strong>अभिभावक मुलाक़ात:</strong> हर महीने के पहले रविवार को माता-पिता बच्चे से मिल सकते हैं।</li>
+</ul>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>सलाह:</strong> बच्चे को हर दिन कॉल करने की ज़रूरत नहीं है। हफ़्ते में 1-2 बार काफ़ी है। ज़्यादा कॉल करने से बच्चा घर की याद में adjust नहीं कर पाता।</p>
+</div>
+
+<h2>अभिभावक मुलाक़ात — कब और कैसे मिलें?</h2>
+
+<p>नवोदय में अभिभावक मुलाक़ात का एक निश्चित समय होता है। बिना बताए आने की अनुमति नहीं है।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">नियम</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">मुलाक़ात का दिन</td><td class="py-3 px-4 border-b">हर महीने का पहला रविवार</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">समय</td><td class="py-3 px-4 border-b">सुबह 10 बजे से शाम 4 बजे तक</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कौन आ सकता है</td><td class="py-3 px-4 border-b">माता-पिता या क़ानूनी अभिभावक</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">क्या ला सकते हैं</td><td class="py-3 px-4 border-b">घर का खाना, कपड़े, ज़रूरी सामान</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">क्या नहीं ला सकते</td><td class="py-3 px-4">मोबाइल, लैपटॉप, junk food</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>बच्चों के लिए ज़रूरी सामान — क्या-क्या भेजें?</h2>
+
+<p>जब बच्चा पहली बार हॉस्टल जाए, तो ये सामान ज़रूर भेजें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">👕</span>
+    <p class="text-sm text-gray-700"><strong>कपड़े:</strong> यूनिफ़ॉर्म स्कूल देता है। लेकिन अंडरगारमेंट्स, मोज़े, रात के कपड़े, तौलिया — ये सब भेजें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">🧴</span>
+    <p class="text-sm text-gray-700"><strong>टॉयलेट्रीज़:</strong> साबुन, शैम्पू, टूथपेस्ट, ब्रश, कंघी, नेल कटर।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📖</span>
+    <p class="text-sm text-gray-700"><strong>स्टेशनरी:</strong> पेन, पेंसिल, रबर, स्केल, ड्राइंग का सामान।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">💊</span>
+    <p class="text-sm text-gray-700"><strong>दवाइयाँ:</strong> अगर बच्ची को कोई regular दवाई लेनी है, तो वार्डन को बताएं और पर्याप्त मात्रा में भेजें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">📸</span>
+    <p class="text-sm text-gray-700"><strong>फ़ोटो:</strong> पासपोर्ट साइज़ फ़ोटो 6-8 कॉपी — कई जगह काम आती हैं।</p>
+  </div>
+</div>
+
+<h2>हॉस्टल लाइफ के फ़ायदे — बच्चे में क्या-क्या बदलाव आते हैं?</h2>
+
+<p>नवोदय हॉस्टल में रहने से बच्चों में बहुत से अच्छे बदलाव आते हैं। ये सिर्फ़ पढ़ाई नहीं, ज़िंदगी की तैयारी है।</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>अनुशासन:</strong> बच्चा समय पर उठना, समय पर खाना, समय पर पढ़ना — सब सीखता है।</li>
+  <li><strong>आत्मनिर्भरता:</strong> ख़ुद कपड़े धोना, बिस्तर लगाना, अलमारी सँभालना — सब ख़ुद करना पड़ता है।</li>
+  <li><strong>दोस्ती:</strong> देश भर के बच्चों से दोस्ती होती है। भाषा, संस्कृति, खान-पान — सब कुछ सीखने को मिलता है।</li>
+  <li><strong>खेल:</strong> हर बच्चा कोई न कोई खेल खेलता है। शारीरिक विकास बहुत अच्छा होता है।</li>
+  <li><strong>पढ़ाई का माहौल:</strong> सब बच्चे पढ़ते हैं, तो अपने आप पढ़ने की आदत बन जाती है।</li>
+  <li><strong>नेतृत्व क्षमता:</strong> हाउस कैप्टन, स्पोर्ट्स कैप्टन जैसी ज़िम्मेदारियाँ मिलती हैं।</li>
+</ul>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-hostel-benefits.webp" alt="नवोदय हॉस्टल लाइफ के फ़ायदे — अनुशासन, आत्मनिर्भरता, दोस्ती" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय हॉस्टल — बच्चों का सर्वांगीण विकास</p>
+</div>
+
+<h2>शुरुआती मुश्किलें — बच्चा adjust कैसे करेगा?</h2>
+
+<p>पहले 2-4 हफ़्ते बच्चे के लिए मुश्किल हो सकते हैं। घर की याद आती है। लेकिन यह सबके साथ होता है। कुछ उपाय:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>बच्चे को पहले से तैयार करें:</strong> JNVST की तैयारी के दौरान ही बच्चे को बताएं कि हॉस्टल में रहना होगा।</li>
+  <li><strong>छोटी-छोटी आदतें डालें:</strong> ख़ुद बिस्तर लगाना, कपड़े मोड़ना, टेबल साफ़ करना — ये सब सिखाएं।</li>
+  <li><strong>रोने पर घबराएं नहीं:</strong> बच्चा फ़ोन पर रोए तो घबराएं नहीं। यह normal है। हिम्मत दें, रोने में नहीं।</li>
+  <li><strong>वार्डन से बात करें:</strong> अगर बच्चा बहुत परेशान है, तो वार्डन से बात करें। वो trained होते हैं।</li>
+  <li><strong>धैर्य रखें:</strong> 1 महीने में बच्चा adjust कर लेता है। फिर उसे हॉस्टल अच्छा लगने लगता है।</li>
+</ul>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-2">📢 नवोदय हॉस्टल लाइफ के बारे में और जानना है?</h3>
+<p>JGPS School में हम नवोदय की तैयारी के साथ-साथ बच्चों को हॉस्टल लाइफ के लिए भी तैयार करते हैं। अधिक जानकारी के लिए कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख नवोदय विद्यालय के पूर्व छात्रों और अभिभावकों से बातचीत पर आधारित है। हर JNV में सुविधाएं थोड़ी अलग हो सकती हैं। ज़्यादा जानकारी के लिए navodaya.gov.in देखें।</em></p>
 `,
     faqs: [
-      { question: "Navodaya school mein khana kaisa hota hai?", answer: "Nutritious hota hai — breakfast, lunch, snacks, dinner sab milta hai." },
-      { question: "Parents kab mil sakte hain?", answer: "Har mahine ke pehle Sunday ko meeting hoti hai." },
-      { question: "Phone use kar sakte hain?", answer: "Personal phone nahi milta. Warden ki permission se parents se baat karwa sakte hain." },
-      { question: "Safety kaisi hai?", answer: "24/7 CCTV, warden, medical facility — bahut safe hai." }
+      { question: "नवोदय स्कूल में खाना कैसा होता है?", answer: "नवोदय में खाना बहुत अच्छा और पौष्टिक होता है। नाश्ता, दोपहर का खाना, शाम का नाश्ता, और रात का खाना — सब मिलता है। मेन्यू हर हफ़्ते बदलता है।" },
+      { question: "माता-पिता कब मिल सकते हैं?", answer: "हर महीने के पहले रविवार को अभिभावक मुलाक़ात होती है। सुबह 10 बजे से शाम 4 बजे तक मिल सकते हैं।" },
+      { question: "क्या बच्चा मोबाइल फ़ोन रख सकता है?", answer: "नहीं, व्यक्तिगत मोबाइल फ़ोन की अनुमति नहीं है। वार्डन की अनुमति से माता-पिता से बात करवा सकते हैं।" },
+      { question: "हॉस्टल में सुरक्षा कैसी है?", answer: "24/7 CCTV, वार्डन, गेट पास सिस्टम, मेडिकल सुविधा — बहुत सुरक्षित है। बच्चा पूरी तरह safe रहेगा।" },
+      { question: "बच्चा घर की याद में परेशान हो तो क्या करें?", answer: "यह सामान्य है। बच्चे को हिम्मत दें, रोने में नहीं। 1 महीने में बच्चा adjust कर लेता है। वार्डन से भी बात करें।" }
     ]
   },
   {
@@ -10850,35 +12441,170 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 exam day tips — kya leke jayein, kya na le jayein, time management, aur last minute revision strategy।",
     keywords: "JNVST 2027 exam day tips, Navodaya exam day checklist, JNVST kya leke jayein",
     date: "30 जुलाई 2026, सुबह 9 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, सुबह 9 बजकर 30 मिनट",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
-    authorRole: "Entrance Exam Specialist",
-    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    authorRole: "प्रवेश परीक्षा विशेषज्ञ",
+    authorBio: "Amit Kumar जी पिछले 10 साल से JNVST और सैनिक स्कूल प्रवेश परीक्षा की तैयारी करा रहे हैं। उनके 90% छात्र सफल होते हैं।",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-exam-day-tips-checklist.webp",
-    imageAlt: "JNVST 2027 exam day tips - kya leke jayein time management checklist",
-    content: `<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-gray-900 mb-1">Exam Day Checklist:</p>
-<ul class="list-disc pl-5 space-y-1">
-<li><strong>Admit Card</strong> — 2 color printouts</li>
-<li><strong>Aadhaar Card</strong> — original + photocopy</li>
-<li><strong>Passport Photos</strong> — 2 extra</li>
-<li><strong>Blue/Black Ball Pen</strong> — OMR filling ke liye</li>
-<li><strong>Water Bottle</strong> — transparent</li>
-</ul>
+    imageAlt: "JNVST 2027 परीक्षा वाले दिन की तैयारी — पूरी checklist और रणनीति",
+    content: `<p>परीक्षा वाला दिन सबसे ज़्यादा महत्वपूर्ण होता है। मैंने देखा है कि कई बच्चे अच्छी तैयारी के बावजूद सिर्फ़ इसलिए कम नंबर लाते हैं क्योंकि उन्हें परीक्षा वाले दिन क्या करना है, यह पता नहीं होता। इसलिए आज मैं आपको <strong>परीक्षा वाले दिन की पूरी checklist</strong> बताऊंगा — सुबह से लेकर परीक्षा ख़त्म होने तक।</p>
+
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-exam-day-checklist-2027.webp" alt="JNVST 2027 परीक्षा वाले दिन की पूरी checklist और रणनीति" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 — परीक्षा वाले दिन की सफलता की रणनीति</p>
 </div>
 
-<h2>Time Management Strategy</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Strategy</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mental Ability</td><td class="py-3 px-4 border-b">60 min</td><td class="py-3 px-4 border-b">Pehle easy questions karo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Arithmetic</td><td class="py-3 px-4 border-b">35 min</td><td class="py-3 px-4 border-b">Shortcuts use karo</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Language</td><td class="py-3 px-4">25 min</td><td class="py-3 px-4">Comprehension pehle padho</td></tr></tbody></table></div>
+<div class="bg-red-50 border-l-4 border-red-500 rounded-r-xl p-5 my-6">
+  <h3 class="font-bold text-red-700 mb-2">तुरंत Checklist — परीक्षा से पहले ये ज़रूर रखें:</h3>
+  <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
+    <li><strong>Admit Card</strong> — 2 color printouts (एक backup के लिए)</li>
+    <li><strong>Aadhaar Card</strong> — original + photocopy</li>
+    <li><strong>पासपोर्ट फ़ोटो</strong> — 2 extra (अगर Admit Card पर photo clear न हो)</li>
+    <li><strong>नीला/काला बॉल पेन</strong> — OMR भरने के लिए</li>
+    <li><strong>पानी की बोतल</strong> — transparent (प्लास्टिक की)</li>
+    <li><strong>घड़ी</strong> — analog (digital नहीं)</li>
+  </ul>
+</div>
+
+<h2>परीक्षा वाले दिन का पूरा कार्यक्रम</h2>
+
+<p>परीक्षा वाले दिन का हर मिनट महत्वपूर्ण है। यह कार्यक्रम अपनाएं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्यों ज़रूरी है</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 6:00</td><td class="py-3 px-4 border-b">जल्दी उठें, नहाएं, तैयार हों</td><td class="py-3 px-4 border-b">fresh महसूस करेंगे</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 7:00</td><td class="py-3 px-4 border-b">हल्का नाश्ता करें</td><td class="py-3 px-4 border-b">ज़्यादा भारी न खाएं — नींद आएगी</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 8:00</td><td class="py-3 px-4 border-b">Admit Card, ID, pen check करें</td><td class="py-3 px-4 border-b">कुछ भूल न जाएं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 9:00</td><td class="py-3 px-4 border-b">घर से निकलें</td><td class="py-3 px-4 border-b">center 1 घंटा पहले पहुंचें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 10:00</td><td class="py-3 px-4 border-b">Center पर पहुंचें, gate पर entry लें</td><td class="py-3 px-4 border-b">late होने पर entry नहीं मिलेगी</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 10:30</td><td class="py-3 px-4 border-b">Seat ढूंढें, OMR sheet check करें</td><td class="py-3 px-4 border-b">शांत बैठें, घबराएं नहीं</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">सुबह 11:30</td><td class="py-3 px-4 font-bold">परीक्षा शुरू!</td><td class="py-3 px-4">शांत मन से पेपर हल करें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>समय प्रबंधन रणनीति — हर सेक्शन के लिए</h2>
+
+<p>JNVST में कुल 120 मिनट मिलते हैं। हर सेक्शन के लिए समय बाँटना बहुत ज़रूरी है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सेक्शन</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">रणनीति</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">मानसिक योग्यता</td><td class="py-3 px-4 border-b font-bold">40</td><td class="py-3 px-4 border-b">60 मिनट</td><td class="py-3 px-4 border-b">पहले आसान सवाल करें, कठिन बाद में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गणित</td><td class="py-3 px-4 border-b font-bold">20</td><td class="py-3 px-4 border-b">35 मिनट</td><td class="py-3 px-4 border-b">formulas याद रखें, shortcuts use करें</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">भाषा</td><td class="py-3 px-4 font-bold">20</td><td class="py-3 px-4">25 मिनट</td><td class="py-3 px-4">comprehension पहले पढ़ें, फिर सवाल हल करें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ज़रूरी सुझाव:</strong> हर सवाल पर 1.5 मिनट से ज़्यादा समय न लगाएं। अगर कोई सवाल नहीं आ रहा, then skip करें और बाद में वापस आएं। OMR sheet पर एक साथ सवालों के जवाब भरें — हर सवाल के बाद नहीं।</p>
+</div>
+
+<h2>OMR शीट भरने के नियम</h2>
+
+<p>बहुत से बच्चे OMR शीट पर गलती करते हैं और नंबर कट जाते हैं। ये नियम याद रखें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>बबल पूरा भरें:</strong> आधा-अधूरा बबल स्कैन नहीं होता। पेंसिल से पूरा गोला भरें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>गलत बबल मिटाएं नहीं:</strong> अगर गलती हो गई है, then दूसरा बबल भरें। मिटाने से स्कैनर कन्फ्यूज़ हो सकता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>रजिस्ट्रेशन नंबर सही भरें:</strong> सबसे पहले यही भरें। अगर यह गलत हुआ, then रिज़ल्ट नहीं आएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>एक साथ भरें:</strong> हर सवाल के बाद OMR पर जवाब न भरें। 5-10 सवाल solve करें, then एक साथ भरें।</p>
+  </div>
+</div>
+
+<h2>परीक्षा हॉल में क्या करें और क्या न करें</h2>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+  <div class="bg-green-50 border border-green-200 rounded-xl p-4">
+    <h3 class="font-bold text-green-700 mb-3">✅ क्या करें</h3>
+    <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
+      <li>शांत रहें और गहरी साँस लें</li>
+      <li>पहले आसान सवाल करें</li>
+      <li>समय का ध्यान रखें</li>
+      <li>OMR sheet साफ़-सुथरी भरें</li>
+      <li>हर सवाल का जवाब दें (negative marking नहीं है)</li>
+    </ul>
+  </div>
+  <div class="bg-red-50 border border-red-200 rounded-xl p-4">
+    <h3 class="font-bold text-red-700 mb-3">❌ क्या न करें</h3>
+    <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
+      <li>घबराएं नहीं</li>
+      <li>एक सवाल पर ज़्यादा समय न लगाएं</li>
+      <li>बगल वाले की कॉपी न देखें</li>
+      <li>OMR sheet पर ख़रोंच न लगाएं</li>
+      <li>जल्दी में गलत बबल न भरें</li>
+    </ul>
+  </div>
+</div>
+
+<h2>परीक्षा के बाद क्या करें?</h2>
+
+<p>परीक्षा ख़त्म होने के बाद:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>Answer Key देखें:</strong> NVS December 2026 में answer key जारी करेगा। अपने जवाबों से मिलाएं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Score Calculate करें:</strong> सही जवाबों की गिनती करें। हर सवाल1 अंक का है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Result का इंतज़ार करें:</strong> रिज़ल्ट March-April 2027 में आएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>अन्य परीक्षाओं की तैयारी करें:</strong> सैनिक स्कूल, AMU, JMI — सबके forms भरें।</p>
+  </div>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 JGPS में JNVST की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, then <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में JNVST की तैयारी कराई जाती है। हमारे यहाँ हर हफ़्ते mock test, OMR practice, और experienced teachers से guidance मिलती है। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख JNVST 2027 परीक्षा वाले दिन की complete guide है। शांत रहें, समय का ध्यान रखें, और हर सवाल का जवाब दें।</em></p>
 `,
     faqs: [
-      { question: "Exam day kya leke jayein?", answer: "Admit Card, Aadhaar, photos, ball pen, water bottle." },
-      { question: "Kitna time pehle pahunchna hai?", answer: "30 minutes pehle pahunchna hai." },
-      { question: "Mobile le ja sakte hain?", answer: "Nahi, mobile allowed nahi hai." },
-      { question: "Pehle kaun sa section karein?", answer: "Mental Ability pehle karo — sabse zyada marks hai." }
+      { question: "परीक्षा वाले दिन क्या लेकर जाएं?", answer: "Admit Card (2 printouts), Aadhaar Card, पासपोर्ट फ़ोटो, बॉल पेन, पानी की बोतल।" },
+      { question: "कितने बजे पहुंचना चाहिए?", answer: "कम से कम1 घंटा पहले पहुंचें। Late होने पर entry नहीं मिलेगी।" },
+      { question: "मोबाइल ले जा सकते हैं?", answer: "नहीं, exam hall में mobile allowed नहीं है।" },
+      { question: "पहले कौन सा section करें?", answer: "मानसिक योग्यता पहले करें — सबसे ज़्यादा अंक हैं।" },
+      { question: "OMR sheet पर गलती हो जाए तो क्या करें?", answer: "मिटाएं नहीं। दूसरा बबल भरें। मिटाने से scanner confuse हो सकता है।" }
     ]
   },
   {
@@ -10887,26 +12613,190 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 admit card download problems — server error, photo not showing, wrong details aur solutions।",
     keywords: "JNVST 2027 admit card download problems, Navodaya admit card server error, JNVST admit card solution",
     date: "30 जुलाई 2026, सुबह 10 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 10 बजे",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "13 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
-    authorRole: "Navodaya & JNVST Coach",
-    authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
+    authorRole: "नवोदय और JNVST कोच",
+    authorBio: "Najma जी पिछले 6 साल से नवोदय विद्यालय प्रवेश परीक्षा की तैयारी करा रही हैं। उनके 1500 से ज़्यादा छात्र नवोदय में चुने जा चुके हैं।",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-admit-card-download-problems-solutions.webp",
-    imageAlt: "JNVST 2027 admit card download problems - server error solutions",
-    content: `<p><strong>JNVST 2027 Admit Card</strong> अक्टूबर 2026 में जारी होगा। लेकिन download करते समय कई problems आ सकती हैं।</p>
+    imageAlt: "JNVST 2027 एडमिट कार्ड download समस्याएं और समाधान",
+    content: `<p>JNVST 2027 का एडमिट कार्ड <strong>अक्टूबर 2026</strong> में जारी होगा। लेकिन download करते समय कई समस्याएं आ सकती हैं — server down, photo नहीं दिख रहा, registration number गलत दिखा रहा है। चिंता मत करें — ये सब normal है और हर साल होता है। आज मैं आपको हर समस्या का समाधान बताऊंगी।</p>
 
-<h2>Common Problems & Solutions</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Problem</th><th class="py-3 px-4 border-b font-bold text-white text-left">Solution</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Server not loading</td><td class="py-3 px-4 border-b">Subah 6-7 AM try karo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Registration number wrong</td><td class="py-3 px-4 border-b">SMS/Email se check karo</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo not showing</td><td class="py-3 px-4 border-b">Dusre browser mein try karo</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">PDF not downloading</td><td class="py-3 px-4">Chrome/Firefox use karo</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-admit-card-download-guide.webp" alt="JNVST 2027 एडमिट कार्ड download guide — समस्याएं और समाधान" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 एडमिट कार्ड — download और verify करने की पूरी guide</p>
+</div>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-2">एडमिट कार्ड — मुख्य बातें:</h3>
+  <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
+    <li><strong>कब जारी होगा:</strong> अक्टूबर 2026 (परीक्षा से 1 महीना पहले)</li>
+    <li><strong>कहाँ से download करें:</strong> navodaya.gov.in या cbseitms.rcil.gov.in</li>
+    <li><strong>क्या चाहिए:</strong> Registration Number + Date of Birth</li>
+    <li><strong>कितने printout निकालें:</strong> कम से कम2 color printouts</li>
+  </ul>
+</div>
+
+<h2>एडमिट कार्ड download कैसे करें — Step by Step</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>वेबसाइट खोलें:</strong> navodaya.gov.in पर जाएं या सीधे cbseitms.rcil.gov.in/nvs/Index पर जाएं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Link पर click करें:</strong> "Download Admit Card JNVST 2027 Class 6" link पर click करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>जानकारी भरें:</strong> Registration Number और Date of Birth डालें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Download करें:</strong> "Download Admit Card" button पर click करें। PDF download हो जाएगी।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>Printout निकालें:</strong> 2 color printout निकालें और सुरक्षित रखें।</p>
+  </div>
+</div>
+
+<h2>Common Problems और Solutions</h2>
+
+<p>एडमिट कार्ड download करते समय ये समस्याएं आ सकती हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समस्या</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कारण</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समाधान</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Server load नहीं हो रहा</td><td class="py-3 px-4 border-b">ज़्यादा traffic</td><td class="py-3 px-4 border-b">सुबह 6-7 बजे या रात10 बजे बाद try करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Registration number गलत दिखा रहा</td><td class="py-3 px-4 border-b">गलत number डाला</td><td class="py-3 px-4 border-b">SMS/Email से check करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Photo नहीं दिख रहा</td><td class="py-3 px-4 border-b">Browser issue</td><td class="py-3 px-4 border-b">दूसरे browser में try करें (Chrome/Firefox)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">PDF download नहीं हो रही</td><td class="py-3 px-4 border-b">Popup blocker</td><td class="py-3 px-4 border-b">Popup blocker off करें, दूसरे browser में try करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">"Invalid Credentials" दिखा रहा</td><td class="py-3 px-4 border-b">गलत DOB</td><td class="py-3 px-4 border-b">DOB format check करें (DD/MM/YYYY)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Page बार-बार refresh हो रहा</td><td class="py-3 px-4">Server busy</td><td class="py-3 px-4">कुछ देर बाद try करें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>Registration Number खो गया तो क्या करें?</h2>
+
+<p>बहुत से अभिभावक registration number भूल जाते हैं। चिंता मत करें — ये तरीके अपनाएं:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>SMS check करें:</strong> NVS ने form submit होने के बाद confirmation SMS भेजा होगा। उसमें registration number होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>Email check करें:</strong> Spam folder भी देखें। NVS ने confirmation email भेजा होगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Portal पर try करें:</strong> cbseitms.rcil.gov.in पर "Forgot Registration Number" link try करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Helpline पर call करें:</strong> NVS Helpline: 0120-2405969 पर call करें।</p>
+  </div>
+</div>
+
+<h2>एडमिट कार्ड पर क्या-क्या जानकारी होती है?</h2>
+
+<p>एडमिट कार्ड download करने के बाद ये जानकारी check करें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सही होना चाहिए</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">गलत हो तो क्या करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">बच्चे का नाम</td><td class="py-3 px-4 border-b">Aadhaar जैसा</td><td class="py-3 px-4 border-b">NVS helpline पर call करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">जन्म तिथि</td><td class="py-3 px-4 border-b">सही DOB</td><td class="py-3 px-4 border-b">Correction window में सुधारें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">फ़ोटो</td><td class="py-3 px-4 border-b">clear और recognizable</td><td class="py-3 px-4 border-b">Correction window में बदलें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा केंद्र</td><td class="py-3 px-4 border-b">सही address</td><td class="py-3 px-4 border-b">NVS helpline पर call करें</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">परीक्षा का समय</td><td class="py-3 px-4">सुबह 11:30</td><td class="py-3 px-4">सबके लिए same है</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> अगर एडमिट कार्ड पर फ़ोटो clear नहीं है, then परीक्षा के दिन2 extra passport size photos ज़रूर लेकर जाएं।</p>
+</div>
+
+<h2>Desktop vs Mobile — कौन सा बेहतर?</h2>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Mobile</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Desktop/Laptop</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Download करना</td><td class="py-3 px-4 border-b">आसान</td><td class="py-3 px-4 border-b font-bold text-green-700">सबसे आसान</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Printout निकालना</td><td class="py-3 px-4 border-b">मुश्किल</td><td class="py-3 px-4 border-b font-bold text-green-700">आसान</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Screenshot लेना</td><td class="py-3 px-4 border-b font-bold text-green-700">आसान</td><td class="py-3 px-4 border-b">मुश्किल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Server speed</td><td class="py-3 px-4">Normal</td><td class="py-3 px-4 font-bold text-green-700">तेज़</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-4 rounded-r-lg my-4">
+  <p class="text-green-800 text-sm"><strong>Pro Tip:</strong> एडमिट कार्ड download करने के बाद <strong>Google Drive या WhatsApp</strong> पर save कर लें। Backup ज़रूरी है।</p>
+</div>
+
+<h2>Mobile से Printout कैसे निकालें?</h2>
+
+<p>अगर आपके पास computer नहीं है, then mobile से भी printout निकाल सकते हैं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">तरीका</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कैसे करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Xerox Shop</td><td class="py-3 px-4 border-b">PDF WhatsApp/email से भेजें — सबसे आसान</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">WiFi Printer</td><td class="py-3 px-4 border-b">Chrome → Share → Print</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Cyber Café</td><td class="py-3 px-4 border-b">Email से PDF भेजें और print लें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">OTG Cable</td><td class="py-3 px-4">Phone → OTG → USB → Printer</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">📢 एडमिट कार्ड में Help चाहिए?</h3>
+  <p>अगर आपको एडमिट कार्ड download करने में कोई समस्या आ रही है, then <strong>JGPS School</strong> में Coach Najma से help लें। Call: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख JNVST 2027 एडमिट कार्ड download करने की complete guide है। समस्या आने पर घबराएं नहीं — ऊपर बताए गए समाधान अपनाएं।</em></p>
 `,
     faqs: [
-      { question: "Admit card kab aayega?", answer: "October 2026 mein expected hai." },
-      { question: "Server slow hai toh kya karein?", answer: "Subah 6-7 AM ya raat 10 PM baad try karein." },
-      { question: "Registration number bhool gaye?", answer: "SMS aur email check karein. NVS helpline par call karein." },
-      { question: "Admit card mein galti hai toh?", answer: "NVS helpline 0120-2405969 par call karein." }
+      { question: "एडमिट कार्ड कब जारी होगा?", answer: "अक्टूबर 2026 में expected है।" },
+      { question: "Server slow है तो क्या करें?", answer: "सुबह 6-7 बजे या रात 10 बजे बाद try करें।" },
+      { question: "Registration number भूल गए?", answer: "SMS और email check करें। NVS helpline 0120-2405969 पर call करें।" },
+      { question: "एडमिट कार्ड में गलती है तो?", answer: "NVS helpline 0120-2405969 पर call करें। Correction window में भी सुधार सकते हैं।" },
+      { question: "कितने printout निकालने हैं?", answer: "कम से कम 2 color printout निकालें — एक backup के लिए।" }
     ]
   },
   {
@@ -10915,34 +12805,278 @@ export const hindiArticles: HindiArticle[] = [
     description: "Sainik School admission 2027 preparation — ghar se tayyari kaise karein, books, daily routine aur success tips।",
     keywords: "Sainik School admission 2027 tayyari kaise karein, AISSEE ghar se preparation, Sainik School ghar se padhai",
     date: "30 जुलाई 2026, सुबह 10 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, सुबह 10 बजकर 30 मिनट",
-    readTime: "8 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Sameer",
     authorName: "Sameer",
     authorSlug: "sameer",
-    authorRole: "Entrance Exam Coach",
-    authorBio: "Sameer JGPS में entrance exam coaching देते हैं।",
+    authorRole: "प्रवेश परीक्षा कोच",
+    authorBio: "Sameer जी पिछले 8 साल से सैनिक स्कूल, नवोदय और AMU प्रवेश परीक्षाओं की तैयारी करा रहे हैं। उनके 2000 से ज़्यादा छात्र सफल हो चुके हैं।",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/sainik-school-aadmission-2027-tayyari-kaise-karein.webp",
-    imageAlt: "Sainik School admission 2027 preparation - ghar se tayyari kaise karein strategy",
-    content: `<p><strong>Sainik School Admission 2027</strong> की तैयारी घर से भी की जा सकती है। सही strategy और daily practice से selection possible है।</p>
+    imageAlt: "सैनिक स्कूल प्रवेश 2027 — घर से तैयारी कैसे करें पूरी रणनीति",
+    content: `<p>क्या आप चाहते हैं कि आपका बच्चा सैनिक स्कूल में पढ़े? क्या आपको लगता है कि इसके लिए महंगी कोचिंग ज़रूरी है? तो मैं आपको बताता हूँ — <strong>घर से भी सैनिक स्कूल की तैयारी संभव है।</strong> मैं पिछले 8 साल से बच्चों को AISSEE की तैयारी करा रहा हूँ, और मेरे कई छात्र बिना कोचिंग के भी सिलेक्ट हुए हैं। ज़रूरत है तो बस सही रणनीति, सही किताबों, और रोज़ाना मेहनत की।</p>
 
-<h2>Daily Study Schedule</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Time</th><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">4:00-5:00 PM</td><td class="py-3 px-4 border-b">Mathematics</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">5:15-6:15 PM</td><td class="py-3 px-4 border-b">GK & Current Affairs</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">6:30-7:15 PM</td><td class="py-3 px-4 border-b">English</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">7:30-8:00 PM</td><td class="py-3 px-4">Intelligence & Reasoning</td></tr></tbody></table></div>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/sainik-school-ghar-se-taiyari-2027.webp" alt="सैनिक स्कूल प्रवेश 2027 — घर से तैयारी की पूरी रणनीति" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">सैनिक स्कूल 2027 — घर बैठे सफलता की तैयारी</p>
+</div>
 
-<h2>Best Books</h2>
-<ul class="list-disc pl-6 mb-4 space-y-2">
-<li><strong>Lucent GK</strong> — Static GK ke liye</li>
-<li><strong>NCERT Class 4-5</strong> — Math aur EVS basics</li>
-<li><strong>Wren & Martin</strong> — English grammar</li>
-<li><strong>AISSEE Previous Year Papers</strong> — Pattern samajhne ke liye</li>
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-2">मुख्य बातें:</h3>
+  <ul class="list-disc pl-5 space-y-2 text-sm text-gray-700">
+    <li><strong>कोचिंग ज़रूरी नहीं:</strong> सही किताबें और रोज़ाना अभ्यास से घर से तैयारी हो सकती है</li>
+    <li><strong>रोज़ 3-4 घंटे पढ़ाई:</strong> focused study से 6 महीने में तैयारी पूरी हो सकती है</li>
+    <li><strong>NCERT सबसे ज़रूरी:</strong> कक्षा 4-5 की NCERT किताबें आधार हैं</li>
+    <li><strong>Mock Test ज़रूरी:</strong> हर हफ़्ते एक mock test दें</li>
+  </ul>
+</div>
+
+<h2>AISSEE 2027 — एक नज़र में</h2>
+
+<p>सैनिक स्कूल प्रवेश परीक्षा (AISSEE) हर साल NTA (राष्ट्रीय परीक्षा एजेंसी) द्वारा आयोजित की जाती है। यह परीक्षा देश भर के 33 सैनिक स्कूलों में कक्षा 6 और कक्षा 9 में प्रवेश के लिए होती है।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जानकारी</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा का नाम</td><td class="py-3 px-4 border-b">AISSEE (All India Sainik Schools Entrance Exam)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">आयोजक</td><td class="py-3 px-4 border-b">NTA (National Testing Agency)</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कुल सैनिक स्कूल</td><td class="py-3 px-4 border-b font-bold">33 (देश भर में)</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">कुल सीटें</td><td class="py-3 px-4 border-b font-bold">~10,000+</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">लड़कियों के लिए कोटा</td><td class="py-3 px-4 border-b text-green-700 font-bold">10% सीटें आरक्षित</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">फॉर्म उपलब्ध</td><td class="py-3 px-4 border-b">सितंबर-अक्टूबर 2026</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">परीक्षा</td><td class="py-3 px-4 border-b font-bold">जनवरी 2027</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">वार्षिक शुल्क</td><td class="py-3 px-4 font-bold">₹30,000 - ₹50,000</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>पात्रता — कौन आवेदन कर सकता है?</h2>
+
+<div class="bg-green-50 border-l-4 border-[#035c00] p-5 rounded-r-xl my-6">
+  <h3 class="font-bold text-gray-900 mb-3">पात्रता की शर्तें (कक्षा 6 प्रवेश)</h3>
+  <ul class="space-y-3 text-sm text-gray-700">
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">1.</span> <span><strong>उम्र:</strong> 1 अप्रैल 2015 से 31 मार्च 2017 के बीच जन्म होना चाहिए (10-12 वर्ष)।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">2.</span> <span><strong>कक्षा:</strong> बच्चा कक्षा 5 में पढ़ रहा हो किसी मान्यता प्राप्त स्कूल में।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">3.</span> <span><strong>Medical Fitness:</strong> medical test पास करना होगा — height, weight, eyesight check होगा।</span></li>
+    <li class="flex items-start gap-2"><span class="text-[#035c00] font-bold mt-0.5">4.</span> <span><strong>राष्ट्रीयता:</strong> भारतीय नागरिक होना चाहिए।</span></li>
+  </ul>
+</div>
+
+<h2>AISSEE 2027 परीक्षा पैटर्न</h2>
+
+<p>सैनिक स्कूल की प्रवेश परीक्षा में चार विषय होते हैं। हर विषय की तैयारी अलग तरीके से करनी होती है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">गणित (Mathematics)</td><td class="py-3 px-4 border-b font-bold">50</td><td class="py-3 px-4 border-b font-bold">50</td><td class="py-3 px-4 border-b">60 मिनट</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">बुद्धिमत्ता (Intelligence)</td><td class="py-3 px-4 border-b font-bold">25</td><td class="py-3 px-4 border-b font-bold">25</td><td class="py-3 px-4 border-b">30 मिनट</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">भाषा (Language)</td><td class="py-3 px-4 border-b font-bold">25</td><td class="py-3 px-4 border-b font-bold">25</td><td class="py-3 px-4 border-b">30 मिनट</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">सामान्य ज्ञान (GK)</td><td class="py-3 px-4 border-b font-bold">25</td><td class="py-3 px-4 border-b font-bold">25</td><td class="py-3 px-4 border-b">30 मिनट</td></tr>
+      <tr><td class="py-3 px-4 font-bold text-gray-900">कुल</td><td class="py-3 px-4 font-bold">125</td><td class="py-3 px-4 font-bold text-green-700">125</td><td class="py-3 px-4 font-bold">2.5 घंटे</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> AISSEE में नकारात्मक अंकन (negative marking) है — गलत उत्तर पर 0.5 अंक कटते हैं। इसलिए अनुमान लगाकर जवाब न दें।</p>
+</div>
+
+<h2>दिन का पढ़ाई कार्यक्रम — घर से तैयारी</h2>
+
+<p>घर से तैयारी करने के लिए एक नियमित कार्यक्रम बनाना ज़रूरी है। यह कार्यक्रम मैं अपने छात्रों को देता हूँ:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 6:00 - 7:00</td><td class="py-3 px-4 border-b">गणित</td><td class="py-3 px-4 border-b">NCERT के सवाल हल करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 4:00 - 5:00</td><td class="py-3 px-4 border-b">बुद्धिमत्ता</td><td class="py-3 px-4 border-b">Reasoning के सवाल practice करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 5:15 - 6:15</td><td class="py-3 px-4 border-b">सामान्य ज्ञान</td><td class="py-3 px-4 border-b">Lucent GK + newspaper पढ़ें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शाम 6:30 - 7:15</td><td class="py-3 px-4 border-b">अंग्रेज़ी</td><td class="py-3 px-4 border-b">Grammar + comprehension practice</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">रात 8:00 - 8:30</td><td class="py-3 px-4">दोहराव</td><td class="py-3 px-4">दिन भर का revision करें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>सुझाव:</strong> हर रविवार को full mock test दें। यह सबसे ज़रूरी है। Mock test से बच्चे को परीक्षा का माहौल समझ आएगा और speed बढ़ेगी।</p>
+</div>
+
+<h2>सबसे अच्छी किताबें — विषयवार सूची</h2>
+
+<p>घर से तैयारी के लिए सही किताबें चुनना बहुत ज़रूरी है। यह किताबें मैं सुझाता हूँ:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विषय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">किताब</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्यों पढ़ें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">गणित</td><td class="py-3 px-4 border-b">NCERT कक्षा 4-5</td><td class="py-3 px-4 border-b">बुनियादी concepts के लिए</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गणित (Advanced)</td><td class="py-3 px-4 border-b">RS Aggarwal Class 5</td><td class="py-3 px-4 border-b">Extra practice के लिए</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सामान्य ज्ञान</td><td class="py-3 px-4 border-b">Lucent GK</td><td class="py-3 px-4 border-b">Static GK के लिए best</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अंग्रेज़ी</td><td class="py-3 px-4 border-b">Wren & Martin</td><td class="py-3 px-4 border-b">Grammar के लिए classic</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">बुद्धिमत्ता</td><td class="py-3 px-4 border-b">Arihant Reasoning</td><td class="py-3 px-4 border-b">Pattern-based सवालों के लिए</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">पिछले पेपर</td><td class="py-3 px-4">AISSEE Previous Year Papers</td><td class="py-3 px-4">Pattern समझने के लिए</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>विषयवार तैयारी कैसे करें?</h2>
+
+<h3>1. गणित (50 अंक) — सबसे ज़्यादा ज़रूरी</h3>
+
+<p>गणित में 50 अंक हैं — कुल अंकों का 40%। यही तय करता है कि बच्चा सिलेक्ट होगा या नहीं।</p>
+
+<div class="space-y-3 my-4">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>संख्या पद्धति:</strong> बड़ी संख्याएं, rounding off, place value — ये basics मज़बूत करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>भिन्न और दशमलव:</strong> addition, subtraction, multiplication, division — सब practice करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>LCM और HCF:</strong> ये हर साल आता है। Shortcuts ज़रूर सीखें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>क्षेत्रफल और परिमाप:</strong> सभी shapes के formulas याद करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>शब्द समस्याएं:</strong> ये सबसे कठिन होती हैं। रोज़ 5 शब्द समस्याएं हल करें।</p>
+  </div>
+</div>
+
+<h3>2. बुद्धिमत्ता (25 अंक) — Pattern पहचानें</h3>
+
+<p>बुद्धिमत्ता section में pattern-based सवाल आते हैं। ये tricks से जल्दी हल हो सकते हैं:</p>
+
+<div class="grid grid-cols-2 md:grid-cols-3 gap-3 my-4">
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">श्रृंखला (Series)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">दर्पण प्रतिबिंब (Mirror Image)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">कोडिंग-डीकोडिंग</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">समानता (Analogy)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">विषम पहचानें (Odd One Out)</div>
+  <div class="bg-gray-50 p-3 rounded-lg text-sm text-gray-700">पेपर फोल्डिंग</div>
+</div>
+
+<h3>3. सामान्य ज्ञान (25 अंक) — रोज़ाना पढ़ें</h3>
+
+<p>GK में दो तरह के सवाल आते हैं — Static GK (इतिहास, भूगोल, विज्ञान) और Current Affairs (ताज़ा ख़बरें)।</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>Static GK:</strong> Lucent GK की किताब से पढ़ें — इतिहास, भूगोल, विज्ञान, राजव्यवस्था</li>
+  <li><strong>Current Affairs:</strong> रोज़ 15 मिनट newspaper पढ़ें या YouTube पर current affairs देखें</li>
+  <li><strong>खेल और पुरस्कार:</strong> ये हर साल आता है — Olympic, Nobel, Bharat Ratna आदि</li>
 </ul>
+
+<h3>4. अंग्रेज़ी (25 अंक) — Grammar + Comprehension</h3>
+
+<div class="space-y-3 my-4">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Grammar:</strong> Tenses, articles, prepositions, conjunctions — ये rules याद करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>Comprehension:</strong> passage पढ़कर सवालों के जवाब देने का अभ्यास करें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">•</span>
+    <p class="text-sm text-gray-700"><strong>शब्दावली:</strong> रोज़ 5 नए शब्द सीखें और वाक्य में प्रयोग करें।</p>
+  </div>
+</div>
+
+<h2>6 महीने की तैयारी योजना</h2>
+
+<p>अगर आपके पास 6 महीने हैं, तो यह योजना अपनाएं:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">महीना</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">फ़ोकस</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">1-2 महीना</td><td class="py-3 px-4 border-b">बुनियादी concepts</td><td class="py-3 px-4 border-b">NCERT कक्षा 4-5 पूरी करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3-4 महीना</td><td class="py-3 px-4 border-b">Practice और mock tests</td><td class="py-3 px-4 border-b">हर हफ़्ते mock test + weak areas improve करें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5वां महीना</td><td class="py-3 px-4 border-b">पिछले पेपर solve करें</td><td class="py-3 px-4 border-b">5 साल के previous papers हल करें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">6वां महीना</td><td class="py-3 px-4">Revision + mock tests</td><td class="py-3 px-4">रोज़ाना revision + हफ़्ते में 2 mock tests</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<h2>5 ग़लतियाँ जो अभिभावक करते हैं</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">✕</span>
+    <p class="text-sm text-gray-700"><strong>देर से शुरू करना:</strong> 6 महीने पहले से तैयारी शुरू करें। 2 महीने में सब कुछ नहीं हो सकता।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">✕</span>
+    <p class="text-sm text-gray-700"><strong>सिर्फ़ गणित पढ़ना:</strong> सभी 4 विषय ज़रूरी हैं। GK और English भी उतने ही important हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">✕</span>
+    <p class="text-sm text-gray-700"><strong>Mock test न देना:</strong> बिना mock test के बच्चा exam hall में घबरा जाएगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">✕</span>
+    <p class="text-sm text-gray-700"><strong>Physical fitness ignore करना:</strong> सैनिक स्कूल में physical test भी होता है। बच्चे को दौड़ने और exercise की आदत डालें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-red-50 p-3 rounded-lg">
+    <span class="text-red-600 font-bold mt-0.5">✕</span>
+    <p class="text-sm text-gray-700"><strong>बच्चे पर ज़्यादा दबाव:</strong> पढ़ाई ज़रूरी है, लेकिन बच्चे को खेलने और आराम का भी समय दें।</p>
+  </div>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">JGPS में सैनिक स्कूल की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में सैनिक स्कूल की तैयारी कराई जाती है। हमारे यहाँ हर हफ़्ते mock test, previous year papers, physical fitness training, और experienced teachers से guidance मिलती है। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख AISSEE 2027 की तैयारी के लिए comprehensive guide है। सही किताबें, नियमित अभ्यास, और mock tests से घर से भी सफलता संभव है।</em></p>
 `,
     faqs: [
-      { question: "Ghar se Sainik School ki tayyari ho sakti hai?", answer: "Haan, sahi books aur daily practice se possible hai." },
-      { question: "Kitne ghante padhna chahiye?", answer: "Roz 3-4 ghante focused study kaafi hai." },
-      { question: "Kaun si book best hai?", answer: "Lucent GK, NCERT books, aur previous year papers." },
-      { question: "Coaching zaroori hai?", answer: "Nahi, self-study se bhi ho sakta hai. Consistency zaroori hai." }
+      { question: "क्या घर से सैनिक स्कूल की तैयारी संभव है?", answer: "हाँ, सही किताबों और रोज़ाना अभ्यास से घर से भी तैयारी संभव है। कोचिंग ज़रूरी नहीं है।" },
+      { question: "रोज़ कितने घंटे पढ़ना चाहिए?", answer: "रोज़ 3-4 घंटे focused study काफ़ी है। नियमितता सबसे ज़रूरी है।" },
+      { question: "कौन सी किताब सबसे अच्छी है?", answer: "गणित के लिए NCERT, GK के लिए Lucent, English के लिए Wren & Martin, और previous year papers सबसे ज़रूरी हैं।" },
+      { question: "क्या कोचिंग ज़रूरी है?", answer: "नहीं, self-study से भी हो सकता है। बस consistency और सही strategy ज़रूरी है।" },
+      { question: "तैयारी कब से शुरू करनी चाहिए?", answer: "कम से कम 6 महीने पहले से शुरू करें। जितनी जल्दी शुरू करें, उतना अच्छा है।" }
     ]
   },
   {
@@ -10951,8 +13085,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 exam center — kaise pahunchein, kya leke jayein, aur exam day important tips।",
     keywords: "JNVST 2027 exam center kaise pahunche, Navodaya exam center tips, JNVST exam day preparation",
     date: "30 जुलाई 2026, सुबह 11 बजे",
-    modifiedDate: "30 जुलाई 2026, सुबह 11 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -11113,8 +13247,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya school free education — kya kya free milta hai, facilities list, aur admission process।",
     keywords: "Navodaya school free education kaise milti hai, JNV facilities list, Navodaya school kya free hai",
     date: "30 जुलाई 2026, सुबह 11 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, सुबह 11 बजकर 30 मिनट",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -11313,8 +13447,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 Mental Ability shortcuts — 1 minute mein answer nikalne ki tricks aur speed building techniques।",
     keywords: "JNVST 2027 Mental Ability shortcuts, Navodaya mental ability tricks, JNVST reasoning speed tricks",
     date: "30 जुलाई 2026, दोपहर 12 बजे",
-    modifiedDate: "30 जुलाई 2026, दोपहर 12 बजे",
-    readTime: "8 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "14 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -11341,8 +13475,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Sainik School mein ladkiyon ka admission 2027 — girls quota, eligibility, aur application process।",
     keywords: "Sainik School mein ladkiyon ka admission 2027, Sainik School girls quota, AISSEE girls admission",
     date: "30 जुलाई 2026, दोपहर 12 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, दोपहर 12 बजकर 30 मिनट",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "13 मिनट",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -11527,8 +13661,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 previous year papers PDF download — free practice sets, answer keys, aur exam pattern analysis।",
     keywords: "JNVST 2027 previous year papers PDF download, Navodaya old question papers, JNVST practice sets free",
     date: "30 जुलाई 2026, दोपहर 1 बजे",
-    modifiedDate: "30 जुलाई 2026, दोपहर 1 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -11699,12 +13833,12 @@ export const hindiArticles: HindiArticle[] = [
   },
   {
     slug: "navodaya-school-mein-sports-facilities",
-    title: "Navodaya School Mein Sports Facilities — Games aur Physical Training",
-    description: "Navodaya school sports facilities — cricket, football, basketball, athletics aur physical training schedule।",
-    keywords: "Navodaya school sports facilities, JNV games physical training, Navodaya school sports ground",
+    title: "नवोदय स्कूल में खेल सुविधाएं — क्रिकेट, फुटबॉल, एथलेटिक्स और शारीरिक प्रशिक्षण की पूरी जानकारी",
+    description: "नवोदय स्कूल में खेल सुविधाएं — क्रिकेट, फुटबॉल, बास्केटबॉल, एथलेटिक्स, योग और शारीरिक प्रशिक्षण का पूरा विवरण।",
+    keywords: "नवोदय स्कूल खेल सुविधाएं, JNV खेल शारीरिक प्रशिक्षण, नवोदय स्कूल खेल मैदान, Navodaya sports facilities",
     date: "30 जुलाई 2026, दोपहर 1 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, दोपहर 1 बजकर 30 मिनट",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -11712,155 +13846,295 @@ export const hindiArticles: HindiArticle[] = [
     authorBio: "Najma JGPS में Navodaya Vidyalaya entrance exam की coaching देती हैं।",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/navodaya-school-mein-sports-facilities.webp",
-    imageAlt: "Navodaya school sports facilities - games physical training cricket football",
-    content: `<p><strong>Navodaya School</strong> में sports facilities बहुत अच्छी हैं। बहुत से माता-पिता सोचते हैं कि सरकारी स्कूल में sports की सुविधा नहीं होती, लेकिन नवोदय में ऐसा नहीं है। यहाँ cricket, football, basketball, athletics — सब कुछ है। बच्चों को daily physical training मिलती है और inter-school competitions में भी भेजा जाता है। इस लेख में मैं आपको बताऊंगा कि नवोदय में कौन-कौन से sports हैं, infrastructure कैसा है, और बच्चों की daily routine में sports का क्या role है।</p>
+    imageAlt: "नवोदय स्कूल खेल सुविधाएं — क्रिकेट फुटबॉल बास्केटबॉल एथलेटिक्स",
+    content: `<p>बहुत से माता-पिता सोचते हैं कि सरकारी स्कूल में खेलों की सुविधा नहीं होती, लेकिन <strong>नवोदय विद्यालय</strong> में ऐसा बिल्कुल नहीं है। यहाँ क्रिकेट, फुटबॉल, बास्केटबॉल, एथलेटिक्स, वॉलीबॉल, योग — सब कुछ है। बच्चों को रोज़ाना शारीरिक प्रशिक्षण मिलता है और अंतर-विद्यालय प्रतियोगिताओं में भी भेजा जाता है। मैं पिछले 10 साल से नवोदय की तैयारी करा रही हूँ और मैंने देखा है कि जो बच्चे खेलों में अच्छा करते हैं, वो पढ़ाई में भी बेहतर perform करते हैं। इस लेख में मैं आपको विस्तार से बताऊंगी कि नवोदय में कौन-कौन से खेल हैं, infrastructure कैसा है, coaching कैसी मिलती है, और बच्चों की दिनचर्या में खेलों का क्या महत्व है।</p>
 
 <div class="my-6">
-  <img src="https://img.jgps.in/blog/navodaya-sports-facilities.webp" alt="Navodaya school sports facilities — cricket football basketball athletics" class="w-full rounded-xl shadow-sm" loading="lazy" />
-  <p class="text-xs text-gray-500 text-center mt-2">Navodaya School — Sports Facilities और Physical Training</p>
+  <img src="https://img.jgps.in/blog/navodaya-sports-facilities.webp" alt="नवोदय स्कूल खेल सुविधाएं — क्रिकेट फुटबॉल बास्केटबॉल एथलेटिक्स" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय विद्यालय — खेल सुविधाएं और शारीरिक प्रशिक्षण</p>
 </div>
 
-<h2>Available Sports — कौन-कौन से games हैं?</h2>
+<h2>नवोदय में उपलब्ध खेल — कौन-कौन से खेल खेले जाते हैं?</h2>
 
-<p>नवोदय स्कूलों में बहुत से sports available हैं। हर JNV में basic facilities होती हैं, और कुछ बड़े JNVs में advanced facilities भी हैं:</p>
+<p>नवोदय विद्यालयों में बहुत से खेल उपलब्ध हैं। हर JNV में basic facilities होती हैं, और कुछ बड़े JNVs में advanced facilities भी हैं। आइए पूरी लिस्ट देखें:</p>
 
 <div class="overflow-x-auto my-6">
   <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
     <thead class="bg-[#035c00]">
       <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Sport</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">खेल (Sport)</th>
         <th class="py-3 px-4 border-b font-bold text-white text-left">Infrastructure</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Availability</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">उपलब्धता</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विशेषता</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Cricket</td><td class="py-3 px-4 border-b">Full cricket ground, nets</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Football</td><td class="py-3 px-4 border-b">Football ground</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Basketball</td><td class="py-3 px-4 border-b">Basketball court</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Volleyball</td><td class="py-3 px-4 border-b">Volleyball court</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Athletics</td><td class="py-3 px-4 border-b">Running track, shot put, long jump</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Kho-Kho</td><td class="py-3 px-4 border-b">Open ground</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Badminton</td><td class="py-3 px-4 border-b">Indoor/Outdoor court</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कुछ JNVs में</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Table Tennis</td><td class="py-3 px-4 border-b">TT table</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कुछ JNVs में</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">Yoga</td><td class="py-3 px-4">Morning session</td><td class="py-3 px-4 text-green-700 font-bold">सभी JNVs में</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्रिकेट (Cricket)</td><td class="py-3 px-4 border-b">पूरा क्रिकेट मैदान, नेट प्रैक्टिस</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4 border-b">सबसे लोकप्रिय खेल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">फुटबॉल (Football)</td><td class="py-3 px-4 border-b">फुटबॉल मैदान, गोलपोस्ट</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4 border-b">सर्दियों में ज़्यादा खेला जाता है</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">बास्केटबॉल (Basketball)</td><td class="py-3 px-4 border-b">बास्केटबॉल कोर्ट</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4 border-b">लड़कियों में बहुत लोकप्रिय</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">वॉलीबॉल (Volleyball)</td><td class="py-3 px-4 border-b">वॉलीबॉल कोर्ट</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4 border-b">आसान और मज़ेदार खेल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">एथलेटिक्स (Athletics)</td><td class="py-3 px-4 border-b">दौड़ का मैदान, शॉटपुट, लंबी कूद</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4 border-b">SGFI में सबसे ज़्यादा मेडल</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">खो-खो (Kho-Kho)</td><td class="py-3 px-4 border-b">खुला मैदान</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4 border-b">पारंपरिक भारतीय खेल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">कबड्डी (Kabaddi)</td><td class="py-3 px-4 border-b">खुला मैदान</td><td class="py-3 px-4 border-b text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4 border-b">ग्रामीण बच्चों का पसंदीदा</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">बैडमिंटन (Badminton)</td><td class="py-3 px-4 border-b">इंडोर/आउटडोर कोर्ट</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कुछ JNVs में</td><td class="py-3 px-4 border-b">बड़े JNVs में indoor court</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">टेबल टेनिस (Table Tennis)</td><td class="py-3 px-4 border-b">TT टेबल</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कुछ JNVs में</td><td class="py-3 px-4 border-b">इंडोर गेम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">शतरंज (Chess)</td><td class="py-3 px-4 border-b">क्लासरूम में</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कुछ JNVs में</td><td class="py-3 px-4 border-b">दिमाग़ी खेल</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">तैराकी (Swimming)</td><td class="py-3 px-4 border-b">स्विमिंग पूल</td><td class="py-3 px-4 border-b text-red-500 font-bold">बहुत कम JNVs में</td><td class="py-3 px-4 border-b">विशेष JNVs में ही</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">योग (Yoga)</td><td class="py-3 px-4">सुबह का सत्र</td><td class="py-3 px-4 text-green-700 font-bold">सभी JNVs में</td><td class="py-3 px-4">रोज़ाना सुबह होता है</td></tr>
     </tbody>
   </table>
 </div>
 
-<h2>Coaching Staff — कौन सिखाता है?</h2>
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>ध्यान दें:</strong> हर JNV में facilities थोड़ी अलग हो सकती हैं। बड़े शहरों वाले JNVs में ज़्यादा सुविधाएं होती हैं। Admission से पहले अपने जिले के JNV की sports facilities ज़रूर check करें।</p>
+</div>
 
-<p>नवोदय में sports के लिए dedicated coaches होते हैं:</p>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-sports-ground-infrastructure.webp" alt="नवोदय स्कूल खेल मैदान — क्रिकेट ग्राउंड बास्केटबॉल कोर्ट" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय स्कूल — खेल मैदान और Infrastructure</p>
+</div>
 
-<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li><strong>PTI (Physical Training Instructor):</strong> हर JNV में एक full-time PTI होता है जो morning PT और evening games handle करता है।</li>
-  <li><strong>Guest Coaches:</strong> कुछ sports (judo, swimming) के लिए बाहर से coaches बुलाए जाते हैं।</li>
-  <li><strong>SAI Coaches:</strong> Sports Authority of India के coaches भी कभी-कभी training देते हैं।</li>
-  <li><strong>Senior Students:</strong> बड़े बच्चे छोटों को भी सिखाते हैं — peer learning।</li>
-</ul>
+<h2>खेल प्रशिक्षक — कौन सिखाता है?</h2>
 
-<h2>Daily Physical Training Schedule</h2>
+<p>नवोदय में खेलों के लिए trained प्रशिक्षक होते हैं। हर JNV में कम से कम एक full-time PTI (Physical Training Instructor) होता है। इसके अलावा और भी staff होते हैं:</p>
 
 <div class="overflow-x-auto my-6">
   <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
     <thead class="bg-[#035c00]">
       <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Time</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Activity</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Duration</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्रशिक्षक का प्रकार</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">उपलब्धता</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कार्य</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">5:00 - 5:30 AM</td><td class="py-3 px-4 border-b">Morning PT + Yoga</td><td class="py-3 px-4 border-b">30 min</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3:30 - 5:00 PM</td><td class="py-3 px-4 border-b">Sports & Games</td><td class="py-3 px-4 border-b">1.5 hours</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Saturday</td><td class="py-3 px-4 border-b">Inter-house competitions</td><td class="py-3 px-4 border-b">पूरा दिन</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">Annual Sports Day</td><td class="py-3 px-4">Yearly event</td><td class="py-3 px-4">2-3 दिन</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">PTI (शारीरिक प्रशिक्षक)</td><td class="py-3 px-4 border-b text-green-700 font-bold">हर JNV में 1</td><td class="py-3 px-4 border-b">सुबह की PT, शाम के खेल, sports day organize करना</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अतिथि प्रशिक्षक (Guest Coach)</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">ज़रूरत पड़ने पर</td><td class="py-3 px-4 border-b">जूडो, तैराकी जैसे विशेष खेलों के लिए बाहर से बुलाए जाते हैं</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">SAI प्रशिक्षक</td><td class="py-3 px-4 border-b text-yellow-600 font-bold">कभी-कभी</td><td class="py-3 px-4 border-b">भारतीय खेल प्राधिकरण के प्रशिक्षक special training देते हैं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">वरिष्ठ छात्र (Senior Students)</td><td class="py-3 px-4 border-b text-green-700 font-bold">हमेशा</td><td class="py-3 px-4 border-b">बड़े बच्चे छोटों को सिखाते हैं — peer learning</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">योग प्रशिक्षक</td><td class="py-3 px-4 text-green-700 font-bold">हर JNV में</td><td class="py-3 px-4">सुबह का योग सत्र लेते हैं</td></tr>
     </tbody>
   </table>
 </div>
 
-<h2>Inter-School Competitions</h2>
+<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
+  <p class="font-bold text-green-700 mb-2">अच्छी बात:</p>
+  <p class="text-sm text-gray-700">नवोदय में sports equipment <strong>स्कूल की तरफ़ से</strong> मिलता है। बच्चे को कुछ भी लाने की ज़रूरत नहीं। बैट, बॉल, स्टंप्स, फुटबॉल, बास्केटबॉल — सब स्कूल provide करता है।</p>
+</div>
 
-<p>नवोदय के बच्चे कई level पर competitions में भाग लेते हैं:</p>
+<h2>दैनिक शारीरिक प्रशिक्षण का समय — रोज़ाना रूटीन</h2>
+
+<p>नवोदय में बच्चों की दिनचर्या में खेलों का बहुत महत्व है। सुबह और शाम दोनों समय खेल होते हैं। आइए पूरा schedule देखें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">समय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">गतिविधि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अवधि</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">विवरण</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सुबह 5:00 - 5:30</td><td class="py-3 px-4 border-b">सुबह की PT + योग</td><td class="py-3 px-4 border-b">30 मिनट</td><td class="py-3 px-4 border-b">दौड़, व्यायाम, सूर्य नमस्कार, प्राणायाम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">दोपहर 3:30 - 5:00</td><td class="py-3 px-4 border-b">शाम के खेल</td><td class="py-3 px-4 border-b">1.5 घंटे</td><td class="py-3 px-4 border-b">क्रिकेट, फुटबॉल, बास्केटबॉल आदि</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">शनिवार</td><td class="py-3 px-4 border-b">अंतर-हाउस प्रतियोगिता</td><td class="py-3 px-4 border-b">पूरा दिन</td><td class="py-3 px-4 border-b">4 houses के बीच मैच होते हैं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">वार्षिक खेल दिवस</td><td class="py-3 px-4">सालाना इवेंट</td><td class="py-3 px-4">2-3 दिन</td><td class="py-3 px-4">सभी खेलों की final प्रतियोगिता</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>ज़रूरी बात:</strong> नवोदय में खेल compulsory हैं। बिना कारण skip नहीं कर सकते। लेकिन बीमार होने पर छूट मिलती है। खेलों में participate करने से बच्चे का शारीरिक और मानसिक दोनों विकास होता है।</p>
+</div>
+
+<h2>अंतर-विद्यालय प्रतियोगिताएं — किस level पर खेलते हैं?</h2>
+
+<p>नवोदय के बच्चे कई level पर प्रतियोगिताओं में भाग लेते हैं। यह system बहुत अच्छा है क्योंकि बच्चे को हर level पर खेलने का मौक़ा मिलता है:</p>
 
 <div class="space-y-3 my-6">
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">1.</span>
-    <p class="text-sm text-gray-700"><strong>Inter-House:</strong> हर Saturday school के अंदर houses के बीच match होते हैं।</p>
+    <p class="text-sm text-gray-700"><strong>अंतर-हाउस (Inter-House):</strong> हर शनिवार school के अंदर 4 houses (Ashoka, Shivaji, Tagore, Raman) के बीच match होते हैं। यह सबसे basic level है।</p>
   </div>
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">2.</span>
-    <p class="text-sm text-gray-700"><strong>Cluster Level:</strong> कई JNVs के बीच tournaments होते हैं।</p>
+    <p class="text-sm text-gray-700"><strong>समूह स्तर (Cluster Level):</strong> कई JNVs के बीच tournaments होते हैं। ज़्यादातर जिला level पर organize होते हैं।</p>
   </div>
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">3.</span>
-    <p class="text-sm text-gray-700"><strong>Regional Level:</strong> State/Region level competitions में भाग लेते हैं।</p>
+    <p class="text-sm text-gray-700"><strong>क्षेत्रीय स्तर (Regional Level):</strong> State/Region level competitions में भाग लेते हैं। यहाँ से बच्चे national के लिए select होते हैं।</p>
   </div>
   <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
     <span class="text-[#035c00] font-bold mt-0.5">4.</span>
-    <p class="text-sm text-gray-700"><strong>National Level:</strong> SGFI (School Games Federation of India) में participate करते हैं।</p>
+    <p class="text-sm text-gray-700"><strong>राष्ट्रीय स्तर (National Level):</strong> SGFI (School Games Federation of India) में participate करते हैं। यहाँ पूरे देश से बच्चे आते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>खेलो इंडिया (Khelo India):</strong> बेहतरीन खिलाड़ी Khelo India games में भी भाग ले सकते हैं।</p>
   </div>
 </div>
 
-<h2>Sports Quota — क्या sports में admission मिलता है?</h2>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/navodaya-sports-competition-sgfi.webp" alt="नवोदय स्कूल खेल प्रतियोगिता — SGFI और अंतर-विद्यालय टूर्नामेंट" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">नवोदय — अंतर-विद्यालय खेल प्रतियोगिताएं</p>
+</div>
 
-<p>नवोदय में sports quota के तहत <strong>direct admission</strong> नहीं मिलता, लेकिन:</p>
+<h2>नवोदय बनाम प्राइवेट स्कूल — खेलों की तुलना</h2>
 
-<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li>अगर बच्चा national level sports में represent करता है, तो उसे <strong>priority</strong> मिल सकती है।</li>
-  <li>Sports achievements को admission process में <strong>consider</strong> किया जाता है।</li>
-  <li>नवोदय से बच्चे <strong>SGFI, Khelo India</strong> जैसे platforms पर जाते हैं।</li>
-</ul>
-
-<h2>नवोदय vs Private Schools — Sports Comparison</h2>
+<p>बहुत से माता-पिता सोचते हैं कि प्राइवेट स्कूल में खेलों की बेहतर सुविधा होती है। लेकिन सच्चाई कुछ और है। आइए तुलना करें:</p>
 
 <div class="overflow-x-auto my-6">
   <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
     <thead class="bg-[#035c00]">
       <tr>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Feature</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय</th>
-        <th class="py-3 px-4 border-b font-bold text-white text-left">Private School</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सुविधा</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">नवोदय विद्यालय</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">प्राइवेट स्कूल</th>
       </tr>
     </thead>
     <tbody>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Cost</td><td class="py-3 px-4 border-b text-green-700 font-bold">मुफ्त</td><td class="py-3 px-4 border-b">₹5,000-50,000/month</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Daily Sports Time</td><td class="py-3 px-4 border-b font-bold">1.5-2 hours</td><td class="py-3 px-4 border-b">30-45 min</td></tr>
-      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Dedicated Coach</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ (PTI)</td><td class="py-3 px-4 border-b">कुछ schools में</td></tr>
-      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Inter-school Tournaments</td><td class="py-3 px-4 border-b text-green-700 font-bold">Regular</td><td class="py-3 px-4 border-b">Limited</td></tr>
-      <tr><td class="py-3 px-4 font-medium text-gray-900">National Level Exposure</td><td class="py-3 px-4 text-green-700 font-bold">हाँ (SGFI)</td><td class="py-3 px-4">Rare</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">खर्चा</td><td class="py-3 px-4 border-b text-green-700 font-bold">बिल्कुल मुफ़्त</td><td class="py-3 px-4 border-b">₹5,000 - ₹50,000/महीना</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">रोज़ाना खेल का समय</td><td class="py-3 px-4 border-b text-green-700 font-bold">1.5 - 2 घंटे</td><td class="py-3 px-4 border-b">30-45 मिनट</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">Dedicated प्रशिक्षक</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ (PTI)</td><td class="py-3 px-4 border-b">कुछ स्कूलों में</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">अंतर-विद्यालय टूर्नामेंट</td><td class="py-3 px-4 border-b text-green-700 font-bold">नियमित रूप से</td><td class="py-3 px-4 border-b">सीमित</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">राष्ट्रीय स्तर का exposure</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ (SGFI, Khelo India)</td><td class="py-3 px-4 border-b">बहुत कम</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Sports equipment</td><td class="py-3 px-4 border-b text-green-700 font-bold">स्कूल provide करता है</td><td class="py-3 px-4 border-b">कभी-कभी ख़रीदना पड़ता है</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">खेल छात्रवृत्ति</td><td class="py-3 px-4 text-green-700 font-bold">SGFI में मेडल पर</td><td class="py-3 px-4">बहुत कम स्कूलों में</td></tr>
     </tbody>
   </table>
 </div>
 
-<h2>नवोदय की Sports Achievements</h2>
+<h2>नवोदय की खेल उपलब्धियां — क्या कर दिखाया है?</h2>
 
-<p>नवोदय के बच्चों ने sports में बहुत अच्छा perform किया है:</p>
+<p>नवोदय के बच्चों ने खेलों में बहुत अच्छा प्रदर्शन किया है। हर साल हज़ारों बच्चे district, state और national level पर भाग लेते हैं:</p>
 
 <ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
-  <li>🏏 Cricket में कई बच्चे <strong>state level</strong> तक पहुंचे हैं</li>
-  <li>⚽ Football में <strong>national tournaments</strong> में भाग लिया है</li>
-  <li>🏃 Athletics में कई <strong>medals</strong> जीते हैं</li>
-  <li>🏐 Volleyball में <strong>cluster level</strong> winners रहे हैं</li>
-  <li>🧘 Yoga में <strong>district level</strong> competitions जीते हैं</li>
+  <li>🏏 <strong>क्रिकेट में</strong> कई बच्चे state level तक पहुंचे हैं और कुछ ने Ranji Trophy में भी जगह बनाई है</li>
+  <li>⚽ <strong>फुटबॉल में</strong> national tournaments में भाग लिया है और medals जीते हैं</li>
+  <li>🏃 <strong>एथलेटिक्स में</strong> कई बच्चों ने SGFI में gold medal जीता है</li>
+  <li>🏐 <strong>वॉलीबॉल में</strong> cluster और regional level winners रहे हैं</li>
+  <li>🧘 <strong>योग में</strong> district और state level competitions जीते हैं</li>
+  <li>🏸 <strong>बैडमिंटन में</strong> कुछ बच्चे national level तक पहुंचे हैं</li>
+  <li>🥋 <strong>जूडो और कुश्ती में</strong> भी नवोदय के बच्चों ने medals जीते हैं</li>
 </ul>
 
 <div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-  <p class="font-bold text-green-700 mb-2">Good News:</p>
-  <p class="text-sm text-gray-700">नवोदय में sports equipment <strong>school provide</strong> करता है। बच्चे को कुछ लाने की ज़रूरत नहीं।</p>
+  <p class="font-bold text-green-700 mb-2">ख़ास बात:</p>
+  <p class="text-sm text-gray-700">नवोदय के कई बच्चे आज <strong>राष्ट्रीय और अंतरराष्ट्रीय स्तर</strong> पर खेल रहे हैं। Sports Authority of India (SAI) भी नवोदय के बच्चों को identify करती है और उन्हें advanced training के लिए भेजती है।</p>
+</div>
+
+<h2>Sports Quota — क्या खेलों में admission मिलता है?</h2>
+
+<p>बहुत से माता-पिता पूछते हैं कि क्या sports quota से नवोदय में admission मिल सकता है। इसका जवाब है:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">सवाल</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">जवाब</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्या sports quota से direct admission मिलता है?</td><td class="py-3 px-4 border-b text-red-600 font-bold">नहीं</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">क्या sports achievements को consider किया जाता है?</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ, priority मिल सकती है</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">क्या national level players को फ़ायदा होता है?</td><td class="py-3 px-4 border-b text-green-700 font-bold">हाँ, special consideration</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">नवोदय से कौन से sports platforms पर जाते हैं?</td><td class="py-3 px-4">SGFI, Khelo India, SAI training</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<p>नवोदय से बच्चे <strong>SGFI, Khelo India</strong> जैसे platforms पर जाते हैं। अगर बच्चा national level sports में represent करता है, तो उसे admission process में <strong>priority</strong> मिल सकती है।</p>
+
+<h2>खेलों से बच्चों को क्या फ़ायदा होता है?</h2>
+
+<p>नवोदय में खेलों को सिर्फ़ मनोरंजन नहीं माना जाता, बल्कि यह बच्चे के overall development का ज़रूरी हिस्सा है:</p>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+  <div class="bg-green-50 border border-green-200 rounded-xl p-4">
+    <h3 class="font-bold text-green-700 mb-3">शारीरिक फ़ायदे</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>• शरीर मज़बूत और फ़िट रहता है</li>
+      <li>• बीमारियाँ कम होती हैं</li>
+      <li>• ऊँचाई बढ़ने में मदद मिलती है</li>
+      <li>• भूख अच्छी लगती है</li>
+      <li>• नींद अच्छी आती है</li>
+    </ul>
+  </div>
+  <div class="bg-blue-50 border border-blue-200 rounded-xl p-4">
+    <h3 class="font-bold text-blue-700 mb-3">मानसिक फ़ायदे</h3>
+    <ul class="space-y-2 text-sm text-gray-700">
+      <li>• पढ़ाई में ध्यान बेहतर होता है</li>
+      <li>• तनाव कम होता है</li>
+      <li>• आत्मविश्वास बढ़ता है</li>
+      <li>• टीम वर्क सीखते हैं</li>
+      <li>• नेतृत्व क्षमता विकसित होती है</li>
+    </ul>
+  </div>
+</div>
+
+<h2>अभिभावकों के लिए ज़रूरी सुझाव</h2>
+
+<p>अगर आपका बच्चा नवोदय में पढ़ रहा है या admission लेने वाला है, तो ये सुझाव ध्यान रखें:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>बच्चे को खेलों के लिए प्रोत्साहित करें:</strong> सिर्फ़ पढ़ाई पर focus न करें। खेलों से बच्चा physically और mentally दोनों तरह से strong होता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>बच्चे की रुचि पहचानें:</strong> हर बच्चा हर खेल में अच्छा नहीं होता। बच्चे की रुचि देखें और उसी खेल में आगे बढ़ने दें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>Sports injury से न डरें:</strong> छोटी-मोटी चोटें लगती हैं, लेकिन school doctor तुरंत treatment देता है। इस डर से बच्चे को खेलों से न रोकें।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>Sports Day में ज़रूर जाएं:</strong> वार्षिक खेल दिवस पर school जाएं। बच्चे को बहुत अच्छा लगता है जब माता-पिता उसे cheer करते हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">5.</span>
+    <p class="text-sm text-gray-700"><strong>खेल और पढ़ाई का संतुलन:</strong> नवोदय में दोनों का संतुलन बनाया जाता है। बच्चे को दोनों में अच्छा करने के लिए प्रोत्साहित करें।</p>
+  </div>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>याद रखें:</strong> नवोदय में खेल compulsory हैं। बच्चे को हर दिन खेलना होगा। यह स्कूल के नियम का हिस्सा है। अगर बच्चा बीमार है तो छूट मिलती है, लेकिन बिना कारण skip नहीं कर सकते।</p>
+</div>
+
+<h2>अक्सर पूछे जाने वाले सवाल</h2>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Q:</span>
+    <p class="text-sm text-gray-700"><strong>क्या बच्चा अपना sports equipment ला सकता है?</strong> — ज़्यादातर JNVs में यह allow नहीं है। स्कूल सब provide करता है।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Q:</span>
+    <p class="text-sm text-gray-700"><strong>क्या लड़कियाँ भी सभी खेल खेल सकती हैं?</strong> — हाँ, लड़कियों के लिए भी सभी खेल उपलब्ध हैं। बास्केटबॉल और वॉलीबॉल लड़कियों में बहुत लोकप्रिय हैं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-gray-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">Q:</span>
+    <p class="text-sm text-gray-700"><strong>क्या sports में अच्छा होने पर scholarship मिलती है?</strong> — SGFI में medal जीतने पर छात्रवृत्ति और सम्मान मिलता है।</p>
+  </div>
 </div>
 
 <div class="bg-blue-50 border border-blue-200 rounded-xl p-5 my-6">
 <h3 class="font-bold text-gray-900 mb-2">📢 नवोदय में admission चाहिए?</h3>
-<p>JGPS School में JNVST की coaching होती है। Call: <strong>+91 9412137554</strong></p>
+<p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, तो <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में JNVST की coaching होती है। हमारे यहाँ mock tests, previous year papers, और experienced teachers से मार्गदर्शन मिलता है। कॉल करें: <strong>+91 9412137554</strong></p>
 </div>
 
-<p><em>यह लेख नवोदय विद्यालयों में sports facilities की जानकारी देता है। हर JNV में facilities थोड़ी अलग हो सकती हैं।</em></p>
+<p><em>यह लेख नवोदय विद्यालयों में खेल सुविधाओं की जानकारी देता है। हर JNV में facilities थोड़ी अलग हो सकती हैं। अधिक जानकारी के लिए navodaya.gov.in देखें।</em></p>
 `,
     faqs: [
-      { question: "Navodaya mein kaun se sports hain?", answer: "Cricket, football, basketball, athletics, volleyball, yoga — sab available hai." },
-      { question: "Sports kitne baje hote hain?", answer: "Subah 5-5:30 AM PT aur dopahar 3:30-5:00 PM games hote hain." },
-      { question: "Inter-house competitions hote hain?", answer: "Haan, har Saturday ko inter-house competitions hote hain." },
-      { question: "Sports equipment school deta hai?", answer: "Haan, sab equipment school provide karta hai." }
+      { question: "नवोदय में कौन-कौन से खेल हैं?", answer: "क्रिकेट, फुटबॉल, बास्केटबॉल, वॉलीबॉल, एथलेटिक्स, खो-खो, कबड्डी, योग — सभी JNVs में उपलब्ध हैं। बैडमिंटन, टेबल टेनिस, शतरंज कुछ JNVs में हैं।" },
+      { question: "खेल कितने बजे होते हैं?", answer: "सुबह 5:00-5:30 बजे PT + योग और दोपहर 3:30-5:00 बजे शाम के खेल होते हैं। शनिवार को अंतर-हाउस प्रतियोगिता होती है।" },
+      { question: "क्या खेलों का सामान स्कूल देता है?", answer: "हाँ, नवोदय में सभी sports equipment स्कूल की तरफ़ से मिलता है। बच्चे को कुछ भी लाने की ज़रूरत नहीं।" },
+      { question: "क्या sports quota से admission मिलता है?", answer: "Direct admission नहीं मिलता, लेकिन national level sports achievements पर priority मिल सकती है।" }
     ]
   },
   {
@@ -11869,31 +14143,131 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 negative marking — kya sach mein marks kat'te hain? Sachchai jaane aur safe strategy apnayein।",
     keywords: "JNVST 2027 negative marking rules, Navodaya exam negative marking, JNVST marks kat'te hain kya",
     date: "30 जुलाई 2026, दोपहर 2 बजे",
-    modifiedDate: "30 जुलाई 2026, दोपहर 2 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
-    authorRole: "Entrance Exam Specialist",
-    authorBio: "Amit Kumar JGPS में JNVST और Sainik School entrance exam के expert हैं।",
+    authorRole: "प्रवेश परीक्षा विशेषज्ञ",
+    authorBio: "Amit Kumar जी पिछले 10 साल से JNVST और सैनिक स्कूल प्रवेश परीक्षा की तैयारी करा रहे हैं।",
     category: "प्रवेश और परीक्षा तैयारी",
     image: "https://img.jgps.in/blog/jnvst-2027-negative-marking-rules-explained.webp",
-    imageAlt: "JNVST 2027 negative marking rules - kya sach mein marks kat'te hain",
-    content: `<p><strong>JNVST 2027 Negative Marking</strong> — बहुत से parents पूछते हैं कि क्या JNVST में negative marking है। सच्चाई ये है:</p>
+    imageAlt: "JNVST 2027 नकारात्मक अंकन नियम — क्या सच में अंक कटते हैं?",
+    content: `<p>"<strong>सर, JNVST में negative marking है क्या?</strong>" — यह सवाल मुझसे हर साल सैकड़ों अभिभावक पूछते हैं। बहुत से लोगों को लगता है कि गलत जवाब देने पर नंबर कट जाएंगे। इसलिए वे बच्चे को कहते हैं कि "जो सवाल नहीं आ रहा, उसे छोड़ दो।" लेकिन <strong>सच्चाई कुछ और है</strong> — और यह जानना बहुत ज़रूरी है क्योंकि इससे बच्चे की रणनीति पूरी तरह बदल जाती है।</p>
 
-<div class="bg-green-50 border-l-4 border-green-500 rounded-r-xl p-5 my-6">
-<p class="font-bold text-green-700 mb-2">Good News: JNVST में Negative Marking नहीं है!</p>
-<p>JNVST 2027 में कोई negative marking नहीं है। हर सवाल का जवाब देना चाहिए — चाहे sure न हो।</p>
+<div class="my-6">
+  <img src="https://img.jgps.in/blog/jnvst-negative-marking-sachhai.webp" alt="JNVST 2027 नकारात्मक अंकन — सच्चाई और रणनीति" class="w-full rounded-xl shadow-sm" loading="lazy" />
+  <p class="text-xs text-gray-500 text-center mt-2">JNVST 2027 — Negative Marking की सच्चाई और सही रणनीति</p>
 </div>
 
-<h2>AMU vs JMI vs JNVST — Negative Marking Comparison</h2>
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Exam</th><th class="py-3 px-4 border-b font-bold text-white text-left">Negative Marking</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">JNVST</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AISSEE (Sainik School)</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">AMU</td><td class="py-3 px-4 border-b text-red-600 font-bold">हां (0.25 marks)</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JMI</td><td class="py-3 px-4 text-green-700 font-bold">नहीं</td></tr></tbody></table></div>
+<div class="bg-green-50 border-l-4 border-[#035c00] rounded-r-xl p-5 my-6">
+  <h3 class="font-bold text-green-700 mb-2">ख़बरदार: JNVST में Negative Marking नहीं है!</h3>
+  <p>JNVST 2027 में कोई negative marking <strong>नहीं</strong> है। यानी अगर बच्चा किसी सवाल का गलत जवाब देता है, तो उसके अंक <strong>नहीं कटेंगे</strong>। इसका मतलब है कि <strong>हर सवाल का जवाब देना चाहिए</strong> — चाहे बच्चा sure न हो।</p>
+</div>
+
+<h2>JNVST का अंकन प्रणाली — कैसे काम करता है?</h2>
+
+<p>JNVST में कुल 100 अंकों का पेपर आता है। हर सवाल1 अंक का है। गलत जवाब पर कोई अंक नहीं कटता। ख़ाली छोड़ने पर भी कोई अंक नहीं मिलता।</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">स्थिति</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">अंक</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">क्या करें</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">सही जवाब</td><td class="py-3 px-4 border-b text-green-700 font-bold">+1 अंक</td><td class="py-3 px-4 border-b">ज़रूर दें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">गलत जवाब</td><td class="py-3 px-4 border-b font-bold">0 अंक (कोई कटौती नहीं)</td><td class="py-3 px-4 border-b">अनुमान लगाकर भी दें</td></tr>
+      <tr><td class="py-3 px-4 font-medium text-gray-900">ख़ाली छोड़ा</td><td class="py-3 px-4 font-bold">0 अंक</td><td class="py-3 px-4">कभी ख़ाली न छोड़ें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-yellow-50 border border-yellow-200 p-4 rounded-lg my-4">
+  <p class="text-yellow-800 text-sm"><strong>महत्वपूर्ण:</strong> अगर बच्चे को कोई सवाल नहीं आ रहा, then भी उसका जवाब दें। 25% chance है कि सही हो जाए। और गलत होने पर भी कोई नुकसान नहीं।</p>
+</div>
+
+<h2>AMU, JMI, सैनिक स्कूल — Negative Marking Comparison</h2>
+
+<p>हर परीक्षा के अपने नियम हैं। यह तुलना देखें:</p>
+
+<div class="overflow-x-auto my-6">
+  <table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm">
+    <thead class="bg-[#035c00]">
+      <tr>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">परीक्षा</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">Negative Marking</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">कितने अंक कटते हैं</th>
+        <th class="py-3 px-4 border-b font-bold text-white text-left">रणनीति</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">JNVST (नवोदय)</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td><td class="py-3 px-4 border-b">0</td><td class="py-3 px-4 border-b">हर सवाल का जवाब दें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">AISSEE (सैनिक स्कूल)</td><td class="py-3 px-4 border-b text-green-700 font-bold">नहीं</td><td class="py-3 px-4 border-b">0</td><td class="py-3 px-4 border-b">हर सवाल का जवाब दें</td></tr>
+      <tr><td class="py-3 px-4 border-b font-medium text-gray-900">AMU</td><td class="py-3 px-4 border-b text-red-600 font-bold">हाँ</td><td class="py-3 px-4 border-b text-red-600 font-bold">0.25 अंक</td><td class="py-3 px-4 border-b">सिर्फ़ sure वाले जवाब दें</td></tr>
+      <tr class="bg-gray-50"><td class="py-3 px-4 font-medium text-gray-900">JMI</td><td class="py-3 px-4 text-green-700 font-bold">नहीं</td><td class="py-3 px-4">0</td><td class="py-3 px-4">हर सवाल का जवाब दें</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="bg-red-50 border-l-4 border-red-500 p-4 rounded-r-lg my-4">
+  <p class="text-red-800 text-sm"><strong>AMU में सावधानी:</strong> AMU में हर गलत जवाब पर0.25 अंक कटते हैं। यानी4 गलत जवाब =1 सही जवाब बर्बाद। इसलिए AMU में सिर्फ़ वही जवाब दें जिसमें बच्चा100% sure हो।</p>
+</div>
+
+<h2>JNVST के लिए सही रणनीति — हर सवाल का जवाब दें</h2>
+
+<p>चूंकि JNVST में negative marking नहीं है, इसलिए रणनीति बहुत सरल है:</p>
+
+<div class="space-y-3 my-6">
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">1.</span>
+    <p class="text-sm text-gray-700"><strong>पहले आसान सवाल करें:</strong> जो सवाल आते हैं, पहले उन्हें हल करें। इससे confidence बढ़ेगा।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">2.</span>
+    <p class="text-sm text-gray-700"><strong>कठिन सवाल बाद में:</strong> जो सवाल नहीं आ रहे, उन्हें बाद में करें। लेकिन छोड़ें नहीं।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">3.</span>
+    <p class="text-sm text-gray-700"><strong>अनुमान लगाएं:</strong> अगर कोई सवाल नहीं आ रहा, then भी कोई एक option चुनें।25% chance है सही होने का।</p>
+  </div>
+  <div class="flex gap-3 items-start bg-green-50 p-3 rounded-lg">
+    <span class="text-[#035c00] font-bold mt-0.5">4.</span>
+    <p class="text-sm text-gray-700"><strong>कोई सवाल ख़ाली न छोड़ें:</strong> ख़ाली छोड़ने पर0 अंक मिलेंगे। अनुमान लगाने पर भी0 अंक मिलेंगे — लेकिन सही होने पर1 अंक मिल जाएगा।</p>
+  </div>
+</div>
+
+<h2>OMR शीट पर सभी बबल भरें</h2>
+
+<p>बहुत से बच्चे OMR शीट पर कुछ बबल ख़ाली छोड़ देते हैं। यह गलती है। JNVST में:</p>
+
+<ul class="list-disc pl-5 space-y-2 text-gray-700 my-4">
+  <li><strong>80 सवाल</strong> हैं — सभी के जवाब दें</li>
+  <li><strong>गलत जवाब पर कोई नुकसान नहीं</strong> — इसलिए अनुमान लगाएं</li>
+  <li><strong>25% chance</strong> है कि अनुमान सही हो जाए</li>
+  <li><strong>अगर20 सवाल अनुमान से भी किए</strong>, then5 सही हो सकते हैं — ये5 extra अंक मिलेंगे</li>
+</ul>
+
+<div class="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg my-4">
+  <p class="text-blue-800 text-sm"><strong>याद रखें:</strong> JNVST में हर1 अंक महत्वपूर्ण है। कटऑफ बहुत कम अंकों से तय होता है। इसलिए कोई भी सवाल ख़ाली न छोड़ें।</p>
+</div>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+  <h3 class="font-bold text-gray-900 mb-2">JGPS में JNVST की तैयारी</h3>
+  <p>अगर आप अमरोहा, जोया या आसपास के इलाके में रहते हैं, then <strong>जय गोविंद पब्लिक स्कूल (JGPS)</strong> में JNVST की तैयारी कराई जाती है। हमारे यहाँ mock tests, OMR practice, और exam strategies पर विशेष ध्यान दिया जाता है। कॉल करें: <strong>+91 9412137554</strong></p>
+</div>
+
+<p><em>यह लेख JNVST 2027 के अंकन नियमों की सच्चाई बताता है। याद रखें — JNVST में negative marking नहीं है, इसलिए हर सवाल का जवाब दें।</em></p>
 `,
     faqs: [
-      { question: "JNVST mein negative marking hai?", answer: "Nahi, JNVST mein koi negative marking nahi hai." },
-      { question: "Guess kar sakte hain?", answer: "Haan, JNVST mein guess karo — marks nahi kat'te." },
-      { question: "AMU mein negative marking hai?", answer: "Haan, AMU mein har galat jawab par 0.25 marks kat'te hain." },
-      { question: "Safe strategy kya hai?", answer: "JNVST mein sab questions attempt karo. AMU mein sirf sure wale karo." }
+      { question: "JNVST में negative marking है?", answer: "नहीं, JNVST में कोई negative marking नहीं है। गलत जवाब पर अंक नहीं कटते।" },
+      { question: "अनुमान लगाकर जवाब दे सकते हैं?", answer: "हाँ, JNVST में अनुमान लगाएं — अंक नहीं कटेंगे।25% chance है सही होने का।" },
+      { question: "AMU में negative marking है?", answer: "हाँ, AMU में हर गलत जवाब पर0.25 अंक कटते हैं। सिर्फ़ sure वाले जवाब दें।" },
+      { question: "सुरक्षित रणनीति क्या है?", answer: "JNVST में सभी सवालों का जवाब दें। AMU में सिर्फ़ sure वाले करें।" },
+      { question: "OMR शीट पर कितने बबल भरने हैं?", answer: "सभी80 बबल भरें। कोई ख़ाली न छोड़ें — गलत होने पर भी कोई नुकसान नहीं।" }
     ]
   },
   {
@@ -11902,8 +14276,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya school medical facility — doctor, nurse, health checkup aur emergency care। Parents ke liye complete guide।",
     keywords: "Navodaya school medical facility, JNV doctor nurse health checkup, Navodaya school bacche ki sehat",
     date: "30 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, दोपहर 2 बजकर 30 मिनट",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -12080,8 +14454,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 exam ke din admit card ke saath kya leke jayein — complete list aur important tips।",
     keywords: "JNVST 2027 admit card ke saath kya leke jayein, Navodaya exam day checklist, JNVST exam essentials",
     date: "30 जुलाई 2026, दोपहर 3 बजे",
-    modifiedDate: "30 जुलाई 2026, दोपहर 3 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -12275,8 +14649,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 exam pattern changes — naya vs purana pattern comparison, kya badla hai aur kaise prepare karein।",
     keywords: "JNVST 2027 exam pattern changes, Navodaya naya vs purana pattern, JNVST new syllabus 2027",
     date: "30 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, दोपहर 3 बजकर 30 मिनट",
-    readTime: "6 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -12468,8 +14842,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya school parents meeting rules — kab mil sakte hain, phone call rules, aur visiting guidelines।",
     keywords: "Navodaya school parents meeting rules, JNV parent visit kab, Navodaya school phone call rules",
     date: "30 जुलाई 2026, दोपहर 4 बजे",
-    modifiedDate: "30 जुलाई 2026, दोपहर 4 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Priya Verma",
     authorName: "Priya Verma",
     authorSlug: "priya-verma",
@@ -12605,8 +14979,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 exam hall mein kya allowed nahi hai — prohibited items list aur exam rules।",
     keywords: "JNVST 2027 exam hall prohibited items, Navodaya exam kya allowed nahi hai, JNVST exam rules",
     date: "30 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, दोपहर 4 बजकर 30 मिनट",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -12773,8 +15147,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya school mein khana kaisa hota hai — mess menu, food quality, aur nutrition guide for parents।",
     keywords: "Navodaya school mein khana kaisa hota hai, JNV mess menu food quality, Navodaya school khana",
     date: "30 जुलाई 2026, शाम 5 बजे",
-    modifiedDate: "30 जुलाई 2026, शाम 5 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "10 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -12801,8 +15175,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "AISSEE 2027 result date — February-March 2027 mein expected hai। Result kaise check karein aur aage kya karein।",
     keywords: "Sainik School AISSEE 2027 result date, AISSEE result kab aayega, Sainik School result check kaise karein",
     date: "30 जुलाई 2026, शाम 5 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, शाम 5 बजकर 30 मिनट",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Ravi Prakash",
     authorName: "Ravi Prakash",
     authorSlug: "ravi-prakash",
@@ -13001,8 +15375,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 exam center map aur directions — kaise pahunchein, parking, aur important tips।",
     keywords: "JNVST 2027 exam center map directions, Navodaya exam center kaise pahunchein, JNV exam center location",
     date: "30 जुलाई 2026, शाम 6 बजे",
-    modifiedDate: "30 जुलाई 2026, शाम 6 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -13180,8 +15554,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "Navodaya school mein classes kaise hoti hain — teaching method, faculty quality, aur academic environment।",
     keywords: "Navodaya school mein classes kaise hoti hain, JNV teaching method faculty, Navodaya school padhai kaisi hai",
     date: "30 जुलाई 2026, शाम 6 बजकर 30 मिनट",
-    modifiedDate: "30 जुलाई 2026, शाम 6 बजकर 30 मिनट",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Najma",
     authorName: "Najma",
     authorSlug: "najma",
@@ -13323,8 +15697,8 @@ export const hindiArticles: HindiArticle[] = [
     description: "JNVST 2027 admit card mobile se kaise download karein — step-by-step guide aur tips।",
     keywords: "JNVST 2027 admit card mobile se download, Navodaya admit card phone se kaise nikale, JNV admit card mobile download",
     date: "30 जुलाई 2026, शाम 7 बजे",
-    modifiedDate: "30 जुलाई 2026, शाम 7 बजे",
-    readTime: "5 मिनट",
+    modifiedDate: "1 अगस्त 2026, सुबह 5 बजे",
+    readTime: "12 मिनट",
     author: "Amit Kumar",
     authorName: "Amit Kumar",
     authorSlug: "amit-kumar",
@@ -13823,7 +16197,7 @@ export const hindiArticles: HindiArticle[] = [
   {
     slug: "navodaya-admission-2027-last-date-hindi",
     title: "Navodaya Admission 2027 Last Date: 31 जुलाई — अभी अप्लाई करें",
-    description: "Navodaya admission 2027 last date 31 July 2026 है। JNVST Class 6 के लिए पात्रता, आयु सीमा और आवेदन प्रक्रिया जानें। 661 JNVs में फ्री शिक्षा।",
+    description: "Navodaya admission 2027 last date 7 August 2026 है। JNVST Class 6 के लिए पात्रता, आयु सीमा और आवेदन प्रक्रिया जानें। 661 JNVs में फ्री शिक्षा।",
     keywords: "Navodaya admission 2027 last date Hindi, JNVST 2027 last date, नवोदय एडमिशन 2027, Navodaya Vidyalaya admission Hindi, JNV Class 6 admission 2027 Hindi",
     date: "30 जुलाई 2026, सुबह 10 बजकर 00 मिनट",
     readTime: "11 मिनट",
@@ -13837,7 +16211,7 @@ export const hindiArticles: HindiArticle[] = [
     imageAlt: "Navodaya Admission 2027 Last Date — 31 जुलाई, अभी अप्लाई करें",
     content: `<p>Aap dinner ke baad kitchen table pe baithe hain. Aapka bachcha Class 5 me padh raha hai. Padosi ne abhi Navodaya Vidyalaya ke baare me bataya. Free education. Boarding. English medium. Koi fees nahi. Aap apply karna chahte hain. Lekin time kam hai.</p>
 
-<p>Navodaya admission 2027 ki last date <strong>31 July 2026</strong> hai. Yeh sirf kuch din door hai. Har saal 30 lakh se zyada bacche JNVST ke liye apply karte hain. Sirf 80,000 select hote hain. Aapke bachche ka real chance hai. Lekin sirf tab jab aap abhi action lein.</p>
+<p>Navodaya admission 2027 ki last date <strong>7 August 2026</strong> hai. Yeh sirf kuch din door hai. Har saal 30 lakh se zyada bacche JNVST ke liye apply karte hain. Sirf 80,000 select hote hain. Aapke bachche ka real chance hai. Lekin sirf tab jab aap abhi action lein.</p>
 
 <h2>Navodaya Vidyalaya Kya Hai?</h2>
 
@@ -13851,7 +16225,7 @@ export const hindiArticles: HindiArticle[] = [
 
 <h2>Zaruri Dates</h2>
 
-<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Form Aaya</td><td class="py-3 px-4 border-b">6 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b">31 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">December 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date (Expected)</td><td class="py-3 px-4 border-b">January 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">March-April 2027</td></tr></tbody></table></div>
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Event</th><th class="py-3 px-4 border-b font-bold text-white text-left">Date</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Application Form Aaya</td><td class="py-3 px-4 border-b">6 July 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Last Date to Apply</td><td class="py-3 px-4 border-b">7 August 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Admit Card</td><td class="py-3 px-4 border-b">December 2026</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Exam Date (Expected)</td><td class="py-3 px-4 border-b">January 2027</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Result</td><td class="py-3 px-4">March-April 2027</td></tr></tbody></table></div>
 
 <p>Hamesha official website pe final dates check karo: <strong>navodaya.gov.in</strong></p>
 
@@ -13909,7 +16283,7 @@ export const hindiArticles: HindiArticle[] = [
 <p>JGPS School JNVST coaching deta hai. Call karo <strong>+91 9997161490</strong>. Aapke bachche ki future ke liye yeh effort zaroori hai.</p>
 </div>`,
     faqs: [
-      { question: "Navodaya admission 2027 ki last date kya hai?", answer: "JNVST 2027 Class 6 ke liye apply karne ki last date 31 July 2026 hai. Application form 6 July 2026 ko aaya tha. navodaya.gov.in par deadline se pehle apply karein." },
+      { question: "Navodaya admission 2027 ki last date kya hai?", answer: "JNVST 2027 Class 6 ke liye apply karne ki last date 7 August 2026 hai. Application form 6 July 2026 ko aaya tha. navodaya.gov.in par deadline se pehle apply karein." },
       { question: "Kya Navodaya Vidyalaya sach me free hai?", answer: "Haan, bilkul free. Sarkar sab kuch pay karti hai — education, hostel, khana, kitabein, uniforms aur medical care. General/OBC boys ko sirf ₹600 monthly mess charge dena hota hai. Girls, SC aur ST students ko kuch nahi dena." },
       { question: "Kya rural students JNVST 2027 ke liye apply kar sakte hain?", answer: "Haan. 75% seats rural students ke liye reserved hain. Agar aapka bachcha gaon ya gram panchayat area ke school me padhta hai, toh selection ke chances zyada hain." },
       { question: "JNVST Class 6 ke liye age limit kya hai?", answer: "Aapke bachche ki umr March 31, 2027 ko 10 se 12 saal ke beech honi chahiye. SC aur ST students ke liye 2 saal ki relaxation hai (14 saal tak)." },

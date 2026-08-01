@@ -57,7 +57,7 @@ export default function HiLayout({
 }: {
   children: React.ReactNode;
 }) {
-  // Root layout already provides TopHeader, Navbar, AnnouncementBar, Footer, PopupAd
+  // Root layout already provides TopHeader, Navbar, Footer, PopupAd
   // This layout only overrides metadata for Hindi pages
   return <>{children}</>;
 }

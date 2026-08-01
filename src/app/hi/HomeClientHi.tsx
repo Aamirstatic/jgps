@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { schoolData } from "@/data/school-data";
 import { generateFAQSchema } from "@/lib/schema";
@@ -37,7 +37,7 @@ const cardAnimate = {
 };
 
 const examTrackerData = [
-  { name: "जवाहर नवोदय (JNV)", badge: "JNVST 2027-28", status: "आवेदन करें — अंतिम तिथि 31 जुलाई!", statusColor: "bg-red-100 text-red-800 border-red-200", openDate: "6 जुलाई 2026", closeDate: "31 जुलाई 2026", examDate: "28 नवंबर 2026", resultDate: "मार्च/अप्रैल 2027", link: "/coaching/navodaya-vidyalaya" },
+  { name: "जवाहर नवोदय (JNV)", badge: "JNVST 2027-28", status: "आवेदन करें — अंतिम तिथि 7 अगस्त!", statusColor: "bg-red-100 text-red-800 border-red-200", openDate: "6 जुलाई 2026", closeDate: "7 अगस्त 2026 (बढ़ाई गई)", examDate: "28 नवंबर 2026", resultDate: "मार्च/अप्रैल 2027", link: "/coaching/navodaya-vidyalaya" },
   { name: "सैनिक स्कूल (AISSEE)", badge: "AISSEE 2027", status: "फॉर्म जल्द आएगा", statusColor: "bg-orange-100 text-orange-800 border-orange-200", openDate: "अगस्त 2026 (अपेक्षित)", closeDate: "नवंबर 2026 (अपेक्षित)", examDate: "जनवरी 2027 (अंतिम सप्ताह)", resultDate: "मार्च 2027", link: "/coaching/sainik-school" },
   { name: "राष्ट्रीय मिलिट्री स्कूल", badge: "RMS CET 2027", status: "फॉर्म जल्द आएगा", statusColor: "bg-orange-100 text-orange-800 border-orange-200", openDate: "सितंबर 2026 (अपेक्षित)", closeDate: "अक्टूबर 2026 (अपेक्षित)", examDate: "दिसंबर 2026", resultDate: "फरवरी 2027", link: "/coaching/military-school" },
   { name: "विद्या ज्ञान स्कूल", badge: "कक्षा 6 (ग्रामीण UP)", status: "फॉर्म जल्द आएगा", statusColor: "bg-orange-100 text-orange-800 border-orange-200", openDate: "सितंबर 2026 (अपेक्षित)", closeDate: "नवंबर 2026 (अपेक्षित)", examDate: "दिसंबर 2026", resultDate: "फरवरी 2027", link: "/coaching/vidyagyan-school" },
