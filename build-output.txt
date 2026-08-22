@@ -1,0 +1,232 @@
+﻿
+> jai-govind-school@0.1.0 build
+> next build && node rename-next.js
+
+node.exe :  ⚠ Specified "headers" will not automatically work with "output: export". See more info here: 
+https://nextjs.org/docs/messages/export-no-custom-routes
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ( ⚠ Specified "h...o-custom-routes:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ ⚠ Specified "headers" will not automatically work with "output: export". See more info here: 
+https://nextjs.org/docs/messages/export-no-custom-routes
+   ▲ Next.js 15.3.1
+
+   Creating an optimized production build ...
+ ⚠ Specified "headers" will not automatically work with "output: export". See more info here: 
+https://nextjs.org/docs/messages/export-no-custom-routes
+ ⚠ Specified "headers" will not automatically work with "output: export". See more info here: 
+https://nextjs.org/docs/messages/export-no-custom-routes
+ ⚠ Specified "headers" will not automatically work with "output: export". See more info here: 
+https://nextjs.org/docs/messages/export-no-custom-routes
+ ✓ Compiled successfully in 8.0s
+   Skipping linting
+   Checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/198) ...
+   Generating static pages (49/198) 
+   Generating static pages (98/198) 
+   Generating static pages (148/198) 
+ ✓ Generating static pages (198/198)
+   Finalizing page optimization ...
+   Collecting build traces ...
+ ⚠ rewrites, redirects, and headers are not applied when exporting your application, detected (headers). See more info 
+here: https://nextjs.org/docs/messages/export-no-custom-routes
+   Exporting (0/3) ...
+ ✓ Exporting (3/3)
+
+Route (app)                                                                       Size  First Load JS
+┌ ○ /                                                                          10.3 kB         290 kB
+├ ○ /_not-found                                                                  981 B         102 kB
+├ ○ /about                                                                     1.47 kB         151 kB
+├ ○ /about/achievements                                                        1.48 kB         151 kB
+├ ○ /about/history                                                             1.48 kB         151 kB
+├ ○ /about/principal-message                                                   1.48 kB         151 kB
+├ ○ /about/staff                                                               1.48 kB         151 kB
+├ ○ /about/vision-mission                                                      1.48 kB         151 kB
+├ ○ /academics                                                                 1.47 kB         151 kB
+├ ○ /academics/co-curricular                                                     260 B         110 kB
+├ ○ /academics/curriculum                                                        260 B         110 kB
+├ ○ /academics/middle-school                                                     260 B         110 kB
+├ ○ /academics/pre-primary                                                       260 B         110 kB
+├ ○ /academics/primary                                                           260 B         110 kB
+├ ○ /admission                                                                 1.48 kB         151 kB
+├ ○ /admission/guidelines                                                      1.48 kB         151 kB
+├ ● /author/[slug]                                                               260 B         110 kB
+├   ├ /author/rifaul-hasan
+├   ├ /author/priya-verma
+├   ├ /author/amit-kumar
+├   └ [+6 more paths]
+├ ○ /blog                                                                      4.34 kB         246 kB
+├ ● /blog/[slug]                                                               4.95 kB         204 kB
+├   ├ /blog/sainik-school-fees-2027-structure
+├   ├ /blog/cbse-class-12-supplementary-exam-2026
+├   ├ /blog/cbse-class-10-second-board-result-2026
+├   └ [+88 more paths]
+├ ○ /blog/30-day-july-sprint-study-timetable                                     381 B         110 kB
+├ ○ /blog/ai-chatbots-indian-classrooms-parents-guide                            381 B         110 kB
+├ ○ /blog/aissee-omr-sheet-mistakes-cost-selection                               381 B         110 kB
+├ ○ /blog/amu-vs-jmi-2027-complete-comparison                                    381 B         110 kB
+├ ○ /blog/assam-hslc-re-admission-2026-failed-students                           381 B         110 kB
+├ ○ /blog/cbse-class-10-second-board-result-2026                                 381 B         110 kB
+├ ○ /blog/cbse-class-12-compartment-exam-2026                                    381 B         110 kB
+├ ○ /blog/cbse-class-12-supplementary-exam-2026                                  381 B         110 kB
+├ ○ /blog/cbse-open-book-exams-2027                                              381 B         110 kB
+├ ○ /blog/cbse-re-result-anxiety-help-child                                      381 B         110 kB
+├ ○ /blog/cbse-vs-up-board-comparison-competitive-exams-2027                     381 B         110 kB
+├ ○ /blog/chhatron-ki-goonj-student-protests-parents-guide                       381 B         110 kB
+├ ○ /blog/cisce-fitness-assessment-2026-parents-guide                            381 B         110 kB
+├ ○ /blog/cuet-math-normalization-2026-percentiles                               381 B         110 kB
+├ ○ /blog/cuet-ug-2026-results-declared-how-to-use-scores                        381 B         110 kB
+├ ○ /blog/cuet-ug-post-result-anxiety-2026                                       381 B         110 kB
+├ ○ /blog/digital-fasting-parent-guide-2026                                      381 B         110 kB
+├ ○ /blog/emotional-toll-neet-2026-re-exam-parents                               381 B         110 kB
+├ ○ /blog/fee-comparison-sainik-navodaya-amu-jmi-2027                            381 B         110 kB
+├ ○ /blog/feynman-technique-amu-class-6-math                                     381 B         110 kB
+├ ○ /blog/gemini-ai-personalized-study-notebooks                                 381 B         110 kB
+├ ○ /blog/half-yearly-exam-prep-july-2026                                        381 B         110 kB
+├ ○ /blog/how-to-prepare-amu-class-6-entrance-exam                               381 B         110 kB
+├ ○ /blog/ib-school-program-demand-beyond-big-cities-india-2026                  381 B         110 kB
+├ ○ /blog/iits-faculty-shortage-38-percent-vacant-2026                           381 B         110 kB
+├ ○ /blog/indian-schools-world-best-school-prizes-2026                           381 B         110 kB
+├ ○ /blog/international-olympiad-prep-indian-students-2026                       381 B         110 kB
+├ ○ /blog/jmi-class-6-entrance-2027-complete-guide                               381 B         110 kB
+├ ○ /blog/jnvst-6-month-preparation-plan-2027                                    381 B         110 kB
+├ ○ /blog/jnvst-class-6-admission-form-2027-apply-online                         381 B         110 kB
+├ ○ /blog/jnvst-class-6-admission-notification-2027-28                           381 B         110 kB
+├ ○ /blog/josaa-counselling-2026-round-2-school-students                         381 B         110 kB
+├ ○ /blog/maharashtra-marathi-mandatory-classes-1-10-2026                        381 B         110 kB
+├ ○ /blog/manipal-university-tops-sdg-5-globally                                 381 B         110 kB
+├ ○ /blog/maximizing-new-google-ai-tools-for-students-iste-2026                  381 B         110 kB
+├ ○ /blog/missed-june-2026-admissions-coaching-strategies                        381 B         110 kB
+├ ○ /blog/monsoon-blues-mid-term-studies-focus                                   381 B         110 kB
+├ ○ /blog/national-teachers-awards-2026-nominations-guide                        381 B         110 kB
+├ ○ /blog/navodaya-preparation-class-6-strategy-guide                            381 B         110 kB
+├ ○ /blog/navodaya-rural-quota-2027                                              381 B         110 kB
+├ ○ /blog/navodaya-vs-sainik-school-2025                                         381 B         110 kB
+├ ○ /blog/ncert-new-class-9-textbook-2026-changes                                381 B         110 kB
+├ ○ /blog/neet-2026-paper-analysis-study-strategies                              381 B         110 kB
+├ ○ /blog/neet-2026-re-exam-aftermath-cutoff-truth                               381 B         110 kB
+├ ○ /blog/neet-ug-2026-answer-key-released-challenge-guide                       381 B         110 kB
+├ ○ /blog/neet-ug-2026-re-exam-review-nta-reforms                                381 B         110 kB
+├ ○ /blog/new-education-policy-2026-changes-parents-must-know                    381 B         110 kB
+├ ○ /blog/nta-ai-security-measures-jnvst-2027                                    381 B         110 kB
+├ ○ /blog/old-vs-new-ncert-class-9-study-guide                                   381 B         110 kB
+├ ○ /blog/passport-fees-increase-july-2026-students-guide                        381 B         110 kB
+├ ○ /blog/post-vacation-lethargy-regaining-focus                                 381 B         110 kB
+├ ○ /blog/rashtriya-military-school-admission-2027-class-6-guide                 381 B         110 kB
+├ ○ /blog/re-neet-2026-parents-guide-managing-stress                             381 B         110 kB
+├ ○ /blog/sainik-school-admission-2027-28-aissee-guide                           381 B         110 kB
+├ ○ /blog/sainik-school-admission-2027-complete-guide                            381 B         110 kB
+├ ○ /blog/sainik-school-admission-aissee-2027-28-guide                           381 B         110 kB
+├ ○ /blog/sainik-school-admission-form-2027-eligibility-fees-apply               381 B         110 kB
+├ ○ /blog/sainik-school-class-6-preparation-tips                                 381 B         110 kB
+├ ○ /blog/sainik-school-fees-2027-structure                                      381 B         110 kB
+├ ○ /blog/sainik-school-interview-questions-answers-2027                         381 B         110 kB
+├ ○ /blog/sainik-school-medical-test-complete-guide-2027                         381 B         110 kB
+├ ○ /blog/sainik-school-scholarship-complete-guide-2027                          381 B         110 kB
+├ ○ /blog/sainik-school-vs-jnvst-2027                                            381 B         110 kB
+├ ○ /blog/sbi-apprentice-admit-card-2026-download                                381 B         110 kB
+├ ○ /blog/summer-holidays-up-schools-2025                                        381 B         110 kB
+├ ○ /blog/tamil-nadu-student-elections-july-2026                                 381 B         110 kB
+├ ○ /blog/tcs-inquizitive-2026-announced-registration                            381 B         110 kB
+├ ○ /blog/top-5-free-government-boarding-schools-india-class-6-admission-2027    381 B         110 kB
+├ ○ /blog/top-5-study-habits-for-school-students                                 381 B         110 kB
+├ ○ /blog/transitioning-back-to-school-reopening-stress-june-2026                381 B         110 kB
+├ ○ /blog/up-schools-reopen-june-25-2026-guidelines                              381 B         110 kB
+├ ○ /blog/up-tgt-result-2026-download                                            381 B         110 kB
+├ ○ /blog/vidyagyan-school-admission-eligibility-syllabus                        381 B         110 kB
+├ ○ /blog/weekly-current-affairs-june-20-26-2026-aissee-gk                       381 B         110 kB
+├ ○ /blog/weekly-current-affairs-june-27-july-3-2026-aissee-gk                   381 B         110 kB
+├ ○ /blog/why-june-2026-exam-season-toughest                                     381 B         110 kB
+├ ○ /coaching                                                                  1.48 kB         151 kB
+├ ○ /coaching/amu-entrance                                                       193 B         105 kB
+├ ○ /coaching/amu-entrance/eligibility-and-dates                                 260 B         110 kB
+├ ○ /coaching/amu-entrance/previous-year-papers                                  260 B         110 kB
+├ ○ /coaching/amu-entrance/syllabus                                              260 B         110 kB
+├ ○ /coaching/jmi-entrance                                                       193 B         105 kB
+├ ○ /coaching/jmi-entrance/eligibility-and-dates                                 260 B         110 kB
+├ ○ /coaching/jmi-entrance/previous-year-papers                                  260 B         110 kB
+├ ○ /coaching/jmi-entrance/syllabus                                              260 B         110 kB
+├ ○ /coaching/military-school                                                    193 B         105 kB
+├ ○ /coaching/military-school/eligibility-and-dates                              260 B         110 kB
+├ ○ /coaching/military-school/previous-year-papers                               260 B         110 kB
+├ ○ /coaching/military-school/syllabus                                           260 B         110 kB
+├ ○ /coaching/navodaya-vidyalaya                                                 260 B         110 kB
+├ ○ /coaching/navodaya-vidyalaya/eligibility-and-dates                           260 B         110 kB
+├ ○ /coaching/navodaya-vidyalaya/previous-year-papers                            260 B         110 kB
+├ ○ /coaching/navodaya-vidyalaya/syllabus                                        260 B         110 kB
+├ ○ /coaching/sainik-school                                                      193 B         105 kB
+├ ○ /coaching/sainik-school/eligibility-and-dates                                260 B         110 kB
+├ ○ /coaching/sainik-school/previous-year-papers                                 260 B         110 kB
+├ ○ /coaching/sainik-school/syllabus                                             260 B         110 kB
+├ ○ /coaching/vidyagyan-school                                                   193 B         105 kB
+├ ○ /coaching/vidyagyan-school/eligibility-and-dates                             260 B         110 kB
+├ ○ /coaching/vidyagyan-school/previous-year-papers                              260 B         110 kB
+├ ○ /coaching/vidyagyan-school/syllabus                                          260 B         110 kB
+├ ○ /contact                                                                   3.56 kB         160 kB
+├ ○ /cookie-policy                                                               167 B         101 kB
+├ ○ /disclaimer                                                                  167 B         101 kB
+├ ○ /entrance-eligibility-checker                                                 2 kB         107 kB
+├ ○ /facilities                                                                1.48 kB         151 kB
+├ ○ /facilities/school-bus-transport                                           1.48 kB         151 kB
+├ ○ /faq                                                                       3.08 kB         160 kB
+├ ○ /feed.xml                                                                    167 B         101 kB
+├ ○ /gallery                                                                    4.7 kB         155 kB
+├ ○ /hi                                                                        10.5 kB         270 kB
+├ ○ /hi/blog                                                                   4.65 kB         227 kB
+├ ○ /hi/blog/5-sarkari-school-jahan-padhai-bilkul-muft-hai-2027                  151 B         184 kB
+├ ○ /hi/blog/amu-vs-jmi-2027-complete-comparison                                 151 B         184 kB
+├ ○ /hi/blog/bachche-ki-entrance-exam-taiyari-kab-shuru-karein                   152 B         184 kB
+├ ○ /hi/blog/bina-coaching-ke-navodaya-sainik-school-admission                   150 B         184 kB
+├ ○ /hi/blog/cbse-class-10-do-board-exam-2026                                    151 B         184 kB
+├ ○ /hi/blog/cbse-new-curriculum-2026-27-jeeneet-prep                            151 B         184 kB
+├ ○ /hi/blog/cbse-three-language-policy-2026-27-guide                            152 B         184 kB
+├ ○ /hi/blog/cbse-vs-up-board-competitive-exams-2027                             151 B         184 kB
+├ ○ /hi/blog/class-6-entrance-exam-30-day-preparation-plan                       151 B         184 kB
+├ ○ /hi/blog/cuet-2026-27-university-admission-guide                             151 B         184 kB
+├ ○ /hi/blog/entrance-exam-me-bachcha-fail-ho-gaya-ab-kya-karein                 151 B         184 kB
+├ ○ /hi/blog/fee-comparison-sainik-navodaya-amu-jmi-2027                         151 B         184 kB
+├ ○ /hi/blog/how-to-prepare-amu-class-6-entrance-exam                            151 B         184 kB
+├ ○ /hi/blog/how-to-prepare-child-for-boarding-school                            152 B         184 kB
+├ ○ /hi/blog/jmi-class-6-entrance-2027-complete-guide                            151 B         184 kB
+├ ○ /hi/blog/navodaya-admission-2027-complete-guide                              152 B         184 kB
+├ ○ /hi/blog/navodaya-jnvst-class-6-admission-2027-28                            151 B         184 kB
+├ ○ /hi/blog/navodaya-kitne-number-se-pass-hote-hain-2026-class-6                151 B         184 kB
+├ ○ /hi/blog/navodaya-vidyalaya-class-6-application-form-2027-28                 152 B         184 kB
+├ ○ /hi/blog/ncert-new-textbooks-2026-27-changes                                 151 B         184 kB
+├ ○ /hi/blog/neet-ug-2027-pattern-changes-guide                                  151 B         184 kB
+├ ○ /hi/blog/nep-2020-changes-parents-must-know-2027                             152 B         184 kB
+├ ○ /hi/blog/rashtriya-military-school-admission-2027-guide                      151 B         184 kB
+├ ○ /hi/blog/sainik-school-admission-2027-complete-guide                         151 B         184 kB
+├ ○ /hi/blog/sainik-school-interview-questions-answers-2027                      151 B         184 kB
+├ ○ /hi/blog/sainik-school-medical-test-complete-guide-2027                      152 B         184 kB
+├ ○ /hi/blog/sainik-school-scholarship-complete-guide-2027                       151 B         184 kB
+├ ○ /hi/blog/sainik-school-vs-military-school-2027-kaun-sa-chune                 151 B         184 kB
+├ ○ /hi/blog/sainik-school-vs-navodaya-2027                                      151 B         184 kB
+├ ○ /hi/blog/vidyagyan-school-admission-2027-guide                               150 B         184 kB
+├ ○ /privacy-policy                                                              167 B         101 kB
+├ ○ /resources                                                                 1.48 kB         151 kB
+├ ○ /resources/amu-class-6-syllabus-and-papers                                   146 B         154 kB
+├ ○ /resources/navodaya-class-6-papers                                           146 B         154 kB
+├ ○ /resources/rms-cet-military-school-syllabus                                  146 B         154 kB
+├ ○ /resources/sainik-school-question-papers                                     146 B         154 kB
+├ ○ /resources/syllabus-and-study-materials                                    1.48 kB         151 kB
+├ ○ /resources/vidyagyan-school-syllabus-and-eligibility                         146 B         154 kB
+├ ○ /robots.txt                                                                  167 B         101 kB
+├ ○ /sitemap                                                                     193 B         105 kB
+├ ○ /sitemap.xml                                                                 167 B         101 kB
+└ ○ /terms-and-conditions                                                        167 B         101 kB
++ First Load JS shared by all                                                   101 kB
+  ├ chunks/1684-5cadfc64887145cb.js                                              46 kB
+  ├ chunks/4bd1b696-e377ce5e072f235a.js                                        53.2 kB
+  └ other shared chunks (total)                                                   2 kB
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+Successfully renamed _next folder to next.
+Updated references in 391 compiled files.
