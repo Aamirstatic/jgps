@@ -105,7 +105,9 @@ export function generateSchemaMarkup() {
           "Class 9 Entrance Coaching",
           "English Medium School Joya Amroha"
         ]
-      },
+      };
+
+      const courseSchemas = [
       {
         "@type": "Course",
         "@id": "https://jgps.in/coaching/#amu-course",
@@ -176,14 +178,14 @@ export function generateSchemaMarkup() {
           "@id": "https://jgps.in/#school"
         }
       }
-    ]
-  };
+      ];
 
   return {
     "@context": "https://schema.org",
     "@graph": [
       brandSchema,
-      schoolSchema
+      schoolSchema,
+      ...courseSchemas
     ]
   };
 }
