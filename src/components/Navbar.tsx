@@ -77,6 +77,7 @@ export default function Navbar() {
         { href: '/blog?category=Student%20Life', label: 'Student Life' },
       ],
     },
+    { href: '/result', label: 'Result' },
   ];
 
   // These go inside "More" dropdown to keep navbar compact
@@ -259,6 +260,12 @@ export default function Navbar() {
               </button>
 
               {/* Mobile hamburger */}
+              <Link
+                href="/result"
+                className="lg:hidden px-3.5 py-1.5 bg-[#035c00] hover:bg-[#024700] text-white text-[12px] font-bold rounded-lg transition-colors"
+              >
+                Result
+              </Link>
               <button
                 onClick={() => setIsMenuOpen(!isMenuOpen)}
                 className="lg:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors"
