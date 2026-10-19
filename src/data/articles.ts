@@ -5279,6 +5279,67 @@ export const articles: Article[] = [  {
       { question: "What is the fee of Sainik School per year?", answer: "The annual fee for Sainik Schools ranges from approximately ₹85,000 to ₹1,35,000 including tuition, hostel, mess, uniform, and other charges. SC/ST students get fee concessions." },
       { question: "Is coaching necessary for AISSEE preparation?", answer: "Coaching can help but is not mandatory. Many students crack AISSEE through self-study using NCERT books, previous year papers, and online resources. The key is consistent daily practice of 2-3 hours." }
     ]
+  },
+  {
+    slug: 'amu-class-6-entrance-2027-syllabus-pattern-coaching-plan',
+    title: 'AMU Class 6 Entrance 2027: Syllabus, Pattern and How Coaching Structures It',
+    description: 'AMU Class 6 entrance 2027 — verified exam pattern (85+15 marks), section-wise syllabus, eligibility, and how a coaching batch structures preparation month by month.',
+    keywords: 'AMU Class 6 entrance syllabus, AMU Class 6 exam pattern 2027, AMU entrance coaching plan, AMU Class 6 eligibility age limit',
+    date: '19 October 2026, 5:00 PM',
+    modifiedDate: 'October 19, 2026',
+    author: 'Amit Kumar',
+    authorName: 'Amit Kumar',
+    authorSlug: 'amit-kumar',
+    authorRole: 'Entrance Exam Specialist',
+    authorBio: 'With a 90% success rate, Amit sir breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.',
+    readTime: '9 mins',
+    category: 'Coaching',
+    image: '/images/blog/amu-class-6-entrance-2027-syllabus-pattern-coaching-plan.webp',
+    imageAlt: 'Student preparing for AMU Class 6 entrance exam with books',
+    content: `<h1>AMU Class 6 Entrance 2027: Syllabus, Pattern and How Coaching Structures It</h1>
+
+<p><em>Last verified: 19 October 2026 | Reading Time: 9 min | Author: Amit Kumar</em></p>
+
+<p>Every year, thousands of Class 5 students compete for a seat in Aligarh Muslim University's schools through the Class 6 entrance test. The paper looks simple on the surface — it is based on the Class 5 NCERT syllabus — but the competition is real, and small details like the 40% qualifying rule in the language section decide who moves forward. This guide breaks down the verified exam pattern, the subject-wise syllabus, and how a serious coaching batch structures preparation month by month.</p>
+
+<p><strong>A note on 2027 dates:</strong> AMU had not released the 2027-28 admission schedule at the time of writing. The pattern and syllabus below are CONFIRMED from the university's admission guide for recent cycles; 2027 dates are EXPECTED based on the usual calendar and are marked as such.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">AMU Class 6 Entrance: Verified Exam Pattern</h2>
+
+<p>The selection happens in two stages — a written test and an interview. Here is the pattern confirmed across recent admission cycles:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Stage / Section</th><th class="py-3 px-4 border-b font-bold text-white text-left">Details</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Written test</td><td class="py-3 px-4 border-b">85 marks · 85 MCQs · 2 hours · OMR-based · <strong>no negative marking</strong></td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Section I — Languages</td><td class="py-3 px-4 border-b">25 marks (English / Hindi / Urdu). <strong>Minimum 40% required</strong> to qualify for the interview stage</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Section II — Mathematics</td><td class="py-3 px-4 border-b">30 marks, 30 MCQs</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Section II — Environmental Studies</td><td class="py-3 px-4 border-b">30 marks, 30 MCQs</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Interview</td><td class="py-3 px-4 border-b">15 marks · <strong>minimum 40% required</strong> for final selection</td></tr><tr class="bg-green-50"><td class="py-3 px-4 font-bold text-gray-900">Final merit</td><td class="py-3 px-4 font-bold text-green-700">Written (85) + Interview (15) = 100 marks</td></tr></tbody></table></div>
+
+<p>The 40% rule in Section I is the silent eliminator. Many students prepare heavily for mathematics and still miss out because they treated languages casually. A coaching batch plans for this from day one.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Subject-Wise Syllabus (NCERT Class 5 Level)</h2>
+
+<p>The test paper syllabus is the same as prescribed for Class 5 by CBSE/NCERT, as followed in university schools. Here is how it breaks down:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Subject</th><th class="py-3 px-4 border-b font-bold text-white text-left">What to cover</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">English</td><td class="py-3 px-4 border-b">Reading comprehension, grammar (tenses, articles, prepositions), vocabulary, sentence formation</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Hindi / Urdu</td><td class="py-3 px-4 border-b">Comprehension, word meanings, grammar, sentence structure</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Mathematics</td><td class="py-3 px-4 border-b">Number system, fractions and decimals, factors and multiples, measurement and unit conversion, geometry basics, perimeter and area, data handling, word problems</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Environmental Studies</td><td class="py-3 px-4 border-b">Food and nutrition, human body and hygiene, plants and animals, air and water, light and shadow, simple machines, states of matter</td></tr></tbody></table></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How a Coaching Batch Structures This (Month by Month)</h2>
+
+<p>This is the part self-study plans usually miss. A structured batch does not teach "everything at once" — it sequences the syllabus so that each section peaks at the right time:</p>
+
+<p><strong>Months 1–2: Foundation.</strong> NCERT Class 5 maths and EVS chapters are completed once, slowly, with concept clarity as the only goal. Languages get daily 20-minute reading practice from the start — because the 40% qualifying rule makes languages non-negotiable.</p>
+
+<p><strong>Months 3–4: MCQ conversion.</strong> Every chapter is converted into timed MCQ sets. Students learn OMR discipline: reading all options, eliminating, and managing the 2-hour paper. Mathematics shifts to speed drills — fractions, unit conversion, and word problems under time pressure.</p>
+
+<p><strong>Months 5–6: Test series and interview prep.</strong> Full-length mocks on the exact 85-mark pattern, with error-log analysis after each test. Shortlisted-potential students begin interview practice: self-introduction, basic general awareness, and confident communication — the 15-mark interview rewards personality, not memorized answers.</p>
+
+<p>At <a href="https://jgps.in/coaching/amu-entrance" class="text-[#035c00] hover:underline">JGPS's AMU entrance coaching</a>, batches follow this sequencing with weekly tests and parent-teacher reviews — you can see the <a href="https://jgps.in/coaching/amu-entrance/syllabus" class="text-[#035c00] hover:underline">detailed syllabus plan</a> and <a href="https://jgps.in/coaching/amu-entrance/previous-year-papers" class="text-[#035c00] hover:underline">previous-year paper practice</a> structure on our coaching pages.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Eligibility at a Glance</h2>
+
+<p>For the recent cycle, the age rule was 10 to 12 years as on 31 March of the admission year, and the student must have passed Class 5 from a recognized school. Application fees were ₹800 (₹1,100 with late fee) for the 2026-27 cycle — treat 2027-28 figures as EXPECTED until the official notification. Always confirm from the official admission guide before applying.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistakes Coaches See Every Year</h2>
+
+<p><strong>1. Ignoring languages.</strong> The 40% Section I rule ends more dreams than tough maths questions do.<br><strong>2. No OMR practice.</strong> Students who never fill an OMR sheet lose marks to silly bubbling errors.<br><strong>3. Skipping the interview.</strong> Families prepare for 85 marks and forget the 15 that need 40% to count.<br><strong>4. Starting too late.</strong> Six months of structured prep beats two months of panic, every single time.</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Preparing for AMU Class 6 Entrance?</h3><p>JGPS Joya runs dedicated AMU/JMI entrance coaching batches for Class 5 and Class 8 students, with weekly tests and interview training. Call <strong>+91 9997161490</strong> for a free counselling session.</p></div>`,
+    faqs: [{question: `What is the exam pattern for AMU Class 6 entrance?`, answer: `The written test carries 85 marks (85 MCQs, 2 hours, no negative marking): Section I Languages 25 marks, Section II Mathematics 30 marks and EVS 30 marks. Candidates must score at least 40% in Section I to qualify for the 15-mark interview, where 40% is again required. Final merit is out of 100.`}, {question: `What is the syllabus for AMU Class 6 entrance?`, answer: `The syllabus is the NCERT Class 5 curriculum: English/Hindi/Urdu (comprehension, grammar, vocabulary), Mathematics (number system, fractions, geometry, measurement, data handling) and Environmental Studies (food, human body, plants, air, water, simple machines).`}, {question: `What is the age limit for AMU Class 6 admission?`, answer: `For recent cycles the age requirement was 10 to 12 years as on 31 March of the admission year, and the child must have passed Class 5 from a recognized school. Confirm the 2027-28 figures from the official AMU admission guide when released.`}, {question: `Is there an interview in AMU Class 6 admission?`, answer: `Yes. Shortlisted candidates face a 15-mark interview testing communication, confidence and personality, and a minimum of 40% in the interview is essential for selection.`}, {question: `How should coaching be structured for AMU Class 6 entrance?`, answer: `A structured batch sequences the syllabus: months 1-2 for NCERT foundation with daily language reading (because of the 40% qualifying rule), months 3-4 for timed MCQ and OMR practice, and months 5-6 for full mock tests plus interview preparation.`}],
   }
 ];
 
