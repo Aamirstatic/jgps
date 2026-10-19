@@ -64,6 +64,12 @@ Article object shape (see `src/data/articles.ts` `Article` interface):
    ~/workspace/custom-connectors/custom.legacy-github/bin/gh_push.py
    --repo-dir ~/workspace/jgps --repo Aamirstatic/jgps --message "..."`.
    Then `git fetch origin && git reset --hard origin/master` inside ~/workspace/jgps.
+   **VERIFY EVERY PUSH against the GitHub API (ground truth — local git state has
+   proven unreliable):** `python3 ~/workspace/scripts/jgps_verify_push.py --slug <slug>`
+   must print VERIFIED. If MISSING: do NOT run `git reset --hard` (it would discard
+   the local article) — re-push with gh_push.py `--files src/data/articles.ts` and
+   verify again. Only proceed when VERIFIED. Never `git reset --hard` a dirty tree
+   unless the push is API-verified.
 6. Submit the new URL `https://jgps.in/blog/<slug>/` to IndexNow
    (curl POST https://api.indexnow.org/indexnow, key from Sainik pipeline) AND to
    `python3 ~/workspace/scripts/google_indexing.py` (200 per URL; never print the key).
