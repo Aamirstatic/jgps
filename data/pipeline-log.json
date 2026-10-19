@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 1,
+  "blog_topic_cursor": 2,
   "entries": [
     {
       "topic_id": 1,
@@ -7,6 +7,13 @@
       "title": "AMU Class 6 Entrance 2027: Syllabus, Pattern and How Coaching Structures It",
       "date": "2026-10-19",
       "slot": "pipeline-test"
+    },
+    {
+      "topic_id": 2,
+      "slug": "amu-class-9-entrance-vs-class-6-bridge-course-plan",
+      "title": "AMU Class 9 Entrance: What Changes After Class 6 (and How to Bridge It)",
+      "date": "2026-10-19",
+      "slot": "evening"
     }
   ]
 }
