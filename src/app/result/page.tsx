@@ -47,11 +47,12 @@ export default function ResultPage() {
             </div>
             <iframe
               src="https://erp.jgps.in/examresult/"
+              width="100%"
+              height="900px"
+              frameBorder="0"
+              style={{ border: "none", minHeight: "800px" }}
+              allow="clipboard-write"
               title="JGPS Exam Result Portal"
-              className="w-full border-0"
-              style={{ minHeight: "800px", height: "80vh" }}
-              loading="lazy"
-              allowFullScreen
             />
           </div>
           <p className="text-center text-gray-500 text-sm mt-6">
