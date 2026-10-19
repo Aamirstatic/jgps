@@ -79,7 +79,13 @@ export default async function BlogArticlePage({ params }: { params: Promise<{ sl
   const isoDate = isNaN(articleDate.getTime()) ? new Date().toISOString() : articleDate.toISOString();
   const modifiedDateVal = article.modifiedDate ? new Date(article.modifiedDate) : articleDate;
   const isoModifiedDate = isNaN(modifiedDateVal.getTime()) ? isoDate : modifiedDateVal.toISOString();
-  const authorData = authors.find(a => a.name === article.author);
+  const authorData = authors.find(a => a.name === article.author) || {
+    slug: article.authorSlug || 'jgps-content-team',
+    name: article.authorName || article.author,
+    imageUrl: '/images/authors/aamir.png',
+    bio: article.authorBio || '',
+    role: article.authorRole || 'Contributor',
+  };
 
   const faqSchema = {
     "@context": "https://schema.org",
