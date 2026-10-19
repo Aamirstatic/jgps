@@ -168,7 +168,7 @@ function HeroFeatured({ articles }: { articles: Article[] }) {
 }
 
 // â"€â"€ Article Card (list grid) â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€
-function ArticleCard({ article }: { article: Article }) {
+const ArticleCard: React.FC<{ article: Article }> = ({ article }) => {
   return (
     <motion.article
       layout
@@ -210,7 +210,7 @@ function ArticleCard({ article }: { article: Article }) {
       </div>
     </motion.article>
   );
-}
+};
 
 // â"€â"€ Sidebar â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€â"€
 function Sidebar({ trending }: { trending: Article[] }) {

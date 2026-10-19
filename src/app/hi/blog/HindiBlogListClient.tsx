@@ -168,7 +168,7 @@ function HeroFeatured({ articles }: { articles: HindiArticle[] }) {
   );
 }
 
-function ArticleCard({ article }: { article: HindiArticle }) {
+const ArticleCard: React.FC<{ article: HindiArticle }> = ({ article }) => {
   return (
     <motion.article layout initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, scale: 0.97 }} transition={{ duration: 0.35 }}
@@ -204,7 +204,7 @@ function ArticleCard({ article }: { article: HindiArticle }) {
       </div>
     </motion.article>
   );
-}
+};
 
 function Sidebar({ trending }: { trending: HindiArticle[] }) {
   return (
