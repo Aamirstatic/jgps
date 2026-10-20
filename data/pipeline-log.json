@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 5,
+  "blog_topic_cursor": 6,
   "entries": [
     {
       "topic_id": 1,
@@ -35,6 +35,13 @@
       "title": "AMU Entrance Maths: The 6 Topics That Decide Selection",
       "date": "2026-10-20",
       "slot": "afternoon"
+    },
+    {
+      "topic_id": 6,
+      "slug": "jgps-amu-jmi-coaching-batches-parents-walkthrough",
+      "title": "How JGPS Structures Its AMU/JMI Coaching Batches: A Parent's Walkthrough",
+      "date": "2026-10-20",
+      "slot": "evening"
     }
   ]
 }
