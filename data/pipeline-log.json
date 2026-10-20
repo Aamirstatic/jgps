@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 2,
+  "blog_topic_cursor": 3,
   "entries": [
     {
       "topic_id": 1,
@@ -14,6 +14,13 @@
       "title": "AMU Class 9 Entrance: What Changes After Class 6 (and How to Bridge It)",
       "date": "2026-10-19",
       "slot": "evening"
+    },
+    {
+      "topic_id": 3,
+      "slug": "amu-entrance-previous-year-papers-toppers-strategy",
+      "title": "AMU Entrance Previous Year Papers: How Toppers Actually Use Them",
+      "date": "2026-10-20",
+      "slot": "morning"
     }
   ]
 }

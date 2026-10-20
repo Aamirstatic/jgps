@@ -5415,6 +5415,78 @@ export const articles: Article[] = [  {
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-6 my-8"><p class="font-bold text-gray-900 text-lg">Planning the AMU Class 9 bridge for your child?</p><p class="text-gray-700 mt-2">JGPS runs structured AMU and JMI entrance coaching batches in Joya, Amroha — with phased test series, error-log reviews and interview prep built in. Call or WhatsApp <a href="tel:+919997161490" class="font-bold text-[#035c00]">+91 9997161490</a> for a free counselling session and batch timings. You can also review our <a href="/admission/">admission guidelines</a> before you visit.</p></div>`,
     faqs: [{question: `Is the AMU Class 9 entrance tougher than the Class 6 entrance?`, answer: `In structure, yes. The syllabus jumps from Class 5 to Class 8 NCERT, EVS is replaced by Science and Social Science, and 14,645 students applied for Class 9 in 2026–27 versus 8,695 for Class 6. But the paper format — an 85-mark MCQ test plus a 15-mark interview — is identical, so a student who understands the format already has a head start.`}, {question: `My child studies in a UP Board school. Can they apply for AMU Class 9?`, answer: `Yes. Eligibility requires passing Class VIII from a recognized or affiliated school — the board does not matter (2026–27 cycle). However, the paper is set from the Class 8 CBSE/NCERT syllabus, so UP Board students need extra bridging on NCERT-specific chapters, especially in Science and Social Science.`}, {question: `What happens if my child scores well overall but poorly in the language section?`, answer: `They will not reach the interview. AMU requires a minimum of 40% in Section I (Languages) — at least 10 of 25 marks — to qualify for the interview, and this rule applied in the 2026–27 cycle. Treat the language section as a qualifying gate, not just a scoring section.`}, {question: `How important is the interview really?`, answer: `Very. It carries 15 of the final 100 marks, and scoring below 40% in it (under 6 marks) means no selection regardless of the written score. In close merit lists with over 12,000 candidates appearing, the interview decides ranks.`}, {question: `When will the AMU 2027 school admission notification be released?`, answer: `It has not been released as of 19 October 2026. Based on the cycle's usual rhythm, it is expected tentatively around November–December 2026. Watch amucontrollerexams.com for the official notice rather than relying on third-party dates.`}, {question: `How long does it take to bridge from Class 6 level to Class 9 level?`, answer: `A structured 8-week plan works for a Class 8 student with decent fundamentals: two weeks of foundation repair, two weeks of subject depth, then a language lock-in week, timed mocks and interview prep. Students starting from scratch on Class 8 Science should allow 10–12 weeks.`}],
+  },
+  {
+    slug: 'amu-entrance-previous-year-papers-toppers-strategy',
+    title: 'AMU Entrance Previous Year Papers: How Toppers Actually Use Them',
+    description: 'How AMU school entrance toppers actually use previous year papers — the 8-week cycle, error-log method and the 40% language gate for Class 6 and 9.',
+    keywords: 'AMU entrance previous year papers strategy, AMU class 6 previous papers, AMU entrance toppers preparation',
+    date: '20 October 2026, 07:15 AM',
+    modifiedDate: '20 October 2026, 07:15 AM',
+    author: 'Amit Kumar',
+    authorName: 'Amit Kumar',
+    authorSlug: 'amit-kumar',
+    authorRole: 'Entrance Exam Specialist',
+    authorBio: 'With a 90% success rate, Amit sir breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.',
+    readTime: '9 mins',
+    category: 'Coaching',
+    image: '/images/blog/amu-entrance-previous-year-papers-toppers-strategy.webp',
+    imageAlt: 'Student solving a previous year entrance exam paper with pencil and notebook',
+    content: `<h1>AMU Entrance Previous Year Papers: How Toppers Actually Use Them</h1>
+<p><em>Last verified: 20 October 2026 | Reading Time: 9 min | Author: Amit Kumar</em></p>
+
+<p>Every entrance batch I have taught has had two kinds of students with the same stack of previous year papers on their desk. The first kind downloads ten years of papers, solves a few half-heartedly, and moves on. The second kind treats those papers like a personal coach &mdash; and it shows in the merit list. The papers are identical. The difference is the method.</p>
+
+<p>The AMU school admission test is a rare kind of exam: it rewards familiarity more than brilliance. For Class VI, the written test carries <strong>85 marks</strong> &mdash; Section I (Languages: English, Urdu, Hindi) is 25 MCQs for 25 marks, and Section II is 60 MCQs split between Mathematics (30) and Environmental Studies (30) &mdash; followed by a <strong>15-mark interview</strong> (CONFIRMED, per the official Guide to Admissions 2026-27). Class IX follows the same 85+15 shape, with Section II covering Mathematics (30) and Science (30), based on the NCERT Class VIII syllabus (CONFIRMED). The test runs <strong>2 hours, OMR-based, with no negative marking</strong> (CONFIRMED). If you know the paper&rsquo;s skeleton, here is exactly how to make it work for you.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Rule 1: Respect the Language Gate Before Anything Else</h2>
+
+<p>AMU has a rule most families discover too late: a candidate must score at least <strong>40% in Section I</strong> &mdash; that is, 10 out of 25 language questions &mdash; to even be called for the interview (CONFIRMED, official 2026-27 process). Your child can top Mathematics and EVS and still be out if the language section collapses.</p>
+
+<p>Toppers flip the standard exam-day habit. Instead of starting with their strongest subject, they attempt <strong>Section I first, in the first 30 minutes</strong>, while focus is fresh. Hindi-medium students especially benefit from the bridge work our <a href="/blog/amu-class-6-entrance-2027-syllabus-pattern-coaching-plan/">AMU Class 6 syllabus and coaching plan</a> describes &mdash; because the Urdu/Hindi MCQs are deceptively simple and the English ones are where marks quietly leak.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Rule 2: Run an 8-Week Paper Cycle, Not a Paper Pile</h2>
+
+<p>One paper per week for eight weeks beats eight papers in one panicked week. Here is the cycle our <a href="/coaching/amu-entrance/">AMU entrance batches</a> use:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Week</th><th class="py-3 px-4 border-b font-bold text-white text-left">What to solve</th><th class="py-3 px-4 border-b font-bold text-white text-left">How</th><th class="py-3 px-4 border-b font-bold text-white text-left">Goal</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">1&ndash;2</td><td class="py-3 px-4 border-b">2 papers, untimed</td><td class="py-3 px-4 border-b">Open-book allowed; note every gap</td><td class="py-3 px-4 border-b font-bold">Diagnostic &mdash; find the weak zones</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">3&ndash;4</td><td class="py-3 px-4 border-b">2 papers, section-wise</td><td class="py-3 px-4 border-b">Time each section separately (30/45/45 min)</td><td class="py-3 px-4 border-b font-bold">Fix the 40% language gate first</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5&ndash;6</td><td class="py-3 px-4 border-b">2 papers, full-length</td><td class="py-3 px-4 border-b">Strict 2 hours, OMR bubbling in batches of 10</td><td class="py-3 px-4 border-b font-bold">Exam-hall rhythm</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">7</td><td class="py-3 px-4 border-b">1 paper + interview practice</td><td class="py-3 px-4 border-b">Full paper, then 15-minute read-aloud Q&amp;A at home</td><td class="py-3 px-4 border-b font-bold">Secure the 15 interview marks</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">8</td><td class="py-3 px-4">1 paper, final</td><td class="py-3 px-4">Attempt only the error-log questions again</td><td class="py-3 px-4 font-bold">Confidence, not cramming</td></tr></tbody></table></div>
+
+<p>Start this cycle roughly 8&ndash;10 weeks before the test. The 2027 notification is not out yet (EXPECTED around November&ndash;December 2026 based on previous cycles), with the exam likely in March&ndash;April 2027 &mdash; so beginning papers in January gives a comfortable runway.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Rule 3: Keep a Three-Column Error Log</h2>
+
+<p>This is the single habit that separates toppers. After every paper, spend 45 minutes on three columns in a notebook:</p>
+
+<p><strong>1. Question reference</strong> &mdash; paper year and question number, so you can revisit it.<br>
+<strong>2. Error type</strong> &mdash; concept gap (didn&rsquo;t know the rule), silly error (misread, calculation slip), or OMR error (knew it, bubbled wrong).<br>
+<strong>3. Fix rule</strong> &mdash; one line in the child&rsquo;s own words, e.g. &ldquo;read the question twice before marking in Maths.&rdquo;</p>
+
+<p>Every Sunday, the child re-attempts only the error-log questions &mdash; never the whole paper. A log of 40 repeated fixes across eight weeks is worth more than 40 solved papers. For Mathematics specifically, the <a href="/blog/feynman-technique-amu-class-6-math/">Feynman-technique approach to AMU Class 6 maths</a> pairs well with this: if you cannot explain the fix rule simply, the concept is still shaky.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Rule 4: Hunt Themes, Not Answers</h2>
+
+<p>Exact questions rarely repeat, but <em>themes</em> do &mdash; especially in EVS and Science, which are drawn from the NCERT Class V and VIII books. Solve three years of papers and you will see the same territory revisited: the human body, plants, water and air, measurement, and light and shadow in Class VI EVS; motion, force, and basic chemistry in Class IX Science.</p>
+
+<p>The toppers&rsquo; move: after each paper, tag every EVS/Science question with its NCERT chapter. Within four papers you will have a shortlist of chapters that produce the most questions &mdash; that shortlist becomes the revision priority in the final fortnight. This is a study-priority method, not a shortcut, and it works because the syllabus boundary itself is fixed (Class V NCERT for Class VI, CONFIRMED).</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Rule 5: Treat the Interview Like a Third Section</h2>
+
+<p>The interview carries 15 marks, and a candidate needs at least 40% in it to be eligible for selection (CONFIRMED). Parents treat it as an afterthought; toppers treat it as a third paper. The language section of the written test tells you exactly what the interview tests: simple English/Hindi/Urdu comprehension, spoken confidence, and general awareness.</p>
+
+<p>A practical routine: from week 5 onwards, end every paper session with 15 minutes of read-aloud &mdash; the child reads a paragraph from the paper&rsquo;s English section aloud and answers two spoken questions about it. It feels small. It is worth up to 15 marks.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Honest Part: What Papers Cannot Do</h2>
+
+<p>Previous papers are a finishing tool, not a foundation. If NCERT concepts are missing, papers just measure the gap louder. Students moving from Class VI-level to Class IX-level papers face a genuinely different paper &mdash; EVS becomes Science, and the language section gets harder &mdash; which is why our <a href="/blog/amu-class-9-entrance-vs-class-6-bridge-course-plan/">Class 9 bridge plan</a> exists alongside this method.</p>
+
+<p>Also note the fine print: everything about the paper structure above is the <strong>confirmed 2026-cycle pattern</strong>; the 2027 notification has not been released, so treat the March&ndash;April 2027 window and the Nov&ndash;Dec 2026 notification window as EXPECTED, and check <strong>amucontrollerexams.ac.in</strong> &mdash; the Controller of Examinations&rsquo; official site &mdash; for the official notice when it appears.</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6">
+<p class="font-bold text-gray-900 mb-2">Want this method run for your child, week by week?</p>
+<p class="text-gray-700 mb-3">JGPS runs AMU/JMI entrance batches in Joya, Amroha with weekly timed papers, error-log reviews, and interview practice built into the timetable. Call <a href="tel:+919997161490" class="font-bold text-[#035c00]">+91 9997161490</a> to ask about the current batch and a free counselling session.</p>
+</div>
+`,
+    faqs: [{question: `How many AMU previous year papers should a Class 6 aspirant solve?`, answer: `Quality beats quantity: 6 to 8 papers worked deeply — first untimed for diagnosis, then section-wise timed, then full 2-hour OMR practice — is far more effective than 20 papers solved casually. Always pair each paper with the 45-minute error-log review described above.`}, {question: `Where can I find genuine AMU previous year papers?`, answer: `The official Controller of Examinations website (amucontrollerexams.ac.in) publishes the Guide to Admissions with the confirmed pattern and syllabus. Previous papers themselves are commonly compiled by coaching institutes and publishers — cross-check any set against the official 85+15 pattern and the NCERT Class V syllabus before trusting it.`}, {question: `Is there negative marking in the AMU school admission test?`, answer: `No. Per the official OMR instructions for the 2026 cycle, there is no negative marking in the written test — a wrong answer simply scores zero. This makes educated guessing rational in the final minutes.`}, {question: `Do questions repeat from previous year papers in the AMU entrance?`, answer: `Exact questions rarely repeat, but themes repeat consistently — especially in EVS and Science, which are bounded by the NCERT syllabus. Tag each paper's questions by NCERT chapter and you will find your highest-yield revision chapters within three or four papers.`}, {question: `When should full-length timed papers begin?`, answer: `About 8 to 10 weeks before the test. With the 2027 notification not yet released (expected November–December 2026) and the exam likely in March–April 2027, starting timed full papers in January 2027 gives a realistic, unhurried cycle.`}],
   }
 ];
 
