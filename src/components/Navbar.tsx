@@ -52,6 +52,7 @@ export default function Navbar() {
       label: 'Coaching',
       submenu: [
         { href: '/coaching', label: 'Coaching Home' },
+        { href: '/mock-test', label: 'Free Mock Test' },
         { href: '/coaching/amu-entrance', label: 'AMU Entrance' },
         { href: '/coaching/jmi-entrance', label: 'JMI Entrance' },
         { href: '/coaching/sainik-school', label: 'Sainik School' },
