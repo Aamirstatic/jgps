@@ -5487,6 +5487,90 @@ export const articles: Article[] = [  {
 </div>
 `,
     faqs: [{question: `How many AMU previous year papers should a Class 6 aspirant solve?`, answer: `Quality beats quantity: 6 to 8 papers worked deeply — first untimed for diagnosis, then section-wise timed, then full 2-hour OMR practice — is far more effective than 20 papers solved casually. Always pair each paper with the 45-minute error-log review described above.`}, {question: `Where can I find genuine AMU previous year papers?`, answer: `The official Controller of Examinations website (amucontrollerexams.ac.in) publishes the Guide to Admissions with the confirmed pattern and syllabus. Previous papers themselves are commonly compiled by coaching institutes and publishers — cross-check any set against the official 85+15 pattern and the NCERT Class V syllabus before trusting it.`}, {question: `Is there negative marking in the AMU school admission test?`, answer: `No. Per the official OMR instructions for the 2026 cycle, there is no negative marking in the written test — a wrong answer simply scores zero. This makes educated guessing rational in the final minutes.`}, {question: `Do questions repeat from previous year papers in the AMU entrance?`, answer: `Exact questions rarely repeat, but themes repeat consistently — especially in EVS and Science, which are bounded by the NCERT syllabus. Tag each paper's questions by NCERT chapter and you will find your highest-yield revision chapters within three or four papers.`}, {question: `When should full-length timed papers begin?`, answer: `About 8 to 10 weeks before the test. With the 2027 notification not yet released (expected November–December 2026) and the exam likely in March–April 2027, starting timed full papers in January 2027 gives a realistic, unhurried cycle.`}],
+  },
+  {
+    slug: 'amu-school-admission-age-limit-2027-eligibility',
+    title: 'AMU School Admission Age Limit 2027: Are You Eligible?',
+    description: 'AMU school admission age limit 2027 — class-wise age rules for Class I, VI and IX, DOB windows, the 31 March cut-off and qualifying-exam rules, verified.',
+    keywords: 'AMU school admission age limit, AMU Class 6 age limit 2027, AMU school eligibility, AMU admission age criteria',
+    date: '20 October 2026, 11:15 AM',
+    modifiedDate: 'October 20, 2026',
+    author: 'Neha Singh',
+    authorName: 'Neha Singh',
+    authorSlug: 'neha-singh',
+    authorRole: 'Study Habits Expert',
+    authorBio: 'Neha develops effective study schedules, pomodoro techniques, and active recall methods to help students retain information efficiently without burnout.',
+    readTime: '9 mins',
+    category: 'Admissions',
+    image: '/images/blog/amu-school-admission-age-limit-2027-eligibility.webp',
+    imageAlt: 'Mother helping her child study at home for school admission preparation',
+    content: `<h1>AMU School Admission Age Limit 2027: Are You Eligible?</h1>
+
+<p><em>Last verified: 20 October 2026 | Reading Time: 9 min | Author: Neha Singh</em></p>
+
+<p>Before you study a single chapter for the AMU school entrance test, there is one question that decides everything: is your child the right age? Aligarh Muslim University treats the age rule as a hard gate, not a guideline. If the date of birth falls even one day outside the prescribed window, the application is rejected, no matter how well the child scores in the written test. Parents discover this the painful way every year, usually after months of preparation.</p>
+
+<p>This guide lays out the class-wise age limits CONFIRMED from the university's admission guide, converts them into exact date-of-birth windows for the 2027-28 session, and flags the qualifying-exam rule that quietly disqualifies many otherwise eligible applicants.</p>
+
+<p><strong>A note on 2027 specifics:</strong> AMU had not released the 2027-28 school admission guide at the time of writing. The age bands, the 31 March cut-off, and the no-relaxation clause are CONFIRMED from the 2026-27 Guide to Admissions (Schools); the 2027-28 date-of-birth windows are EXPECTED projections on that same rule.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Class-Wise Age Limits: The Official Rule</h2>
+
+<p>AMU opens school admissions at three entry points — Class I, Class VI, and Class IX — and fixes a strict three-year age band for each, measured as of <strong>31 March of the admission year</strong>. The official guide states explicitly: no relaxation in age will be allowed.</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Class</th><th class="py-3 px-4 border-b font-bold text-white text-left">Age as on 31 March (CONFIRMED)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Eligible DOB, 2026-27 (CONFIRMED)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Projected DOB, 2027-28 (EXPECTED)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Selection</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Class I</td><td class="py-3 px-4 border-b font-bold">6 - 8 years</td><td class="py-3 px-4 border-b">1 Apr 2018 - 31 Mar 2020</td><td class="py-3 px-4 border-b">1 Apr 2019 - 31 Mar 2021</td><td class="py-3 px-4 border-b">Draw of lots</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Class VI</td><td class="py-3 px-4 border-b font-bold">10 - 12 years</td><td class="py-3 px-4 border-b">1 Apr 2014 - 31 Mar 2016</td><td class="py-3 px-4 border-b">1 Apr 2015 - 31 Mar 2017</td><td class="py-3 px-4 border-b">Written test (85) + interview (15)</td></tr><tr><td class="py-3 px-4 font-medium text-gray-900">Class IX</td><td class="py-3 px-4 font-bold">13 - 15 years</td><td class="py-3 px-4">1 Apr 2011 - 31 Mar 2013</td><td class="py-3 px-4">1 Apr 2012 - 31 Mar 2014</td><td class="py-3 px-4">Written test (85) + interview (15)</td></tr></tbody></table></div>
+
+<p>The upper bound is exact: a Class VI applicant born on 31 March 2014 turns 13 on the 2026-27 cut-off and is outside the band, while one born on 1 April 2014 is safely inside. And the rule is identical across every AMU school, medium, and gender — the band never changes.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How to Check Your Child's Eligibility in 30 Seconds</h2>
+
+<p>Take the birth certificate and work through this:</p>
+
+<ol class="list-decimal list-inside space-y-2 my-4 text-gray-800">
+<li>Write down the admission year: <strong>2027</strong> (for the 2027-28 session).</li>
+<li>Write down the cut-off date: <strong>31 March 2027</strong>.</li>
+<li>Calculate the child's exact age on that date — not "turning", not "about".</li>
+<li>Match it to the band: 6-8 for Class I, 10-12 for Class VI, 13-15 for Class IX.</li>
+<li>Cross-check the date of birth against the projected window in the table above.</li>
+<li>Now confirm the qualifying-exam rule in the next section — age alone is not enough.</li>
+</ol>
+
+<p>Two quick examples for 2027-28. A child born <strong>15 June 2015</strong> will be 11 years 9 months on 31 March 2027 — inside the 10-12 band, eligible for Class VI. A child born <strong>31 March 2014</strong> turns exactly 13 on the cut-off — outside the band, ineligible, with no appeal. One day, one year of waiting.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Qualifying-Exam Rule Many Parents Miss</h2>
+
+<p>Age gets you through the gate; the qualifying exam keeps you inside it. For Class VI, the child must have passed Class V from a school registered and recognized by a competent government authority, or affiliated to an approved public examination board. For Class IX, the requirement is Class VIII from a recognized or affiliated school. Two details parents routinely overlook:</p>
+
+<p><strong>The affiliation number must appear on the mark sheet.</strong> AMU requires the school's registration, recognition, or affiliation number to be clearly mentioned on the qualifying examination's mark sheet or certificate. Applicants from small unregistered private schools hit a wall here at document verification.</p>
+
+<p><strong>The test syllabus is NCERT-based.</strong> The admission test for Classes VI and IX follows the CBSE/NCERT curriculum of the previous class, with the paper offered in English, Hindi, and Urdu. A UP-board child is fully eligible — but should prepare from NCERT books. Our <a href="/blog/amu-class-6-entrance-2027-syllabus-pattern-coaching-plan/" class="text-[#035c00] underline">Class 6 entrance pattern guide</a> breaks down how that paper is structured, and the <a href="/blog/amu-entrance-previous-year-papers-toppers-strategy/" class="text-[#035c00] underline">toppers' paper strategy</a> shows how to use previous-year papers once eligibility is confirmed.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Class XI (Senior Secondary) Follows a Different Rule</h2>
+
+<p>Parents often mix up the school bands with the Class XI rule — and they are completely different processes. Admission to AMU's Senior Secondary schools (Class XI, Science stream) runs under the university's main Guide to Admissions: the candidate must have passed the Secondary School Certificate with at least <strong>45% aggregate in English, Science (including Life Sciences), and Mathematics taken together</strong>, with English, Maths, and Science passed individually. The age limit is <strong>not more than 19 years as on 1 July</strong> of the admission year.</p>
+
+<p>Note the different cut-off date — <strong>1 July, not 31 March</strong>. Do not apply the school bands to Class XI, and do not apply the 19-year cap to Classes I, VI, or IX. They are separate rulebooks.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">5 Mistakes That Get AMU Applications Rejected</h2>
+
+<div class="bg-amber-50 border border-amber-200 rounded-xl p-5 my-6">
+<ul class="space-y-3 text-gray-800">
+<li><strong>1. Counting age "in the admission year" instead of on 31 March.</strong> The date is exact. A child who is the right age in April but not on 31 March is out.</li>
+<li><strong>2. Assuming age relaxation exists.</strong> The schools guide says no relaxation in age will be allowed. Do not assume a category or disability relaxation carries over to school admissions.</li>
+<li><strong>3. DOB mismatch across documents.</strong> The date of birth on the application must exactly match the birth certificate and school records. Mismatches stall or cancel the admission at verification.</li>
+<li><strong>4. Ignoring the school-recognition rule.</strong> Especially for Class VI applicants from small private schools — check that the affiliation number is printed on the mark sheet.</li>
+<li><strong>5. Using the wrong rulebook for Class XI.</strong> The 31 March bands are for Classes I, VI, and IX only. Class XI uses 1 July and a 19-year cap.</li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What If Your Child Just Misses the Cut-Off?</h2>
+
+<p>If the date of birth falls outside the band, there is no appeal — but the year is not wasted. If the child is too young, applying next year with a full extra year of structured preparation is a genuine advantage: the same NCERT syllabus covered twice, plus a year of maturity, beats a rushed first attempt. If too old for the AMU band, the preparation transfers directly — JMI, Navodaya (JNVST has its own Class VI age band), and Sainik School Class VI all reward the same NCERT-based foundation. Run the numbers on our <a href="/entrance-eligibility-checker/" class="text-[#035c00] underline">entrance eligibility checker</a> and compare options in the <a href="/blog/amu-vs-jmi-2027-complete-comparison/" class="text-[#035c00] underline">AMU vs JMI 2027 comparison</a>.</p>
+
+<p><strong>Sources:</strong> AMU Guide to Admissions (Schools) 2026-27 (via amuform.com, school.careers360.com, aubsp.com); AMU Guide to Admissions 2026-27, Senior Secondary section (university.careers360.com). 2027-28 figures are projections pending the new guide.</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Checking AMU Eligibility for 2027?</h3><p>JGPS Joya runs dedicated AMU/JMI entrance coaching batches for Class 5 and Class 8 students, with weekly tests and interview training. If your child is eligible, start preparation early — call <strong>+91 9997161490</strong> for a free counselling session.</p></div>`,
+    faqs: [{question: `What is the age limit for AMU Class 6 admission 2027?`, answer: `10 to 12 years as on 31 March 2027. That means a date of birth between 1 April 2015 and 31 March 2017 (EXPECTED projection from the CONFIRMED 2026-27 rule). The child must also have passed Class V from a recognized school.`}, {question: `What is the age limit for AMU Class 9 admission?`, answer: `13 to 15 years as on 31 March of the admission year — for 2027-28, a date of birth between 1 April 2012 and 31 March 2014 (EXPECTED). The child must have passed Class VIII from a recognized or affiliated school.`}, {question: `Is there any age relaxation for OBC, SC/ST, or PwD candidates in AMU school admissions?`, answer: `No. The AMU Guide to Admissions (Schools) states that no relaxation in age will be allowed for Classes I, VI, and IX. Do not assume any category-based relaxation applies to school admissions.`}, {question: `Which documents prove my child's age for AMU admission?`, answer: `AMU verifies the date of birth against your documents at admission. Keep the birth certificate and the previous class mark sheet ready, and make sure the date of birth matches exactly on both — mismatches stall or cancel the admission. The school's registration or affiliation number must also be printed on the qualifying mark sheet.`}, {question: `What is the age limit for AMU Class 1 admission?`, answer: `6 to 8 years as on 31 March of the admission year — for 2027-28, a date of birth between 1 April 2019 and 31 March 2021 (EXPECTED). Class I admission is through a draw of lots, not a written test.`}, {question: `When will the AMU 2027-28 school admission guide be released?`, answer: `It had not been released as of 20 October 2026 (CONFIRMED). The official portal is amucontrollerexams.com — check there directly rather than relying on coaching websites, several of which publish placeholder dates.`}],
   }
 ];
 
