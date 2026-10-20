@@ -5571,6 +5571,72 @@ export const articles: Article[] = [  {
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Checking AMU Eligibility for 2027?</h3><p>JGPS Joya runs dedicated AMU/JMI entrance coaching batches for Class 5 and Class 8 students, with weekly tests and interview training. If your child is eligible, start preparation early — call <strong>+91 9997161490</strong> for a free counselling session.</p></div>`,
     faqs: [{question: `What is the age limit for AMU Class 6 admission 2027?`, answer: `10 to 12 years as on 31 March 2027. That means a date of birth between 1 April 2015 and 31 March 2017 (EXPECTED projection from the CONFIRMED 2026-27 rule). The child must also have passed Class V from a recognized school.`}, {question: `What is the age limit for AMU Class 9 admission?`, answer: `13 to 15 years as on 31 March of the admission year — for 2027-28, a date of birth between 1 April 2012 and 31 March 2014 (EXPECTED). The child must have passed Class VIII from a recognized or affiliated school.`}, {question: `Is there any age relaxation for OBC, SC/ST, or PwD candidates in AMU school admissions?`, answer: `No. The AMU Guide to Admissions (Schools) states that no relaxation in age will be allowed for Classes I, VI, and IX. Do not assume any category-based relaxation applies to school admissions.`}, {question: `Which documents prove my child's age for AMU admission?`, answer: `AMU verifies the date of birth against your documents at admission. Keep the birth certificate and the previous class mark sheet ready, and make sure the date of birth matches exactly on both — mismatches stall or cancel the admission. The school's registration or affiliation number must also be printed on the qualifying mark sheet.`}, {question: `What is the age limit for AMU Class 1 admission?`, answer: `6 to 8 years as on 31 March of the admission year — for 2027-28, a date of birth between 1 April 2019 and 31 March 2021 (EXPECTED). Class I admission is through a draw of lots, not a written test.`}, {question: `When will the AMU 2027-28 school admission guide be released?`, answer: `It had not been released as of 20 October 2026 (CONFIRMED). The official portal is amucontrollerexams.com — check there directly rather than relying on coaching websites, several of which publish placeholder dates.`}],
+  },
+  {
+    slug: 'amu-entrance-maths-6-topics-decide-selection',
+    title: 'AMU Entrance Maths: The 6 Topics That Decide Selection',
+    description: 'Maths is 30 of the 85 written marks in the AMU Class 6 entrance. Our coaching team lists the 6 Class-5 NCERT topics to prioritize — and how to drill each.',
+    keywords: 'AMU entrance maths important topics',
+    date: '20 October 2026, 02:15 PM',
+    modifiedDate: 'October 20, 2026',
+    author: 'Amit Kumar',
+    authorName: 'Amit Kumar',
+    authorSlug: 'amit-kumar',
+    authorRole: 'Entrance Exam Specialist',
+    authorBio: 'With a 90% success rate, Amit sir breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.',
+    readTime: '8 mins',
+    category: 'Coaching',
+    image: '/images/blog/amu-entrance-maths-6-topics-decide-selection.webp',
+    imageAlt: 'Student practicing maths formulas for AMU Class 6 entrance exam preparation',
+    content: `<h1>AMU Entrance Maths: The 6 Topics That Decide Selection</h1>
+<p><em>Last verified: 20 October 2026 | Reading Time: 8 min | Author: Amit Kumar</em></p>
+<p>In the AMU Class 6 entrance test, Mathematics carries <strong>30 of the 85 written marks</strong> — the single biggest scoring block in the paper (CONFIRMED: Section-II has 60 MCQs, split 30 for Maths and 30 for Environmental Studies; Section-I has 25 language MCQs; interview carries 15 marks). A candidate also needs at least 40% in Section-I just to become eligible for the interview, and 40% in the interview to be selected. The entire syllabus is the Class V CBSE/NCERT curriculum, and the test is a 2-hour pen-and-paper OMR paper.</p>
+<p>Every year, coaches notice the same thing: the gap between a selected and a waitlisted student almost always sits inside those 30 maths questions. Languages are a qualifying barrier, EVS is memory-heavy with limited upside, but maths has the widest score spread — a well-drilled student can realistically convert 25-plus of the 30, while an unprepared one drops to 12. That swing of 13 marks is often the whole merit-list difference. This article lays out exactly how our coaching batch prioritizes the maths syllabus, so your child's effort goes where the marks are.</p>
+<h2 class='text-2xl font-bold text-gray-900 mt-10 mb-4'>An honest note on weightage before we begin</h2>
+<p>AMU does not publish any topic-wise weightage for its school entrance tests. So if any website gives you exact numbers like "7 questions always come from fractions," treat that as guesswork. What follows is <strong>not</strong> a claimed AMU weightage chart — it is the priority order our coaching team uses to distribute preparation time across the Class 5 NCERT maths syllabus, built from solving and discussing previous-year papers with students year after year. That distinction matters, because it is the only honest basis for a study plan.</p>
+<h2 class='text-2xl font-bold text-gray-900 mt-10 mb-4'>The 6 priority zones</h2>
+<p>Here are the six zones, in the order we teach them, with the NCERT Class 5 chapters each maps to and the drill we run for each:</p>
+<table>
+<thead><tr><th>Priority zone</th><th>NCERT Class 5 chapters</th><th>Why it pays</th><th>How we drill it</th></tr></thead>
+<tbody>
+<tr><td><strong>1. Multiplication &amp; division word problems</strong></td><td>Ways to Multiply and Divide</td><td>Word problems test reading plus computation together — the exact skill the OMR paper rewards.</td><td>15 word problems a day; students must write the operation chosen <em>before</em> computing.</td></tr>
+<tr><td><strong>2. Factors &amp; multiples</strong></td><td>Be My Multiple, I'll be Your Factor</td><td>HCF/LCM and divisibility questions are quick marks once the method is automatic.</td><td>Timed 20-question sets; target under 40 seconds per question.</td></tr>
+<tr><td><strong>3. Fractions &amp; decimals</strong></td><td>Parts and Wholes; Tenths and Hundredths</td><td>The classic Class 5 stumbling block — and therefore the classic selection filter.</td><td>Visual-first teaching (paper folding, number lines) before any formula; conversion drills daily.</td></tr>
+<tr><td><strong>4. Geometry: shapes, angles, area &amp; perimeter</strong></td><td>Shapes and Angles; Area and Its Boundary; Boxes and Sketches</td><td>Diagram-based questions are scoring for students who have actually handled the shapes.</td><td>Draw-every-question rule: no geometry answer without a sketch, even in rough work.</td></tr>
+<tr><td><strong>5. Measurement: length, weight, volume</strong></td><td>How Big? How Heavy?</td><td>Unit-conversion traps decide 2–3 marks almost every year by our reading of past papers.</td><td>Conversion ladders pasted on the study wall; one 10-question conversion quiz each week.</td></tr>
+<tr><td><strong>6. Patterns &amp; data handling</strong></td><td>Can You See the Pattern?; Smart Charts</td><td>Small chapter, but the questions are nearly free marks for a prepared student.</td><td>Bar-graph and pattern puzzles as warm-up starters in every batch session.</td></tr>
+</tbody>
+</table>
+<p>Notice the sequencing logic: zones 1 and 2 build raw number sense first. Fractions (zone 3) then land on solid ground instead of confusion. Measurement (zone 5) is placed right after fractions because decimals and unit conversions share the same place-value thinking. Geometry and patterns come last, when the student's confidence is high enough to enjoy them.</p>
+<h2 class='text-2xl font-bold text-gray-900 mt-10 mb-4'>How our batch sequences these six over 12 weeks</h2>
+<p>This is the actual weekly structure we follow in our <a href='/coaching/amu-entrance'>AMU entrance coaching batch</a>, and parents can mirror it at home:</p>
+<ul>
+<li><strong>Weeks 1–4 (foundation):</strong> zones 1 and 2 only. Speed with multiplication, division, factors and multiples. No new chapter until 20-question drills cross 85% accuracy.</li>
+<li><strong>Weeks 5–8 (core):</strong> zones 3 and 5 — fractions, decimals and measurement together, since they share place-value logic. This is where most students' scores jump.</li>
+<li><strong>Weeks 9–10 (application):</strong> zone 4 geometry with the draw-every-question rule, plus zone 6 patterns as daily warm-ups.</li>
+<li><strong>Weeks 11–12 (exam mode):</strong> full 30-question timed maths sets under the 2-hour-paper rhythm, an <a href='/blog/amu-entrance-previous-year-papers-toppers-strategy'>error log maintained exactly like our toppers do</a>, and two full previous-year papers.</li>
+</ul>
+<p>If you are starting late, do not compress the sequence — shorten it. Ten well-drilled days on zones 1 and 2 beat a rushed tour of all six. Selection rewards depth, not coverage.</p>
+<h2 class='text-2xl font-bold text-gray-900 mt-10 mb-4'>Three mistakes that silently cost 6–8 marks</h2>
+<p><strong>1. Unit-conversion slips.</strong> The child knows the method but writes the answer in cm instead of m, or forgets kg-to-g. Our fix: circle the unit in the question before solving — a 2-second habit that saves 2–3 marks.</p>
+<p><strong>2. Answering the wrong question.</strong> Word problems often ask for the remainder, the difference, or the total <em>after</em> an operation. Students compute correctly and then pick the intermediate value. Our fix: underline what is being asked, then re-read it after solving.</p>
+<p><strong>3. Skipping revision loops.</strong> Maths is a forgetting curve subject. Topics finished in week 2 fade by week 10 without spaced recall. Our fix: every Sunday, 30 mixed questions from all finished zones — no exceptions. The <a href='/blog/amu-class-6-entrance-2027-syllabus-pattern-coaching-plan'>coaching plan in our syllabus guide</a> shows how this fits the overall AMU preparation calendar.</p>
+<h2 class='text-2xl font-bold text-gray-900 mt-10 mb-4'>The weekly maths drill checklist (print this)</h2>
+<ul>
+<li>☐ Five 20-minute calculation sprints (one per weekday) — multiplication, division, fractions</li>
+<li>☐ One timed 30-question mixed set per week, marked strictly against the key</li>
+<li>☐ Error log: every wrong answer rewritten correctly within 48 hours, with the reason noted</li>
+<li>☐ One 10-question unit-conversion quiz per week (zone 5 is where careless marks leak)</li>
+<li>☐ One full previous-year maths section per fortnight in the final 6 weeks</li>
+<li>☐ Sunday 30-question mixed revision from all finished zones — never skipped</li>
+</ul>
+<p>A note for parents checking <a href='/blog/amu-school-admission-age-limit-2027-eligibility'>whether their child is eligible for the 2027 cycle</a>: if the age window fits, the maths preparation above can begin immediately on the Class 5 NCERT book — no waiting for the official notification, because the syllabus is already confirmed as Class V CBSE/NCERT.</p>
+<div class='bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-6 mt-10'>
+<p class='text-lg font-bold text-gray-900 mb-2'>Want this plan taught, not just read?</p>
+<p class='text-gray-700 mb-4'>Our AMU entrance coaching batch in Joya (Amroha) runs this exact 12-week maths sequence with timed drills, error logs and previous-year papers. Call <a href='tel:+919997161490' class='font-bold text-[#035c00]'>+91 9997161490</a> for batch timings and a free counselling session.</p>
+<a href='/admission' class='inline-block bg-[#035c00] text-white font-semibold px-6 py-3 rounded-lg'>Enquire About Admission</a>
+</div>`,
+    faqs: [{question: `How many maths questions are there in the AMU Class 6 entrance test?`, answer: `Section-II of the written test has 60 MCQs: 30 for Mathematics (30 marks) and 30 for Environmental Studies (30 marks). Section-I has 25 language MCQs and the interview carries 15 marks (CONFIRMED).`}, {question: `What is the official syllabus for AMU Class 6 entrance maths?`, answer: `The test paper syllabus is the same as prescribed for Class V by CBSE/NCERT and followed in AMU University Schools (CONFIRMED). So the Class 5 NCERT maths book is the official syllabus — no extra chapters needed.`}, {question: `Is there negative marking in the AMU school entrance test?`, answer: `Most paper-breakdown pages report no negative marking, but AMU has not published a 2027 Guide to Admissions yet. Treat the official notification as the final word and avoid guessing-based strategies until it is out (EXPECTED).`}, {question: `What is the minimum score needed in the maths section?`, answer: `There is no separately published per-section minimum for the maths section. What is confirmed: a candidate must score at least 40% in Section-I (languages) to be eligible for the interview, and at least 40% in the interview itself to be selected.`}, {question: `When will the AMU School 2027 admission process start?`, answer: `The 2027 cycle has not been officially notified yet. Based on previous cycles, the notification and application window are expected around November–December 2026, with the test likely in March–April 2027 (EXPECTED). Preparation on the Class 5 syllabus can start right away.`}],
   }
 ];
 
