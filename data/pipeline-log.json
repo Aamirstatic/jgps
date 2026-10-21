@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 9,
+  "blog_topic_cursor": 10,
   "entries": [
     {
       "topic_id": 1,
@@ -63,6 +63,13 @@
       "title": "AMU Entrance Form 2027: Documents Checklist Before You Apply",
       "date": "2026-10-21",
       "slot": "afternoon"
+    },
+    {
+      "topic_id": 10,
+      "slug": "day-scholar-vs-residential-amu-prep-decision",
+      "title": "Day Scholar + Evening Coaching vs Residential: The AMU Prep Decision for Parents",
+      "date": "2026-10-21",
+      "slot": "evening"
     }
   ]
 }
