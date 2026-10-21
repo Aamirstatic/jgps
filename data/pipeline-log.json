@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 7,
+  "blog_topic_cursor": 8,
   "entries": [
     {
       "topic_id": 1,
@@ -49,6 +49,13 @@
       "title": "AMU vs JMI School Entrance: Which Should Your Child Target?",
       "date": "2026-10-21",
       "slot": "morning"
+    },
+    {
+      "topic_id": 8,
+      "slug": "amu-entrance-english-comprehension-hindi-medium-strategy",
+      "title": "AMU Entrance English: Comprehension Strategy for Hindi-Medium Students",
+      "date": "2026-10-21",
+      "slot": "latenoon"
     }
   ]
 }
