@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 6,
+  "blog_topic_cursor": 7,
   "entries": [
     {
       "topic_id": 1,
@@ -42,6 +42,13 @@
       "title": "How JGPS Structures Its AMU/JMI Coaching Batches: A Parent's Walkthrough",
       "date": "2026-10-20",
       "slot": "evening"
+    },
+    {
+      "topic_id": 7,
+      "slug": "amu-vs-jmi-school-entrance-which-to-target",
+      "title": "AMU vs JMI School Entrance: Which Should Your Child Target?",
+      "date": "2026-10-21",
+      "slot": "morning"
     }
   ]
 }
