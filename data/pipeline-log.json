@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 10,
+  "blog_topic_cursor": 11,
   "entries": [
     {
       "topic_id": 1,
@@ -70,6 +70,13 @@
       "title": "Day Scholar + Evening Coaching vs Residential: The AMU Prep Decision for Parents",
       "date": "2026-10-21",
       "slot": "evening"
+    },
+    {
+      "topic_id": 11,
+      "slug": "amu-class-11-entrance-science-diploma-after-class-10",
+      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce — or a Diploma? The After-Class-10 Route Map",
+      "date": "2026-10-22",
+      "slot": "morning"
     }
   ]
 }
