@@ -6138,6 +6138,85 @@ export const articles: Article[] = [  {
 <p class="text-gray-700 mb-4">JGPS runs dedicated AMU entrance coaching batches from Joya, Amroha — written-test preparation, mock interviews, and interview-readiness drills built into the weekly schedule. Call or WhatsApp us on <a href="tel:+919997161490" class="font-semibold text-[#035c00]">+91 9997161490</a> to book a free counselling session and see how the 15 interview marks fit into your child's plan.</p>
 </div>`,
     faqs: [{question: `Is there an interview after the AMU school admission written test?`, answer: `Yes, for Class 6 and Class 9 admissions. AMU's selection process has two stages: a written admission test of 85 marks and an interview of 15 marks. Class 1 admission is through a draw of lots with no test or interview. (Confirmed for the 2026-27 cycle; the 2027-28 cycle rules will be confirmed in the official Guide to Admissions.)`}, {question: `How many marks do I need in the AMU interview to qualify?`, answer: `You need at least 40% of the 15 interview marks — i.e. 6 marks — to be eligible for final selection. Separately, you need at least 40% in Section I (languages) of the written test just to be called for the interview.`}, {question: `Does AMU conduct a group discussion (GD) for school admissions?`, answer: `No. The post-written stage for AMU school admissions is an interview — a face-to-face interaction with a panel. There is no group discussion stage.`}, {question: `What is asked in the AMU school admission interview?`, answer: `AMU does not publish an official interview syllabus, but panels typically assess communication in the child's language, basics of the written-test subjects, age-appropriate general awareness, and confidence and conduct.`}, {question: `What happens after the AMU interview?`, answer: `AMU prepares a final merit list combining written (85) and interview (15) marks, applying reservation rules. Shortlisted candidates go through counselling, physical reporting and document verification (birth certificate, mark sheet, transfer certificate, parents' ID) before admission is confirmed.`}, {question: `What are the written test details for AMU Class 9 admission?`, answer: `For the 2026-27 cycle: an 85-mark objective (MCQ) paper in 2 hours with no negative marking — Section I languages 25 marks (English, Hindi, Urdu) and Section II maths 25, science 25, social science 10 marks.`}],
+  },
+  {
+    slug: 'amu-entrance-preparation-mistakes-coaches-see-yearly',
+    title: 'Common Mistakes in AMU Entrance Preparation (Coaches See These Yearly)',
+    description: 'Coaches in Amroha see the same 8 AMU entrance prep mistakes every year: blank answers from negative-marking fear, ignored languages, no error log. Fixes included.',
+    keywords: 'AMU entrance preparation mistakes, AMU school admission tips, AMU Class 6 entrance strategy, common mistakes AMU entrance',
+    date: '22 October 2026, 06:15 PM',
+    modifiedDate: 'October 22, 2026',
+    author: 'Amit Kumar',
+    authorName: 'Amit Kumar',
+    authorSlug: 'amit-kumar',
+    authorRole: 'Entrance Exam Specialist',
+    authorBio: 'With a 90% success rate, Amit sir breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.',
+    readTime: '9 mins',
+    category: 'Coaching',
+    image: '/images/blog/amu-entrance-preparation-mistakes-coaches-see-yearly.webp',
+    imageAlt: 'Students practising in an AMU entrance coaching classroom in Amroha',
+    content: `<h1>Common Mistakes in AMU Entrance Preparation (Coaches See These Yearly)</h1>
+<p><em>Last verified: 22 October 2026 | Reading Time: 9 min | Author: Amit Kumar</em></p>
+<p>Every year, as AMU school entrance batches fill up, the same pattern repeats. The students who miss selection are rarely the ones who "didn't study enough." More often, they are students who worked hard all year — but prepared the wrong way. After years of running entrance batches in Amroha for AMU's Class 6 and Class 9 admission tests, certain mistakes have become so predictable that we spot them in the first week of coaching. Every one is fixable, and most fixes cost nothing.</p>
+<p>This is that list — the eight mistakes, why each hurts, and what to do instead — written for parents targeting the 2027 cycle. Note that AMU had not yet released the official School Admissions 2027 notification as of our last check (<strong>CONFIRMED</strong> — 12 September 2026); the 2027 registration is <strong>EXPECTED</strong> around November–December 2026 based on previous cycles. The pattern facts below are from AMU's recent cycles; confirm the 2027 details in the official Guide to Admissions on <a href="https://www.amucontrollerexams.com">amucontrollerexams.com</a> once it is out.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 1: Waiting for the Notification to Start</h2>
+<p>The single most common mistake. Parents hear "notification expected in November" and translate it into "we will start in November." In recent cycles the test has been held in March–April, leaving barely four months between notification and exam (<strong>EXPECTED</strong> for 2027). Four months cannot build two years of concepts, speed, and paper temperament.</p>
+<p><strong>The fix:</strong> Treat the notification as a formality, not a starting gun. Preparation should already be underway on the Class 5 NCERT syllabus — the written test in recent cycles has been based on the previous class's CBSE/NCERT curriculum (<strong>CONFIRMED</strong> from recent-cycle patterns). If the child is already working through NCERT Maths and English now, the notification changes nothing except the exam date.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 2: Ignoring the Languages Section</h2>
+<p>In recent cycles for Classes 6 and 9, Section I covered languages — English, Hindi and Urdu — worth 25 of 85 marks (<strong>CONFIRMED</strong> from 2026-cycle pattern reports; 2027 <strong>EXPECTED</strong> similar). Yet most students spend 90% of prep time on Maths and Science, and we routinely see children lose 10–12 easy marks here.</p>
+<p><strong>The fix:</strong> Allocate a fixed weekly slot — even one hour — to language practice: comprehension passages, grammar, and vocabulary. It is the cheapest section to improve in, and improvement shows up fastest in mock scores.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 3: Solving Papers Without an Error Log</h2>
+<p>Solving ten papers feels productive, but students often repeat the same weaknesses and stay stuck in the same score band for months. The paper is not the teacher; the analysis after it is.</p>
+<p><strong>The fix:</strong> After every timed attempt, spend at least 30 minutes logging each error: concept gap, silly mistake, time pressure, or misread question. Review the log weekly — this is the method toppers use, detailed in our guide on <a href="https://jgps.in/blog/amu-entrance-previous-year-papers-toppers-strategy/">how toppers use AMU previous year papers</a>. One paper with honest analysis beats five papers without it.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 4: Never Practising Under Real Exam Conditions</h2>
+<p>The AMU test for Classes 6 and 9 is an OMR-based, 2-hour offline paper with 85 questions in the written test (<strong>CONFIRMED</strong> from recent cycles; a 15-mark interview stage also feeds the final merit). Students who have only solved chapter-wise questions at home discover three new enemies in the hall: the clock, the OMR sheet, and 85 back-to-back questions.</p>
+<p><strong>The fix:</strong> From at least three months out, take one full-length mock per week under strict exam conditions — same duration, no breaks, answers marked on a practice OMR sheet. The first few will be uncomfortable; that discomfort belongs in practice, not on exam day.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 5: Leaving Questions Blank Because of "Negative Marking Fear"</h2>
+<p>This one is painful because it rests on a myth: there is <strong>no negative marking</strong> in the AMU school admission test (<strong>CONFIRMED</strong> across recent-cycle sources), and each correct answer carries one mark. Yet students leave 8–10 questions blank "just to be safe" — questions they could have attempted.</p>
+<p><strong>The fix:</strong> Teach the child a simple two-pass strategy. Pass one: answer everything you know confidently. Pass two: use the remaining time on the skipped questions — eliminate obviously wrong options and mark the best answer. With no negative marking, an educated guess is strictly better than a blank.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 6: Studying the Wrong Class's Syllabus</h2>
+<p>A Class 5 student preparing for Class 6 buys Class 6 books and starts solving them. It looks ambitious; it is counterproductive. The test is built on the current class's syllabus — the previous class's NCERT foundation (<strong>CONFIRMED</strong> from recent cycles). Gaps in Class 5 concepts sink students, not missing Class 6 topics.</p>
+<p><strong>The fix:</strong> Master the current class's NCERT first, then add entrance-level practice on top. Our <a href="https://jgps.in/blog/amu-entrance-maths-6-topics-decide-selection/">AMU entrance Maths guide</a> shows how the six deciding topics are all rooted in Classes 4–5 fundamentals.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 7: The Last-Month Cramming Sprint</h2>
+<p>Families that start late compress a year of preparation into the final 4–6 weeks: long study days, no play, cut sleep. For a 10–12 year old, this reliably produces burnout, not retention — mock scores plateau or drop in the final fortnight.</p>
+<p><strong>The fix:</strong> A steady, realistic routine beats heroic sprints. 60–90 focused minutes a day, started early, compounds enormously. We worked out a burnout-proof weekly plan in <a href="https://jgps.in/blog/class-5-study-hours-amu-entrance-realistic-timetable/">our Class 5 study-hours timetable</a>. In the final month, the job is revision and mocks, not new chapters.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistake 8: Parents Becoming the Second Examiner</h2>
+<p>The child takes a mock, the parent checks every answer, and the evening becomes a post-mortem. Or scores get compared with a neighbour's child. Within weeks, the child associates studying with judgment and starts hiding low scores — destroying the error-log process that drives improvement.</p>
+<p><strong>The fix:</strong> Let the coach own the academic feedback; let the parent own the environment — sleep, food, routine, encouragement. Ask "what did you learn from this mock?" instead of "how many marks?" A calm home is worth more marks than any extra worksheet.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The 8-Mistake Self-Audit: Check Your Child's Prep</h2>
+<p>Run through this table with your child this week. Every "yes" in the symptom column is a fix you can start tomorrow — most cost nothing.</p>
+<table>
+<thead><tr><th>Mistake</th><th>Symptom to check</th><th>Fix to start this week</th></tr></thead>
+<tbody>
+<tr><td>Waiting for the notification</td><td>Prep hasn't started; "we'll begin after the form comes"</td><td>Start NCERT Class 5 syllabus work now; the notification only sets the date</td></tr>
+<tr><td>Ignoring languages</td><td>No weekly English/Hindi/Urdu practice on the timetable</td><td>Add one fixed language hour per week; comprehension + grammar</td></tr>
+<tr><td>No error log</td><td>Mocks solved but scores stuck in the same band</td><td>30-minute analysis after every mock; maintain a written error log</td></tr>
+<tr><td>No real-condition practice</td><td>Never attempted a full 2-hour paper on an OMR sheet</td><td>One full mock per week, timed, on a practice OMR sheet</td></tr>
+<tr><td>Blank answers from fear</td><td>Child leaves questions unanswered "to be safe"</td><td>Two-pass strategy; remember there is no negative marking</td></tr>
+<tr><td>Wrong-class syllabus</td><td>Studying Class 6 books while Class 5 basics are shaky</td><td>Master current-class NCERT first, then add entrance-level practice</td></tr>
+<tr><td>Last-month cramming</td><td>Study hours suddenly spiking; sleep and play cut</td><td>Steady daily routine early; final month reserved for revision only</td></tr>
+<tr><td>Parental pressure</td><td>Child hides low mock scores or dreads study time</td><td>Parent owns the environment, coach owns the feedback</td></tr>
+</tbody>
+</table>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The JGPS Perspective</h2>
+<p>At <a href="https://jgps.in">JGPS, Joya (Amroha)</a>, our AMU entrance batches are built to kill these mistakes: weekly full-length OMR mocks, a maintained error log for every student, language sections taught alongside Maths and Science, and parent meetings that report learning — not just marks. See our <a href="https://jgps.in/blog/jgps-amu-jmi-coaching-batches-parents-walkthrough/">parent's walkthrough of JGPS coaching batches</a>, and <a href="https://jgps.in/blog/amu-vs-jmi-school-entrance-which-to-target/">our AMU vs JMI comparison</a> if your child is considering both.</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-6 my-8">
+<p class="font-bold text-lg mb-2">Is your child's AMU preparation on the right track?</p>
+<p>Bring your child's last mock test or report card to JGPS, Joya — our entrance coaches will audit it against these eight mistakes and suggest a fix plan, free. Call or WhatsApp <a href="https://wa.me/919997161490" class="font-bold">+91 9997161490</a>, or explore our <a href="https://jgps.in/coaching/amu-entrance/">AMU entrance coaching programme</a>.</p>
+</div>
+`,
+    faqs: [{question: `When should my child start preparing for the AMU Class 6 entrance 2027?`, answer: `Start now, on the Class 5 NCERT syllabus. The 2027 notification had not been released as of September 2026 and is expected around November-December 2026 based on previous cycles, with the exam likely in March-April 2027. The notification only sets the date - preparation on NCERT fundamentals should already be underway.`}, {question: `Is there negative marking in the AMU school entrance test?`, answer: `No. The AMU school admission test for Classes 6 and 9 has no negative marking in recent cycles - each correct answer carries one mark. Leaving questions blank out of fear therefore costs marks; students should attempt every question, ideally with a two-pass strategy.`}, {question: `What is the pattern of the AMU school entrance exam for Class 6 and 9?`, answer: `In recent cycles, the written test was an OMR-based, 2-hour offline paper. Section I covered languages (English, Hindi, Urdu - 25 marks), and Section II covered Mathematics, Science and Social Science (60 marks), for 85 marks of written test, with a 15-mark interview stage in the final merit. Confirm the 2027 structure in the official Guide to Admissions on amucontrollerexams.com once released.`}, {question: `Which books should a Hindi-medium student follow for the AMU entrance?`, answer: `The test is based on the previous class's CBSE/NCERT curriculum, so NCERT textbooks of the current class are the foundation. Hindi-medium students should additionally build English comprehension early - we have a dedicated strategy guide for that on the JGPS blog.`}, {question: `How many mock tests should my child take before the AMU entrance?`, answer: `From about three months before the exam, one full-length mock per week under strict exam conditions - 2 hours, no breaks, answers on a practice OMR sheet. But the mock alone is not enough: at least 30 minutes of error analysis after each one is what converts practice into marks.`}, {question: `Does joining coaching guarantee selection in AMU schools?`, answer: `No honest coach can guarantee selection - AMU schools admit through a competitive merit list. What good coaching guarantees is a structured process: correct syllabus, weekly mocks with error logs, and removal of the mistakes described in this article. The rest depends on the child's consistent effort.`}],
   }
 ];
 

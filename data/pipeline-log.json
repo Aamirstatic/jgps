@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 13,
+  "blog_topic_cursor": 14,
   "entries": [
     {
       "topic_id": 1,
@@ -91,6 +91,13 @@
       "title": "AMU Entrance Interview: What Happens After the Written Test (and How the 15 Marks Are Won)",
       "date": "2026-10-22",
       "slot": "afternoon"
+    },
+    {
+      "topic_id": 14,
+      "slug": "amu-entrance-preparation-mistakes-coaches-see-yearly",
+      "title": "Common Mistakes in AMU Entrance Preparation (Coaches See These Yearly)",
+      "date": "2026-10-22",
+      "slot": "evening"
     }
   ]
 }
