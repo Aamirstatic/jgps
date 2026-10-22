@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 11,
+  "blog_topic_cursor": 12,
   "entries": [
     {
       "topic_id": 1,
@@ -77,6 +77,13 @@
       "title": "AMU Class 11 Entrance: Science, Humanities, Commerce — or a Diploma? The After-Class-10 Route Map",
       "date": "2026-10-22",
       "slot": "morning"
+    },
+    {
+      "topic_id": 12,
+      "slug": "class-5-study-hours-amu-entrance-realistic-timetable",
+      "title": "How Many Hours Should a Class 5 Student Study for AMU Entrance?",
+      "date": "2026-10-22",
+      "slot": "latenoon"
     }
   ]
 }
