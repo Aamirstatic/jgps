@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 15,
+  "blog_topic_cursor": 16,
   "entries": [
     {
       "topic_id": 1,
@@ -74,7 +74,7 @@
     {
       "topic_id": 11,
       "slug": "amu-class-11-entrance-science-diploma-after-class-10",
-      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce \u2014 or a Diploma? The After-Class-10 Route Map",
+      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce — or a Diploma? The After-Class-10 Route Map",
       "date": "2026-10-22",
       "slot": "morning"
     },
@@ -105,6 +105,13 @@
       "title": "AMU Entrance 2027 Dates: Complete Timeline for Parents",
       "date": "2026-10-23",
       "slot": "morning"
+    },
+    {
+      "topic_id": 16,
+      "slug": "jmi-class-6-entrance-2027-pattern-syllabus-coaching-plan",
+      "title": "JMI Class 6 Entrance 2027: Pattern, Syllabus and the Coaching Plan That Works",
+      "date": "2026-10-23",
+      "slot": "latenoon"
     }
   ]
 }
