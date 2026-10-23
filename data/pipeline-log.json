@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 16,
+  "blog_topic_cursor": 17,
   "entries": [
     {
       "topic_id": 1,
@@ -112,6 +112,13 @@
       "title": "JMI Class 6 Entrance 2027: Pattern, Syllabus and the Coaching Plan That Works",
       "date": "2026-10-23",
       "slot": "latenoon"
+    },
+    {
+      "topic_id": 17,
+      "slug": "jmi-class-9-entrance-2027-subjects-strategy",
+      "title": "JMI Class 9 Entrance 2027: Subject-Wise Strategy for Class 8 Students",
+      "date": "2026-10-23",
+      "slot": "afternoon"
     }
   ]
 }
