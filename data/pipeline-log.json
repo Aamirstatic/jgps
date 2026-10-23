@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 17,
+  "blog_topic_cursor": 18,
   "entries": [
     {
       "topic_id": 1,
@@ -119,6 +119,13 @@
       "title": "JMI Class 9 Entrance 2027: Subject-Wise Strategy for Class 8 Students",
       "date": "2026-10-23",
       "slot": "afternoon"
+    },
+    {
+      "topic_id": 18,
+      "slug": "jmi-school-admission-2027-eligibility-reservation-process",
+      "title": "JMI School Admission 2027: Eligibility, Reservation and Process Explained for Parents",
+      "date": "2026-10-23",
+      "slot": "evening"
     }
   ]
 }
