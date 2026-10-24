@@ -6518,6 +6518,104 @@ export const articles: Article[] = [  {
 
 <p><strong>Applying in the wrong window:</strong> Nursery forms close in late January while Class XI forms run till March — each class has its own window, and late applications are not accepted. <strong>Ignoring the age cut-off:</strong> a child born on 2 April 2023 is ineligible for Nursery in the 2027-28 cycle if the cut-off is 31 March 2027. <strong>Preparing like a board exam:</strong> the Class VI and IX written tests are competitive entrance tests, not school exams — speed and accuracy training matter, which is why the <a href="https://jgps.in/blog/jmi-class-6-entrance-2027-pattern-syllabus-coaching-plan/" class="text-[#035c00] underline">Class 6 pattern guide</a> stresses timed practice. <strong>Trusting last year's dates as final:</strong> the dates above for 2027-28 are EXPECTED — always re-check the fresh prospectus at admission.jmi.ac.in before acting.</p>`,
     faqs: [{question: `For which classes does Jamia Millia Islamia offer school admission in 2027?`, answer: `Jamia offers school admission only at six entry points: Nursery, Preparatory, Class I, Class VI, Class IX and Class XI. For the 2027-28 session the prospectus is not released yet; based on the 2026-27 cycle, Nursery/Prep/Class I forms are expected in early January 2027, Class VI and IX in early February 2027, and Class XI in late February 2027. Always confirm against the fresh prospectus at admission.jmi.ac.in.`}, {question: `What is the age criteria for Nursery, Prep and Class I admission in JMI schools?`, answer: `As on 31 March of the admission year: Nursery - minimum 3 years, maximum 4 years; Preparatory - minimum 4 years, maximum 5 years; Class I - minimum 5 years, maximum 6 years. These are the 2026-27 norms and are expected to repeat with the cut-off shifted to 31 March 2027. A municipal or Gram Panchayat birth certificate is required.`}, {question: `How does the reservation policy work in Jamia schools?`, answer: `Per the 2026-27 prospectus: 30% of seats are earmarked for Muslim applicants, 10% for Muslim women, 10% for OBC/ST Muslims, 5% for differently-abled persons, up to 5% for Kashmiri migrants, 2 seats per class/stream for J&K domicile students, and up to 2 sports-quota seats each in Classes IX and XI. The remaining seats compete in the open pool on written-test merit.`}, {question: `Is there a written test for JMI school admission, or is it a lottery?`, answer: `Nursery, Preparatory and Class I admissions are done through an online draw of lots (live-streamed). Classes VI, IX and XI require a written entrance test conducted at multiple cities including Delhi, Lucknow, Patna, Kolkata and Srinagar. Class VI and IX applicants need the previous class marksheet; Class IX needs 41% aggregate with 41% in English; Class XI needs 41% (Arts), 51% (Commerce) or 61% (Science) aggregate.`}, {question: `How do I apply online for JMI school admission and what is the fee?`, answer: `The full process is online at admission.jmi.ac.in: register with basic details and photo/signature uploads, fill the application form, and pay the application fee (Rs 500 for Indian applicants, Rs 1500 for foreign nationals/NRI wards in the 2026-27 cycle). After selection, the admission fee of Rs 5000 plus Rs 2000 annual fees are payable at the time of admission.`}],
+  },
+  {
+    slug: 'jmi-entrance-previous-papers-5-year-trend-analysis',
+    title: 'JMI Entrance Previous Papers: 5-Year Trend Analysis (and How to Actually Read Them)',
+    description: 'How to do a genuine 5-year trend analysis of JMI Class 6 and Class 9 entrance papers: where to find real papers, verified pattern and cutoff facts, and a coaching-method analysis table.',
+    keywords: 'JMI entrance previous year papers, JMI Class 6 papers trend, JMI Class 9 papers analysis, Jamia school question papers',
+    date: '2026-10-24',
+    modifiedDate: '2026-10-24',
+    author: 'Amit Kumar',
+    authorName: 'Amit Kumar',
+    authorSlug: 'amit-kumar',
+    authorRole: 'Entrance Exam Specialist',
+    authorBio: 'With a 90% success rate, Amit sir breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.',
+    readTime: '9 mins',
+    category: 'Coaching',
+    image: '/images/blog/jmi-entrance-previous-papers-5-year-trend-analysis.webp',
+    imageAlt: 'Students solving papers in an exam hall with desks',
+    content: `<h1>JMI Entrance Previous Papers: 5-Year Trend Analysis (and How to Actually Read Them)</h1>
+
+<p><em>Last verified: 24 October 2026 | Reading Time: 9 min | Author: Amit Kumar</em></p>
+
+<p>Almost every JMI school aspirant collects previous-year papers. Far fewer actually analyse them. Most families download five years of papers, solve one or two, and call it preparation. The real value of those papers is not practice alone — it is the pattern hiding inside them: which subjects dominate, which NCERT chapters keep repeating, and where students lose marks year after year. This guide shows you how to do a proper 5-year trend analysis of JMI Class 6 and Class 9 entrance papers — with only verified facts, and a clear line between what is CONFIRMED and what is merely EXPECTED.</p>
+
+<p><strong>A note on 2027 dates:</strong> Jamia had not released the 2027-28 school admission notification at the time of writing (EXPECTED in October–November 2026, per the previous-year pattern). Everything below about the pattern, subjects and marking scheme is CONFIRMED from official prospectuses and recent cycles; dates are marked EXPECTED.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The Biggest Trend: The Pattern Has Not Changed</h2>
+
+<p>The first finding of any honest 5-year analysis is also the most useful one — JMI's school entrance papers are structurally stable. The official prospectuses for recent cycles confirm the same format year after year:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Feature (CONFIRMED)</th><th class="py-3 px-4 border-b font-bold text-white text-left">Class 6</th><th class="py-3 px-4 border-b font-bold text-white text-left">Class 9</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Total questions / marks</td><td class="py-3 px-4 border-b">100 MCQs, 100 marks</td><td class="py-3 px-4 border-b">100 MCQs, 100 marks</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Subject breakup</td><td class="py-3 px-4 border-b">EVS 50 · Maths 25 · English 25</td><td class="py-3 px-4 border-b">Maths 30 · English 25 · Science 25 · Social Science 20</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Duration</td><td class="py-3 px-4 border-b">2 hours</td><td class="py-3 px-4 border-b">2 hours</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Negative marking</td><td class="py-3 px-4 border-b"><strong>None</strong> (CONFIRMED in prospectus)</td><td class="py-3 px-4 border-b"><strong>None</strong> (CONFIRMED in prospectus)</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Syllabus base</td><td class="py-3 px-4 border-b">CBSE/NCERT Class 5</td><td class="py-3 px-4 border-b">CBSE/NCERT Class 8</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">Paper languages</td><td class="py-3 px-4 border-b">English, Hindi, Urdu</td><td class="py-3 px-4 border-b">English, Hindi, Urdu</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">Test cities</td><td class="py-3 px-4 border-b" colspan="2">Delhi, Lucknow, Patna, Kolkata, Srinagar (multicity since 2025-26)</td></tr></tbody></table></div>
+
+<p>Why does this matter? Because when the format is stable, <strong>five years of papers are directly comparable</strong> — unlike exams that change pattern every year. A question asked in 2021 tells you something real about the paper you will face in 2027. See the full pattern breakdown on our <a href="https://jgps.in/coaching/jmi-entrance/syllabus">JMI entrance syllabus page</a> and <a href="https://jgps.in/coaching/jmi-entrance">JMI coaching overview</a>.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Where to Get Genuine 5 Years of JMI Papers</h2>
+
+<p>A trend analysis is only as good as its data. Use these sources:</p>
+
+<ul class="list-disc pl-6 my-4 space-y-2">
+<li><strong>admission.jmi.ac.in (Tier-1, official):</strong> the university's own admission portal — official prospectus, result lists and cutoff PDFs. Always cross-check dates and cutoffs here before believing any third-party site.</li>
+<li><strong>Student helpdesk archives:</strong> portals like jmientrance.com maintain Class 6 and Class 9 paper archives going back to 2018. Treat these as practice material (Tier-2) — useful, but verify any date or cutoff claim against admission.jmi.ac.in.</li>
+<li><strong>Printed solved banks:</strong> e.g. The Conceptum's Class VI AMU–JMI question bank carries JMI papers from 2017–2025 fully solved — handy for a single compiled source, but treat its answer key as practice-grade, not official.</li>
+<li><strong>Our own papers library:</strong> <a href="https://jgps.in/coaching/jmi-entrance/previous-year-papers">JMI previous-year papers at JGPS</a>, curated by our coaching faculty.</li>
+</ul>
+
+<p><strong>Warning:</strong> unofficial answer keys float around coaching Telegram and WhatsApp groups with errors. If your child's trend analysis uses wrong answers, the whole exercise is poisoned. Cross-check doubtful solutions with the NCERT textbook for that class.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The 5-Year Trend Method: How a Coach Actually Reads Papers</h2>
+
+<p>Here is the exact method used in serious coaching batches. It needs nothing more than five papers, a notebook, and the NCERT books for the class below the target class:</p>
+
+<div class="overflow-x-auto my-6"><table class="min-w-full bg-white border border-gray-200 shadow-sm rounded-lg overflow-hidden text-sm"><thead class="bg-[#035c00]"><tr><th class="py-3 px-4 border-b font-bold text-white text-left">Step</th><th class="py-3 px-4 border-b font-bold text-white text-left">What to do</th><th class="py-3 px-4 border-b font-bold text-white text-left">What it reveals</th></tr></thead><tbody><tr><td class="py-3 px-4 border-b font-medium text-gray-900">1. Split by subject</td><td class="py-3 px-4 border-b">Separate every paper into its official sections (Class 9: English 25 / Maths 30 / Science 25 / SST 20)</td><td class="py-3 px-4 border-b">Whether your child treats each section with its real weightage</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">2. Tag every question by NCERT chapter</td><td class="py-3 px-4 border-b">Write the chapter/topic next to each question — e.g. "Fractions, Class 5 Ch. 7"</td><td class="py-3 px-4 border-b">Repeated chapters across 5 years = high-priority topics</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">3. Count question types, not just topics</td><td class="py-3 px-4 border-b">Mark each as recall, application, or word problem</td><td class="py-3 px-4 border-b">Whether the paper rewards memory or problem-solving speed</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">4. Track silly-error zones</td><td class="py-3 px-4 border-b">Log questions where your child lost marks despite knowing the answer</td><td class="py-3 px-4 border-b">OMR-filling, misreading units, and grammar traps — the hidden 10–15 marks</td></tr><tr><td class="py-3 px-4 border-b font-medium text-gray-900">5. Compare cutoffs by list</td><td class="py-3 px-4 border-b">Official 3rd-list cutoffs (admission.jmi.ac.in) are lower than 1st-list ones</td><td class="py-3 px-4 border-b">The true safe score is above the 1st-list cutoff, not the last one published</td></tr><tr class="bg-gray-50"><td class="py-3 px-4 border-b font-medium text-gray-900">6. Re-test the weak chapters only</td><td class="py-3 px-4 border-b">Build fresh 20-question sets from the tagged weak chapters</td><td class="py-3 px-4 border-b">Whether revision actually fixed the gap, before the next full paper</td></tr></tbody></table></div>
+
+<p>One structural observation worth noting: in the Class 9 paper, <strong>Mathematics carries the single largest share (30 of 100 marks)</strong> — a CONFIRMED fact from the official breakup. In Class 6, <strong>EVS alone is half the paper (50 of 100)</strong>. Students who spread preparation evenly across subjects under-invest in these anchors. That is not a guess about "trends" — it is arithmetic from the official pattern.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What the Official Cutoffs Tell You (2025-26, 3rd Lists)</h2>
+
+<p>For the 2025-26 Class 9 admission, the university published category-wise 3rd-list cutoffs on admission.jmi.ac.in (CONFIRMED):</p>
+
+<ul class="list-disc pl-6 my-4 space-y-2">
+<li><strong>Syed Abid Husain Sr. Sec. School, Class 9:</strong> General 86.00 · Muslim 86.00 · Muslim OBC/ST 86.00 · J&amp;K 82.00</li>
+<li><strong>Jamia Sr. Sec. School, Class 9 (another 3rd list):</strong> General 77.00 · Muslim 77.00 · Muslim OBC/ST 77.00</li>
+</ul>
+
+<p>Read these correctly: they are <strong>3rd-list</strong> numbers. First-list cutoffs were higher, and third-party coaching compilations put the Class 9 General-category 1st-list range around 90 marks (approximate, Tier-2). The safe target for 2027 is therefore a score <strong>above 90/100</strong> in practice tests — leaving a buffer for list movement. For Class 9 preparation strategy, see our <a href="https://jgps.in/blog/jmi-class-9-entrance-2027-subjects-strategy">Class 9 subjects strategy guide</a>; for Class 6, the <a href="https://jgps.in/blog/jmi-class-6-entrance-2027-pattern-syllabus-coaching-plan">Class 6 pattern and coaching plan</a>.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The 5-Year Trend Checklist</h2>
+
+<div class="bg-green-50 border border-green-200 rounded-xl p-5 my-6">
+<h3 class="font-bold text-gray-900 mb-3">Before you call preparation "done", tick these off:</h3>
+<ul class="list-none space-y-2">
+<li>☐ Solved 5 full JMI papers (same class) under strict 2-hour timing</li>
+<li>☐ Every question tagged to an NCERT chapter; repeated chapters listed</li>
+<li>☐ Maths (Class 9) or EVS (Class 6) anchor sections scoring above 80%</li>
+<li>☐ Zero-mark questions attempted — no negative marking means no blank answers</li>
+<li>☐ Error log reviewed: no repeat of the same silly mistake in 2 consecutive papers</li>
+<li>☐ Practice score consistently above 90/100 (safe zone for General category)</li>
+<li>☐ Eligibility documents ready per the <a href="https://jgps.in/blog/jmi-school-admission-2027-eligibility-reservation-process">eligibility and reservation guide</a></li>
+</ul>
+</div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">How JGPS Turns Paper Trends Into Weekly Targets</h2>
+
+<p>This is where coaching-method preparation beats solo solving. At JGPS, the trend table feeds directly into the batch plan: chapters that repeat across years get drilled first, the Maths anchor (Class 9) and EVS anchor (Class 6) get disproportionate practice time, and every student's error log decides their revision list — not the chapter order in the book. The <a href="https://jgps.in/coaching/jmi-entrance">JMI coaching batch page</a> and <a href="https://jgps.in/coaching/jmi-entrance/eligibility-and-dates">eligibility and dates page</a> describe how batches are structured and who can apply.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Mistakes Parents Make With Previous Papers</h2>
+
+<ul class="list-disc pl-6 my-4 space-y-2">
+<li><strong>Collecting instead of analysing.</strong> Ten downloaded papers beat one analysed paper only if the analysis happens. One paper, fully tagged, beats five paper "solves" without notes.</li>
+<li><strong>Inventing trends.</strong> "Maths got harder in 2023" is a story unless you measured question-type difficulty across years. Stick to countable facts: breakup, chapter repetition, cutoff lists.</li>
+<li><strong>Ignoring the no-negative-marking rule.</strong> Blank answers in a no-negative-marking paper are free marks thrown away — a CONFIRMED prospectus fact many students still forget on exam day.</li>
+<li><strong>Practising at the wrong class level.</strong> Class 6 papers are NCERT Class 5 level; Class 9 papers are Class 8 level. Solving higher-class material builds confidence but misrepresents the actual test.</li>
+</ul>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-5 my-6"><h3 class="font-bold text-gray-900 mb-2">Get a Free JMI Paper-Trend Review</h3><p>Bring your child's last two solved JMI papers to JGPS, Joya — our coaches will map the weak chapters and build a revision plan from them. Call or WhatsApp <a href="https://wa.me/919997161490" class="font-semibold text-[#035c00]">+91 9997161490</a>.</p></div>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Frequently Asked Questions</h2>
+`,
+    faqs: [{question: `What is the confirmed JMI school entrance test pattern?`, answer: `The official, CONFIRMED format: 100 MCQs of 1 mark each, 2 hours, OMR-based, no negative marking, in English, Hindi and Urdu. Class 6: EVS 50 / Maths 25 / English 25. Class 9: Maths 30 / English 25 / Science 25 / Social Science 20.`}, {question: `Where can I download genuine JMI previous-year papers?`, answer: `Start from admission.jmi.ac.in (official prospectus and result PDFs). For practice archives, jmientrance.com hosts Class 6 and Class 9 papers from 2018 onwards, and The Conceptum's AMU–JMI question bank has 2017–2025 JMI papers solved. Verify any dates or cutoffs against the official portal.`}, {question: `How do I find which topics repeat most in JMI papers?`, answer: `Tag every question in 5 years of papers to its NCERT chapter and count repetitions — repeated chapters are high-priority topics. Also count question types (recall vs application vs word problem) and keep an error log. Do not trust vague claims like 'maths got tougher'; use countable facts only.`}, {question: `Is there negative marking in JMI school entrance tests?`, answer: `Yes. The official JMI schools prospectus states there is no negative marking in the admission tests. Attempt every question — blank answers in a no-negative-marking paper are free marks lost.`}, {question: `What was the JMI Class 9 cutoff in 2025-26?`, answer: `Official 2025-26 3rd-list cutoffs on admission.jmi.ac.in: Syed Abid Husain Sr. Sec. School Class 9 — General 86.00, Muslim 86.00, Muslim OBC/ST 86.00. These are 3rd-list numbers; first-list cutoffs were higher, so aim for 90+/100 in practice tests for a safe margin.`}, {question: `When are the JMI school entrance exams and notifications?`, answer: `For 2026-27, JMI released the school admission notice on 2 January 2026, applications ran 7–27 January 2026, and the Class 6 and 9 written tests were held on 29 March 2026. The 2027-28 notification was not yet out at the time of writing (expected October–November 2026 per pattern); check admission.jmi.ac.in.`}],
   }
 ];
 

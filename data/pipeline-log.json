@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 18,
+  "blog_topic_cursor": 19,
   "entries": [
     {
       "topic_id": 1,
@@ -126,6 +126,13 @@
       "title": "JMI School Admission 2027: Eligibility, Reservation and Process Explained for Parents",
       "date": "2026-10-23",
       "slot": "evening"
+    },
+    {
+      "topic_id": 19,
+      "slug": "jmi-entrance-previous-papers-5-year-trend-analysis",
+      "title": "JMI Entrance Previous Papers: 5-Year Trend Analysis (and How to Actually Read Them)",
+      "date": "2026-10-24",
+      "slot": "morning"
     }
   ]
 }
