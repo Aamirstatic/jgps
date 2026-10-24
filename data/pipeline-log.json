@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 19,
+  "blog_topic_cursor": 20,
   "entries": [
     {
       "topic_id": 1,
@@ -133,6 +133,13 @@
       "title": "JMI Entrance Previous Papers: 5-Year Trend Analysis (and How to Actually Read Them)",
       "date": "2026-10-24",
       "slot": "morning"
+    },
+    {
+      "topic_id": 20,
+      "slug": "jmi-urdu-medium-option-non-urdu-families-guide",
+      "title": "JMI Urdu Medium Option: What Non-Urdu Families Should Know (2027 Guide)",
+      "date": "2026-10-24",
+      "slot": "latenoon"
     }
   ]
 }
