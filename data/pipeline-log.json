@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 21,
+  "blog_topic_cursor": 22,
   "entries": [
     {
       "topic_id": 1,
@@ -147,6 +147,13 @@
       "title": "JMI Class 11 Science Entrance 2027: Pattern, Syllabus and the After-Class-10 Plan",
       "date": "2026-10-24",
       "slot": "afternoon"
+    },
+    {
+      "topic_id": 22,
+      "slug": "jmi-amu-combined-preparation-one-plan-both-exams",
+      "title": "JMI vs AMU Coaching: Can One Preparation Cover Both?",
+      "date": "2026-10-24",
+      "slot": "evening"
     }
   ]
 }
