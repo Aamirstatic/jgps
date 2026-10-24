@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 20,
+  "blog_topic_cursor": 21,
   "entries": [
     {
       "topic_id": 1,
@@ -74,7 +74,7 @@
     {
       "topic_id": 11,
       "slug": "amu-class-11-entrance-science-diploma-after-class-10",
-      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce — or a Diploma? The After-Class-10 Route Map",
+      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce \u2014 or a Diploma? The After-Class-10 Route Map",
       "date": "2026-10-22",
       "slot": "morning"
     },
@@ -140,6 +140,13 @@
       "title": "JMI Urdu Medium Option: What Non-Urdu Families Should Know (2027 Guide)",
       "date": "2026-10-24",
       "slot": "latenoon"
+    },
+    {
+      "topic_id": 21,
+      "slug": "jmi-class-11-science-entrance-2027-guide",
+      "title": "JMI Class 11 Science Entrance 2027: Pattern, Syllabus and the After-Class-10 Plan",
+      "date": "2026-10-24",
+      "slot": "afternoon"
     }
   ]
 }
