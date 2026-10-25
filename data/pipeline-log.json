@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 22,
+  "blog_topic_cursor": 23,
   "entries": [
     {
       "topic_id": 1,
@@ -74,7 +74,7 @@
     {
       "topic_id": 11,
       "slug": "amu-class-11-entrance-science-diploma-after-class-10",
-      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce \u2014 or a Diploma? The After-Class-10 Route Map",
+      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce — or a Diploma? The After-Class-10 Route Map",
       "date": "2026-10-22",
       "slot": "morning"
     },
@@ -154,6 +154,13 @@
       "title": "JMI vs AMU Coaching: Can One Preparation Cover Both?",
       "date": "2026-10-24",
       "slot": "evening"
+    },
+    {
+      "topic_id": 23,
+      "slug": "jmi-entrance-2027-dates-deadlines-tracker",
+      "title": "JMI Entrance 2027 Dates and Deadlines Tracker: What Parents Should Watch (and When)",
+      "date": "2026-10-25",
+      "slot": "morning"
     }
   ]
 }
