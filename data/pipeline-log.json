@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 23,
+  "blog_topic_cursor": 24,
   "entries": [
     {
       "topic_id": 1,
@@ -161,6 +161,13 @@
       "title": "JMI Entrance 2027 Dates and Deadlines Tracker: What Parents Should Watch (and When)",
       "date": "2026-10-25",
       "slot": "morning"
+    },
+    {
+      "topic_id": 24,
+      "slug": "jmi-entrance-last-30-days-revision-plan",
+      "title": "How JMI Aspirants Should Revise in the Last 30 Days: The Taper Plan Coaches Use",
+      "date": "2026-10-25",
+      "slot": "latenoon"
     }
   ]
 }
