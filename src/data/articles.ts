@@ -7050,6 +7050,92 @@ export const articles: Article[] = [  {
 
 <div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-6 my-8"><p class="font-bold text-gray-900">Want a GK plan matched to your child's class?</p><p class="text-gray-700 mt-2">Call JGPS admissions on <a href="tel:+919997161490" class="font-semibold">+91 9997161490</a> and tell us your child's current class and target JMI class. We will tell you honestly whether GK needs a separate slot at all — and if it does, what exactly to cover first.</p></div>`,
     faqs: [{question: `Does the JMI Class 6 entrance test have a GK section?`, answer: `No. The Class 6 paper is CONFIRMED as EVS 50 marks, Mathematics 25 marks and English 25 marks (100 MCQs, 100 marks, 2 hours, 33% qualifying mark). General awareness appears only inside the EVS section, based on the Class 5 NCERT syllabus.`}, {question: `Does the JMI Class 9 entrance test have a GK section?`, answer: `No separate GK section. The Class 9 paper covers English, Science, Mathematics and Social Science, and awareness-type questions sit inside Social Science. Mastering the Class 8 Social Science syllabus covers most of what can be asked.`}, {question: `How many GK marks are there in the JMI Class 11 Science entrance test?`, answer: `GK is its own section worth 10 marks out of 100 in the Class 11 Science pattern published on this site (English 25, Physics 15, Chemistry 15, Biology 15, Mathematics 20). This is EXPECTED to continue for 2027, pending the release of the 2027 prospectus.`}, {question: `Should a Class 6 aspirant read the newspaper for current affairs?`, answer: `No, not as exam preparation. The Class 6 paper tests textbook EVS, not news headlines. Time spent on the newspaper comes out of EVS and Maths revision, which together make up 75 of the 100 marks.`}, {question: `How should a Class 11 aspirant prepare for the GK section?`, answer: `With about 15 minutes a day: rotate static GK buckets (polity, geography, awards, sports, science), cover current affairs from a monthly digest rather than daily news, keep notes in your own words, and practise with a weekly self-quiz. Previous papers show the section rewards short, factual recall.`}, {question: `When will the JMI 2027 prospectus confirm these patterns?`, answer: `The 2027 prospectus has not been released yet and no pattern change has been announced, so the patterns here follow the 2026-27 cycle and are marked EXPECTED where they are carried forward. Check our JMI 2027 dates tracker for updates when the prospectus is published.`}],
+  },
+  {
+    slug: 'jnvst-2027-coaching-plan-month-by-month-batches',
+    title: 'JNVST 2027 Coaching Plan: How Batches Are Structured Month by Month',
+    description: 'How a JNVST batch is structured month by month — four phases, weekly rhythm, and the honest five-week sprint plan to the 28 November 2026 exam.',
+    keywords: 'JNVST coaching plan, JNVST 2027 batch structure, Navodaya coaching month by month, JNVST Class 6 preparation plan, JNVST 28 November 2026',
+    date: '26 October 2026, 02:15 PM',
+    modifiedDate: 'October 26, 2026',
+    author: 'Amit Kumar',
+    authorName: 'Amit Kumar',
+    authorSlug: 'amit-kumar',
+    authorRole: 'Entrance Exam Specialist',
+    authorBio: 'With a 90% success rate, Amit sir breaks down complex Math and Reasoning concepts for JNVST and Sainik School aspirants. He focuses on speed and accuracy.',
+    readTime: '9 mins',
+    category: 'Coaching',
+    image: '/images/blog/jnvst-2027-coaching-plan-month-by-month-batches.webp',
+    imageAlt: 'A study planner calendar with notes, showing a month-by-month coaching plan for the JNVST exam',
+    content: `<h1>JNVST 2027 Coaching Plan: How Batches Are Structured Month by Month</h1>
+
+<p><em>Last verified: 26 October 2026 | Reading Time: 9 min | Author: Amit Kumar</em></p>
+
+<p>Every parent who walks into a coaching centre with a Class 5 child asks some version of the same question: what will you actually teach my child, and in what order? The honest answer is that a good JNVST batch is not a pile of worksheets. It is a sequence. Concepts come first, speed comes second, and full-length exam practice comes last. When that order is reversed — when a child is handed mock tests before the basics are clear — scores stall no matter how hard the child works. This article explains how a well-run JNVST batch is structured month by month, and, because the exam is close, how that same plan compresses into a final five-week sprint.</p>
+
+<p>Facts about the exam itself are marked CONFIRMED where they come from the official NVS schedule as reported by multiple education portals; anything still awaited from NVS is marked EXPECTED.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">First, the exam the plan is built for</h2>
+
+<p>The Jawahar Navodaya Vidyalaya Selection Test (JNVST) for Class 6 admission in the 2027-28 session will be held on <strong>28 November 2026</strong> (CONFIRMED), from 11:30 AM to 1:30 PM. The paper is OMR-based, with 80 objective questions carrying 100 marks in two hours, and there is <strong>no negative marking</strong> (CONFIRMED). That last fact matters more than parents realise: a child should attempt every question, because a guess costs nothing and a blank answer costs a mark.</p>
+
+<p>The marks are not spread evenly. The Mental Ability Test carries 40 questions for 50 marks in 60 minutes — half the paper. Arithmetic carries 20 questions for 25 marks in 30 minutes, and the Language Test carries 20 questions for 25 marks in 30 minutes (CONFIRMED). Any coaching plan that gives equal time to all three sections is misreading the paper. Mental Ability deserves roughly half the preparation time, because it carries half the marks and because its question types — figure matching, analogy, odd one out, embedded figures, pattern completion — are unfamiliar to most Class 5 students. Registration for this cycle closed on 10 August 2026 (CONFIRMED), so every registered child is now in the preparation phase, and the admit card is expected in November 2026 (EXPECTED). Results are expected in March or April 2027 (EXPECTED). Each Jawahar Navodaya Vidyalaya admits a maximum of 80 students to Class 6 (CONFIRMED), which is why district-level competition is genuinely stiff.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The four phases of a JNVST batch</h2>
+
+<p>Whatever its length, a serious batch moves through four phases. The table below shows what each phase is for and how you can tell whether it is actually happening for your child.</p>
+
+<table>
+<thead><tr><th>Phase</th><th>Purpose</th><th>What the child does</th><th>How parents can check it</th></tr></thead>
+<tbody>
+<tr><td><strong>1. Foundation</strong></td><td>Class 5 concepts made exam-ready</td><td>Number systems, fractions, HCF and LCM, measurement, basic geometry; reading passages with questions</td><td>Ask what topic was taught this week, not how many pages were finished</td></tr>
+<tr><td><strong>2. Section mastery</strong></td><td>Each JNVST section handled on its own terms</td><td>Mental Ability patterns drilled daily; arithmetic shortcuts practised; language passages timed</td><td>Section-wise scores should appear separately, not as one blended total</td></tr>
+<tr><td><strong>3. Speed and accuracy</strong></td><td>Doing known work under time pressure</td><td>Timed sets, OMR-sheet bubbling practice, learning to skip and return</td><td>Look for time-per-question improving, not just raw marks</td></tr>
+<tr><td><strong>4. Mock tests and revision</strong></td><td>Full papers, error logs, weak-topic repair</td><td>Full 80-question papers in 2 hours, followed by error analysis</td><td>Every mock should produce a short list of topics to re-study</td></tr>
+</tbody>
+</table>
+
+<p>Notice what is missing from that list: no phase is devoted to memorising facts. JNVST is an aptitude test, not a general-knowledge exam. A batch that spends weeks on memorised material is preparing children for the wrong paper.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">Month by month: how the phases unfold in a full batch</h2>
+
+<p>In a full-length batch that starts soon after Class 5 begins, the first two months belong to foundation work. Teachers rebuild the Class 5 maths base — number sense, the four operations, fractions and decimals, factors and multiples — and begin reading comprehension in the language the child will take the test in. In Uttar Pradesh the test is offered in English, Hindi and Urdu (CONFIRMED), and the medium decision should be made in month one, not changed midway, because language-test practice only transfers partially across languages.</p>
+
+<p>Months three and four are the section-mastery months. Mental Ability takes centre stage here, with a new pattern family introduced every few days and old ones revisited in short daily sets. Arithmetic moves from understanding to speed: a child who understands fractions but takes three minutes per question will lose marks that a faster child gains. Language work shifts to timed passages, because the language section allows only 30 minutes for 20 questions — ninety seconds per question, with reading time included.</p>
+
+<p>Month five introduces timed section tests and the first full-length mocks, and the final month is almost entirely mock tests plus error-log repair. By then, teaching new concepts is largely over. The work is recognising which familiar questions are being missed under pressure, and fixing those specific gaps. That is also when OMR practice becomes non-negotiable: bubbling errors and skipped rows are the most avoidable lost marks in the whole exam, and they only show up when a child practises on a real OMR sheet.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">The honest position for late-October joiners: the five-week sprint</h2>
+
+<p>It is 26 October, and the exam is on 28 November — five weeks away. Parents sometimes assume that is too late to join a batch. It is late, but it is not too late, for two reasons. First, there is no negative marking, so a well-drilled child can convert partial preparation into real marks. Second, Mental Ability — half the paper — is pattern-based, and pattern families can be learned quickly once a teacher shows the method, unlike a syllabus that must be memorised topic by topic.</p>
+
+<p>A five-week sprint compresses the four phases rather than skipping them. Week one is diagnostic: a full mock to find the child's real starting point, then foundation repair only on the topics the mock exposed. Week two is Mental Ability intensive, with daily timed sets. Week three adds arithmetic speed work and language passages under the 30-minute clock. Weeks four and five are full mocks every two or three days, each followed by error-log repair, with the final days kept light — revision of the error log, not new material. Any batch that promises to teach the entire syllabus from scratch in five weeks is overselling; the honest version is targeted repair plus exam technique.</p>
+
+<p>For preparation structure, parents can also look at our <a href="/coaching/navodaya-vidyalaya">Navodaya Vidyalaya coaching page</a> and the earlier <a href="/blog/jnvst-class-6-admission-notification-2027-28">JNVST Class 6 admission notification guide</a> for the confirmed dates. Children who want extra timed practice can use the school's <a href="/mock-test">free online mock test</a>, and parents weighing Navodaya against Sainik School may find the <a href="/blog/sainik-school-vs-jnvst-2027">Sainik School vs JNVST comparison</a> useful.</p>
+
+<h2 class="text-2xl font-bold text-gray-900 mt-10 mb-4">What parents should check before joining any batch</h2>
+
+<p>Use this checklist at any centre, including ours. A good answer to each question is a sign the batch is structured rather than improvised.</p>
+
+<ul>
+<li><strong>Are tests section-wise?</strong> A single blended score hides whether Mental Ability or Arithmetic is the problem.</li>
+<li><strong>Is there OMR practice?</strong> If children only ever answer in notebooks, exam-day bubbling errors are waiting to happen.</li>
+<li><strong>Does every mock produce an error list?</strong> A mock without follow-up is just a score; a mock with an error list is a study plan.</li>
+<li><strong>Is the batch size small enough for individual attention?</strong> JGPS states a 25:1 student-teacher ratio as its school figure — ask any centre for its actual batch size, not its brochure claim.</li>
+<li><strong>Is the language medium fixed early?</strong> Switching mediums mid-preparation wastes the language practice already done.</li>
+<li><strong>Is the final week kept light?</strong> Cramming new topics in the last days raises anxiety without raising scores.</li>
+</ul>
+
+<p>The structure matters more than the hours. A child studying three focused hours a day inside a phased plan will outperform a child studying six unstructured hours. That is the whole point of a batch: not more work, but work in the right order, with someone checking the errors.</p>
+
+<div class="bg-[#035c00]/5 border border-[#035c00]/20 rounded-xl p-6 my-8">
+<p class="font-bold text-lg mb-2">Prepare for JNVST 2027 with JGPS Coaching, Joya (Amroha)</p>
+<p class="mb-3">With the exam on 28 November 2026, the final five-week sprint is underway. Ask about the current Navodaya batch, weekly mock tests and the free mock-test practice for Class 5 students.</p>
+<p>Call or WhatsApp admissions on <a href="tel:+919997161490" class="font-bold">+91 9997161490</a> to check batch timings and seat availability.</p>
+</div>
+
+<p><em>Sources: Navodaya Vidyalaya Samiti schedule via navodaya.gov.in as reported by Careers360 and The Times of India; JNVST 2027-28 Class 6 prospectus pattern (80 questions, 100 marks, no negative marking). Admit-card and result timings are expectations based on the NVS schedule, not confirmed dates.</em></p>`,
+    faqs: [{question: `When is the JNVST Class 6 exam in 2027?`, answer: `The JNVST Class 6 exam for the 2027-28 session will be held on 28 November 2026, from 11:30 AM to 1:30 PM (CONFIRMED). Registration for this cycle closed on 10 August 2026.`}, {question: `Can my child join coaching in late October and still be ready?`, answer: `It is late but not too late. With no negative marking, a five-week sprint focused on Mental Ability patterns, arithmetic speed and full mock tests with error-log repair can convert partial preparation into real marks. A batch that promises to teach the whole syllabus from scratch in five weeks is overselling.`}, {question: `Which JNVST section matters most?`, answer: `Mental Ability. It carries 40 questions for 50 marks out of the 100-mark paper — half the total. It should get roughly half the preparation time, ahead of Arithmetic (25 marks) and Language (25 marks).`}, {question: `Is there negative marking in JNVST?`, answer: `No. There is no negative marking in JNVST Class 6, and each correct answer carries 1.25 marks. Children should attempt every question rather than leaving any blank.`}, {question: `In which language is the JNVST paper held in UP?`, answer: `In Uttar Pradesh the test is offered in English, Hindi and Urdu (CONFIRMED). Choose the medium early — ideally in the first month of preparation — and do not switch midway, because language-test practice only partly transfers across languages.`}, {question: `When will the JNVST 2027 admit card be released?`, answer: `The admit card is expected in November 2026 (EXPECTED), ahead of the 28 November exam. It will be available on the official NVS portal, navodaya.gov.in, and no child is allowed into the exam hall without it.`}],
   }
 ];
 
