@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 27,
+  "blog_topic_cursor": 28,
   "entries": [
     {
       "topic_id": 1,
@@ -74,7 +74,7 @@
     {
       "topic_id": 11,
       "slug": "amu-class-11-entrance-science-diploma-after-class-10",
-      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce \u2014 or a Diploma? The After-Class-10 Route Map",
+      "title": "AMU Class 11 Entrance: Science, Humanities, Commerce — or a Diploma? The After-Class-10 Route Map",
       "date": "2026-10-22",
       "slot": "morning"
     },
@@ -189,6 +189,13 @@
       "title": "Is Jamia School Worth It for UP Students? An Honest Look",
       "date": "2026-10-26",
       "slot": "morning"
+    },
+    {
+      "topic_id": 28,
+      "slug": "jmi-entrance-gk-current-affairs-how-much-matters",
+      "title": "JMI Entrance GK and Current Affairs: How Much It Matters and How to Cover It",
+      "date": "2026-10-26",
+      "slot": "latenoon"
     }
   ]
 }
