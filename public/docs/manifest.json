@@ -1,1 +1,185 @@
-{"_note":"Add one entry per PDF as {\"title\": \"Display name\", \"file\": \"filename.pdf\", \"added\": \"2026-11-12\"}. PDF files live in public/docs/ alongside this file. The gate page reads only the \"files\" array.","files":[]}
+{
+  "_note": "Entries: {title, file, added, folder?}. file is relative to /docs/. Add new PDFs here and rebuild.",
+  "files": [
+    {
+      "title": "Aahil Raza",
+      "file": "jnv-admit-card/aahil_raza.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Abdul Ahad",
+      "file": "jnv-admit-card/abdul_ahad.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Abushad",
+      "file": "jnv-admit-card/abushad.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Aditya",
+      "file": "jnv-admit-card/aditya.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Aliza Rani",
+      "file": "jnv-admit-card/aliza_rani.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Ameer Hamza",
+      "file": "jnv-admit-card/ameer_hamza.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Areeba Alam",
+      "file": "jnv-admit-card/areeba_alam.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Arjit Kumar",
+      "file": "jnv-admit-card/arjit_kumar.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Asad Junaid",
+      "file": "jnv-admit-card/asad_junaid.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Bhim Rav Goutam",
+      "file": "jnv-admit-card/bhim_rav_goutam.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Bhumika Pal",
+      "file": "jnv-admit-card/bhumika_pal.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Civil",
+      "file": "jnv-admit-card/civil.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Devansh",
+      "file": "jnv-admit-card/devansh.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Diksha Singh",
+      "file": "jnv-admit-card/diksha_singh.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Garvit Chahal",
+      "file": "jnv-admit-card/garvit_chahal.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Guruvans Chahal",
+      "file": "jnv-admit-card/guruvans_chahal.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Jainul Abedeen",
+      "file": "jnv-admit-card/jainul_abedeen.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Mohammad Atif",
+      "file": "jnv-admit-card/mohammad_atif.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Mohammad Haseeb",
+      "file": "jnv-admit-card/mohammad_haseeb.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Mohd Ahad",
+      "file": "jnv-admit-card/mohd_ahad.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Muhammad Abubara",
+      "file": "jnv-admit-card/muhsmmad_abubara.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Nawasul Hasan",
+      "file": "jnv-admit-card/nawasul_hasan.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Nishant Chaudhary",
+      "file": "jnv-admit-card/nishant_chaudhary.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Raj Aaryan",
+      "file": "jnv-admit-card/raj_aaryan.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Sanchi Banga",
+      "file": "jnv-admit-card/sanchi_banga.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Shorya Rajput",
+      "file": "jnv-admit-card/shorya_rajput.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Subhan",
+      "file": "jnv-admit-card/subhan.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Tushar",
+      "file": "jnv-admit-card/tushar.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Umair",
+      "file": "jnv-admit-card/umair.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    },
+    {
+      "title": "Utkarsh Choudhary",
+      "file": "jnv-admit-card/utkarsh_choudhary.pdf",
+      "added": "2026-11-12",
+      "folder": "JNV Admit Card"
+    }
+  ]
+}

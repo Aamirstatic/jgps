@@ -9,7 +9,14 @@ import { useState, useEffect } from 'react';
 // For real protection use Cloudflare Access on /docs/* instead.
 const DOCS_PASSCODE = '8055';
 
-type DocFile = { title: string; file: string; added?: string };
+type DocFile = { title: string; file: string; added?: string; folder?: string };
+
+const groupsOf = (files: DocFile[]) =>
+  files.reduce<Record<string, DocFile[]>>((acc, f) => {
+    const key = f.folder || 'Documents';
+    (acc[key] = acc[key] || []).push(f);
+    return acc;
+  }, {});
 
 export default function DocsGate() {
   const [code, setCode] = useState('');
@@ -122,23 +129,30 @@ export default function DocsGate() {
                   No documents have been uploaded yet.
                 </p>
               ) : (
-                <ul className="divide-y divide-gray-100">
-                  {files.map((f) => (
-                    <li key={f.file} className="flex items-center justify-between gap-4 py-3">
-                      <div>
-                        <p className="font-medium text-gray-900">{f.title}</p>
-                        {f.added && <p className="text-xs text-gray-400">Added {f.added}</p>}
-                      </div>
-                      <a
-                        href={`/docs/${encodeURIComponent(f.file)}`}
-                        download
-                        className="shrink-0 rounded-lg bg-[#035c00]/10 px-3 py-1.5 text-sm font-semibold text-[#035c00] hover:bg-[#035c00]/20"
-                      >
-                        Download PDF
-                      </a>
-                    </li>
-                  ))}
-                </ul>
+                Object.entries(groupsOf(files)).map(([folder, docs]) => (
+                  <div key={folder} className="mb-6 last:mb-0">
+                    <h3 className="mb-2 text-sm font-semibold uppercase tracking-wide text-gray-500">
+                      {folder} ({docs.length})
+                    </h3>
+                    <ul className="divide-y divide-gray-100">
+                      {docs.map((f) => (
+                        <li key={f.file} className="flex items-center justify-between gap-4 py-3">
+                          <div>
+                            <p className="font-medium text-gray-900">{f.title}</p>
+                            {f.added && <p className="text-xs text-gray-400">Added {f.added}</p>}
+                          </div>
+                          <a
+                            href={`/docs/${f.file.split('/').map(encodeURIComponent).join('/')}`}
+                            download
+                            className="shrink-0 rounded-lg bg-[#035c00]/10 px-3 py-1.5 text-sm font-semibold text-[#035c00] hover:bg-[#035c00]/20"
+                          >
+                            Download PDF
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                ))
               )}
             </div>
           )}
