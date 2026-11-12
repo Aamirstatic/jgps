@@ -1,5 +1,5 @@
 {
-  "blog_topic_cursor": 30,
+  "blog_topic_cursor": 90,
   "entries": [
     {
       "topic_id": 1,
@@ -210,6 +210,490 @@
       "title": "JNVST Mental Ability: The Section That Decides Selection",
       "date": "2026-10-26",
       "slot": "evening"
+    },
+    {
+      "topic_id": 31,
+      "slug": "jnvst-arithmetic-shortcuts-class-5-students",
+      "title": "JNVST Arithmetic Shortcuts Every Class 5 Student Should Know",
+      "date": "2026-10-27",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 32,
+      "slug": "jnvst-language-test-hindi-or-english-medium-choice",
+      "title": "JNVST Language Test: Hindi or English Medium — Which to Choose?",
+      "date": "2026-10-27",
+      "slot": "latennon"
+    },
+    {
+      "topic_id": 33,
+      "slug": "navodaya-admission-after-jnvst-medical-documents-joining",
+      "title": "Navodaya Admission After JNVST: Medical, Documents, Joining",
+      "date": "2026-10-27",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 34,
+      "slug": "jnvst-2027-result-how-to-check-cutoffs-explained",
+      "title": "JNVST 2027 Result: How to Check It and What Cutoffs Really Mean",
+      "date": "2026-10-27",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 35,
+      "slug": "rural-quota-jnvst-amroha-students",
+      "title": "Rural Quota in JNVST: What It Means for Amroha Students",
+      "date": "2026-10-28",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 36,
+      "slug": "jnvst-preparation-without-coaching-self-study-plan",
+      "title": "JNVST Preparation Without Coaching: A Realistic Self-Study Plan",
+      "date": "2026-10-28",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 37,
+      "slug": "jnvst-vs-sainik-school-which-entrance-suits-your-child",
+      "title": "JNVST vs Sainik School: Which Entrance Suits Your Child?",
+      "date": "2026-10-28",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 38,
+      "slug": "jnvst-class-9-lateral-entry-second-chance",
+      "title": "JNVST Class 9 Lateral Entry: The Second Chance Most Miss",
+      "date": "2026-10-28",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 39,
+      "slug": "how-many-mock-tests-before-jnvst-coach-answer",
+      "title": "How Many Mock Tests Before JNVST? A Coach's Answer",
+      "date": "2026-10-29",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 40,
+      "slug": "jnvst-2028-starting-class-4-too-early-or-just-right",
+      "title": "JNVST 2028: Starting in Class 4 — Too Early or Just Right?",
+      "date": "2026-10-29",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 41,
+      "slug": "jnvst-omr-mistakes-cost-selection",
+      "title": "JNVST OMR Mistakes That Cost Selection Every Year",
+      "date": "2026-10-29",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 42,
+      "slug": "navodaya-school-life-day-boarding-parents",
+      "title": "Navodaya School Life: What Day-Boarding Parents Should Know",
+      "date": "2026-10-29",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 43,
+      "slug": "aissee-coaching-batches-class-6-prep-structure",
+      "title": "AISSEE Coaching Batches: How a Serious Institute Structures Class 6 Prep",
+      "date": "2026-10-30",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 44,
+      "slug": "aissee-maths-vs-jnvst-arithmetic-dual-aspirants",
+      "title": "AISSEE Maths vs JNVST Arithmetic: What Changes for Dual Aspirants",
+      "date": "2026-10-30",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 45,
+      "slug": "rms-cet-coaching-december-exam-parents-discover-late",
+      "title": "RMS CET Coaching: The December Exam Most Parents Discover Late",
+      "date": "2026-10-30",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 46,
+      "slug": "rms-vs-sainik-vs-navodaya-coaching-decision-class-5-parents",
+      "title": "RMS vs Sainik vs Navodaya: The Coaching Decision for Class 5 Parents",
+      "date": "2026-10-30",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 47,
+      "slug": "aissee-english-hindi-medium-students-coaching-roadmap",
+      "title": "AISSEE English for Hindi-Medium Students: A Coaching Roadmap",
+      "date": "2026-10-31",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 48,
+      "slug": "aissee-test-series-how-coaching-should-use-it",
+      "title": "How Coaching Test Series Should Be Used for AISSEE (Not Just Given)",
+      "date": "2026-10-31",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 49,
+      "slug": "vidyagyan-entrance-free-quality-school-option-up",
+      "title": "Vidyagyan Entrance: The Free-Quality-School Option in UP Most Rural Parents Miss",
+      "date": "2026-10-31",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 50,
+      "slug": "sainik-school-medical-test-physical-preparation-plan",
+      "title": "Sainik School Medical Test: Preparing Your Child Physically",
+      "date": "2026-10-31",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 51,
+      "slug": "aissee-class-9-bridge-course-class-8-students",
+      "title": "Class 9 AISSEE: The Bridge Course Approach for Class 8 Students",
+      "date": "2026-11-01",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 52,
+      "slug": "girls-sainik-schools-admission-reality-2027",
+      "title": "Girls in Sainik Schools: Admission Reality in 2027",
+      "date": "2026-11-01",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 53,
+      "slug": "best-schools-amroha-2027-how-parents-should-compare",
+      "title": "Best Schools in Amroha 2027: How Parents Should Actually Compare",
+      "date": "2026-11-01",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 54,
+      "slug": "cbse-vs-up-board-amroha-entrance-options-decision",
+      "title": "CBSE vs UP Board in Amroha: The Decision That Shapes Entrance Options",
+      "date": "2026-11-01",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 55,
+      "slug": "school-admission-joya-2027-28-timeline-documents",
+      "title": "School Admission in Joya 2027-28: Timeline and Documents",
+      "date": "2026-11-02",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 56,
+      "slug": "english-medium-schools-amroha-what-english-medium-really-means",
+      "title": "English Medium Schools in Amroha: What 'English Medium' Really Means",
+      "date": "2026-11-02",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 57,
+      "slug": "school-transport-safety-amroha-questions-parents-must-ask",
+      "title": "School Transport Safety in Amroha: Questions Every Parent Must Ask",
+      "date": "2026-11-02",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 58,
+      "slug": "hostel-for-boys-amroha-what-to-check-before-admission",
+      "title": "Hostel for Boys in Amroha: What to Check Before Admission",
+      "date": "2026-11-02",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 59,
+      "slug": "school-fees-amroha-2027-quality-education-costs",
+      "title": "School Fees in Amroha 2027: What Quality Education Actually Costs",
+      "date": "2026-11-03",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 60,
+      "slug": "coaching-amroha-vs-delhi-aligarh-should-you-migrate",
+      "title": "Coaching in Amroha vs Delhi/Aligarh: Do You Need to Migrate?",
+      "date": "2026-11-03",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 61,
+      "slug": "after-class-8-joya-child-4-real-options",
+      "title": "After Class 8 in Joya: Your Child's 4 Real Options",
+      "date": "2026-11-03",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 62,
+      "slug": "parent-teacher-meetings-amroha-parents-ptm-guide",
+      "title": "Parent-Teacher Meetings: How Amroha Parents Can Get More From PTMs",
+      "date": "2026-11-03",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 63,
+      "slug": "scholarships-amroha-students-central-up-schemes-2027",
+      "title": "Scholarships for Amroha Students: Central and UP Schemes in 2027",
+      "date": "2026-11-04",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 64,
+      "slug": "nh9-corridor-schools-joya-amroha-gajraula-choice",
+      "title": "NH9 Corridor Schools: Choosing Between Joya, Amroha and Gajraula",
+      "date": "2026-11-04",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 65,
+      "slug": "nursery-admission-2027-right-age-readiness-signs",
+      "title": "Nursery Admission 2027: The Right Age and Readiness Signs",
+      "date": "2026-11-04",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 66,
+      "slug": "school-admission-documents-master-checklist-2027-28",
+      "title": "School Admission Documents: The Master Checklist for 2027-28",
+      "date": "2026-11-04",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 67,
+      "slug": "how-school-admissions-interviews-work-prepare-your-child",
+      "title": "How School Admissions Interviews Work (and How to Prepare Your Child)",
+      "date": "2026-11-05",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 68,
+      "slug": "changing-schools-mid-session-transfer-certificate-process",
+      "title": "Changing Schools Mid-Session: The Transfer Certificate Process",
+      "date": "2026-11-05",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 69,
+      "slug": "good-primary-classroom-parents-observation-guide",
+      "title": "What a Good Primary Classroom Looks Like: A Parent's Observation Guide",
+      "date": "2026-11-05",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 70,
+      "slug": "school-library-habits-building-readers-classes-1-5",
+      "title": "School Library Habits: Building Readers in Classes 1-5",
+      "date": "2026-11-05",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 71,
+      "slug": "computer-classes-primary-school-what-kids-should-learn",
+      "title": "Computer Classes in Primary School: What Should Kids Actually Learn?",
+      "date": "2026-11-06",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 72,
+      "slug": "sports-in-school-beyond-annual-day-race",
+      "title": "Sports in School: Beyond the Annual Day Race",
+      "date": "2026-11-06",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 73,
+      "slug": "morning-assembly-to-last-bell-day-at-jgps",
+      "title": "Morning Assembly to Last Bell: A Day at JGPS",
+      "date": "2026-11-06",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 74,
+      "slug": "co-curricular-activities-debates-quizzes-entrances",
+      "title": "Co-curricular Activities: Debates, Quizzes and Why They Matter for Entrances",
+      "date": "2026-11-06",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 75,
+      "slug": "school-safety-checklist-20-things-verify-visit",
+      "title": "School Safety Checklist: 20 Things to Verify on Your Visit",
+      "date": "2026-11-07",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 76,
+      "slug": "fee-structure-transparency-reading-school-fee-chart",
+      "title": "Fee Structure Transparency: Reading a School's Fee Chart Right",
+      "date": "2026-11-07",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 77,
+      "slug": "rte-admissions-up-25-percent-quota-parents-guide",
+      "title": "RTE Admissions in UP: The 25% Quota Explained for Parents",
+      "date": "2026-11-07",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 78,
+      "slug": "sibling-discounts-fee-concessions-schools-offer",
+      "title": "Sibling Discounts and Fee Concessions: What Schools Offer",
+      "date": "2026-11-07",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 79,
+      "slug": "study-timetable-class-5-balancing-school-coaching-play",
+      "title": "Study Timetable for Class 5: Balancing School, Coaching and Play",
+      "date": "2026-11-08",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 80,
+      "slug": "screen-time-rules-that-actually-work-for-school-kids",
+      "title": "Screen Time Rules That Actually Work for School Kids",
+      "date": "2026-11-08",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 81,
+      "slug": "exam-fear-in-children-what-parents-do-wrong-and-right",
+      "title": "Exam Fear in Children: What Parents Do Wrong (and Right)",
+      "date": "2026-11-08",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 82,
+      "slug": "hindi-medium-to-english-medium-transition-guide-class-6",
+      "title": "Hindi Medium to English Medium: The Transition Guide for Class 6",
+      "date": "2026-11-08",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 83,
+      "slug": "how-to-help-with-homework-without-doing-it",
+      "title": "How to Help With Homework Without Doing It",
+      "date": "2026-11-09",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 84,
+      "slug": "revision-techniques-that-work-spaced-repetition-for-kids",
+      "title": "Revision Techniques That Work: Spaced Repetition for Kids",
+      "date": "2026-11-09",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 85,
+      "slug": "olympiads-in-primary-school-worth-it-or-distraction",
+      "title": "Olympiads in Primary School: Worth It or Distraction?",
+      "date": "2026-11-09",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 86,
+      "slug": "handwriting-still-matters-improving-child-writing",
+      "title": "Handwriting Still Matters: Improving Your Child's Writing",
+      "date": "2026-11-09",
+      "slot": "evening"
+    },
+    {
+      "topic_id": 87,
+      "slug": "nutrition-and-study-what-fuels-a-school-day",
+      "title": "Nutrition and Study: What Fuels a School Day",
+      "date": "2026-11-10",
+      "slot": "morning"
+    },
+    {
+      "topic_id": 88,
+      "slug": "when-your-child-fails-a-test-48-hour-response-plan",
+      "title": "When Your Child Fails a Test: The 48-Hour Response Plan",
+      "date": "2026-11-10",
+      "slot": "latenoon"
+    },
+    {
+      "topic_id": 89,
+      "slug": "summer-vacation-study-play-skill-building-balance",
+      "title": "Summer Vacation: Study, Play and Skill-Building Balance",
+      "date": "2026-11-10",
+      "slot": "afternoon"
+    },
+    {
+      "topic_id": 90,
+      "slug": "choosing-coaching-class-5-vs-class-8-timing-decision",
+      "title": "Choosing Coaching in Class 5 vs Class 8: Timing the Decision",
+      "date": "2026-11-10",
+      "slot": "evening"
+    },
+    {
+      "topic_id": null,
+      "slug": "jnvst-2027-last-17-days-revision-plan-class-6",
+      "title": "JNVST 2027: The Last 17 Days — A Class 6 Revision Plan That Actually Works",
+      "date": "2026-11-11",
+      "slot": "morning",
+      "note": "timely slot — topic bank exhausted (90/90 used); cursor stays 90"
+    },
+    {
+      "topic_id": null,
+      "slug": "aissee-2027-81-day-coaching-plan-application-to-exam",
+      "title": "AISSEE 2027: The 81-Day Coaching Plan — From the 2 December Form Deadline to the 31 January Exam",
+      "date": "2026-11-11",
+      "slot": "latenoon",
+      "note": "timely slot — topic bank exhausted (90/90 used); AISSEE 2027 notification (3 Nov) coaching angle; cursor stays 90"
+    },
+    {
+      "topic_id": null,
+      "slug": "jnvst-2027-admit-card-download-check-exam-day-guide",
+      "title": "JNVST 2027 Admit Card Out: Download, Check and Exam-Day Guide for Amroha Parents",
+      "date": "2026-11-11",
+      "slot": "afternoon",
+      "note": "timely slot — topic bank exhausted (90/90 used); JNVST 2027 admit card (released 28 Oct) + exam 28 Nov 2026; cursor stays 90"
+    },
+    {
+      "topic_id": null,
+      "slug": "rms-cet-2026-english-qualifying-trap-class-6-parents-guide",
+      "title": "RMS CET 2026: The English Trap — Why the \"Qualifying Only\" Paper Still Decides Selection",
+      "date": "2026-11-11",
+      "slot": "evening",
+      "note": "timely slot — topic bank exhausted (90/90 used); RMS CET 2026 exam 13 Dec, city slip last week Nov; English qualifying-only 35% trap angle; cursor stays 90"
+    },
+    {
+      "topic_id": null,
+      "slug": "rimcee-2026-rimc-entrance-exam-december-6-coaching-guide",
+      "title": "RIMCEE 2026: The 6 December RIMC Entrance Exam — A Coaching Guide for Amroha Parents",
+      "date": "2026-11-12",
+      "slot": "morning",
+      "note": "timely slot — topic bank exhausted (90/90 used); RIMCEE 2026 (RIMC Dehradun Class 8, exam Sun 6 Dec 2026) first coverage on either site; applications closed 7 Oct; cursor stays 90"
+    },
+    {
+      "topic_id": null,
+      "slug": "rms-cet-2026-class-9-two-paper-exam-parents-guide",
+      "title": "RMS CET 2026 Class 9: The Two-Paper Exam Most Parents Miss — Pattern, 50% Rule and the 31-Day Plan",
+      "date": "2026-11-12",
+      "slot": "latenoon",
+      "note": "timely slot — topic bank exhausted (90/90 used); RMS CET 2026 Class 9 (exam 13 Dec) first dedicated Class 9 guide on either site; cursor stays 90"
+    },
+    {
+      "topic_id": null,
+      "slug": "jnvst-class-9-lateral-entry-2027-exam-10-april-guide",
+      "title": "JNVST Class 9 Lateral Entry 2027: Exam on 10 April — Pattern, Eligibility and the 5-Month Plan for Class 8 Students",
+      "date": "2026-11-12",
+      "slot": "afternoon",
+      "note": "timely slot — topic bank exhausted (90/90 used); JNVST Class 9 LEST 2027 (exam Sat 10 Apr 2027) first dedicated guide on either site; topic 38 text lost in 4 Nov incident, slug missing from articles.ts; cursor stays 90"
+    },
+    {
+      "topic_id": null,
+      "slug": "jnvst-2027-new-evs-section-16-day-plan-class-6",
+      "title": "JNVST 2027's New EVS Section: 20 Questions, 25 Marks — and the 16-Day Plan for Families Who Haven't Prepared for It",
+      "date": "2026-11-12",
+      "slot": "evening",
+      "note": "timely slot — topic bank exhausted (90/90 used); JNVST 2027 pattern change (Section I now 20 Mental Ability + 20 EVS, per NVS prospectus via 4 Tier-2 sources); corrects JGPS's own earlier guides (topic 30, 11 Nov morning) which stated the old 40-question Mental Ability pattern; cursor stays 90"
     }
   ]
 }

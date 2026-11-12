@@ -1,0 +1,1 @@
+{"_note":"Add one entry per PDF as {\"title\": \"Display name\", \"file\": \"filename.pdf\", \"added\": \"2026-11-12\"}. PDF files live in public/docs/ alongside this file. The gate page reads only the \"files\" array.","files":[]}
