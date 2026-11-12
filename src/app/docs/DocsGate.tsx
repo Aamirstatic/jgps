@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react';
 // only hides the file list from casual visitors. It does NOT encrypt the
 // PDFs: anyone who knows a PDF's exact filename can open it directly.
 // For real protection use Cloudflare Access on /docs/* instead.
-const DOCS_PASSCODE = 'jgps2026';
+const DOCS_PASSCODE = '8055';
 
 type DocFile = { title: string; file: string; added?: string };
 
