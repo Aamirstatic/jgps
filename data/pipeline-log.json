@@ -886,6 +886,22 @@
       "date": "2026-11-19",
       "slot": "morning",
       "note": "timely slot — topic bank exhausted (90/90 used); cursor stays 90; RIMCEE after-exam roadmap from the official NTA bulletin (Tier-1): result by 20 Feb 2027, viva 50 marks tentatively April 2027 (4-6 weeks after result, 50% floor, State Govt board), medical FIT/UNFIT at NDA standards (vision 6/6 corrected, 6/18 uncorrected, no LASIK), final merit 450 marks, intake 25 boys + 10 girls tentative, fees Rs.1,48,650/1,31,850 + Rs.50,000 deposit; distinct from Sainik-site viva-only news piece (18 Oct) — this covers all three post-exam stages + medical detail + fees + Dec-Apr family plan; draft topics 91-120 still unapproved, not used"
+    },
+    {
+      "topic_id": null,
+      "slug": "rimcee-2026-maths-200-marks-18-day-plan-class-7",
+      "title": "RIMCEE 2026 Maths: 200 Marks, Half the Written Paper — The 18-Day Plan for Class 7 Aspirants",
+      "date": "2026-11-18",
+      "slot": "latenoon",
+      "note": "timely slot — topic bank exhausted (90/90 used); cursor stays 90; RIMCEE 2026 Maths deep-dive (200 marks, 30 Qs, 1.5h, 50% floor = 100) + 18-day plan to 6 Dec exam; entry restored 19 Nov latenoon — the 18 Nov latenoon run had pushed the article (commit 44f7a0b) but dropped the log entry"
+    },
+    {
+      "topic_id": null,
+      "slug": "rimcee-2026-last-17-days-final-revision-plan-class-7",
+      "title": "RIMCEE 2026: The Last 17 Days — The Final Revision Plan for Class 7 Aspirants",
+      "date": "2026-11-19",
+      "slot": "latenoon",
+      "note": "timely slot — topic bank exhausted (90/90 used); cursor stays 90; consolidated 17-day final revision plan to 6 Dec exam (3 phases, 3 full mocks 26/28/30 Nov, admit-card watch EXPECTED ~29 Nov–1 Dec, taper 3–5 Dec); city slip CONFIRMED out 17 Nov (NDTV/Careers360/JagranJosh); complements Maths/English/GK section plans (18 Nov) and after-exam guide (19 Nov morning); first consolidated RIMCEE final plan on either site (Sainik site has only a 55-day plan from 10 Oct); draft topics 91-120 still unapproved, not used"
     }
   ]
 }
